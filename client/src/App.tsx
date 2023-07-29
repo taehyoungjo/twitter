@@ -1,35 +1,45 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useState } from "react";
+import "./App.css";
+
+type Feed = {
+  id: string;
+  username: string;
+  content: string;
+  likes: number;
+  retweets: number;
+  comments: number;
+  timestamp: number;
+};
+
+const DUMMY_FEED: Feed[] = [
+  {
+    id: "1",
+    username: "johndoe",
+    content: "Hello, world!",
+    likes: 0,
+    retweets: 0,
+    comments: 0,
+    timestamp: Date.now(),
+  },
+];
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [feed] = useState<Feed[]>(DUMMY_FEED);
 
   return (
-    <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+    <div>
+      {feed.map((f) => (
+        <div>
+          <div>{f.username}</div>
+          <div>{f.content}</div>
+          <div>{f.likes}</div>
+          <div>{f.retweets}</div>
+          <div>{f.comments}</div>
+          <div>{f.timestamp}</div>
+        </div>
+      ))}
+    </div>
+  );
 }
 
-export default App
+export default App;
