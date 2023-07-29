@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "python"
+name = "backend"
 version = "0.1.0"
 description = ""
 authors = ["John Sungjin Kim <jsjkim00@gmail.com>"]
