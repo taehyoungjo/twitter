@@ -35,11 +35,11 @@ export function TweetView() {
         });
 
         const mainTweetComments: Tweet[] = [];
-        mainApiTweet.comments.forEach((commentId, index) => {
+        mainApiTweet.comments.forEach((commentId) => {
           const commentApiTweet = tweets[commentId];
           const commentAuthor = res.data.users[commentApiTweet.user_id];
           mainTweetComments.push({
-            id: index,
+            id: commentAuthor.user_id,
             name: commentAuthor.name,
             handle: commentAuthor.handle,
             content: commentApiTweet.content,

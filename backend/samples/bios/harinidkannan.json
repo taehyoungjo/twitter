@@ -1,0 +1,60 @@
+{
+  "advertiser_account_service_levels": [
+    "analytics"
+  ],
+  "advertiser_account_type": "promotable_user",
+  "analytics_type": "disabled",
+  "created_at": "Wed May 29 16:51:14 +0000 2013",
+  "description": "Working on something new. Previously generative AI @GoogleBrain and @MIT CS",
+  "entities": {
+    "description": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "0",
+          "indices": [
+            51,
+            63
+          ],
+          "name": "",
+          "screen_name": "GoogleBrain"
+        },
+        {
+          "id_str": "0",
+          "indices": [
+            68,
+            72
+          ],
+          "name": "",
+          "screen_name": "MIT"
+        }
+      ]
+    }
+  },
+  "fast_followers_count": 0,
+  "favourites_count": 72,
+  "followers_count": 658,
+  "friends_count": 96,
+  "geo_enabled": false,
+  "has_custom_timelines": false,
+  "has_extended_profile": false,
+  "id_str": "1467714804",
+  "is_translator": false,
+  "location": "SF Bay Area",
+  "media_count": 2,
+  "name": "Harini Kannan",
+  "normal_followers_count": 658,
+  "pinned_tweet_ids_str": [],
+  "profile_background_color": "C0DEED",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/496397651613458432/s6qqFTvZ_normal.jpeg",
+  "profile_interstitial_type": "",
+  "profile_link_color": "1DA1F2",
+  "protected": false,
+  "screen_name": "harinidkannan",
+  "statuses_count": 48,
+  "translator_type_enum": "None",
+  "verified": false,
+  "withheld_in_countries": []
+}

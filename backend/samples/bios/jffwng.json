@@ -1,0 +1,53 @@
+{
+  "advertiser_account_service_levels": [
+    "analytics",
+    "media_studio"
+  ],
+  "advertiser_account_type": "promotable_user",
+  "analytics_type": "enabled",
+  "created_at": "Tue Jul 31 08:52:03 +0000 2007",
+  "description": "Product Lead @MetaAI (FAIR). I like language models. I also like non-language models. Previously at Twitter and startups",
+  "entities": {
+    "description": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "0",
+          "indices": [
+            13,
+            20
+          ],
+          "name": "",
+          "screen_name": "MetaAI"
+        }
+      ]
+    }
+  },
+  "fast_followers_count": 0,
+  "favourites_count": 4203,
+  "followers_count": 2306,
+  "friends_count": 736,
+  "geo_enabled": true,
+  "has_custom_timelines": true,
+  "has_extended_profile": true,
+  "id_str": "7843142",
+  "is_translator": false,
+  "location": "San Francisco, CA",
+  "media_count": 94,
+  "name": "Jeff Wang 👨‍🚀",
+  "normal_followers_count": 2306,
+  "pinned_tweet_ids_str": [],
+  "profile_background_color": "000000",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/7843142/1390814989",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1596291565005127681/IBSureDk_normal.jpg",
+  "profile_interstitial_type": "",
+  "profile_link_color": "0084B4",
+  "protected": false,
+  "screen_name": "jffwng",
+  "statuses_count": 2767,
+  "translator_type_enum": "Regular",
+  "verified": false,
+  "withheld_in_countries": []
+}

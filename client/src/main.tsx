@@ -12,7 +12,7 @@ const router = createBrowserRouter([
     element: <div>Twitter</div>,
   },
   {
-    path: "/user/:username",
+    path: "/user/:userId",
     element: <Feed />,
   },
   {

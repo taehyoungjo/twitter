@@ -1,0 +1,35 @@
+users = [
+    User(handle="elonmusk", name="Elon Musk", bio="Technoking of Tesla"),
+    User(handle="jack", name="Jack Dorsey", bio="CEO of Twitter"),
+    User(handle="sundarpichai", name="Sundar Pichai", bio="CEO of Google"),
+    User(handle="satyanadella", name="Satya Nadella", bio="CEO of Microsoft"),
+]
+
+tweets = [
+    Tweet(
+        user_id=0,
+        likes=[1, 2, 3],
+        retweets=[3],
+        comments=[1],
+        timestamp=0,
+        content="I love Twitter!",
+    ),
+    Comment(
+        user_id=1,
+        likes=[],
+        retweets=[2],
+        comments=[],
+        timestamp=0,
+        content="I love Tesla!",
+        parent_tweet_id=0,
+    ),
+    Quote(
+        user_id=2,
+        likes=[],
+        retweets=[],
+        comments=[],
+        timestamp=0,
+        content="I love Google!",
+        quoted_tweet_id=0,
+    ),
+]
