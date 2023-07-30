@@ -22,7 +22,8 @@ function Comment({ comment }: { comment: Tweet }) {
       transition={{ duration: 1 }}
     >
       {/* Avatar */}
-      <div className="bg-slate-300 rounded-full w-8 h-8"></div>
+      {/* <div className="bg-slate-300 rounded-full w-8 h-8"></div> */}
+      <img src={comment.avatarUrl} className="w-8 h-8 rounded-full" />
       <div key={comment.id} className="flex flex-col space-y-2 grow">
         {/* Header */}
         <div className="flex space-x-2">
@@ -81,6 +82,7 @@ export function TweetView() {
           retweets: mainApiTweet.retweets.length,
           comments: mainApiTweet.comments.length,
           timestamp: mainApiTweet.timestamp,
+          avatarUrl: mainTweetAuthor.avatar_url,
         });
 
         const mainTweetComments: Tweet[] = [];
@@ -96,6 +98,7 @@ export function TweetView() {
             retweets: commentApiTweet.retweets.length,
             comments: commentApiTweet.comments.length,
             timestamp: commentApiTweet.timestamp,
+            avatarUrl: commentAuthor.avatar_url,
           });
         });
         setComments(mainTweetComments);
@@ -118,7 +121,8 @@ export function TweetView() {
           {/* Main Tweet */}
           <div className="flex space-x-4 border-b border-slate-200 p-4">
             {/* Avatar */}
-            <div className="bg-slate-300 rounded-full w-8 h-8 shrink-0"></div>
+            {/* <div className="bg-slate-300 rounded-full w-8 h-8 shrink-0"></div> */}
+            <img src={mainTweet.avatarUrl} className="w-8 h-8 rounded-full" />
 
             <div key={mainTweet.id} className="flex flex-col space-y-2 grow">
               {/* Header */}
