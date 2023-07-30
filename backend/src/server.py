@@ -1,7 +1,10 @@
 import asyncio
+import threading
+import time
 
 from config import (
     Tweet,
+    TweetType,
     User,
     build_prompt,
     clean_result,
@@ -47,7 +50,7 @@ async def update():
         except Exception as e:
             print("FAILED:", e)
 
-    prompts = [build_prompt(user, tweets.tweets) for user in active_users]
+    prompts = [build_prompt(user, tweets.get_timeline()) for user in active_users]
 
     async def perform_requests(prompts: list[list[BaseMessage]], max_concurrent: int):
         semaphore = asyncio.Semaphore(max_concurrent)
@@ -68,9 +71,53 @@ async def update():
     print("Updated globals")
 
 
+class Simulation:
+    def __init__(self):
+        self.running = False
+        self.thread = None
+
+    def start(self):
+        if not self.running:
+            self.running = True
+            self.thread = threading.Thread(target=self.run)
+            self.thread.start()
+
+    def stop(self):
+        if self.running:
+            self.running = False
+            if self.thread is not None:
+                self.thread.join()
+
+    def run(self):
+        while self.running:
+            asyncio.run(update())
+            time.sleep(1)
+
+
+sim = Simulation()
+
+
+class StartRequest(BaseModel):
+    user_id: int
+    content: str
+
+
 @app.post("/start")
-def start():
-    return
+def start(request: StartRequest):
+    tweets.add_tweet(
+        Tweet(
+            type=TweetType.TWEET,
+            user_id=request.user_id,
+            content=request.content,
+            timestamp=0,
+        )
+    )
+    sim.start()
+
+
+@app.post("/stop")
+def stop():
+    sim.stop()
 
 
 class FeedResponse(BaseModel):
@@ -80,5 +127,4 @@ class FeedResponse(BaseModel):
 
 @app.get("/feed")
 def feed():
-    update()
     return FeedResponse(users=users.users, tweets=tweets.tweets)

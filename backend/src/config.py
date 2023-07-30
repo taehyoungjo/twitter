@@ -40,6 +40,10 @@ class TweetDatabase:
         tweet.tweet_id = len(self.tweets)
         self.tweets.append(tweet)
 
+    def get_timeline(self):
+        # get at most last 50 tweets
+        return self.tweets[-50:]
+
     def __getitem__(self, key: int):
         return self.tweets[key]
 
@@ -439,21 +443,6 @@ def update_globals(actions: list[Action]):
 
         elif action.type == ActionType.RETWEET:
             tweets[action.parent_id].retweets.append(action.user_id)
-
-
-# %%
-# prompt = build_prompt(sample, tweets.tweets)
-# print("Prompt:\n" + prompt)
-# result = llm.generate([prompt])
-# result_text = result.generations[0][0].text
-# result_text = clean_result(result_text)
-# print("Result text:\n" + result_text)
-# actions = parse_xml_to_actions(result_text, 4)  # todo: figure out user id stuff
-# print(actions)
-# print("Updating globals...")
-# update_globals(actions)
-# print("Tweets now:")
-# print(tweets)
 
 
 # %%
