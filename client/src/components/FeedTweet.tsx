@@ -1,9 +1,9 @@
-import { TweetHeader } from "./TweetHeader";
-import { TweetFooter } from "./TweetFooter";
+import { motion } from "framer-motion";
+import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { Post } from "../config";
-import { useEffect, useState } from "react";
-import { motion } from "framer-motion";
+import { TweetFooter } from "./TweetFooter";
+import { TweetHeader } from "./TweetHeader";
 
 export function FeedTweet({ f, children }: { f: Post; children?: any }) {
   const [isInitialRender, setIsInitialRender] = useState(true);
