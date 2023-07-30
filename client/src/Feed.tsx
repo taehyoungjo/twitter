@@ -113,7 +113,7 @@ export function Feed() {
         feed.map((f) => {
           if ("quotedTweet" in f) {
             return (
-              <FeedTweet f={f}>
+              <FeedTweet f={f} key={f.id}>
                 <div
                   key={f.quotedTweet.id}
                   className="space-y-2 border border-slate-200 p-4 rounded-lg"
@@ -137,7 +137,7 @@ export function Feed() {
             );
           }
 
-          return <FeedTweet f={f} />;
+          return <FeedTweet f={f} key={f.id} />;
         })}
     </div>
   );

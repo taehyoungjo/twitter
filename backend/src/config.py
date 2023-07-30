@@ -303,7 +303,7 @@ def build_prompt(user: User, timeline: list[Tweet]) -> list[BaseMessage]:
     prompt += """\
 Looking only at your current timeline, generate up to 3 new actions to the timeline that you might take during this Twitter session. Only generate tweets, comments, retweets, and quotes. Include IDs for any parents.
 
-Before giving your response, think about what Tweets, if any, you would interact with, why you would react to them, and what your tone and writing style would be. Use the following demonstration XML:
+Before giving your response, think about what tweets, if any, you would interact with and what your tone and writing style would be. Also, think about new tweets of your own you could post. Use the following demonstration XML:
 <response>
 <thoughts>
 Your thoughts here
