@@ -68,6 +68,7 @@ async def update():
 class Simulation:
     def __init__(self):
         self.task = None
+        self.timestep = 0
 
     def start(self):
         if self.task is None:
@@ -76,6 +77,8 @@ class Simulation:
     async def run(self):
         while True:
             await update()
+            self.timestep += 1
+            tweets.update_log()
             await asyncio.sleep(3)
 
     async def stop(self):

@@ -1,11 +1,13 @@
 # %%
 from __future__ import annotations
 
+import json
 import os
 import random
 import xml.etree.ElementTree as ET
 from enum import Enum
 from typing import Optional
+from uuid import uuid4
 
 from dotenv import load_dotenv
 from langchain.chat_models import ChatAnthropic
@@ -35,6 +37,7 @@ class UserDatabase:
 class TweetDatabase:
     def __init__(self):
         self.tweets: list[Tweet] = []
+        self.run_id = uuid4()
 
     def add_tweet(self, tweet: Tweet):
         tweet.tweet_id = len(self.tweets)
@@ -43,6 +46,13 @@ class TweetDatabase:
     def get_timeline(self):
         # get at most last 50 tweets
         return self.tweets[-50:]
+
+    def update_log(self):
+        print("trying to write")
+        with open("../runs/tweets-" + str(self.run_id) + ".json", "a") as f:
+            json_string = "[" + ",".join([t.json() for t in self.tweets]) + "]"
+            f.write(json_string)
+            f.write("\n")
 
     def __getitem__(self, key: int):
         return self.tweets[key]
