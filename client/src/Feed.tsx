@@ -87,7 +87,7 @@ export function Feed() {
 
   return (
     <>
-      <div className="flex items-center w-full px-4 pb-4 border-b fixed bg-white">
+      <div className="flex items-center w-full px-4 py-2 border-b fixed bg-white/25 backdrop-blur-md">
         <div className="max-w-screen-md w-full flex py-2 mx-auto ">
           <img src={TwitterLogo} className="w-12 rotate-180 mr-4" />
           <h1 className="text-4xl font-semibold">Twitter</h1>
