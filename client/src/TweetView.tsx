@@ -10,8 +10,6 @@ export function TweetView() {
   const [mainTweet, setMainTweet] = useState<Tweet | undefined>();
   const [comments, setComments] = useState<Tweet[] | undefined>();
 
-  console.log(id);
-
   // ping server for new posts every second
   useEffect(() => {
     const interval = setInterval(() => {
@@ -64,7 +62,7 @@ export function TweetView() {
       {/* Main Tweet */}
       <div className="flex space-x-4 border-b border-slate-200 p-4">
         {/* Avatar */}
-        <div className="bg-slate-300 rounded-full w-8 h-8"></div>
+        <div className="bg-slate-300 rounded-full w-8 h-8 shrink-0"></div>
 
         <div key={mainTweet.id} className="flex flex-col space-y-2 grow">
           {/* Header */}
