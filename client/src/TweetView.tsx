@@ -3,6 +3,56 @@ import { useParams } from "react-router-dom";
 import { ApiFeed, ApiTweet, Tweet, apiClient } from "./config";
 import { FaRegComment, FaRegHeart } from "react-icons/fa";
 import { AiOutlineRetweet } from "react-icons/ai";
+import { motion } from "framer-motion";
+
+function Comment({ comment }: { comment: Tweet }) {
+  const [isInitialRender, setIsInitialRender] = useState(true);
+
+  useEffect(() => {
+    setIsInitialRender(false);
+  }, []);
+
+  return (
+    <motion.div
+      key={comment.id}
+      className="flex space-x-4 border-b border-slate-200 p-4"
+      initial={isInitialRender ? { backgroundColor: "#F1F5F9" } : {}}
+      animate={{ backgroundColor: "#ffffff" }}
+      transition={{ duration: 1 }}
+    >
+      {/* Avatar */}
+      <div className="bg-slate-300 rounded-full w-8 h-8"></div>
+      <div key={comment.id} className="flex flex-col space-y-2 grow">
+        {/* Header */}
+        <div className="flex space-x-2">
+          <h2 className="font-bold">{comment.name}</h2>
+          <h2 className="text-slate-500">@{comment.handle}</h2>
+          <span className="text-slate-500">
+            {new Date(comment.timestamp).toLocaleString()}
+          </span>
+        </div>
+        {/* Content */}
+        <div>{comment.content}</div>
+
+        {/* Footer */}
+        <div className="flex space-x-2">
+          <div className="text-slate-600 flex space-x-1 items-center">
+            <FaRegComment />
+            <span>{comment.comments}</span>
+          </div>
+          <div className="text-slate-600 flex space-x-2 items-center">
+            <AiOutlineRetweet />
+            <span>{comment.retweets}</span>
+          </div>
+          <div className="text-slate-600 flex space-x-2 items-center">
+            <FaRegHeart />
+            <span>{comment.likes}</span>
+          </div>
+        </div>
+      </div>
+    </motion.div>
+  );
+}
 
 export function TweetView() {
   const { id } = useParams();
@@ -96,43 +146,7 @@ export function TweetView() {
 
       {/* Comments */}
       {comments.map((comment) => {
-        return (
-          <div
-            key={comment.id}
-            className="flex space-x-4 border-b border-slate-200 p-4"
-          >
-            {/* Avatar */}
-            <div className="bg-slate-300 rounded-full w-8 h-8"></div>
-            <div key={comment.id} className="flex flex-col space-y-2 grow">
-              {/* Header */}
-              <div className="flex space-x-2">
-                <h2 className="font-bold">{comment.name}</h2>
-                <h2 className="text-slate-500">@{comment.handle}</h2>
-                <span className="text-slate-500">
-                  {new Date(comment.timestamp).toLocaleString()}
-                </span>
-              </div>
-              {/* Content */}
-              <div>{comment.content}</div>
-
-              {/* Footer */}
-              <div className="flex space-x-2">
-                <div className="text-slate-600 flex space-x-1 items-center">
-                  <FaRegComment />
-                  <span>{comment.comments}</span>
-                </div>
-                <div className="text-slate-600 flex space-x-2 items-center">
-                  <AiOutlineRetweet />
-                  <span>{comment.retweets}</span>
-                </div>
-                <div className="text-slate-600 flex space-x-2 items-center">
-                  <FaRegHeart />
-                  <span>{comment.likes}</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        );
+        return <Comment comment={comment} />;
       })}
     </div>
   );
