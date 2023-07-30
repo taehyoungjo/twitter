@@ -1,0 +1,82 @@
+{
+  "advertiser_account_service_levels": [],
+  "advertiser_account_type": "promotable_user",
+  "analytics_type": "enabled",
+  "created_at": "Wed May 05 16:42:41 +0000 2010",
+  "description": "Cofounder/CEO at @Continual_AI.  AI, data, startups, economics. \nFormerly @Cloudera, @SensePlatform.",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "continual.ai",
+          "expanded_url": "https://continual.ai",
+          "indices": [
+            0,
+            23
+          ],
+          "url": "https://t.co/HwzJcWuVc5"
+        }
+      ]
+    },
+    "description": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "0",
+          "indices": [
+            17,
+            30
+          ],
+          "name": "",
+          "screen_name": "Continual_AI"
+        },
+        {
+          "id_str": "0",
+          "indices": [
+            74,
+            83
+          ],
+          "name": "",
+          "screen_name": "Cloudera"
+        },
+        {
+          "id_str": "0",
+          "indices": [
+            85,
+            99
+          ],
+          "name": "",
+          "screen_name": "SensePlatform"
+        }
+      ]
+    }
+  },
+  "fast_followers_count": 0,
+  "favourites_count": 1225,
+  "followers_count": 2061,
+  "friends_count": 1940,
+  "geo_enabled": true,
+  "has_custom_timelines": true,
+  "has_extended_profile": false,
+  "id_str": "140491706",
+  "is_translator": false,
+  "location": "San Francisco, CA",
+  "media_count": 47,
+  "name": "Tristan Zajonc",
+  "normal_followers_count": 2061,
+  "pinned_tweet_ids_str": [],
+  "profile_background_color": "022330",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/140491706/1625718541",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1648061590070247424/0bbWhCv6_normal.jpg",
+  "profile_interstitial_type": "",
+  "profile_link_color": "0084B4",
+  "protected": false,
+  "screen_name": "tristanzajonc",
+  "statuses_count": 725,
+  "translator_type_enum": "None",
+  "url": "https://t.co/HwzJcWuVc5",
+  "verified": false,
+  "withheld_in_countries": []
+}

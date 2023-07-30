@@ -1,0 +1,52 @@
+{
+  "advertiser_account_service_levels": [
+    "analytics"
+  ],
+  "advertiser_account_type": "promotable_user",
+  "analytics_type": "enabled",
+  "created_at": "Sun Oct 16 17:46:35 +0000 2016",
+  "description": "CEO @humanloop (YC S20) |Unbelievably excited about the future of AI. \n\nFollow me for updates on LLMs and how to build products with them.",
+  "entities": {
+    "description": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "0",
+          "indices": [
+            4,
+            14
+          ],
+          "name": "",
+          "screen_name": "humanloop"
+        }
+      ]
+    }
+  },
+  "fast_followers_count": 0,
+  "favourites_count": 3759,
+  "followers_count": 4198,
+  "friends_count": 1119,
+  "geo_enabled": false,
+  "has_custom_timelines": true,
+  "has_extended_profile": true,
+  "id_str": "787711350671872003",
+  "is_translator": false,
+  "location": "",
+  "media_count": 104,
+  "name": "Raza Habib",
+  "normal_followers_count": 4198,
+  "pinned_tweet_ids_str": [],
+  "profile_background_color": "F5F8FA",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/787711350671872003/1658683357",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1551253816099721223/mfkRMxMh_normal.jpg",
+  "profile_interstitial_type": "",
+  "profile_link_color": "1DA1F2",
+  "protected": false,
+  "screen_name": "RazRazcle",
+  "statuses_count": 1563,
+  "translator_type_enum": "None",
+  "verified": false,
+  "withheld_in_countries": []
+}

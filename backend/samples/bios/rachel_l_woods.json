@@ -1,0 +1,66 @@
+{
+  "advertiser_account_service_levels": [
+    "analytics"
+  ],
+  "advertiser_account_type": "promotable_user",
+  "analytics_type": "enabled",
+  "created_at": "Sat Feb 25 02:53:38 +0000 2012",
+  "description": "Ex-Facebook Research Data Scientist. Pushing the envelope of operating businesses with AI. #AIOps",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "theaiexchange.com/therachelwoods…",
+          "expanded_url": "https://theaiexchange.com/therachelwoods?utm_medium=twitter",
+          "indices": [
+            0,
+            23
+          ],
+          "url": "https://t.co/o5N8eSOuZU"
+        }
+      ]
+    },
+    "description": {
+      "hashtags": [
+        {
+          "indices": [
+            91,
+            97
+          ],
+          "text": "AIOps"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    }
+  },
+  "fast_followers_count": 0,
+  "favourites_count": 4888,
+  "followers_count": 18935,
+  "friends_count": 1321,
+  "geo_enabled": false,
+  "has_custom_timelines": true,
+  "has_extended_profile": true,
+  "id_str": "502400573",
+  "is_translator": false,
+  "location": "San Francisco / Texas",
+  "media_count": 318,
+  "name": "Rachel Woods",
+  "normal_followers_count": 18935,
+  "pinned_tweet_ids_str": [
+    "1666481374084337664"
+  ],
+  "profile_background_color": "131516",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/502400573/1685846555",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg",
+  "profile_interstitial_type": "",
+  "profile_link_color": "89C9FA",
+  "protected": false,
+  "screen_name": "rachel_l_woods",
+  "statuses_count": 4042,
+  "translator_type_enum": "None",
+  "url": "https://t.co/o5N8eSOuZU",
+  "verified": false,
+  "withheld_in_countries": []
+}

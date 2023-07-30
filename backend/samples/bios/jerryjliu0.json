@@ -1,0 +1,92 @@
+{
+  "advertiser_account_service_levels": [
+    "analytics"
+  ],
+  "advertiser_account_type": "promotable_user",
+  "analytics_type": "disabled",
+  "created_at": "Wed Sep 07 22:54:31 +0000 2011",
+  "description": "co-founder/CEO @llama_index\n\nEx-ML @robusthq,  AI research @Uber_ATG and ML Eng @Quora. Princeton '17",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "jerryjliu.github.io",
+          "expanded_url": "http://jerryjliu.github.io",
+          "indices": [
+            0,
+            23
+          ],
+          "url": "https://t.co/S7FkTSefQ0"
+        }
+      ]
+    },
+    "description": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "0",
+          "indices": [
+            15,
+            27
+          ],
+          "name": "",
+          "screen_name": "llama_index"
+        },
+        {
+          "id_str": "0",
+          "indices": [
+            35,
+            44
+          ],
+          "name": "",
+          "screen_name": "robusthq"
+        },
+        {
+          "id_str": "0",
+          "indices": [
+            59,
+            68
+          ],
+          "name": "",
+          "screen_name": "Uber_ATG"
+        },
+        {
+          "id_str": "0",
+          "indices": [
+            80,
+            86
+          ],
+          "name": "",
+          "screen_name": "Quora"
+        }
+      ]
+    }
+  },
+  "fast_followers_count": 0,
+  "favourites_count": 2965,
+  "followers_count": 17479,
+  "friends_count": 1057,
+  "geo_enabled": true,
+  "has_custom_timelines": true,
+  "has_extended_profile": false,
+  "id_str": "369777416",
+  "is_translator": false,
+  "location": "",
+  "media_count": 451,
+  "name": "Jerry Liu",
+  "normal_followers_count": 17479,
+  "pinned_tweet_ids_str": [],
+  "profile_background_color": "C0DEED",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg",
+  "profile_interstitial_type": "",
+  "profile_link_color": "1DA1F2",
+  "protected": false,
+  "screen_name": "jerryjliu0",
+  "statuses_count": 1992,
+  "translator_type_enum": "None",
+  "url": "https://t.co/S7FkTSefQ0",
+  "verified": false,
+  "withheld_in_countries": []
+}

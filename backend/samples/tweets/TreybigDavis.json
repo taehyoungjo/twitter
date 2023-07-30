@@ -1,0 +1,362 @@
+{
+  "1684002876652425216": {
+    "text": "It is fun to see so many recent explorations in ways to scale foundation models to larger sequence lengths and deal with the quadratic scaling of self-attention. Some of the recent research work I have found most interesting:",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 1,
+    "bookmarks": 1,
+    "likes": 2,
+    "id": "1684002876652425216",
+    "author_id": "1307535862784233473"
+  },
+  "1684002897124814849": {
+    "text": "In an effort to try to understand all these approaches in more depth, I've summarized them in much more detail here: https://t.co/aeRb4PTDsJ\n\nIf I am missing any other interesting research in this area, I'd love to see it.",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1684002897124814849",
+    "author_id": "1307535862784233473"
+  },
+  "1684002898664120320": {
+    "text": "And thanks to the many researchers who have led this work like @simran_s_arora @realDanFu @tri_dao @MichaelPoli6 @exnx @Massastrello @HazyResearch @ai_with_brains @liliyu_lili @simigd @HarshMeh1a @colin__flaherty @MaxMa1987 @violet_zct @XiangKong4 @LukeZettlemoyer @donglixp",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1684002898664120320",
+    "author_id": "1307535862784233473"
+  },
+  "1679512037305778176": {
+    "text": "Excited to be cohosting the first Claude 2 hackathon with @AnthropicAI @cerebral_valley with support from @LangChainAI @llama_index @arizeai @huggingface \n\nhttps://t.co/RvG7zh3kzy",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 2,
+    "bookmarks": 1,
+    "likes": 15,
+    "id": "1679512037305778176",
+    "author_id": "1307535862784233473"
+  },
+  "1679512038962503681": {
+    "text": "Over the weekend of July 29-30, builders will receive API access to Anthropic’s new model, Claude 2, get hands-on support from our team, and connect with leading AI industry judges to be announced soon!",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1679512038962503681",
+    "author_id": "1307535862784233473"
+  },
+  "1679512040808022018": {
+    "text": "Winning teams will receive cash and credit prizes to kickstart their projects, as well as Anthropic swag. Hope to see y’all there!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1679512040808022018",
+    "author_id": "1307535862784233473"
+  },
+  "1674825245289775104": {
+    "text": "@lucasmcgartland Gotta draft getting yourself ready for round 2 https://t.co/Wk2verxi8x",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1674825245289775104",
+    "author_id": "1307535862784233473"
+  },
+  "1674568077038735360": {
+    "text": "@glcst No maple syrup heists in Vermont :) https://t.co/KlKqUTTzOa",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1674568077038735360",
+    "author_id": "1307535862784233473"
+  },
+  "1674566850775240704": {
+    "text": "@glcst Thoughts on Vermont maple syrup vs Canadian maple syrup?",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1674566850775240704",
+    "author_id": "1307535862784233473"
+  },
+  "1657112807769534466": {
+    "text": "Spent some time looking into WebGPU recently and shared some learnings here: https://t.co/yuE89Su1SY\n\nWould love your thoughts @Tojiro @DasSurma @DaKangz @WebGPU @julianparc @lucasmcgartland @tqchenml @HongyiJin258",
+    "quotes": 1,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 2,
+    "likes": 3,
+    "id": "1657112807769534466",
+    "author_id": "1307535862784233473"
+  },
+  "1656705798427545600": {
+    "text": "Hosting a foundation model builders meetup in Palo Alto in a few weeks: https://t.co/Ry1cBMNIyl. It will be \"Show &amp; Tell\" style with a series of lightning talks - some of the speakers we have lined up include @jerryjliu0 @mattrickard @devstein64 @mlfoundry @tristanzajonc",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 6,
+    "bookmarks": 1,
+    "likes": 20,
+    "id": "1656705798427545600",
+    "author_id": "1307535862784233473"
+  },
+  "1656705799782301697": {
+    "text": "We have a attendees registered from @DeepMind @huggingface @Replit @StanfordAILab @FacebookAI and tons of cool foundation model startups. Hope to see you there!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1656705799782301697",
+    "author_id": "1307535862784233473"
+  },
+  "1651255344960782336": {
+    "text": "@bernhardsson Do you have any recommendations for the best technical overviews of index structures in vector DBs?",
+    "quotes": 0,
+    "replies": 2,
+    "retweets": 0,
+    "bookmarks": 1,
+    "likes": 3,
+    "id": "1651255344960782336",
+    "author_id": "1307535862784233473"
+  },
+  "1648075684009459713": {
+    "text": "@clintgibler Thanks for sharing Clint!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1648075684009459713",
+    "author_id": "1307535862784233473"
+  },
+  "1640754381527322624": {
+    "text": "@mitsuhiko Seeing more ex-Google teams start to adopt other things that offer similar benefits to Bazel but without the headache - e.g. , https://t.co/qnlOMRzyHY,\nhttps://t.co/2YcLPXBwY3, etc",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 2,
+    "id": "1640754381527322624",
+    "author_id": "1307535862784233473"
+  },
+  "1639299453218856960": {
+    "text": "Recently put together a fairly comprehensive “primer” for our team internally on foundation models, covering things across research, productization, cost structure, use cases, architectures, etc. Sharing publicly in case it’s useful to others: https://t.co/6NgZwXVQ80",
+    "quotes": 4,
+    "replies": 1,
+    "retweets": 2,
+    "bookmarks": 8,
+    "likes": 20,
+    "id": "1639299453218856960",
+    "author_id": "1307535862784233473"
+  },
+  "1628843056098349057": {
+    "text": "RT @VladAIonescu: Today we're announcing Earthly CI, our flagship product! 2-20X faster than traditional CI technologies! 🚀\n\nMany thanks to…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 8,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1628843056098349057",
+    "author_id": "1307535862784233473"
+  },
+  "1628813746352328704": {
+    "text": "Excited to announce our investment in @EarthlyTech and the launch of their CI product! Despite being so central to the lives of every single software engineer, build tools and CI are still mostly terrible - Earthly is trying to change that.",
+    "quotes": 1,
+    "replies": 2,
+    "retweets": 3,
+    "bookmarks": 0,
+    "likes": 19,
+    "id": "1628813746352328704",
+    "author_id": "1307535862784233473"
+  },
+  "1628813753948180480": {
+    "text": "Over 1500 build pipelines use Earthly today, including companies like Workday, Roche, Namely, and DeepGenomics. Earthly CI is the first step in solving a huge number of other issues in CICD, including secrets management, artifactories, and flaky tests.",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1628813753948180480",
+    "author_id": "1307535862784233473"
+  },
+  "1628813756074692608": {
+    "text": "Read more about our investment here https://t.co/6B1HGulgcC and check out Earthly if you want fast, repeatable, simple builds.",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 2,
+    "id": "1628813756074692608",
+    "author_id": "1307535862784233473"
+  },
+  "1621311044231794688": {
+    "text": "@aashaysanghvi_ It’s early but R2C is kind of like this in security. People share scripts to detect common types of security issues or enforce certain types of secure defaults in the semgrep community - some researchers really use this as a primary way to share or highlight issues",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 5,
+    "id": "1621311044231794688",
+    "author_id": "1307535862784233473"
+  },
+  "1617246292316672001": {
+    "text": "@cramforce @glean @linear @turborepo @statsigio @NotionHQ https://t.co/qnlOMRzyHY is interesting in the Bazel/Blaze category. Turbo is awesome for JavaScript, and there are numerous good build tools for other languages, but Earthly is a layer on top of these that offers similar speed/reproducibility benefits as Bazel.",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1617246292316672001",
+    "author_id": "1307535862784233473"
+  },
+  "1605323309792768000": {
+    "text": "@martin_casado Martin do you have any favorite resources you’d recommend (blog, podcast, book) that talk in detail about examples of startups that faced a category creation market like this where they had to do a ton of education, services, etc in order to eventually succeed?",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1605323309792768000",
+    "author_id": "1307535862784233473"
+  },
+  "1591234855299604480": {
+    "text": "Presentations from a recent event we hosted with @Replit @GoogleAI @huggingface on emerging research and applications of large language models: https://t.co/YTCWCd48Xu\n\n@amasad @achowdhery @mathemakitten @GoogleAI",
+    "quotes": 5,
+    "replies": 4,
+    "retweets": 13,
+    "bookmarks": 58,
+    "likes": 121,
+    "id": "1591234855299604480",
+    "author_id": "1307535862784233473"
+  },
+  "1591234381787848704": {
+    "text": "@tcheee42 @Jeff_Burke14 @nathan___gage @amasad @truerezashabani @samipddd @GoogleStartups @Replit Here you go @nathan___gage @tcheee42 @Jeff_Burke14 \n\nhttps://t.co/YTCWCd48Xu",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 4,
+    "id": "1591234381787848704",
+    "author_id": "1307535862784233473"
+  },
+  "1591135190751260672": {
+    "text": "@Jeff_Burke14 @tcheee42 @nathan___gage @amasad @truerezashabani @samipddd @GoogleStartups @Replit Presentations will be shared soon! Just need to get the video and upload it.",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 4,
+    "id": "1591135190751260672",
+    "author_id": "1307535862784233473"
+  },
+  "1587554917836652544": {
+    "text": "https://t.co/KrrMl6qOmn\n\nAfter having spent time with countless applied large language model startups over the past few years, I can't help but feel that UX is chronically undervalued in this space, despite being arguably the hardest thing to get right (not modeling/data/tech).",
+    "quotes": 3,
+    "replies": 6,
+    "retweets": 6,
+    "bookmarks": 6,
+    "likes": 42,
+    "id": "1587554917836652544",
+    "author_id": "1307535862784233473"
+  },
+  "1587554920651141120": {
+    "text": "The article references a number emerging startups and projects doing interesting things from a UX perspective, like @Replit @github @getanyword @copy_ai @tabnine @askviable @enterpret_ai @DebuildHQ @GoogleAI, as well some interesting research in the space that touches on UX",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 1,
+    "likes": 6,
+    "id": "1587554920651141120",
+    "author_id": "1307535862784233473"
+  },
+  "1587554921812877312": {
+    "text": "If you're a builder or researcher in this space, I'd love any thoughts/feedback you have on the article. I would especially love to talk to a designer who has thought a lot about the UX of LLMs. I am also very interested in any other HCI-related research in this space!",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 6,
+    "id": "1587554921812877312",
+    "author_id": "1307535862784233473"
+  },
+  "1560289211369996289": {
+    "text": "@bernhardsson This is essentially what https://t.co/E5fYJ2dusP does",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 2,
+    "id": "1560289211369996289",
+    "author_id": "1307535862784233473"
+  },
+  "1559705368820736000": {
+    "text": "@aashaysanghvi_ I feel like this sort of “curiosity driven” sourcing is one of the best paths I’ve seen. Hear or read about something new and interesting, and just follow the rabbit hole all the way down into that ecosystem.",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 2,
+    "id": "1559705368820736000",
+    "author_id": "1307535862784233473"
+  },
+  "1534626556575899651": {
+    "text": "Excited to announce our investment in @continual_ai! The rise of the modern data stack has laid the foundation for a new massive company to be built in the MLOps space, and we think @tristanzajonc and Tyler Kohn are the right team to go after it. \n\nhttps://t.co/q2ZaWVXJd9",
+    "quotes": 0,
+    "replies": 2,
+    "retweets": 2,
+    "bookmarks": 0,
+    "likes": 16,
+    "id": "1534626556575899651",
+    "author_id": "1307535862784233473"
+  },
+  "1534626565178306560": {
+    "text": "The blend of simplicity and power is truly elegant, and reminiscent of what dbt has done to the data engineering world. Indeed, if you're a dbt user, Continual's core workflow will immediately resonate with you - it is delightful.",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1534626565178306560",
+    "author_id": "1307535862784233473"
+  },
+  "1534626566264614912": {
+    "text": "If you're a company on the modern data stack trying to move more into predictive analytics and ML, we recommend you try it out :)",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1534626566264614912",
+    "author_id": "1307535862784233473"
+  },
+  "1534577385336541185": {
+    "text": "RT @tristanzajonc: I'm excited to announce that @continual_ai is now generally available and we've raised a $14M Series A to bring AI to th…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 16,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1534577385336541185",
+    "author_id": "1307535862784233473"
+  },
+  "1505402236020609025": {
+    "text": "@balajis davistreybig.eth https://t.co/0wuRc84SAQ",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1505402236020609025",
+    "author_id": "1307535862784233473"
+  }
+}
