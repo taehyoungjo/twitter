@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { apiClient, ApiFeed, ApiUser, Post } from "./config";
 import { useNavigate, useParams } from "react-router-dom";
 import { FeedTweet } from "./components/FeedTweet";
+import TwitterLogo from "./components/twitter.svg";
 
 function convertFeed(apiFeed: ApiFeed) {
   const newFeed: Post[] = [];
@@ -85,60 +86,72 @@ export function Feed() {
   }
 
   return (
-    <div className="">
-      {/* Message Box */}
-      <div className="border-slate-200 p-4">
-        Currently viewing as:
-        <div className="font-bold">{user?.name}</div>
-        <textarea
-          placeholder="What is happening?!"
-          className="w-full border border-slate-200 p-4"
-          value={text}
-          onChange={(e) => setText(e.target.value)}
-        />
-        <button
-          className="bg-blue-500 font-bold text-white rounded-full px-4 py-2"
-          onClick={() => {
-            apiClient.post("/start", {
-              user_id: parseInt(userId),
-              content: text,
-            });
-            setText("");
-          }}
-        >
-          Tweet
-        </button>
+    <>
+      <div className="flex items-center w-full px-4 pb-4 border-b fixed bg-white">
+        <div className="max-w-screen-md w-full flex py-2 mx-auto ">
+        <img src={TwitterLogo} className="w-12 rotate-180 mr-4" />
+        <h1 className="text-4xl font-semibold">Twitter</h1>
+        </div>
       </div>
-      {feed &&
-        feed.map((f) => {
-          if ("quotedTweet" in f) {
-            return (
-              <FeedTweet f={f} key={f.id}>
-                <div
-                  key={f.quotedTweet.id}
-                  className="space-y-2 border border-slate-200 p-4 rounded-lg"
-                  onClick={(e) => {
-                    // use react router to navigate to the tweet view
-                    e.stopPropagation();
-                    navigate(`/tweet/${f.quotedTweet.id}`);
-                  }}
-                >
-                  <div className="flex space-x-2 items-center">
-                    <div className="bg-slate-300 rounded-full w-5 h-5"></div>
-                    <h2 className="font-bold">{f.quotedTweet.name}</h2>
-                    <h2 className="text-slate-500">@{f.quotedTweet.handle}</h2>
-                    <span className="text-slate-500">
-                      {new Date(f.quotedTweet.timestamp).toLocaleString()}
-                    </span>
+      <div className="max-w-screen-md mx-auto border-l border-r">
+        {/* Message Box */}
+        <div className="border-slate-200 p-4 pt-24">
+          <div>
+            Currently viewing as
+            <span className="font-bold ml-1">{user?.name}</span>
+          </div>
+          <textarea
+            placeholder="What is happening?!"
+            className="w-full rounded-lg border border-slate-200 p-2"
+            value={text}
+            onChange={(e) => setText(e.target.value)}
+          />
+          <button
+            className="bg-blue-500 font-bold text-white rounded-full px-6 py-2"
+            onClick={() => {
+              apiClient.post("/start", {
+                user_id: parseInt(userId),
+                content: text,
+              });
+              setText("");
+            }}
+          >
+            Tweet
+          </button>
+        </div>
+        {feed &&
+          feed.map((f) => {
+            if ("quotedTweet" in f) {
+              return (
+                <FeedTweet f={f} key={f.id}>
+                  <div
+                    key={f.quotedTweet.id}
+                    className="space-y-2 border border-slate-200 p-4 rounded-lg"
+                    onClick={(e) => {
+                      // use react router to navigate to the tweet view
+                      e.stopPropagation();
+                      navigate(`/tweet/${f.quotedTweet.id}`);
+                    }}
+                  >
+                    <div className="flex space-x-2 items-center">
+                      <div className="bg-slate-300 rounded-full w-5 h-5"></div>
+                      <h2 className="font-bold">{f.quotedTweet.name}</h2>
+                      <h2 className="text-slate-500">
+                        @{f.quotedTweet.handle}
+                      </h2>
+                      <span className="text-slate-500">
+                        {new Date(f.quotedTweet.timestamp).toLocaleString()}
+                      </span>
+                    </div>
+                    <div>{f.quotedTweet.content}</div>
                   </div>
-                  <div>{f.quotedTweet.content}</div>
-                </div>
-              </FeedTweet>
-            );
-          }
+                </FeedTweet>
+              );
+            }
 
-          return <FeedTweet f={f} key={f.id} />;
-        })}
-    </div>
+            return <FeedTweet f={f} key={f.id} />;
+          })}
+      </div>
+    </>
   );
 }
