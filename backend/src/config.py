@@ -9,10 +9,12 @@ from enum import Enum
 from typing import Optional
 from uuid import uuid4
 
+import numpy as np
 from dotenv import load_dotenv
 from env import ANTHROPIC_API_KEYS
 from langchain.chat_models import ChatAnthropic
 from langchain.schema import AIMessage, BaseMessage, HumanMessage
+from numpy.typing import NDArray
 from pydantic import BaseModel, Field
 
 load_dotenv()
@@ -36,19 +38,31 @@ class UserDatabase:
 
 class TweetDatabase:
     def __init__(self):
-        self.tweets: list[Tweet] = []
+        self.tweets: NDArray[Tweet] = np.array([])
         self.run_id = uuid4()
 
     def add_tweet(self, tweet: Tweet):
         tweet.tweet_id = len(self.tweets)
-        self.tweets.append(tweet)
+
+        self.tweets = np.append(self.tweets, tweet)
+
+        # self.tweets.append(tweet)
 
     def get_timeline(self):
         """
         Gets the timeline for a user to include in their prompt.
+
         """
 
-        return self.tweets[-50:]
+        scores = np.array([tweet.score + 1 for tweet in self.tweets])
+        scores = scores / np.sum(scores)
+
+        # sample 50 tweets from the distribution
+        # might need to increase probability
+        sample_size = min(50, len(self.tweets))
+        return np.random.choice(self.tweets, size=sample_size, p=scores, replace=False)
+
+        # return self.tweets[-50:]
 
     def update_log(self):
         print("trying to write")
@@ -309,28 +323,27 @@ def init_tweets():
     )
 
     # add judges too
-
-    NUM_DEFAULT_USERS = 3
+    NUM_DEFAULT_USERS = 4
     judge_json = "../samples/initjudges.json"
     with open(judge_json, "r") as file:
         data = json.load(file)
         for i, judge in enumerate(data):
-            users.add_user(
-                User(handle=judge["handle"], name=judge["name"], bio=judge["bio"]),
-            )
-            if judge["texts"]:
-                for text in judge["texts"]:
-                    tweets.add_tweet(
-                        Tweet(
-                            type=TweetType.TWEET,
-                            user_id=i + NUM_DEFAULT_USERS + 1,
-                            likes=[],
-                            retweets=[],
-                            comments=[],
-                            timestamp=0,
-                            content=text,
-                        )
-                    )
+            users.add_user(User.parse_obj(judge))
+
+            # if judge["texts"]:
+            #     for text in judge["texts"]:
+            #         tweets.add_tweet(
+            #             Tweet(
+            #                 type=TweetType.TWEET,
+            #                 user_id=i + NUM_DEFAULT_USERS,
+            #                 likes=[],
+            #                 retweets=[],
+            #                 comments=[],
+            #                 timestamp=0,
+            #                 content=text,
+            #             )
+            #         )
+        print("PARSING SUCCESSFUL")
 
 
 init_tweets()

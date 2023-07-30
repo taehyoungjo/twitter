@@ -75,7 +75,7 @@ export function Feed() {
         console.log(res.data);
         setFeed(convertFeed(res.data));
       });
-    }, 8000);
+    }, 1000);
 
     return () => clearInterval(interval);
   }, []);

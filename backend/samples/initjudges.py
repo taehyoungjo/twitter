@@ -1,49 +1,84 @@
-import os
+"""
+Write the raw data into cleaned JSON data compatible with the schema.
+
+class ActionType(str, Enum):
+    TWEET = "TWEET"
+    QUOTE = "QUOTE"
+    COMMENT = "COMMENT"
+    LIKE = "LIKE"
+    RETWEET = "RETWEET"
+
+class Action(BaseModel):
+    type: ActionType
+    user_id: Optional[int]
+
+    content: Optional[str] = None  # only none if type is LIKE or RETWEET
+
+    parent_id: Optional[int] = None  # only if type is COMMENT or QUOTE
+    parent_name: Optional[str] = None  # only if type is COMMENT or QUOTE
+    parent_content: Optional[str] = None  # only if type is COMMENT or QUOTE
+
+
+class User(BaseModel):
+    user_id: int = -1  # sentinel
+    handle: str
+    name: str
+    bio: str
+    activity: list[Action] = Field(default_factory=list, exclude=True)
+"""
+# %%
 import json
+import os
 
-MAX_TWEETS_PER_USR = 10
+# %%
+TWEETS_PER_USER = 10
 
-subdir1 = 'bios'
-subdir2 = 'tweets'
-json_files = [f for f in os.listdir(subdir1)]
+raw_dir = "raw"
+clean_dir = "clean"
+json_files = [f for f in os.listdir(raw_dir)]
 
-initial_user_data = []
-
+all_users = []
 for filename in json_files:
     user_data = {}
 
-    with open(os.path.join(subdir1, filename), 'r') as file:
+    with open(os.path.join(raw_dir, filename), "r") as file:
         data = json.load(file)
-        user_data["name"] = data.get('name')
-        user_data["handle"] = data.get('screen_name')
-        user_data["bio"] = data.get('description')
+        user_data["name"] = data.get("name")
+        user_data["handle"] = data.get("handle")
+        user_data["bio"] = data.get("bio")
 
-    with open(os.path.join(subdir2, filename), 'r') as file:
-        data = json.load(file)
-        text_data = [v['text'] for v in data.values()]
-        tweet_type = []
+        activity = []
+        print(data.get("activity"))
+        for raw_action in data.get("activity"):
+            action = {}
+            if raw_action["type"] == "TWEET":
+                action["type"] = "TWEET"
+                action["content"] = raw_action["text"]
+            elif raw_action["type"] == "QUOTE":
+                action["type"] = "QUOTE"
+                action["content"] = raw_action["text"]
+                action["parent_name"] = raw_action["author"]["name"]
+                action["parent_content"] = raw_action["quoted"]["text"]
+            elif raw_action["type"] == "REPLY":
+                action["type"] = "COMMENT"
+                action["content"] = raw_action["text"]
+                action["parent_name"] = raw_action["replyTo"]["author"]["name"]
+                action["parent_content"] = raw_action["replyTo"]["text"]
+            elif raw_action["type"] == "RETWEET":
+                parts = raw_action["text"].split(": ")
+                text = ": ".join(parts[1:])
+                author = parts[0].strip("RT ")
+                action["type"] = "RETWEET"
+                action["parent_name"] = author
+                action["parent_content"] = text
 
-        for text in text_data:
-            if text[0:2] == "RT":
-                tweet_type.append("RETWEET")
-            elif text[0:1] == "@":
-                tweet_type.append("COMMENT")
-            else:
-                tweet_type.append("TWEET")
+            activity.append(action)
+            if len(activity) >= TWEETS_PER_USER:
+                break
 
-        return_data = [] # I just want tweets
-        for i in range(len(tweet_type)):
-            if tweet_type[i] == "TWEET":
-                return_data.append(text_data[i])
+        user_data["activity"] = activity
 
-        if len(return_data) <= MAX_TWEETS_PER_USR:
-            user_data["texts"] = return_data
-        else:
-            user_data["texts"] = return_data[0:MAX_TWEETS_PER_USR]
+    all_users.append(user_data)
 
-    initial_user_data.append(user_data)
-
-print(initial_user_data)
-
-with open('initjudges.json', 'w') as output_file:
-    json.dump(initial_user_data, output_file)
+with open("initjudges.json", "w") as out:
+    json.dump(all_users, out)

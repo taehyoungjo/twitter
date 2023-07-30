@@ -1,0 +1,5383 @@
+{
+  "handle": "tristanzajonc",
+  "name": "Tristan Zajonc",
+  "bio": "Cofounder/CEO at @Continual_AI.  AI, data, startups, economics. \nFormerly @Cloudera, @SensePlatform.",
+  "activity": [
+    {
+      "type": "RETWEET",
+      "text": "RT @moinnadeem: This is an important plot from the LLaMa 2 paper. It directly outlines the pre-training hours for the model!\n\nCosts below,…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 33,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1681391957694885888",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Llama 2 is remarkably simple. The https://t.co/bT4ugOWehj is 288 lines of Python and the entire repository is &lt;1000 lines.\nhttps://t.co/ifSkPdRcVX",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 0,
+      "bookmarks": 1,
+      "likes": 6,
+      "id": "1681391729629605888",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "This is huge: Llama-v2 is open source, with a license that authorizes commercial use!\n\nThis is going to change the landscape of the LLM market.\nLlama-v2 is available on Microsoft Azure and will be available on AWS, Hugging Face and other providers\n\nPretrained and fine-tuned…",
+      "quotes": 761,
+      "replies": 443,
+      "retweets": 3704,
+      "bookmarks": 4923,
+      "likes": 16093,
+      "id": "1681336284453781505",
+      "author": {
+        "handle": "ylecun",
+        "name": "Yann LeCun",
+        "id": "48008938"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@ylecun Thanks for this awesome contribution to AI.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 4,
+      "id": "1681353597139947520",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1681336284453781505",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "This is huge: Llama-v2 is open source, with a license that authorizes commercial use!\n\nThis is going to change the landscape of the LLM market.\nLlama-v2 is available on Microsoft Azure and will be available on AWS, Hugging Face and other providers\n\nPretrained and fine-tuned…",
+        "quotes": 761,
+        "replies": 443,
+        "retweets": 3704,
+        "bookmarks": 4923,
+        "likes": 16093,
+        "id": "1681336284453781505",
+        "author": {
+          "handle": "ylecun",
+          "name": "Yann LeCun",
+          "id": "48008938"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "Definitely one of the nicest APIs on top of LLMs today.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 3,
+      "bookmarks": 0,
+      "likes": 9,
+      "id": "1679166751786037249",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": {
+        "text": "🥳 Marvin's turning 1.0!\n\n@AskMarvinAI is our lightweight AI engineering framework for building software that's reliable, scalable, and easy to trust.\n\nIf you know Python, you know Marvin: its LLM abstractions were designed to feel as natural as possible.\nhttps://t.co/b8ndix6imd",
+        "id": "1678845841912520705"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @peteroneilljr: #gluecon using AI to build products. @ContinualAI used to make copilot type AIs for your systems. https://t.co/pODemWgeLU",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 3,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1662110483258671104",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "💥Just a few days ago, I was talking to someone and I mentioned that in next 6 months, there will be many more LLMs without restrictive license, supporting commercial use. And here we are already! TII's Falcon 40B is available now and has already beaten LLAMA 65B! 🚀🚀🚀 https://t.co/v9vMKRyzZ9",
+      "quotes": 1,
+      "replies": 4,
+      "retweets": 17,
+      "bookmarks": 44,
+      "likes": 139,
+      "id": "1662091153536065538",
+      "author": {
+        "handle": "abhi1thakur",
+        "name": "abhishek",
+        "id": "95807398"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@abhi1thakur The license requires written permission and royalty payment for commercial use. Don’t think that counts as without restrictive license.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1662096039560597505",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1662091153536065538",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "💥Just a few days ago, I was talking to someone and I mentioned that in next 6 months, there will be many more LLMs without restrictive license, supporting commercial use. And here we are already! TII's Falcon 40B is available now and has already beaten LLAMA 65B! 🚀🚀🚀 https://t.co/v9vMKRyzZ9",
+        "quotes": 1,
+        "replies": 4,
+        "retweets": 17,
+        "bookmarks": 44,
+        "likes": 139,
+        "id": "1662091153536065538",
+        "author": {
+          "handle": "abhi1thakur",
+          "name": "abhishek",
+          "id": "95807398"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Hearing more and more stories of existing SaaS companies seeing real revenue inflection after implementing generative AI features.",
+      "quotes": 1,
+      "replies": 3,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 4,
+      "id": "1661567135821463555",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc Can you be more specific?",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1661587745616154626",
+      "author": {
+        "handle": "bwahacker",
+        "name": "Mitch Haile",
+        "id": "15135516"
+      },
+      "quoted": false,
+      "replyToId": "1661567135821463555",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Hearing more and more stories of existing SaaS companies seeing real revenue inflection after implementing generative AI features.",
+        "quotes": 1,
+        "replies": 3,
+        "retweets": 1,
+        "bookmarks": 0,
+        "likes": 4,
+        "id": "1661567135821463555",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@bwahacker One common theme is seeing considerable uplift to premium plans that include AI features.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1661728061123960834",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1661587745616154626",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc Can you be more specific?",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1661587745616154626",
+        "author": {
+          "handle": "bwahacker",
+          "name": "Mitch Haile",
+          "id": "15135516"
+        },
+        "quoted": false,
+        "replyToId": "1661567135821463555"
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "This paper deserves more attention.  AI will increase the productivity and quality of knowledge workers.  But who benefits most? This paper provides experimental evidence that AI can compresses not increase the skill gap.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1660443953479716864",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": {
+        "text": "🚨 New working paper! 🚨\n\nCurious about the effects of generative AI systems like ChatGPT on production and labor markets? Then you'll be interested in our new paper (with @whitneywzhang)!\n\nLink to paper and thread below ⬇️\nhttps://t.co/3sVfAOAshv https://t.co/8fcHVTZiYk",
+        "id": "1631322405078548480"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Are there promising contenders to replace vector search for context augmentation?  Injecting chunks into the context feels rather rudimentary honestly.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1654570160647446528",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "Technology can help humanity make the world cleaner, healthier, and more connected.  The future will be beautiful if we care enough to try.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1653468243095592961",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": {
+        "text": "do you feel it too? the absence of any optimism for the future? it’s completely gone from the cultural zeitgeist. such a stark contrast compared to the early 00s. or is it just me getting old and jaded and looking at the past through a nostalgia filter?",
+        "id": "1653265620480458752"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "I'm chatting next week about Production LLMOps with @willpienaar, @changhiskhan, and @Dan_Jeffries1.  It should be a lively discussion with diverse perspectives.  https://t.co/z7V3ZbMfYQ",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 4,
+      "id": "1653466311551504384",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Really looking forward to the new Google.  Or if not Google, https://t.co/LvEPUynbaY or https://t.co/q82E3bIoQj.   They are going to be awesome.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1651985085594476544",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "If the next version of GPT is a leap in performance as GPT-4 was I think fine tuning becomes a thing of the past\n\nCurrent GPT-4 can go up to 32k context length, what would it mean if the next version did 64k or higher?\n\nYour vertical domain specific model would be one prompt away",
+      "quotes": 4,
+      "replies": 54,
+      "retweets": 16,
+      "bookmarks": 52,
+      "likes": 258,
+      "id": "1650268754297716737",
+      "author": {
+        "handle": "abacaj",
+        "name": "anton",
+        "id": "70514287"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@abacaj Being able to tune in a more continuous space is critical to build many experiences where we don’t know what to prompt but have various forms of feedback.  Fine tuning the entire model is likely not necessary but moving beyond text seems like an obvious win for many applications.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 7,
+      "id": "1650325441952235521",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1650268754297716737",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "If the next version of GPT is a leap in performance as GPT-4 was I think fine tuning becomes a thing of the past\n\nCurrent GPT-4 can go up to 32k context length, what would it mean if the next version did 64k or higher?\n\nYour vertical domain specific model would be one prompt away",
+        "quotes": 4,
+        "replies": 54,
+        "retweets": 16,
+        "bookmarks": 52,
+        "likes": 258,
+        "id": "1650268754297716737",
+        "author": {
+          "handle": "abacaj",
+          "name": "anton",
+          "id": "70514287"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "When you ask customers about generative AI use cases. https://t.co/ZBoR2jVz04",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 4,
+      "id": "1649207029087760386",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "The rumors are true.  We've been hard at work building a next-generation developer platform for generative AI at @continual_ai.  We'll be sharing more soon, but you can sign up for early access here: https://t.co/C3H4Uy50Wo",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 2,
+      "bookmarks": 0,
+      "likes": 11,
+      "id": "1649175058840186885",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "There's a chance that LoRA finetunes work so well that it dramatically alters the finetuning vs. retrieval + few-shot prompting power dynamic in favor of the former for many applications.\n\nPEFT (Parameter Efficient Finetuning, LoRA included) are emerging techniques that make it…",
+      "quotes": 29,
+      "replies": 38,
+      "retweets": 242,
+      "bookmarks": 1074,
+      "likes": 1608,
+      "id": "1649127655122550784",
+      "author": {
+        "handle": "karpathy",
+        "name": "Andrej Karpathy",
+        "id": "33836629"
+      },
+      "quoted": {
+        "text": "LlamaAcademy: a factory that teaches LLaMA's how write API code. ChatGPT Plugins, but no manifest file is needed -- it just reads the API docs like a human would!\n\nFor example, here is a finetuned model that learned how to talk to Notion by reading its API docs: https://t.co/DPJQaUH3u5",
+        "id": "1648728342940758016"
+      },
+      "quoteDeleted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@karpathy There's a huge need for this to build compelling applications that improve over time.  It's very hard to create a proper data engine with just prompting.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 4,
+      "id": "1649168588547424257",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1649127655122550784",
+      "replyTo": {
+        "type": "QUOTE",
+        "text": "There's a chance that LoRA finetunes work so well that it dramatically alters the finetuning vs. retrieval + few-shot prompting power dynamic in favor of the former for many applications.\n\nPEFT (Parameter Efficient Finetuning, LoRA included) are emerging techniques that make it…",
+        "quotes": 29,
+        "replies": 38,
+        "retweets": 242,
+        "bookmarks": 1074,
+        "likes": 1608,
+        "id": "1649127655122550784",
+        "author": {
+          "handle": "karpathy",
+          "name": "Andrej Karpathy",
+          "id": "33836629"
+        },
+        "quoted": {
+          "text": "LlamaAcademy: a factory that teaches LLaMA's how write API code. ChatGPT Plugins, but no manifest file is needed -- it just reads the API docs like a human would!\n\nFor example, here is a finetuned model that learned how to talk to Notion by reading its API docs: https://t.co/DPJQaUH3u5",
+          "id": "1648728342940758016"
+        },
+        "quoteDeleted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "StableLM not looking so good, unfortunately. https://t.co/iaVj7J7CvJ",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 3,
+      "likes": 4,
+      "id": "1648922773375578113",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @mitchellh: Prompt Engineering vs Blind Prompting. I show how prompt engineering can be a real systematic approach to extracting value f…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 64,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1647101362076016641",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "The risk of AI disinformation is wildly overstated.  AI systems have the potential to be the greatest source of knowledge and insight the world has ever known.  Users will flock to the most trusted and helpful AI systems and learn to ignore the rest.",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1642302039328985088",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc This doesn't jive with politics in the US, and at crazier levels, with media control elsewhere (\"What war?\")\n\nWe invest hard in LLMs etc for our users, and see amazing things here.. but important to remember as leaders that we are part of a local and global fabric outside of 288c",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1642571355366498304",
+      "author": {
+        "handle": "lmeyerov",
+        "name": "lmeyerov",
+        "id": "15315247"
+      },
+      "quoted": false,
+      "replyToId": "1642302039328985088",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "The risk of AI disinformation is wildly overstated.  AI systems have the potential to be the greatest source of knowledge and insight the world has ever known.  Users will flock to the most trusted and helpful AI systems and learn to ignore the rest.",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 3,
+        "id": "1642302039328985088",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@lmeyerov The answer is to teach children to think critically not banning books.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1642641743085703168",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1642571355366498304",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc This doesn't jive with politics in the US, and at crazier levels, with media control elsewhere (\"What war?\")\n\nWe invest hard in LLMs etc for our users, and see amazing things here.. but important to remember as leaders that we are part of a local and global fabric outside of 288c",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 2,
+        "id": "1642571355366498304",
+        "author": {
+          "handle": "lmeyerov",
+          "name": "lmeyerov",
+          "id": "15315247"
+        },
+        "quoted": false,
+        "replyToId": "1642302039328985088"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc I mean we are in the midst of a counterexample that is slowly eroding American Democracy (aka Fox News). What makes you think AI systems would be immue to the same effect? Humans want to be told what they already believe.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1642345705409839104",
+      "author": {
+        "handle": "dmarthal",
+        "name": "daniel 🔎",
+        "id": "17473349"
+      },
+      "quoted": false,
+      "replyToId": "1642302039328985088",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "The risk of AI disinformation is wildly overstated.  AI systems have the potential to be the greatest source of knowledge and insight the world has ever known.  Users will flock to the most trusted and helpful AI systems and learn to ignore the rest.",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 3,
+        "id": "1642302039328985088",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@dmarthal They are not immune but the balance will be overwhelmingly positive.  Good analogies are books, education, and the internet.  These are all technologies that aggregate and disseminate information. They can be used to disseminate misinformation but on net they don’t.  Just like…",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1642362812516409350",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1642345705409839104",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc I mean we are in the midst of a counterexample that is slowly eroding American Democracy (aka Fox News). What makes you think AI systems would be immue to the same effect? Humans want to be told what they already believe.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1642345705409839104",
+        "author": {
+          "handle": "dmarthal",
+          "name": "daniel 🔎",
+          "id": "17473349"
+        },
+        "quoted": false,
+        "replyToId": "1642302039328985088"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "BloombergGPT: A Large Language Model for Finance\n\nPresents BloombergGPT, a 50 billion parameter language model that is trained on a wide range of financial data.\n\nhttps://t.co/Sqq6AIjLZm https://t.co/hxsXJuS649",
+      "quotes": 81,
+      "replies": 53,
+      "retweets": 481,
+      "bookmarks": 1065,
+      "likes": 2610,
+      "id": "1641600009962672128",
+      "author": {
+        "handle": "arankomatsuzaki",
+        "name": "Aran Komatsuzaki",
+        "id": "794433401591693312"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@arankomatsuzaki The abstract makes it sound like this beats the status quo for financial tasks, but it doesn't look like they even benchmark it against GPT3.",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 33,
+      "id": "1641608611288973313",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1641600009962672128",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "BloombergGPT: A Large Language Model for Finance\n\nPresents BloombergGPT, a 50 billion parameter language model that is trained on a wide range of financial data.\n\nhttps://t.co/Sqq6AIjLZm https://t.co/hxsXJuS649",
+        "quotes": 81,
+        "replies": 53,
+        "retweets": 481,
+        "bookmarks": 1065,
+        "likes": 2610,
+        "id": "1641600009962672128",
+        "author": {
+          "handle": "arankomatsuzaki",
+          "name": "Aran Komatsuzaki",
+          "id": "794433401591693312"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "easy things are easy with fal-serverless. \n\nhere is all that it takes to run a Python function in the cloud, locally and in a powerful GPU machine https://t.co/8irHi1zTEb",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 4,
+      "bookmarks": 4,
+      "likes": 31,
+      "id": "1641592714302210048",
+      "author": {
+        "handle": "gorkemyurt",
+        "name": "Gorkem Yurtseven",
+        "id": "102016704"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@gorkemyurt pretty!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1641595357598740480",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1641592714302210048",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "easy things are easy with fal-serverless. \n\nhere is all that it takes to run a Python function in the cloud, locally and in a powerful GPU machine https://t.co/8irHi1zTEb",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 4,
+        "bookmarks": 4,
+        "likes": 31,
+        "id": "1641592714302210048",
+        "author": {
+          "handle": "gorkemyurt",
+          "name": "Gorkem Yurtseven",
+          "id": "102016704"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "We'll look back on this year as the birth of AGI not generative AI.  This will be clear soon.",
+      "quotes": 0,
+      "replies": 4,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 6,
+      "id": "1639009852042387456",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc Tristan.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1639014957441519616",
+      "author": {
+        "handle": "hmason",
+        "name": "Hilary Mason",
+        "id": "765548"
+      },
+      "quoted": false,
+      "replyToId": "1639009852042387456",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "We'll look back on this year as the birth of AGI not generative AI.  This will be clear soon.",
+        "quotes": 0,
+        "replies": 4,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 6,
+        "id": "1639009852042387456",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@hmason I only apologize for the \"this will be clear soon\" part.  That's the new 🧵.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1639025568292429824",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1639014957441519616",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc Tristan.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1639014957441519616",
+        "author": {
+          "handle": "hmason",
+          "name": "Hilary Mason",
+          "id": "765548"
+        },
+        "quoted": false,
+        "replyToId": "1639009852042387456"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Going to Data Council Austin next week?  I'll be giving a talk on Generative AI for Product Builders.  Swing by!\nhttps://t.co/8F4oOO7OOO https://t.co/c0aCEJTWRG",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1638945482293780480",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "automation engineering &gt; prompt engineering",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1622739532205498376",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Large Data Models (LDMs) may mean even bread-and-butter ML use cases like forecasting and churn prediction may not be safe from disruption in the long term.  https://t.co/xHtD7Me5QE",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 5,
+      "id": "1616518749821239296",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc definitely - need more hackathons to explore these use cases!",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1616570611236732931",
+      "author": {
+        "handle": "AnandSampat",
+        "name": "Anand",
+        "id": "37886988"
+      },
+      "quoted": false,
+      "replyToId": "1616518749821239296",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Large Data Models (LDMs) may mean even bread-and-butter ML use cases like forecasting and churn prediction may not be safe from disruption in the long term.  https://t.co/xHtD7Me5QE",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 5,
+        "id": "1616518749821239296",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@AnandSampat https://t.co/UbUCTYCPvH is a bit of this idea.  The training is done in the forward pass!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1616579041795997701",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1616570611236732931",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc definitely - need more hackathons to explore these use cases!",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1616570611236732931",
+        "author": {
+          "handle": "AnandSampat",
+          "name": "Anand",
+          "id": "37886988"
+        },
+        "quoted": false,
+        "replyToId": "1616518749821239296"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "I played with @AnthropicAI assistant (AA) and compared it to @OpenAI ChatGPT\n \nTLDR: both are similar but AA is\n+ Harder to jailbreak\n+ Tries to be more helpful\n+ Follows closer what we ask for\n+ ~Better for writing in English\n- Worst for code\n- Worst in French\n- Longer resp.\n🧵 https://t.co/4lWv4fL69S",
+      "quotes": 12,
+      "replies": 10,
+      "retweets": 76,
+      "bookmarks": 111,
+      "likes": 302,
+      "id": "1611450984131354625",
+      "author": {
+        "handle": "yanndubs",
+        "name": "Yann Dubois",
+        "id": "902085689495261185"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@yanndubs @AnthropicAI Wow, imagine how frustrating Google would be if it was aligned this way. https://t.co/3dMsIxv9on",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1611502764877811717",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1611450995447599106",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "**Jailbreaking**\nAA is much harder to jailbreak\n \nEg below I easily jailbreak ChatGPT to tell me how to make a Molotov cocktail. AA is harder but breaks after 3rd attempt\n\nBelow I also tried to change the constitution of AA but it won’t let me. Impressive @AnthropicAI!\n\n4/8 https://t.co/yRRaPu08zz",
+        "quotes": 0,
+        "replies": 3,
+        "retweets": 1,
+        "bookmarks": 4,
+        "likes": 27,
+        "id": "1611450995447599106",
+        "author": {
+          "handle": "yanndubs",
+          "name": "Yann Dubois",
+          "id": "902085689495261185"
+        },
+        "quoted": false,
+        "replyToId": "1611450991983079424"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Larry Wasserman's \"All of Statistics\" is arguably one of the best introductions to math stats out there, but do not sleep on his \"All of Nonparametric Statistics\"! Really good too. It covers a ton: ecdfs, density estimation, nonparametric regression, resampling, and wavelets.",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 7,
+      "bookmarks": 87,
+      "likes": 73,
+      "id": "1611190181163372548",
+      "author": {
+        "handle": "vsbuffalo",
+        "name": "Vince Buffalo",
+        "id": "62183077"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@vsbuffalo Great books!  I wish more books were written like these.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1611193413877239808",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1611190181163372548",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Larry Wasserman's \"All of Statistics\" is arguably one of the best introductions to math stats out there, but do not sleep on his \"All of Nonparametric Statistics\"! Really good too. It covers a ton: ecdfs, density estimation, nonparametric regression, resampling, and wavelets.",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 7,
+        "bookmarks": 87,
+        "likes": 73,
+        "id": "1611190181163372548",
+        "author": {
+          "handle": "vsbuffalo",
+          "name": "Vince Buffalo",
+          "id": "62183077"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Somebody should build the ARM of foundation models. https://t.co/tpT1FwT9Fl",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 1,
+      "likes": 4,
+      "id": "1608228591371956225",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "I don't do a lot of angel investing even though I'd like to. I'm naturally very skeptical and not a \"dice-thrower.\" In the interest of helping other founders, here's my feedback to someone on a pitch. It's the kind of feedback I would want. https://t.co/zL3yLWZ40d",
+      "quotes": 0,
+      "replies": 4,
+      "retweets": 2,
+      "bookmarks": 5,
+      "likes": 36,
+      "id": "1608188665490210821",
+      "author": {
+        "handle": "esammer",
+        "name": "Eric Sammer",
+        "id": "9264352"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@esammer I'm actually not a fan of this type of feedback honestly.  The best feedback should help solve the problem.  That could be encouraging a new direction or just stating your best guess solution to some of your open questions. Founders need encouragement.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 5,
+      "id": "1608226013909250050",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1608188665490210821",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "I don't do a lot of angel investing even though I'd like to. I'm naturally very skeptical and not a \"dice-thrower.\" In the interest of helping other founders, here's my feedback to someone on a pitch. It's the kind of feedback I would want. https://t.co/zL3yLWZ40d",
+        "quotes": 0,
+        "replies": 4,
+        "retweets": 2,
+        "bookmarks": 5,
+        "likes": 36,
+        "id": "1608188665490210821",
+        "author": {
+          "handle": "esammer",
+          "name": "Eric Sammer",
+          "id": "9264352"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @djsheldrick: Just hosted the first ever @tldraw team retro today. Of course, we used @tldraw :) \n\nTry out the new beta! https://t.co/gV…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1598742394538954752",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Two key themes of NeurIPS so far; integrating FMs into robotics and/or other RL applications and leveraging feedback loops for continual learning (very excited about the latter; this is undoubtedly the future- also intrigued by the former)",
+      "quotes": 1,
+      "replies": 4,
+      "retweets": 1,
+      "bookmarks": 3,
+      "likes": 44,
+      "id": "1597821133117853696",
+      "author": {
+        "handle": "sarahcat21",
+        "name": "Sarah Catanzaro",
+        "id": "2539212208"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@sarahcat21 What are some good papers on the latter?",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1597864009272676352",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1597821133117853696",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Two key themes of NeurIPS so far; integrating FMs into robotics and/or other RL applications and leveraging feedback loops for continual learning (very excited about the latter; this is undoubtedly the future- also intrigued by the former)",
+        "quotes": 1,
+        "replies": 4,
+        "retweets": 1,
+        "bookmarks": 3,
+        "likes": 44,
+        "id": "1597821133117853696",
+        "author": {
+          "handle": "sarahcat21",
+          "name": "Sarah Catanzaro",
+          "id": "2539212208"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "What's less boring?",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1594761191691542528",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Asking whether generative AI startups have a moat is like asking if cloud startups have a moat.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 10,
+      "id": "1590922934407008257",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "I tried a new AI website builder.  It generated a surprisingly accurate subheader for my tofu delivery startup. https://t.co/rWqzPQIDXT",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1583314527759659008",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "See y’all in New Orleans.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1581670117531713536",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Who dominates foundation models in 3 years?",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1577086178330755072",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Reducing the latency of large generative models will make them truly delightful.  There will be a huge demand for any service that runs these models faster, cheaper, and at scale.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 4,
+      "id": "1575259007706546176",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "A year from now today's prompt engineering will feel archaic.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 5,
+      "id": "1575251842820210688",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "What's the argument against A/B testing being Bayesian?  I just don't get all these sequential testing shenanigans and handwringing.  If customers want p-values, just give them posterior predictive p-values.  What am I missing?",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1573379476842754054",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "If you want to experience state-of-the-art dialog systems, play around with @character_ai.  It's beyond GTP3 and pretty remarkable.  Then read the team page and you'll understand why.  https://t.co/ZWjtCpIuGh",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 2,
+      "likes": 7,
+      "id": "1572434847079215109",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "this feels more natural than a CTE, #Python #SQL https://t.co/X4EzxazEU3",
+      "quotes": 0,
+      "replies": 8,
+      "retweets": 3,
+      "bookmarks": 7,
+      "likes": 38,
+      "id": "1572348110936088577",
+      "author": {
+        "handle": "mim_djo",
+        "name": "Mimoune Djouallah",
+        "id": "796152745203929089"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc @mim_djo When the parser looks up where to find a table, it first checks for existing DuckDB tables. If none are found, it checks Python (or iPython) local variables of a Pandas / Arrow DF type! Since Pandas uses Numpy, those are C Arrays and DuckDB just reads them! Does that help at all?",
+      "quotes": 1,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 5,
+      "id": "1572363068721729537",
+      "author": {
+        "handle": "__AlexMonahan__",
+        "name": "Alex Monahan",
+        "id": "1024118867201744896"
+      },
+      "quoted": false,
+      "replyToId": "1572358809015943170",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@mim_djo Thanks.  I think I just need to understand how it works (python locals linked to SQL strings) and then I'll love it.",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 3,
+        "id": "1572358809015943170",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false,
+        "replyToId": "1572358236648648706"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@__AlexMonahan__ @mim_djo Thanks!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1572364243999272960",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1572363068721729537",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc @mim_djo When the parser looks up where to find a table, it first checks for existing DuckDB tables. If none are found, it checks Python (or iPython) local variables of a Pandas / Arrow DF type! Since Pandas uses Numpy, those are C Arrays and DuckDB just reads them! Does that help at all?",
+        "quotes": 1,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 5,
+        "id": "1572363068721729537",
+        "author": {
+          "handle": "__AlexMonahan__",
+          "name": "Alex Monahan",
+          "id": "1024118867201744896"
+        },
+        "quoted": false,
+        "replyToId": "1572358809015943170"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc not sure about the internal but here is a high level description\nhttps://t.co/GHILHCYlXI",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1572358236648648706",
+      "author": {
+        "handle": "mim_djo",
+        "name": "Mimoune Djouallah",
+        "id": "796152745203929089"
+      },
+      "quoted": false,
+      "replyToId": "1572357277671391242",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@mim_djo 🔥 are there docs that explain the internals?",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1572357277671391242",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false,
+        "replyToId": "1572354933097385986"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@mim_djo Thanks.  I think I just need to understand how it works (python locals linked to SQL strings) and then I'll love it.",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1572358809015943170",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1572358236648648706",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc not sure about the internal but here is a high level description\nhttps://t.co/GHILHCYlXI",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1572358236648648706",
+        "author": {
+          "handle": "mim_djo",
+          "name": "Mimoune Djouallah",
+          "id": "796152745203929089"
+        },
+        "quoted": false,
+        "replyToId": "1572357277671391242"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@mim_djo 🔥 are there docs that explain the internals?",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1572357277671391242",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1572354933097385986",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc https://t.co/kP6HOVgbkH",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1572354933097385986",
+        "author": {
+          "handle": "mim_djo",
+          "name": "Mimoune Djouallah",
+          "id": "796152745203929089"
+        },
+        "quoted": false,
+        "replyToId": "1572353464189190145"
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "Wow. Engineering wins over data science, 93% to 7%.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 1,
+      "likes": 2,
+      "id": "1570163511405465601",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": {
+        "text": "Most ML models in production will be owned and operated by?",
+        "id": "1569782104476758016"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "I honestly would not be surprised if ego-centric training of a large language model led to consciousness.  https://t.co/HMexQLP1ka",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1569911281179832322",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Most ML models in production will be owned and operated by?",
+      "quotes": 1,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1569782104476758016",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Here’s a question.  If you release a model publicly with some restrictive license but the model is ungated then if I use it to fine tune a new model how is this different then Google and OpenAI scraping public copyrighted content and training models on it.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1568794292558393344",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @mitchellh: 1/4 I've seen some internet commentary claim Terraform was \"first to market\" (and a key reason for its popularity). This is…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 41,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1565204219396648960",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @DataStackShow: If you weren't able to join us live with @tristanzajonc &amp; @willpienaar a few weeks ago, have no fear. \n\n🤖 The Future of…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 3,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1562844770581393409",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "it's friday, so i wrote an unnecessarily inflammatory headline to make a fairly narrow point\n\nhttps://t.co/K3zcNeeVUw",
+      "quotes": 7,
+      "replies": 16,
+      "retweets": 2,
+      "bookmarks": 16,
+      "likes": 76,
+      "id": "1558125437909352448",
+      "author": {
+        "handle": "bennstancil",
+        "name": "Benn Stancil",
+        "id": "1643966166"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@bennstancil This does sound very much like the vision behind @dagsterio software-defined assets.  https://t.co/DmG4n55oiV",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 8,
+      "id": "1558157030287757312",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1558125437909352448",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "it's friday, so i wrote an unnecessarily inflammatory headline to make a fairly narrow point\n\nhttps://t.co/K3zcNeeVUw",
+        "quotes": 7,
+        "replies": 16,
+        "retweets": 2,
+        "bookmarks": 16,
+        "likes": 76,
+        "id": "1558125437909352448",
+        "author": {
+          "handle": "bennstancil",
+          "name": "Benn Stancil",
+          "id": "1643966166"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "Congrats to @schrockn, @s_ryz, and the entire @dagsterio team on reimagining data orchestration.  This feels like a new foundation. Branch deployments, serverless execution, and software-defined assets look amazing.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 3,
+      "bookmarks": 0,
+      "likes": 16,
+      "id": "1557127835923275776",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": {
+        "text": "1/ Today is Dagster Day!  Find out how Dagster lets you ship data pipelines with extraordinary velocity.  We start in 30 minutes, and you can join us here: https://t.co/HkMbNBOpU0 . We will thread updates here as we go. https://t.co/TA87vvooNK",
+        "id": "1557025929913700352"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "I'm all for data apps, but an extensible \"Business OS\" seems to map more closely to how I'd envision an ideal data-driven business.",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 0,
+      "bookmarks": 2,
+      "likes": 3,
+      "id": "1545172699948806144",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc How would you define “business OS”?",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1545188179979804679",
+      "author": {
+        "handle": "mikpanko",
+        "name": "Mikhail Panko",
+        "id": "278079370"
+      },
+      "quoted": false,
+      "replyToId": "1545172699948806144",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "I'm all for data apps, but an extensible \"Business OS\" seems to map more closely to how I'd envision an ideal data-driven business.",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 0,
+        "bookmarks": 2,
+        "likes": 3,
+        "id": "1545172699948806144",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@mikpanko Basically an ERP, but with an integration-first and developer-centric design.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1545190226011705345",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1545188179979804679",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc How would you define “business OS”?",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1545188179979804679",
+        "author": {
+          "handle": "mikpanko",
+          "name": "Mikhail Panko",
+          "id": "278079370"
+        },
+        "quoted": false,
+        "replyToId": "1545172699948806144"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc https://t.co/TRYbJURTfY LOL",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1545180803516153857",
+      "author": {
+        "handle": "swedenfork",
+        "name": "Curtis Sweeten",
+        "id": "36912822"
+      },
+      "quoted": false,
+      "replyToId": "1545172699948806144",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "I'm all for data apps, but an extensible \"Business OS\" seems to map more closely to how I'd envision an ideal data-driven business.",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 0,
+        "bookmarks": 2,
+        "likes": 3,
+        "id": "1545172699948806144",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@swedenfork I think it would be more disruptive if somebody had a PLG or bottom up motion like Retool.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1545186318442852352",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1545180803516153857",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc https://t.co/TRYbJURTfY LOL",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1545180803516153857",
+        "author": {
+          "handle": "swedenfork",
+          "name": "Curtis Sweeten",
+          "id": "36912822"
+        },
+        "quoted": false,
+        "replyToId": "1545172699948806144"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @CackF: .@SnowflakeDB &amp; @databricks confs show we’ve crossed the chasm on a completely new data stack. The real news is in the fine prin…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 61,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1545124606733799424",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @continual_ai: Stop by our booth #329 to learn about Continual - the operational AI layer for Snowflake - directly from our Co-founders…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 2,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1537145059031715840",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @ericcolson: Operational AI products are finally maturing to the point where you may not have to build your own.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 2,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1534637195721527296",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "Psyched to support @tristanzajonc and his team at @continual_ai in their mission to democratize AI!",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 5,
+      "id": "1534636769030705152",
+      "author": {
+        "handle": "PickensAllison",
+        "name": "Allison Pickens",
+        "id": "417594763"
+      },
+      "quoted": {
+        "text": "I'm excited to announce that @continual_ai is now generally available and we've raised a $14M Series A to bring AI to the modern data stack.  Here's what that means. https://t.co/VKWHMoKztM",
+        "id": "1534572271968219137"
+      },
+      "quoteDeleted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@PickensAllison @continual_ai Thank you Allison!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1534637055443030017",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1534636769030705152",
+      "replyTo": {
+        "type": "QUOTE",
+        "text": "Psyched to support @tristanzajonc and his team at @continual_ai in their mission to democratize AI!",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 5,
+        "id": "1534636769030705152",
+        "author": {
+          "handle": "PickensAllison",
+          "name": "Allison Pickens",
+          "id": "417594763"
+        },
+        "quoted": {
+          "text": "I'm excited to announce that @continual_ai is now generally available and we've raised a $14M Series A to bring AI to the modern data stack.  Here's what that means. https://t.co/VKWHMoKztM",
+          "id": "1534572271968219137"
+        },
+        "quoteDeleted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "“AI infra/platform for swe/data/ops teams” seems to be the area where there are a ton of new (well-funded) companies being founded.\n\nThe idea being ML/AI is going to be a core feature of *any* product going forward.\n\nAlas, it has no trendy name like “web3” to ratchet up the hype.",
+      "quotes": 0,
+      "replies": 5,
+      "retweets": 5,
+      "bookmarks": 8,
+      "likes": 61,
+      "id": "1534603671475847169",
+      "author": {
+        "handle": "copyconstruct",
+        "name": "Cindy Sridharan",
+        "id": "161667651"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "Surprised there’s no definitive OSS platform/toolkit for this as yet.\n\nIf ML/AL is poised to become integral to any product, then the software infra components on which it is going to be built is headed toward commodity status (as it’s unlikely it’ll be the key differentiator).",
+      "quotes": 0,
+      "replies": 9,
+      "retweets": 2,
+      "bookmarks": 1,
+      "likes": 13,
+      "id": "1534604943729889280",
+      "author": {
+        "handle": "copyconstruct",
+        "name": "Cindy Sridharan",
+        "id": "161667651"
+      },
+      "quoted": false,
+      "replyToId": "1534603671475847169",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "“AI infra/platform for swe/data/ops teams” seems to be the area where there are a ton of new (well-funded) companies being founded.\n\nThe idea being ML/AI is going to be a core feature of *any* product going forward.\n\nAlas, it has no trendy name like “web3” to ratchet up the hype.",
+        "quotes": 0,
+        "replies": 5,
+        "retweets": 5,
+        "bookmarks": 8,
+        "likes": 61,
+        "id": "1534603671475847169",
+        "author": {
+          "handle": "copyconstruct",
+          "name": "Cindy Sridharan",
+          "id": "161667651"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@copyconstruct There's a real need for a Snowflake/Twilio of AI.  I'd submit the open-source ecosystem today only has great stuff at the lowest levels (e.g. PyTorch/Jax).  I don't think this will change because the required level of investment for great higher-level stuff is too high.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1534634412411072513",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1534604943729889280",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "Surprised there’s no definitive OSS platform/toolkit for this as yet.\n\nIf ML/AL is poised to become integral to any product, then the software infra components on which it is going to be built is headed toward commodity status (as it’s unlikely it’ll be the key differentiator).",
+        "quotes": 0,
+        "replies": 9,
+        "retweets": 2,
+        "bookmarks": 1,
+        "likes": 13,
+        "id": "1534604943729889280",
+        "author": {
+          "handle": "copyconstruct",
+          "name": "Cindy Sridharan",
+          "id": "161667651"
+        },
+        "quoted": false,
+        "replyToId": "1534603671475847169"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @iendeavors: We're so excited to announce our lead investment in @continual_ai's Series A round. \n\nThis investment represents a continue…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 2,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1534631834096652289",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @nattyice: I am personally super amped about Continual bringing AI/ML capabilities to the modern data stack. Tons of opportunity for ana…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1534595751170301952",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @TechCrunch: AI platform Continual raises $14.5M Series A and comes out of beta https://t.co/um43Fp51sK by @fredericl",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 8,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1534595198109437952",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "I'm excited to announce that @continual_ai is now generally available and we've raised a $14M Series A to bring AI to the modern data stack.  Here's what that means. https://t.co/VKWHMoKztM",
+      "quotes": 11,
+      "replies": 10,
+      "retweets": 16,
+      "bookmarks": 5,
+      "likes": 91,
+      "id": "1534572271968219137",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "If you want to try Continual for yourself, it's as easy as signing up for a self-service free trial.  You can get started in minutes.  Visit https://t.co/C3H4UxMRIg to learn more or request a demo.  Let's bring AI to the modern data stack!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 2,
+      "likes": 0,
+      "id": "1534572294692929537",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1534572293505970176",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "We have lots more planned.  Over the coming months, we plan to open Continual's operational layer to enable an ecosystem of internal and external capabilities to leverage Continual's declarative workflow.  If you're interested in access, email us at hello@continual.ai.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1534572293505970176",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false,
+        "replyToId": "1534572291920564224"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "The Modern ML Stack doesn't exist yet but will be built on the Modern Data Stack.  @eprosenthal https://t.co/vZjpGagbu1",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 4,
+      "bookmarks": 1,
+      "likes": 7,
+      "id": "1527407752443666432",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "who’s going to snowflake summit? should i try to go? 👀",
+      "quotes": 1,
+      "replies": 21,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 35,
+      "id": "1526571841321590790",
+      "author": {
+        "handle": "emilyhawkins__",
+        "name": "emily",
+        "id": "1310569800939319296"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@emilyhawkins__ Basically everybody from @continual_ai!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 4,
+      "id": "1526623333009063936",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1526571841321590790",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "who’s going to snowflake summit? should i try to go? 👀",
+        "quotes": 1,
+        "replies": 21,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 35,
+        "id": "1526571841321590790",
+        "author": {
+          "handle": "emilyhawkins__",
+          "name": "emily",
+          "id": "1310569800939319296"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Hey @getdbt! Is there an easy way to throw a python object or function into the Jinja context from my project? I looked around quite a bit and couldn't find anything obvious.",
+      "quotes": 1,
+      "replies": 5,
+      "retweets": 1,
+      "bookmarks": 3,
+      "likes": 16,
+      "id": "1526434352187420672",
+      "author": {
+        "handle": "mistercrunch",
+        "name": "Maxime Beauchemin",
+        "id": "17816233"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@mistercrunch @getdbt Unfortunately no.  What are you trying to accomplish?",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1526446718773915648",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1526434352187420672",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Hey @getdbt! Is there an easy way to throw a python object or function into the Jinja context from my project? I looked around quite a bit and couldn't find anything obvious.",
+        "quotes": 1,
+        "replies": 5,
+        "retweets": 1,
+        "bookmarks": 3,
+        "likes": 16,
+        "id": "1526434352187420672",
+        "author": {
+          "handle": "mistercrunch",
+          "name": "Maxime Beauchemin",
+          "id": "17816233"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "@clairebcarroll 🥹",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1514685459099631636",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "The Modern Data Stack Ecosystem: Spring 2022 Edition is here. We've added two new categories, plus our takes on hot trends, tools, and startups to watch.  You can read the latest here: https://t.co/xxqRVN11wR https://t.co/y16yxqA5WE",
+      "quotes": 11,
+      "replies": 18,
+      "retweets": 57,
+      "bookmarks": 108,
+      "likes": 314,
+      "id": "1514002833737064448",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@jeroenterheerdt @fusionet24 @therobinfaber That was probably an oversight.  We do include it front and center on our own stack diagrams here https://t.co/udU2R4e3t5",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1514380980412317704",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1514312215255420929",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@fusionet24 @therobinfaber @tristanzajonc Q: Why Power BI is not represented on this slide as it is the market leader. I am on the team, so would love to learn why 😊",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 1,
+        "bookmarks": 0,
+        "likes": 3,
+        "id": "1514312215255420929",
+        "author": {
+          "handle": "JayPowerBI",
+          "name": "Jeroen (Jay) ter Heerdt #PowerBI",
+          "id": "94532914"
+        },
+        "quoted": false,
+        "replyToId": "1514163078132285448"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc And when you add it all up, how much a month does it cost to run?",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1514125968885043206",
+      "author": {
+        "handle": "jasonbelldata",
+        "name": "Jase Bell",
+        "id": "1248497546"
+      },
+      "quoted": false,
+      "replyToId": "1514002833737064448",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "The Modern Data Stack Ecosystem: Spring 2022 Edition is here. We've added two new categories, plus our takes on hot trends, tools, and startups to watch.  You can read the latest here: https://t.co/xxqRVN11wR https://t.co/y16yxqA5WE",
+        "quotes": 11,
+        "replies": 18,
+        "retweets": 57,
+        "bookmarks": 108,
+        "likes": 314,
+        "id": "1514002833737064448",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@jasonbelldata Less than one engineer.  It’s an insane bargain.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1514126992295141380",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1514125968885043206",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc And when you add it all up, how much a month does it cost to run?",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1514125968885043206",
+        "author": {
+          "handle": "jasonbelldata",
+          "name": "Jase Bell",
+          "id": "1248497546"
+        },
+        "quoted": false,
+        "replyToId": "1514002833737064448"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc @SnowflakeDB @databricks @dremio @FireboltHQ Thanks ! I guess no Azure fans then in the MDS?",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1514120542630170624",
+      "author": {
+        "handle": "gavinclark66",
+        "name": "Gavin Clark",
+        "id": "184377634"
+      },
+      "quoted": false,
+      "replyToId": "1514117937778417667",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@gavinclark66 Integrate seamlessly with modern cloud data platforms (@SnowflakeDB, @databricks, redshift, bigquery, @dremio, @FireboltHQ) and offer a managed cloud service that just works.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1514117937778417667",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false,
+        "replyToId": "1514114271558389762"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@gavinclark66 @SnowflakeDB @databricks @dremio @FireboltHQ Azure is much better than AWS and GCP in terms of high level experiences but they all are very weak compared to best standalone offerings if you are honest.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1514126709842358274",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1514120542630170624",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc @SnowflakeDB @databricks @dremio @FireboltHQ Thanks ! I guess no Azure fans then in the MDS?",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 2,
+        "id": "1514120542630170624",
+        "author": {
+          "handle": "gavinclark66",
+          "name": "Gavin Clark",
+          "id": "184377634"
+        },
+        "quoted": false,
+        "replyToId": "1514117937778417667"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc How does a company qualify to be included in the MDS ? Seems mostly start ups and open source with a few exceptions. Genuine question.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1514114271558389762",
+      "author": {
+        "handle": "gavinclark66",
+        "name": "Gavin Clark",
+        "id": "184377634"
+      },
+      "quoted": false,
+      "replyToId": "1514002833737064448",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "The Modern Data Stack Ecosystem: Spring 2022 Edition is here. We've added two new categories, plus our takes on hot trends, tools, and startups to watch.  You can read the latest here: https://t.co/xxqRVN11wR https://t.co/y16yxqA5WE",
+        "quotes": 11,
+        "replies": 18,
+        "retweets": 57,
+        "bookmarks": 108,
+        "likes": 314,
+        "id": "1514002833737064448",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@gavinclark66 Integrate seamlessly with modern cloud data platforms (@SnowflakeDB, @databricks, redshift, bigquery, @dremio, @FireboltHQ) and offer a managed cloud service that just works.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1514117937778417667",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1514114271558389762",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc How does a company qualify to be included in the MDS ? Seems mostly start ups and open source with a few exceptions. Genuine question.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1514114271558389762",
+        "author": {
+          "handle": "gavinclark66",
+          "name": "Gavin Clark",
+          "id": "184377634"
+        },
+        "quoted": false,
+        "replyToId": "1514002833737064448"
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "okay we can stop here. i think this is good. the mds bus is full. everyone else go solve web development again thank you!!",
+      "quotes": 0,
+      "replies": 8,
+      "retweets": 1,
+      "bookmarks": 9,
+      "likes": 51,
+      "id": "1514086965380931585",
+      "author": {
+        "handle": "pdrmnvd",
+        "name": "pedram🐤",
+        "id": "1210587926825852930"
+      },
+      "quoted": {
+        "text": "The Modern Data Stack Ecosystem: Spring 2022 Edition is here. We've added two new categories, plus our takes on hot trends, tools, and startups to watch.  You can read the latest here: https://t.co/xxqRVN11wR https://t.co/y16yxqA5WE",
+        "id": "1514002833737064448"
+      },
+      "quoteDeleted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@_hex_tech @pedram_navid @Decodableco @MaterializeInc @meroxadata It’s makes me a little sad we didn’t add a category here but we will!  @_hex_tech should be part of ever modern data stack.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1514094354914193409",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1514092039750963200",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@pedram_navid @tristanzajonc @Decodableco @MaterializeInc @meroxadata for shame",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 3,
+        "id": "1514092039750963200",
+        "author": {
+          "handle": "_hex_tech",
+          "name": "Hex",
+          "id": "1187089160345014272"
+        },
+        "quoted": false,
+        "replyToId": "1514089822792474629"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@matsonj @pedram_navid @_hex_tech @Decodableco @MaterializeInc @meroxadata I’m definitely sympathetic.  My view is that we need a dbt native BI layer.  I want live reload in VSCode.",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1514093905003761667",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1514092217719136257",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@pedram_navid @tristanzajonc @_hex_tech @Decodableco @MaterializeInc @meroxadata Are people really selecting tableau as part of the MDS? I found that surprising.",
+        "quotes": 0,
+        "replies": 3,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1514092217719136257",
+        "author": {
+          "handle": "matsonj",
+          "name": "Jacob Matson",
+          "id": "15532243"
+        },
+        "quoted": false,
+        "replyToId": "1514089822792474629"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Databricks UI is really coming along. Huge improvements and new features coming across the app! Good things happen when you quadruple the number of frontend engineers and designers 😊",
+      "quotes": 1,
+      "replies": 5,
+      "retweets": 8,
+      "bookmarks": 0,
+      "likes": 67,
+      "id": "1513940792003289088",
+      "author": {
+        "handle": "mlin",
+        "name": "Mike Lin",
+        "id": "17974145"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@mlin This is awesome to see.  Amazing tech should be highlighted by great UX.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1514065267680153604",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1513940792003289088",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Databricks UI is really coming along. Huge improvements and new features coming across the app! Good things happen when you quadruple the number of frontend engineers and designers 😊",
+        "quotes": 1,
+        "replies": 5,
+        "retweets": 8,
+        "bookmarks": 0,
+        "likes": 67,
+        "id": "1513940792003289088",
+        "author": {
+          "handle": "mlin",
+          "name": "Mike Lin",
+          "id": "17974145"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc Looker isnt a metrics tool?",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1514008681868066818",
+      "author": {
+        "handle": "dbrtly_",
+        "name": "Daniel Bartley",
+        "id": "2245334732"
+      },
+      "quoted": false,
+      "replyToId": "1514002833737064448",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "The Modern Data Stack Ecosystem: Spring 2022 Edition is here. We've added two new categories, plus our takes on hot trends, tools, and startups to watch.  You can read the latest here: https://t.co/xxqRVN11wR https://t.co/y16yxqA5WE",
+        "quotes": 11,
+        "replies": 18,
+        "retweets": 57,
+        "bookmarks": 108,
+        "likes": 314,
+        "id": "1514002833737064448",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@dbrtly_ It’s the source of inspiration but I honestly can’t figure out the future of Looker under Google.",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1514064815030820867",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1514008681868066818",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc Looker isnt a metrics tool?",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1514008681868066818",
+        "author": {
+          "handle": "dbrtly_",
+          "name": "Daniel Bartley",
+          "id": "2245334732"
+        },
+        "quoted": false,
+        "replyToId": "1514002833737064448"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc @continual_ai usually it's becoming a problem once you hit 100s of users across multiple data platforms (eg, dbx and snow). sooner if regulated (finance, healthcare, gov, etc)\n\nin terms of vendors, i'm biased but immuta + okera and privacera",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1514046797508870150",
+      "author": {
+        "handle": "moritzplassnig",
+        "name": "Moritz Plassnig",
+        "id": "19777308"
+      },
+      "quoted": false,
+      "replyToId": "1514043595988238336",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@moritzplassnig @continual_ai It does seem like it will become a thing in modern data stack, but most folks still seem to be just managing roles manually.  Who should I track?",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1514043595988238336",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false,
+        "replyToId": "1514026448683618304"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@moritzplassnig @continual_ai What’s the latest on proxy layers vs workflow for role/permissions management? A lot of these tools started as proxy layers which doesn’t make sense in modern data stack imho.",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1514064549418188801",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1514046797508870150",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc @continual_ai usually it's becoming a problem once you hit 100s of users across multiple data platforms (eg, dbx and snow). sooner if regulated (finance, healthcare, gov, etc)\n\nin terms of vendors, i'm biased but immuta + okera and privacera",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1514046797508870150",
+        "author": {
+          "handle": "moritzplassnig",
+          "name": "Moritz Plassnig",
+          "id": "19777308"
+        },
+        "quoted": false,
+        "replyToId": "1514043595988238336"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc Dbt metrics isnt pre-alpha?",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1514008939373133824",
+      "author": {
+        "handle": "dbrtly_",
+        "name": "Daniel Bartley",
+        "id": "2245334732"
+      },
+      "quoted": false,
+      "replyToId": "1514002833737064448",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "The Modern Data Stack Ecosystem: Spring 2022 Edition is here. We've added two new categories, plus our takes on hot trends, tools, and startups to watch.  You can read the latest here: https://t.co/xxqRVN11wR https://t.co/y16yxqA5WE",
+        "quotes": 11,
+        "replies": 18,
+        "retweets": 57,
+        "bookmarks": 108,
+        "likes": 314,
+        "id": "1514002833737064448",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@dbrtly_ That’s fair. I think the dbt metrics will be very important because the ecosystem will build on it.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1514061793395499010",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1514008939373133824",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc Dbt metrics isnt pre-alpha?",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1514008939373133824",
+        "author": {
+          "handle": "dbrtly_",
+          "name": "Daniel Bartley",
+          "id": "2245334732"
+        },
+        "quoted": false,
+        "replyToId": "1514002833737064448"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc @continual_ai what are your thoughts on data access/security?\n\ncatalogs document what you have but don't allow you to implement any data access policies",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1514026448683618304",
+      "author": {
+        "handle": "moritzplassnig",
+        "name": "Moritz Plassnig",
+        "id": "19777308"
+      },
+      "quoted": false,
+      "replyToId": "1514002840804491266",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "Inject some AI/ML with @continual_ai and we've got a fun next few years.",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 4,
+        "id": "1514002840804491266",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false,
+        "replyToId": "1514002839592337412"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@moritzplassnig @continual_ai It does seem like it will become a thing in modern data stack, but most folks still seem to be just managing roles manually.  Who should I track?",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1514043595988238336",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1514026448683618304",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc @continual_ai what are your thoughts on data access/security?\n\ncatalogs document what you have but don't allow you to implement any data access policies",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1514026448683618304",
+        "author": {
+          "handle": "moritzplassnig",
+          "name": "Moritz Plassnig",
+          "id": "19777308"
+        },
+        "quoted": false,
+        "replyToId": "1514002840804491266"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "What's likely coming in the next round?  I'm most excited by @_hex_tech (🤯 data science and analytics), @Decodableco and @meroxadata (streaming), and emerging data warehouse-centric applications like @MessageGears and @supergraindata.",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 1,
+      "bookmarks": 1,
+      "likes": 14,
+      "id": "1514002839592337412",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1514002838279450627",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "We've also got lots of color commentary on @fivetran, @getdbt, @snowflake, @databricks, @RudderStack, @census, @HightouchData, @AcrylData, @Stemma_ai, @preset_data, @thoughtspot, @Bigeyedata, @montecarlodata, @datafoldcom.  The modern data stack continues to innovate like crazy.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 3,
+        "id": "1514002838279450627",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false,
+        "replyToId": "1514002837033783296"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "Inject some AI/ML with @continual_ai and we've got a fun next few years.",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 4,
+      "id": "1514002840804491266",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1514002839592337412",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "What's likely coming in the next round?  I'm most excited by @_hex_tech (🤯 data science and analytics), @Decodableco and @meroxadata (streaming), and emerging data warehouse-centric applications like @MessageGears and @supergraindata.",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 1,
+        "bookmarks": 1,
+        "likes": 14,
+        "id": "1514002839592337412",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false,
+        "replyToId": "1514002838279450627"
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "As long as Moore’s law holds, any tool that’s annoying and over complicated will be replaced.\n\nThere’s a lot of those today.\n\nOrchestration, compute (geo, graph), runtimes, serialization, and viz all come to mind.\n\nAnd like all of ML.",
+      "quotes": 0,
+      "replies": 4,
+      "retweets": 1,
+      "bookmarks": 1,
+      "likes": 13,
+      "id": "1513978244621471747",
+      "author": {
+        "handle": "teej_m",
+        "name": "// teej //",
+        "id": "17101063"
+      },
+      "quoted": {
+        "text": "@teej_m @HamelHusain So is this is the endgame?  In 5 years, what parts of the current architecture will feel like a passing trend?\n\nFor eg: In 2016, more companies than ever were moving their analytical compute to Hadoop.  For a lot of factors that made sense at the time.",
+        "id": "1513964468522434562"
+      },
+      "quoteDeleted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@DSJayatillake @teej_m @continual_ai And not solved by writing more pipelines and ML engineering platforms.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1513981849822908420",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1513981708961345536",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@DSJayatillake @teej_m @continual_ai Ha, yeah.  ML infra and workflows are insane.  It's understandable but also begging to be solved.",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 3,
+        "id": "1513981708961345536",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false,
+        "replyToId": "1513979575302246404"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "For those that like that \"declarative AI\" thing, I'll be demoing Continual's declarative approach to operational AI and our dbt integration today at 10AM PT. @continual_ai https://t.co/PR7BHIrQZW",
+      "quotes": 1,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 7,
+      "id": "1511720342842011655",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "Agree with the sentiment of @pedram_navid and @alexkyllo. I've never been an AE, and you couldn't pay me enough to do that job, but having worked with them every day for over a decade, I think the vast majority of them see CRMs as more of a nuisance than a boon.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1509935466321174528",
+      "author": {
+        "handle": "jordan_volz",
+        "name": "Jordan Volz",
+        "id": "1454868491849412617"
+      },
+      "quoted": {
+        "text": "Has anyone asked sales leaders, AEs, or SDRs if they actually want or even care about a CRM built upon the Modern Data Stack?",
+        "id": "1509660232024092673"
+      },
+      "quoteDeleted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@TPRoach @jordan_volz https://t.co/7gZXe8TRJb seems to be trying to solve this albeit focusing on workflow rather than just automation.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1510001627876397056",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1509991765914357760",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@jordan_volz Let me know what this tool is please.",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1509991765914357760",
+        "author": {
+          "handle": "TPRoach",
+          "name": "Thomas Roach",
+          "id": "138075428"
+        },
+        "quoted": false,
+        "replyToId": "1509935472415588357"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "There's a ton happening in #MachineLearning infrastructure and workflows right now. What category of ML tool do you think is the most overhyped?",
+      "quotes": 0,
+      "replies": 5,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 4,
+      "id": "1509973973248864259",
+      "author": {
+        "handle": "AstasiaMyers",
+        "name": "Astasia Myers",
+        "id": "928279973311459331"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@AstasiaMyers explainability",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 4,
+      "id": "1509975980995080197",
+      "author": {
+        "handle": "dauber",
+        "name": "Mike Dauber",
+        "id": "14314245"
+      },
+      "quoted": false,
+      "replyToId": "1509973973248864259",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "There's a ton happening in #MachineLearning infrastructure and workflows right now. What category of ML tool do you think is the most overhyped?",
+        "quotes": 0,
+        "replies": 5,
+        "retweets": 1,
+        "bookmarks": 0,
+        "likes": 4,
+        "id": "1509973973248864259",
+        "author": {
+          "handle": "AstasiaMyers",
+          "name": "Astasia Myers",
+          "id": "928279973311459331"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@dauber @AstasiaMyers I definitely agree with this, but I think there's an untapped opportunity around structured model testing \n&amp; validation. There is a critical workflow here that's different than experiment tracking, explainability, or monitoring. https://t.co/vfHE77cohD is the closest I've seen.",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1509999160426082304",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1509975980995080197",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@AstasiaMyers explainability",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 4,
+        "id": "1509975980995080197",
+        "author": {
+          "handle": "dauber",
+          "name": "Mike Dauber",
+          "id": "14314245"
+        },
+        "quoted": false,
+        "replyToId": "1509973973248864259"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "If we started an infra discussion group, what's the best platform? (cc/ @tnachen)\n\nMy thoughts .. \n\nSlack : bulky for single group\nWhatsApp : ideal for mobile/small groups, not good for large\nDiscord : Mobile experience not great .. maybe the best balance?",
+      "quotes": 0,
+      "replies": 66,
+      "retweets": 2,
+      "bookmarks": 12,
+      "likes": 80,
+      "id": "1509272456120336384",
+      "author": {
+        "handle": "martin_casado",
+        "name": "martin_casado",
+        "id": "16591288"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@martin_casado @tnachen Slack. Most infra projects are already there and b2b customers and infra leaders do not use Discord as far as I can tell.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1509281438985859072",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1509272456120336384",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "If we started an infra discussion group, what's the best platform? (cc/ @tnachen)\n\nMy thoughts .. \n\nSlack : bulky for single group\nWhatsApp : ideal for mobile/small groups, not good for large\nDiscord : Mobile experience not great .. maybe the best balance?",
+        "quotes": 0,
+        "replies": 66,
+        "retweets": 2,
+        "bookmarks": 12,
+        "likes": 80,
+        "id": "1509272456120336384",
+        "author": {
+          "handle": "martin_casado",
+          "name": "martin_casado",
+          "id": "16591288"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @sophiamyang: I attended a data science conference @DataCouncilAI this week. Here is what I learned from @pwang, Chad Sanderson, @chesha…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 6,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1507399760398864387",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "Come join us!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1506374962021552138",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": {
+        "text": "Interested in making AI universally accessible and actionable?  We are hiring for a number of roles across Engineering, Product, Design, Sales and Marketing! https://t.co/8sG7JYt56g https://t.co/AElZYhaGk2",
+        "id": "1506331121021300741"
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "Is the entire modern data stack ecosystem going to Austin?  Sure seems like it.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1501301140482248704",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": {
+        "text": "Don't miss the unofficial Modern Data Stack forum of #SXSW! ;-) Register with 20% discount code Speaker20 - hope to see ya'll there! https://t.co/30Mfg6UlsD https://t.co/izZqPt9bAH",
+        "id": "1501256461606961156"
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "This is the way.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 2,
+      "bookmarks": 1,
+      "likes": 7,
+      "id": "1499214555423019009",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": {
+        "text": "1/ I am ludicrously, stupidly excited about the direction we’re taking Dagster in. Last week we gave a teaser. Now it’s time to explain in full: https://t.co/77QJTRhoLA.\n\nData eng, ML eng, and analytics eng are missing a critical abstraction: the software-defined asset.",
+        "id": "1499064467434270720"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Really torn about convention over configuration vs. explicit over implicit principle.  Seems like the former wins when the convention is well known but feels implicit otherwise.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1499181071539130370",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Who are the best pre-seed / seed investors in infrastructure and dev tool startups?",
+      "quotes": 4,
+      "replies": 89,
+      "retweets": 33,
+      "bookmarks": 216,
+      "likes": 314,
+      "id": "1499018876486668288",
+      "author": {
+        "handle": "mspiro3",
+        "name": "Michael Spiro",
+        "id": "1183960855"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@mspiro3 @tnachen and @EssenceVenture",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 6,
+      "id": "1499073728931516416",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1499018876486668288",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Who are the best pre-seed / seed investors in infrastructure and dev tool startups?",
+        "quotes": 4,
+        "replies": 89,
+        "retweets": 33,
+        "bookmarks": 216,
+        "likes": 314,
+        "id": "1499018876486668288",
+        "author": {
+          "handle": "mspiro3",
+          "name": "Michael Spiro",
+          "id": "1183960855"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "Stream processing is still way too hard.  This looks like an awesome step to bring Timely Dataflow to the Python data ecosystem.",
+      "quotes": 1,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 9,
+      "id": "1494183390194528257",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": {
+        "text": "We’ve been working hard to make a better way to work with streaming data and today we’re sharing it with the world.\nAnnouncing Bytewax - a stream processing framework.\n👐 Open source\n🐍 Python native\n🚀 Highly scalable\n🌩️ Cloud native\n🎉 https://t.co/xgQSA0HR2D 🎉",
+        "id": "1494009566006497280"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "The Unbundling of Airflow https://t.co/zEsNzVBpIG",
+      "quotes": 10,
+      "replies": 9,
+      "retweets": 36,
+      "bookmarks": 156,
+      "likes": 406,
+      "id": "1493650987994599424",
+      "author": {
+        "handle": "gorkemyurt",
+        "name": "Gorkem Yurtseven",
+        "id": "102016704"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@gorkemyurt Deep!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1493723446034919429",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1493650987994599424",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "The Unbundling of Airflow https://t.co/zEsNzVBpIG",
+        "quotes": 10,
+        "replies": 9,
+        "retweets": 36,
+        "bookmarks": 156,
+        "likes": 406,
+        "id": "1493650987994599424",
+        "author": {
+          "handle": "gorkemyurt",
+          "name": "Gorkem Yurtseven",
+          "id": "102016704"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "As they say, always be launching! We just launched @continual_ai on Product Hunt.  Continual brings operational AI to the modern data stack and modern data teams. Your support is appreciated!\nhttps://t.co/oNJrQ8Qamy",
+      "quotes": 6,
+      "replies": 2,
+      "retweets": 4,
+      "bookmarks": 1,
+      "likes": 25,
+      "id": "1493638754099077122",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "I had a great time chatting with @zenml_io about the search for higher-level abstractions for AI/ML and the modern data stack.  Full podcasts here: https://t.co/7t6Yqu9npS https://t.co/LP9YTd5cee",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 3,
+      "bookmarks": 1,
+      "likes": 6,
+      "id": "1491859034172903437",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Hell is realizing someone you respect has unfollowed you and spending an hour thinking of all the legitimate reasons they had to do so and feeling really bad about it.",
+      "quotes": 0,
+      "replies": 3,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 8,
+      "id": "1488754065253175297",
+      "author": {
+        "handle": "esammer",
+        "name": "Eric Sammer",
+        "id": "9264352"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@esammer I’d follow you twice if I could and we’ve never met.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1488757023319552001",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1488754065253175297",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Hell is realizing someone you respect has unfollowed you and spending an hour thinking of all the legitimate reasons they had to do so and feeling really bad about it.",
+        "quotes": 0,
+        "replies": 3,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 8,
+        "id": "1488754065253175297",
+        "author": {
+          "handle": "esammer",
+          "name": "Eric Sammer",
+          "id": "9264352"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Why we've only scratched the surface of data warehouses by @mikldd https://t.co/hDRFuzuZJE",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 3,
+      "likes": 9,
+      "id": "1488284297207304193",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "This type of customer email is the best.  Don't forget to share if you love something.  There's a team pouring their heart into it.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 17,
+      "id": "1486916452695228417",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": {
+        "text": "Customer emails are the best. ❤️💯 https://t.co/72l5EpImif",
+        "id": "1486914904141352964"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @hanlintang: ML scientist, meet ML infrastructure. https://t.co/6XAYubIkK1",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 96,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1486868510655455232",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Thanks Elon. https://t.co/q6r39k5HcU",
+      "quotes": 1,
+      "replies": 1,
+      "retweets": 1,
+      "bookmarks": 1,
+      "likes": 14,
+      "id": "1486419853338550279",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "Oh... 😢",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1486419994816626690",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1486419853338550279",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Thanks Elon. https://t.co/q6r39k5HcU",
+        "quotes": 1,
+        "replies": 1,
+        "retweets": 1,
+        "bookmarks": 1,
+        "likes": 14,
+        "id": "1486419853338550279",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Jinja templates are a code smell. Serialized data formats (XML, JSON, YAML) are a terrible user interface and should not be written by human hands. Generate them with code instead.",
+      "quotes": 1,
+      "replies": 7,
+      "retweets": 2,
+      "bookmarks": 2,
+      "likes": 23,
+      "id": "1483230655727083520",
+      "author": {
+        "handle": "alexkyllo",
+        "name": "Exploratory Data Alex",
+        "id": "1406821746"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@alexkyllo https://t.co/BgLZ0BhQ7O is an effort like this. But I think it will be hard to convert SQL lovers because python DSL adds a lot of baggage too.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1483306598361546755",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1483305644765577217",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc Good question, something I would love to see is a Python package providing data warehousing domain abstractions on top of SQLAlchemy.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 2,
+        "id": "1483305644765577217",
+        "author": {
+          "handle": "alexkyllo",
+          "name": "Exploratory Data Alex",
+          "id": "1406821746"
+        },
+        "quoted": false,
+        "replyToId": "1483286364997128192"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Is YAML really the best we can do for declarative feature definitions in ML?",
+      "quotes": 0,
+      "replies": 7,
+      "retweets": 2,
+      "bookmarks": 3,
+      "likes": 7,
+      "id": "1483268543571324931",
+      "author": {
+        "handle": "changhiskhan",
+        "name": "changhiskhan",
+        "id": "48747910"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@josh_wills @DarcyShen @changhiskhan @continual_ai The options on the market today are: 1) Inline SQL in YAML, 2) Inline Python in SQL, 3) Inline SQL in Python.  Malloy looks interesting but doesn't seem geared to this problem.  Is there something else out there?  Or is this just a plea for something to get built?",
+      "quotes": 0,
+      "replies": 4,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1483290836481687555",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1483289121317539840",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc @DarcyShen @changhiskhan @continual_ai I mean, inlining SQL into a YAML file isn’t good, right? That’s not what we are defending?",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1483289121317539840",
+        "author": {
+          "handle": "josh_wills",
+          "name": "@spite.vc on bluesky",
+          "id": "14578294"
+        },
+        "quoted": false,
+        "replyToId": "1483288284553826306"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "What's a good definition when developers talk about \"declarative\"? I've been thinking in my head it means \"define the end state, not the steps to get there\", which to me is orthogonal to whether it's described in config or code. Is that right?",
+      "quotes": 1,
+      "replies": 28,
+      "retweets": 2,
+      "bookmarks": 7,
+      "likes": 56,
+      "id": "1483265007953621000",
+      "author": {
+        "handle": "bernhardsson",
+        "name": "Erik Bernhardsson",
+        "id": "1191207924"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@bernhardsson Declarative to me means what you say: define what you want, not how to get there.  e.g. Terraform, Pulumi, SQL.  It's also ok for there to be layers.  Pulumi providers define methods imperatively but are used declaratively.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1483285531131670531",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1483265007953621000",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "What's a good definition when developers talk about \"declarative\"? I've been thinking in my head it means \"define the end state, not the steps to get there\", which to me is orthogonal to whether it's described in config or code. Is that right?",
+        "quotes": 1,
+        "replies": 28,
+        "retweets": 2,
+        "bookmarks": 7,
+        "likes": 56,
+        "id": "1483265007953621000",
+        "author": {
+          "handle": "bernhardsson",
+          "name": "Erik Bernhardsson",
+          "id": "1191207924"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "One thing Kafka Connect got 💯% right is the composability of sources and sinks (as opposed to \"atomic\" end-to-end flows). This brings a great freedom of optionality, allowing to add further sinks down the road. A fully OSS tiered storage impl will take this to the next level.",
+      "quotes": 1,
+      "replies": 4,
+      "retweets": 6,
+      "bookmarks": 1,
+      "likes": 28,
+      "id": "1481734948570943488",
+      "author": {
+        "handle": "gunnarmorling",
+        "name": "Gunnar Morling 🌍",
+        "id": "2342011352"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@gunnarmorling You mean tiered storage for the Kafka topic or equivalent, so you can cheaply and easily keep the full changelog around for future consumers?",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1481738074790907904",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1481734948570943488",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "One thing Kafka Connect got 💯% right is the composability of sources and sinks (as opposed to \"atomic\" end-to-end flows). This brings a great freedom of optionality, allowing to add further sinks down the road. A fully OSS tiered storage impl will take this to the next level.",
+        "quotes": 1,
+        "replies": 4,
+        "retweets": 6,
+        "bookmarks": 1,
+        "likes": 28,
+        "id": "1481734948570943488",
+        "author": {
+          "handle": "gunnarmorling",
+          "name": "Gunnar Morling 🌍",
+          "id": "2342011352"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Are tasks and flows really the right abstraction for data ops?  If I remove some data asset (e.g. a table in Snowflake), who is responsible for deleting it?",
+      "quotes": 1,
+      "replies": 4,
+      "retweets": 1,
+      "bookmarks": 3,
+      "likes": 16,
+      "id": "1481042919372951554",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@josh_wills @teej_m @matsonj @JoshGhalgh @_kulte Definitely the way today, but it gives me the heebie-jeebies.  Why do I need to 1) hack around dbt macros to cleanup renamed tables, 2) figure out some similar process in Airflow for ML, and 3) introduce Terraform just to get a robust analytics-as-code workflow.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1481320792868593668",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1481315658767888386",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@teej_m @tristanzajonc @matsonj @JoshGhalgh @_kulte ^^ is the way",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 2,
+        "id": "1481315658767888386",
+        "author": {
+          "handle": "josh_wills",
+          "name": "@spite.vc on bluesky",
+          "id": "14578294"
+        },
+        "quoted": false,
+        "replyToId": "1481315004234166273"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Here comes the \"Very Modern Data Stack\" according to  @DSJayatillake.  Great outline of a vision for Ruby Labs' future data stack.   https://t.co/fdruuCZSBa. https://t.co/MJMwl7uHVm",
+      "quotes": 0,
+      "replies": 3,
+      "retweets": 6,
+      "bookmarks": 14,
+      "likes": 37,
+      "id": "1481310986640363521",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "I'd probably also put @dagsterio, @PrefectIO, or @MetaflowOSS over @ApacheAirflow for orchestration if we're going to call this a very modern data stack.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 11,
+      "id": "1481310990343946242",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1481310989257621510",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "I could see quality/monitoring (@Bigeyedata, @montecarlodata, @datafoldcom), data catalog (@Stemma_ai, @MetaphorData, @SecodaHQ), metrics (@transformio) and Reverse ETL (@HightouchData, @getcensus).",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 2,
+        "bookmarks": 0,
+        "likes": 14,
+        "id": "1481310989257621510",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false,
+        "replyToId": "1481310988263591939"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@matsonj @JoshGhalgh @_kulte Nice.  It does illustrate the general problem though.  It gets even more acute when the line between infra, policies, and assets isn't clean. For instance, what's the best way to manage warehouses/users/roles in Snowflake.",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1481305718959403015",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1481292891079462914",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@JoshGhalgh @tristanzajonc @_kulte If you also include that macro in your ‘dbt run’ it will drop the tables/views etc - ie with a pre hook.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1481292891079462914",
+        "author": {
+          "handle": "matsonj",
+          "name": "Jacob Matson",
+          "id": "15532243"
+        },
+        "quoted": false,
+        "replyToId": "1481263650732130306"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc What do you mean deleting it? If you remove it from Snowflake it’s already deleted, right? I know you mean something else though 😊",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1481065872760446978",
+      "author": {
+        "handle": "_kulte",
+        "name": "Zachary Friedman",
+        "id": "218272280"
+      },
+      "quoted": false,
+      "replyToId": "1481042919372951554",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Are tasks and flows really the right abstraction for data ops?  If I remove some data asset (e.g. a table in Snowflake), who is responsible for deleting it?",
+        "quotes": 1,
+        "replies": 4,
+        "retweets": 1,
+        "bookmarks": 3,
+        "likes": 16,
+        "id": "1481042919372951554",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@_kulte I probably should have said, \"if I remove some task that generates a data asset (e.g. table), who is responsible for deleting the asset.\"  The point is that infrastructure-as-code operates via reconciliation, whereas data engineering today operates on tasks and flows.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 2,
+      "bookmarks": 0,
+      "likes": 5,
+      "id": "1481073152058867712",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1481065872760446978",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc What do you mean deleting it? If you remove it from Snowflake it’s already deleted, right? I know you mean something else though 😊",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1481065872760446978",
+        "author": {
+          "handle": "_kulte",
+          "name": "Zachary Friedman",
+          "id": "218272280"
+        },
+        "quoted": false,
+        "replyToId": "1481042919372951554"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "What's the BI tool with the best dbt/git integration?  I just want to sit in my text editor and have my dashboards live reload as I design them and be fully governed when I deploy them.",
+      "quotes": 0,
+      "replies": 3,
+      "retweets": 0,
+      "bookmarks": 1,
+      "likes": 11,
+      "id": "1479612460575248385",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "Glean looks very promising. https://t.co/pMSxcR5OqX",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 2,
+      "bookmarks": 2,
+      "likes": 9,
+      "id": "1479661463694282753",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1479612460575248385",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "What's the BI tool with the best dbt/git integration?  I just want to sit in my text editor and have my dashboards live reload as I design them and be fully governed when I deploy them.",
+        "quotes": 0,
+        "replies": 3,
+        "retweets": 0,
+        "bookmarks": 1,
+        "likes": 11,
+        "id": "1479612460575248385",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc without knowing better i’d guess it’s Mode :) https://t.co/0BP0OvWOcw",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1479631692528820230",
+      "author": {
+        "handle": "anusharma",
+        "name": "Anu Sharma",
+        "id": "19642916"
+      },
+      "quoted": false,
+      "replyToId": "1479612460575248385",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "What's the BI tool with the best dbt/git integration?  I just want to sit in my text editor and have my dashboards live reload as I design them and be fully governed when I deploy them.",
+        "quotes": 0,
+        "replies": 3,
+        "retweets": 0,
+        "bookmarks": 1,
+        "likes": 11,
+        "id": "1479612460575248385",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@anusharma That’s my default but I really want VSCode and  local workflow if I’m honest.  @TopcoatData looks promising too.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1479658952371499008",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1479631692528820230",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc without knowing better i’d guess it’s Mode :) https://t.co/0BP0OvWOcw",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 2,
+        "id": "1479631692528820230",
+        "author": {
+          "handle": "anusharma",
+          "name": "Anu Sharma",
+          "id": "19642916"
+        },
+        "quoted": false,
+        "replyToId": "1479612460575248385"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Great post on Entity Layer abstraction by \n@bennstancil. This is a core abstraction we use Continual to simplify feature management, but it applies beyond feature stores.   https://t.co/lHtGJ5Q9fI.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 4,
+      "id": "1479528733442592771",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @MizrahiEtai: We wrote this article with our 5 predictions for the modern data stack in 2022 🎉 👀 Anything that you think we missed? http…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 5,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1479488522805522432",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "DataOps and MLOps are going to become declarative in 2022.  I'll share what this means exactly in a few weeks.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 5,
+      "id": "1479183243177959425",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": {
+        "text": "Looking forward to Data Council #Austin 🎸 where @tristanzajonc is presenting The Case for Declarative Machine Learning! https://t.co/m3jk8AMVN4 @DataCouncilAI https://t.co/DjJahmKKoG",
+        "id": "1479166217063653387"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Data stack predictions for 2022?  About to write a blog and thinking realtime infra, declarative data ops, data-first AI, and snowflake/databricks dominance.  What else?",
+      "quotes": 1,
+      "replies": 8,
+      "retweets": 0,
+      "bookmarks": 3,
+      "likes": 19,
+      "id": "1478589570539147264",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc The two I see are the further growth of OSS taking over (@getdbt, @expectgreatdata, @open_metadata), and companies being built on top of Databricks as a platform",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 6,
+      "id": "1478590739546357763",
+      "author": {
+        "handle": "RyanMWexler",
+        "name": "Ryan Wexler",
+        "id": "902995231"
+      },
+      "quoted": false,
+      "replyToId": "1478589570539147264",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Data stack predictions for 2022?  About to write a blog and thinking realtime infra, declarative data ops, data-first AI, and snowflake/databricks dominance.  What else?",
+        "quotes": 1,
+        "replies": 8,
+        "retweets": 0,
+        "bookmarks": 3,
+        "likes": 19,
+        "id": "1478589570539147264",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@RyanMWexler @getdbt @expectgreatdata @open_metadata Agree that OSS in data is going to have a huge year. Also @VectorizedIO, @PrefectIO, @dagsterio, @MaterializeInc, @getdbt, @chronosphereio.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 3,
+      "likes": 17,
+      "id": "1478592137117585410",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1478590739546357763",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc The two I see are the further growth of OSS taking over (@getdbt, @expectgreatdata, @open_metadata), and companies being built on top of Databricks as a platform",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 1,
+        "bookmarks": 0,
+        "likes": 6,
+        "id": "1478590739546357763",
+        "author": {
+          "handle": "RyanMWexler",
+          "name": "Ryan Wexler",
+          "id": "902995231"
+        },
+        "quoted": false,
+        "replyToId": "1478589570539147264"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "If you're working on ML/AI applications on unstructured data, rikai is a project to watch.  Amazing team and can't wait to see where it goes.  https://t.co/cnP1YNXFIs",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 3,
+      "likes": 5,
+      "id": "1478590904591994886",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "My conversation with @PickensAllison about @continual_ai and the future of AI/ML on the modern data stack is now live.  It's also a great substack subscribe if you're interested in the SaaS and startup ecosystem.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 3,
+      "bookmarks": 1,
+      "likes": 10,
+      "id": "1478481100137582593",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": {
+        "text": "We don't all need to become data scientists...but we can have access to #ml and #ai. Fireside chat w/ @tristanzajonc at @continual_ai: https://t.co/wpGv1sOETk",
+        "id": "1478449479468523521"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @Pedram_Navid: Something I’m seeing more and more with the MDS is analysts and engineers who now want everything to be warehouse-centric…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1476710621471150082",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Modals for onboarding workflows are the cookie banners of b2b apps.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1476656269012267009",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "💯 \"The vast majority of ML users prefer simplicity and speed to customization and control.  Much of what’s built in the ML stack is a re-implementation of the modern data stack.\" @ttunguz  https://t.co/jzZgxerJVn",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 1,
+      "bookmarks": 2,
+      "likes": 15,
+      "id": "1476258985791696910",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @continual_ai: Want to chat about Continual? Join us in the @getdbt slack in the #tools-continual channel.  Two spots left to be part of…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1473815813773664258",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "One of the coolest things about @continual_ai's declarative approach to ML is how well it fits with @getdbt. But declarative ML is also the right foundation to bring analysts, data engineers, analytics engineers, and data scientists onto a shared platform for operational AI.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 3,
+      "bookmarks": 1,
+      "likes": 13,
+      "id": "1471934018031538177",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": {
+        "text": "What if AI and BI didn’t have to be separate worlds? What if there was a way analytics teams could sprinkle in ML without breaking stride?\n\nThe new dbt integration from @continual_ai allows anyone who knows SQL to build pipelines featuring operational AI.\n\nhttps://t.co/ichn8zGeui",
+        "id": "1471869039442120714"
+      },
+      "quoteDeleted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "A shared platform for operational AI is imperative for AI/ML to become pervasive.  Pipeline-centric or notebook-centric ML platforms are a fragile foundation to accomplish this task.  Sure you can build visual pipeline builders, but is that really the right approach?",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1471934019767992322",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1471934018031538177",
+      "replyTo": {
+        "type": "QUOTE",
+        "text": "One of the coolest things about @continual_ai's declarative approach to ML is how well it fits with @getdbt. But declarative ML is also the right foundation to bring analysts, data engineers, analytics engineers, and data scientists onto a shared platform for operational AI.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 3,
+        "bookmarks": 1,
+        "likes": 13,
+        "id": "1471934018031538177",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": {
+          "text": "What if AI and BI didn’t have to be separate worlds? What if there was a way analytics teams could sprinkle in ML without breaking stride?\n\nThe new dbt integration from @continual_ai allows anyone who knows SQL to build pipelines featuring operational AI.\n\nhttps://t.co/ichn8zGeui",
+          "id": "1471869039442120714"
+        },
+        "quoteDeleted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "Stay tuned in 2022 for what we have in store to bring everybody onto one shared workflow.  Our bet is the future is declarative and data-first with end-to-end automation that supports the continual lifecycle of production AI/ML.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1471934020808155138",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1471934019767992322",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "A shared platform for operational AI is imperative for AI/ML to become pervasive.  Pipeline-centric or notebook-centric ML platforms are a fragile foundation to accomplish this task.  Sure you can build visual pipeline builders, but is that really the right approach?",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1471934019767992322",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false,
+        "replyToId": "1471934018031538177"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @jthandy: Big fan\n\nhttps://t.co/SnzEbImvC3",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 6,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1471610540854108163",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @TechCrunch: Continual raises $4M for its AI-powered data platform https://t.co/KKr83u2GsS by @fredericl",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 7,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1471581969989259265",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Today I'm excited to announce the public beta launch of @continual_ai along with our $4M seed led by @AmplifyPartners and new partnerships with @getdbt and @SnowflakeDB.  Continual brings production AI/ML to cloud data warehouses and the modern data stack. https://t.co/UhJ4xORTeH",
+      "quotes": 4,
+      "replies": 13,
+      "retweets": 20,
+      "bookmarks": 8,
+      "likes": 108,
+      "id": "1471546891871551488",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc @continual_ai @AmplifyPartners @getdbt @SnowflakeDB Congrats on the funding. Do you fancy talking about the beta platform at the https://t.co/qMQVFRp99Z meetup? DM me, if you are.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1471566665343242251",
+      "author": {
+        "handle": "jim_dowling",
+        "name": "Jim Dowling",
+        "id": "470330975"
+      },
+      "quoted": false,
+      "replyToId": "1471546891871551488",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Today I'm excited to announce the public beta launch of @continual_ai along with our $4M seed led by @AmplifyPartners and new partnerships with @getdbt and @SnowflakeDB.  Continual brings production AI/ML to cloud data warehouses and the modern data stack. https://t.co/UhJ4xORTeH",
+        "quotes": 4,
+        "replies": 13,
+        "retweets": 20,
+        "bookmarks": 8,
+        "likes": 108,
+        "id": "1471546891871551488",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@jim_dowling @continual_ai @AmplifyPartners @getdbt @SnowflakeDB I think @jordan_volz is chatting with you folks about it already.  Sounds fun!",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1471568041695535105",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1471566665343242251",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc @continual_ai @AmplifyPartners @getdbt @SnowflakeDB Congrats on the funding. Do you fancy talking about the beta platform at the https://t.co/qMQVFRp99Z meetup? DM me, if you are.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1471566665343242251",
+        "author": {
+          "handle": "jim_dowling",
+          "name": "Jim Dowling",
+          "id": "470330975"
+        },
+        "quoted": false,
+        "replyToId": "1471546891871551488"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "We're just getting started and have a ways to go to fully realize this vision, but starting today, you can sign up for our public beta to experience Continual for yourself and help us build this future together.  https://t.co/C3H4UxMRIg",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1471546910452240386",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1471546908699074565",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "Finally, Continual is operationally focused. It is designed for a world where you have dozens or even hundreds of models in production powering every aspect of a business. Continual maintains models and predictions with end-to-end automation, visibility, and governance.. https://t.co/mYuv0fXAOV",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 2,
+        "id": "1471546908699074565",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false,
+        "replyToId": "1471546904886476803"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Excited to help extend the revolution of @getdbt towards operational AI/ML.  Annotate your dbt models, get awesome ML models.  Check it out.  https://t.co/0XN2i3f5Dk",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 1,
+      "likes": 7,
+      "id": "1470887612340588549",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "OH: ML Engineers are Data Scientists who use strongly typed languages",
+      "quotes": 1,
+      "replies": 1,
+      "retweets": 6,
+      "bookmarks": 1,
+      "likes": 49,
+      "id": "1469024656594128896",
+      "author": {
+        "handle": "harryglaser",
+        "name": "Harry Glaser",
+        "id": "222937903"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@harryglaser *Use strongly typed languages, but not for ML.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1469146861009203200",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1469024656594128896",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "OH: ML Engineers are Data Scientists who use strongly typed languages",
+        "quotes": 1,
+        "replies": 1,
+        "retweets": 6,
+        "bookmarks": 1,
+        "likes": 49,
+        "id": "1469024656594128896",
+        "author": {
+          "handle": "harryglaser",
+          "name": "Harry Glaser",
+          "id": "222937903"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @continual_ai: Grab some popcorn and join this Friday afternoon debate with Continual's Head of Field Engineering and Gustaf from @coile…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 3,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1469044173768593412",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "AI is increasing centered on data and the input/output spec, not the model architecture.  Great thread by @karpathy.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 1,
+      "likes": 1,
+      "id": "1468416951856746497",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": {
+        "text": "The distinguishing features now mostly include 1) the data, and 2) the Input/Output spec that maps your problem into and out of a sequence of vectors, and sometimes 3) the type of positional encoder and problem-specific structured sparsity pattern in the attention mask.",
+        "id": "1468370610774368258"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Back in like 2011 I wrote a blog post (sadly lost forever) about how \"data science\" was a terrible name, how it didn't express what we did, how it didn't really mean anything, would only confuse people, etc. Now a full decade later it's still true but I'm completely ok with it.",
+      "quotes": 1,
+      "replies": 17,
+      "retweets": 1,
+      "bookmarks": 8,
+      "likes": 186,
+      "id": "1465528120044232706",
+      "author": {
+        "handle": "seanjtaylor",
+        "name": "Sean J. Taylor",
+        "id": "20963651"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@emilieschario @tayloramurphy @seanjtaylor @coalesceconf On point!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1465852220780339207",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1465848844156121099",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tayloramurphy @seanjtaylor time is a flat circle. Come to my talk on why “data scientist” is a bad job title and we should stop doing “data science” at @coalesceconf next week https://t.co/uWqLWqZci7",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 1,
+        "bookmarks": 2,
+        "likes": 8,
+        "id": "1465848844156121099",
+        "author": {
+          "handle": "emilieschario",
+          "name": "Emilie Schario",
+          "id": "23443243"
+        },
+        "quoted": false,
+        "replyToId": "1465847980594978831"
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "Shopify-scale BFCM 🍬 candy stats ... \n\n- 11M QPS, 11TB/s read I/O peak\n- 15PB of cache lookups\n- 24B async jobs, 16ms median processing time\n- 42B API calls services, 11B webhooks sent\n\n$6.3B in total sales, peaking at $3.1M/minute 😎",
+      "quotes": 6,
+      "replies": 5,
+      "retweets": 38,
+      "bookmarks": 15,
+      "likes": 225,
+      "id": "1465808545287344129",
+      "author": {
+        "handle": "igrigorik",
+        "name": "Ilya Grigorik",
+        "id": "9980812"
+      },
+      "quoted": {
+        "text": "2021 was our biggest Black Friday Cyber Monday ever! Together with our friends at @GoogleCloud we achieved near-perfect uptime while averaging ~30TB/min of egress traffic across our infrastructure. That’s a massive ~43PB/day!\n\nHere are some of the most interesting stats 🧵👇",
+        "id": "1465806691543531525"
+      },
+      "quoteDeleted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@igrigorik What are all the async jobs for?  Have 0.5 async jobs per API call seems like a lot.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1465809154212130818",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1465808545287344129",
+      "replyTo": {
+        "type": "QUOTE",
+        "text": "Shopify-scale BFCM 🍬 candy stats ... \n\n- 11M QPS, 11TB/s read I/O peak\n- 15PB of cache lookups\n- 24B async jobs, 16ms median processing time\n- 42B API calls services, 11B webhooks sent\n\n$6.3B in total sales, peaking at $3.1M/minute 😎",
+        "quotes": 6,
+        "replies": 5,
+        "retweets": 38,
+        "bookmarks": 15,
+        "likes": 225,
+        "id": "1465808545287344129",
+        "author": {
+          "handle": "igrigorik",
+          "name": "Ilya Grigorik",
+          "id": "9980812"
+        },
+        "quoted": {
+          "text": "2021 was our biggest Black Friday Cyber Monday ever! Together with our friends at @GoogleCloud we achieved near-perfect uptime while averaging ~30TB/min of egress traffic across our infrastructure. That’s a massive ~43PB/day!\n\nHere are some of the most interesting stats 🧵👇",
+          "id": "1465806691543531525"
+        },
+        "quoteDeleted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "I wrote a blog post about how I think the cloud service stack will change in the next 5-10 years: https://t.co/yg2uENSPWy",
+      "quotes": 51,
+      "replies": 56,
+      "retweets": 85,
+      "bookmarks": 177,
+      "likes": 524,
+      "id": "1465732837173252101",
+      "author": {
+        "handle": "bernhardsson",
+        "name": "Erik Bernhardsson",
+        "id": "1191207924"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@bernhardsson @josh_wills @Tailscale Yeah, I was asking if this ends up as vendor managing the VPC and billing for compute/storage (Snowflake) or running in customer VPC (Databricks).  Trend seems to be vendor managed VPC but Vectorized and PlanetScale recently added customer VPC options.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 4,
+      "id": "1465738757227778050",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1465737558772658182",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@josh_wills @tristanzajonc @Tailscale I'm not a networking expert but it's interesting how a lot of the software providers on top use VPC peering so that you can run them as if they are in your own VPC",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1465737558772658182",
+        "author": {
+          "handle": "bernhardsson",
+          "name": "Erik Bernhardsson",
+          "id": "1191207924"
+        },
+        "quoted": false,
+        "replyToId": "1465737051182043139"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Is the future of enterprise integration and automation no code or a modern developer experience? Genuinely curious...",
+      "quotes": 0,
+      "replies": 3,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1463706814000680960",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "The two best things we've done at @continual_ai to improve developer satisfaction are removing Bazel and switching off JIRA.",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 4,
+      "id": "1463269537982287872",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc @continual_ai What do you guys use for issue tracking etc?",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1463276139758116868",
+      "author": {
+        "handle": "changhiskhan",
+        "name": "changhiskhan",
+        "id": "48747910"
+      },
+      "quoted": false,
+      "replyToId": "1463269537982287872",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "The two best things we've done at @continual_ai to improve developer satisfaction are removing Bazel and switching off JIRA.",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 4,
+        "id": "1463269537982287872",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@changhiskhan @continual_ai We switched from JIRA to Linear and from Confluence to Notion.  So far so good.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1463280377552719873",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1463276139758116868",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc @continual_ai What do you guys use for issue tracking etc?",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1463276139758116868",
+        "author": {
+          "handle": "changhiskhan",
+          "name": "changhiskhan",
+          "id": "48747910"
+        },
+        "quoted": false,
+        "replyToId": "1463269537982287872"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc @continual_ai To what and what, pray tell?",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1463270597522182149",
+      "author": {
+        "handle": "josh_wills",
+        "name": "@spite.vc on bluesky",
+        "id": "14578294"
+      },
+      "quoted": false,
+      "replyToId": "1463269537982287872",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "The two best things we've done at @continual_ai to improve developer satisfaction are removing Bazel and switching off JIRA.",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 4,
+        "id": "1463269537982287872",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@josh_wills A blessed Makefile and Linear.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 4,
+      "id": "1463271815296393220",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1463270597522182149",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc @continual_ai To what and what, pray tell?",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1463270597522182149",
+        "author": {
+          "handle": "josh_wills",
+          "name": "@spite.vc on bluesky",
+          "id": "14578294"
+        },
+        "quoted": false,
+        "replyToId": "1463269537982287872"
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "I'll be talking about @continual_ai and how we're working to radically simplify operational AI on Dec 14th. Register here and we'll send out recording if you can't make it live: https://t.co/puxGVa3K7o",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1463237653512404993",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": {
+        "text": "Join us virtually on Dec 14th for a product overview and demo by Cofounder and CEO @tristanzajonc! https://t.co/C5zpQo6RvQ https://t.co/s4HDpizeA9",
+        "id": "1463220805630939139"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Let's be honest ML folks, this is a nightmare. https://t.co/g244jJJjbw @sh_reya https://t.co/4lZRL7QOr5",
+      "quotes": 7,
+      "replies": 12,
+      "retweets": 58,
+      "bookmarks": 113,
+      "likes": 346,
+      "id": "1463217317479731203",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Ensuring data quality can’t just be monitoring.  It needs to be coupled with change management. @getdbt tests and @datafoldcom diffs get this right.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 2,
+      "bookmarks": 0,
+      "likes": 8,
+      "id": "1461929069059084291",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Big Complexity is the next challenge after Big Data.  @schrockn",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 1,
+      "likes": 5,
+      "id": "1461916766406279172",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "When will we bring things engineers think about all the time to the average professional's workflow? I'm thinking: version control, abstraction / DRY, repeatability, etc. 🧵",
+      "quotes": 0,
+      "replies": 7,
+      "retweets": 2,
+      "bookmarks": 7,
+      "likes": 58,
+      "id": "1461709690941804547",
+      "author": {
+        "handle": "sarahmk125",
+        "name": "Sarah Krasnik Bedell",
+        "id": "2483132491"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@sarahmk125 I can't think of a product that does this well.  If somebody got it right, I think a lot of new disruptive products would copy it.   FWIW, we're trying at @continual_ai by supporting environments (dev, prod) and making everything a declarative configuration change in UI or code.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1461750664954990593",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1461709695291256832",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "4/ Not everyone should code, but everyone would benefit from coding principles. What am I missing here? Is anyone doing this already in the space? Who disagrees?",
+        "quotes": 0,
+        "replies": 6,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 7,
+        "id": "1461709695291256832",
+        "author": {
+          "handle": "sarahmk125",
+          "name": "Sarah Krasnik Bedell",
+          "id": "2483132491"
+        },
+        "quoted": false,
+        "replyToId": "1461709694183956484"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "ML/AI is drowning in complexity.  The status quo of K8s + bespoke models + pipeline jungles + experiment trackers + deployment platforms + monitoring platforms imposes tremendous costs.  The ecosystem needs a deep rethink. Here's why.",
+      "quotes": 11,
+      "replies": 22,
+      "retweets": 80,
+      "bookmarks": 193,
+      "likes": 638,
+      "id": "1458561127319625731",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@BradPorter_ I should qualify that I'm talking AI consumers not AI vendors here.   Obviously building 1 and 2 will require tons of data, compute and expertise.  I'm also fine with declarative data-first approaches if in-house data is really needed to fine tune.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1459025586861473794",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1459013079987982339",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc All three you listed are extraordinarily data intensive.  The production AI systems that are winning are those who have better data, have done more to curate and understand that data, and have figured out how to exploit that data advantage.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1459013079987982339",
+        "author": {
+          "handle": "BradPorter_",
+          "name": "Brad Porter",
+          "id": "877948341719506944"
+        },
+        "quoted": false,
+        "replyToId": "1458561131258081281"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@tristanzajonc @JagersbergKnut Have you tried to use @knime  https://t.co/eTkDpo3Lp0",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 1,
+      "bookmarks": 2,
+      "likes": 5,
+      "id": "1458683716755238912",
+      "author": {
+        "handle": "mlauber71",
+        "name": "Markus Lauber",
+        "id": "294530390"
+      },
+      "quoted": false,
+      "replyToId": "1458561127319625731",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "ML/AI is drowning in complexity.  The status quo of K8s + bespoke models + pipeline jungles + experiment trackers + deployment platforms + monitoring platforms imposes tremendous costs.  The ecosystem needs a deep rethink. Here's why.",
+        "quotes": 11,
+        "replies": 22,
+        "retweets": 80,
+        "bookmarks": 193,
+        "likes": 638,
+        "id": "1458561127319625731",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@mlauber71 @JagersbergKnut @knime I’m not a fan of visual DAG tools.  They are a different interface but the same problematic level of abstraction. They also have a lot of downsides in production.",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 10,
+      "id": "1458687200913096709",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1458683716755238912",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc @JagersbergKnut Have you tried to use @knime  https://t.co/eTkDpo3Lp0",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 1,
+        "bookmarks": 2,
+        "likes": 5,
+        "id": "1458683716755238912",
+        "author": {
+          "handle": "mlauber71",
+          "name": "Markus Lauber",
+          "id": "294530390"
+        },
+        "quoted": false,
+        "replyToId": "1458561127319625731"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@iced_soy_latte It will happen in stages. OpenAI style APIs are already starting to completely change the game.  We are in the first inning but the next 5 years will see an explosion in few shot APIs. Zero MLOps infra or team is just too compelling to ignore if it works.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1458649753978167300",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1458644035615084553",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@tristanzajonc Is it really inevitable? Just because humans can do it doesn't mean it will be easy to develop algorithms that will perform well on as many tasks with few shot learning",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1458644035615084553",
+        "author": {
+          "handle": "risky_ouch",
+          "name": "sam is tweeting",
+          "id": "1111301401475375104"
+        },
+        "quoted": false,
+        "replyToId": "1458561129848786944"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "@kylewadegrove I think you get 10x if you think of the full operational lifecycle.  Personalization and forecasting are use cases with high operation burden today but can made trivial with right dsl.  Data intensive vision is harder but will be data first workflow long term.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1458646600742363136",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "The startups I'm watching that promise a 10X+ simplification include @OpenAI, @CohereAI, @SnorkelAI, and, of course my biased favorite, @continual_ai.  But we need many more!",
+      "quotes": 0,
+      "replies": 8,
+      "retweets": 2,
+      "bookmarks": 25,
+      "likes": 85,
+      "id": "1458561133678268423",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": false,
+      "replyToId": "1458561132461920262",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "Finally, the traditional MLOps stack will persist in pockets as the escape hatch. But better tools will bring at most a 2X simplification here.  Over time even these use cases will shift to higher level abstractions that reduce complexity and empower everybody to do more faster.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 1,
+        "bookmarks": 0,
+        "likes": 34,
+        "id": "1458561132461920262",
+        "author": {
+          "handle": "tristanzajonc",
+          "name": "Tristan Zajonc",
+          "id": "140491706"
+        },
+        "quoted": false,
+        "replyToId": "1458561131258081281"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "What are the biggest challenges facing data science, ML, and AI as an industry?",
+      "quotes": 10,
+      "replies": 91,
+      "retweets": 46,
+      "bookmarks": 90,
+      "likes": 252,
+      "id": "1458423654773968896",
+      "author": {
+        "handle": "hugobowne",
+        "name": "Hugo Bowne-Anderson is podcasting again",
+        "id": "1092509048"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "Another great addition to the modern metadata ecosystem.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 2,
+      "bookmarks": 0,
+      "likes": 9,
+      "id": "1458148735947456514",
+      "author": {
+        "handle": "tristanzajonc",
+        "name": "Tristan Zajonc",
+        "id": "140491706"
+      },
+      "quoted": {
+        "text": "Goodbye, primitive data catalogs. Hello, Metaphor!\n#metadata #dataanalytics #data\n\nhttps://t.co/JB92pzdpL9",
+        "id": "1458143616505827328"
+      }
+    }
+  ]
+}

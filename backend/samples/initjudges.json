@@ -1,1 +1,862 @@
-[{"name": "Harrison Chase", "handle": "hwchase17", "bio": "@LangChainAI, previously @robusthq @kensho\n\nMLOps \u222a Generative AI \u222a sports analytics", "texts": ["Yes! you can do this with any agent by setting `handle_parsing_errors=True` when initializing the AgentExecutor\n\nDocs: https://t.co/chLgoKWhFg", "At the @AnthropicAI hackathon and learned that claude-2 is really good at XML! So of course I had to try to create an agent specifically for Anthropic that uses XML\n\nInitial draft here: https://t.co/reUWRky9fU\n\nWill be building and polishing throughout the day! https://t.co/FkVX4qDrPu", "\ud83d\udcacFew shot prompt templates for chat models\n\nAs you look to improve performance, few shot example is one of the easiest and best knobs to turn\n\nWe're working on a bunch of stuff to make this easier\n\ns/o @WHinthorn and @veryboldbagel for improving the UX here", "First edition out\n\nLangSmith updates, Open Source recap, Use-cases we love... and some sneak previews of things on the horizon \ud83d\udc40\n\nConcise, high density. s/o @zebriez https://t.co/jve3HVMqzb", "Had an awesome webinar with @RLanceMartin and @jamescalam on Weds around using Llama 2\n\nLlama2 is significantly worse on coding tasks - is that why it's not nearly as good at agentic tasks as GPT models?\n\nUp on YouTube now: https://t.co/EB8IdmcK9z", "Reminder about this happening tonight!\n\nWill be a great opportunity to hear a bunch of interesting talks more focused on a particular area\n\nThis one's on bio. What specific areas should we deep dive into next?", "Any guesses what new chain this LangSmith trace is for?\n\nhttps://t.co/BKkpTpFPHq https://t.co/4JiwYqCVIM", "\ud83c\udf33Tree-of-Thought\n\nA new reasoning method, originally by @ShunyuYao12, implemented in \ud83e\udd9c\ud83e\uddealangchain_experimental by Vadim Gubergrits\n\nPaper: https://t.co/8sVhTXP5c2\n\nDocs: https://t.co/jpeJLutxrK\n\nLangSmith Trace: https://t.co/BKkpTpFPHq https://t.co/XPoevx4chE", "another emergent data framework", "this is very cool - more modular way to run agents"]}, {"name": "Vivek Natarajan", "handle": "vivnat", "bio": "Advancing Biomedical AI @GoogleAI | Previously @facebookai Research | Definite Optimist", "texts": ["Medicine is inherently multimodal.\n\nThrilled to share Med-PaLM M, the first demonstration of a generalist multimodal biomedical AI system with a stellar team @GoogleAI @GoogleDeepMind @GoogleHealth \n\nPaper: https://t.co/oEMXZSW2bK https://t.co/ZgEtG0gXEs", "I got my EB1-A green card last year - it\u2019s life altering. \n\nIndebted to the incredible generosity of folks I met through this platform who wrote recommendations for me. \n\nHope to pay it forward - if you are going through the process and need letters, please reach out if helpful.", "The system is good but hopefully tweaks are made to prevent gamification and prioritize the deserving. \n\nNeed to ensure exceptional people like @RSabareesh working on semiconductors  - can\u2019t publish, but whose expertise is perhaps of the highest importance to the US today - also\u2026", "Delighted to share that our Large Language Model (LLM) for medicine, Med-PaLM, has been published in @Nature today.\n\nhttps://t.co/Ip49EOOR1u\n\nWith a dream team of co-authors @alan_karthi @AziziShekoofeh @taotu831 @thekaransinghal and many more at @GoogleAI @GoogleHealth", "also a heartfelt thank you to @Mysiak who has been inspiring presence in all of our Med-PaLM research! \n\nPeople like Juro are what makes @GoogleAI such a special place to work!", "When people ask about Med-PaLM 2 vs GPT-4, emails such as these are what we point to :) https://t.co/2G99ZW0oe6", "Thread contextualizing Med-PaLM 2 v GPT-4 results reported in our paper.\n\nBenchmarks such as MedQA (USMLE) are nice but misleading indicators of LLM performance and rigorous evaluation is necessary.\n\nOur work is fully focussed on that and we encourage the community to do the same", "Pleased to share our latest @GoogleAI @GoogleHealth pre-print on Med-PaLM 2 where we detail our progress towards physician expert-level medical question answering performance!\n\nLink: https://t.co/RS6FSUISd0 https://t.co/tSx5TRbn4K", "With a stellar team @GoogleAI @GoogleHealth @DeepMind including @thekaransinghal, @AziziShekoofeh, @taotu831, @alan_karthi, @Mysiak, Rory Sayres, Ellery Wulczyn, @stephenpfohl, @weballergy, @greg_corrado, @ymatias and many others.", "some qualitative examples here below comparing Med-PaLM 2 and Med-PaLM responses. https://t.co/0JVueoSvx0"]}, {"name": "Ben Mann", "handle": "8enmann", "bio": "Make AI safe again", "texts": ["Excited to announce what we've been working on the last few months: @AnthropicAI! We're looking for aligned researchers and engineers to help build reliable, steerable, powerful AI systems. Ping me if interested, or apply on our site.", "GCP: We don't need support, our product is too good\nAWS: We don't need product, our support is too good\nAzure: We don't need product or support, our sales is too good", "5 friends tried to draw a bike from memory after reading https://t.co/npnymW0lXU\n\nMine is the top left. https://t.co/jxuIje58GY", "We just published our paper on GPT-3! https://t.co/lrlnpopgsZ\n\nProud to be part of this awesome team!", "I just published \u201cWeirdo cookie recipe\u201d https://t.co/89mF5yMHcV", "I just published \u201cMoonlight\u201d https://t.co/IEheNyU9Xs", "I just published \u201cHow to do everything wrong on your second solo backpacking trip\u201d https://t.co/okeIElZ8XC", "I just published \u201cHow I stopped stress eating\u201d https://t.co/JdXXaCZxN8", "I just published \u201cWhat Her teaches us about being human\u201d https://t.co/iQrpRbesvq", "I just published \u201cHow I made this impermanent wall art\u201d https://t.co/6yL5XhXTro"]}, {"name": "Dina Yerlan", "handle": "dina_yrl", "bio": "building ai products\ud83e\udd16#adobefirefly, vc scout @nea prev: sourceai founding eng (acq. by @datarobot), @bcg, @carnegiemellon. views my own", "texts": ["Generative Expand powered by #AdobeFirefly \u2728", "current status:catching up on superconductor(miss my days in semiconductor cleanroom) and monitoring this thread\ud83d\udc40", "English is the new python \nhttps://t.co/qqy9IlQPue", "very interesting, here goes my productivity for the rest of the day \nhttps://t.co/Zybl9y3czl", "incredible to see hackathon projects continue and evolve \u2728", "Another epic hackathon by @agihouse_org with all-star opening panel including @karpathy, @hwchase17, @swyx @amasad, @DrJimFan, @adamdangelo, @jerryjliu0 and others\ud83c\udf1f\n\nthank you to sponsors @CRV, @MultiON_AI, @inworld_ai and many others who made it happen\ud83d\udd25\n\nsharing some notes\ud83d\udc47 https://t.co/iAgsXwV1dF", "epic speech by @amasad from @Replit:\n\ud83d\udd39 Discard the concept of 'usefulness'. Just build cool stuff\n\ud83d\udd39 Exploring radical ideas and playing around - that's the recipe for the best startup ideas\ud83d\udca1", "by @adamdangelo from @Quora \n\ud83d\udd39Quora is now heavily focused on Poe, AI chatbot app\n\ud83d\udd39All great tech companies rode a tech wave that made a new thing possible\n\ud83d\udd39Agents might be the second wave of AI tech, posing a challenge for incumbents to adopt them quickly\ud83d\udca1", "Internet Research Agency aka Kremlin bot farms spreading disinformation across the world; those troll farms are more dangerous than Wagner, very powerful political tool", "had a great chat about vertical AI and untapped, 'trad' industries with potential for big disruption. One key insight: need to have genuine interest in these industries and people\ud83d\udca1Are YOU truly thrilled to tackle their challenges? Ready to invest years in improving their lives?"]}, {"name": "shreya rajpal", "handle": "ShreyaR", "bio": "ML, systems, and everything in between. Building @guardrails_ai. Previously founding eng @predibase, @Apple SPG, @driveai_, @IllinoisCS, @iitdelhi.", "texts": ["I had a fantastic time talking about Guardrails for LLMs at the LLMs in Production Conference II. You can check out the whole presentation here \u2b07\ufe0f\n\nhttps://t.co/LkznWPKxSX", "Excited to be giving a talk at the @databricks\u2019 Data + AI summit this afternoon\n\nSwing by Hall F to learn more about how your enterprise AI needs Guardrails https://t.co/MIokoEL5RF", "Excited to join a stacked lineup of speakers at the @mlopscommunity LLMs in Production conference!\n\nI'll be talking about the practical approach to building guardrails for LLM applications in production, and how @guardrails_ai can help! https://t.co/eNKMLG9m2C", "Thrilled to collaborate with @dk21 and @weights_biases on a new course on building LLM-powered applications!  I talk about controlling LLM outputs w/ @guardrails_ai \n\nThe course is very thoughtfully designed &amp; goes pretty deep into the stages of LLM app development. Details \ud83d\udc47 https://t.co/r2vFWTVNOA", "Had a fantastic time chatting with Charlie and Badar at @mlsecops on how to make LLMs safer and more usable in practical applications with @guardrails_ai. \nCheck out the podcast below! \ud83d\udce3", "I had a fantastic time chatting with @labenz about practical strategies for adding Guardrails to LLM applications at the Cognitive Revolution podcast! \n\nCheck out my episode below \ud83d\udc47", "Had a blast chatting with @FanaHOVA and @swyx about how to build Guardrails for AI for the Latent Space podcast!\n\nCheck out the episode below\ud83d\udc47", "\ud83d\udee4\ufe0f New @guardrails_ai release out!\n\n\u2705Better logging support \u2014 optionally persist logs to disk\n\u2705Manifest embeddings (with caching) by @laurel_orr1\n\u2705More guardrails to validate generated summaries\n\u2705A ton of bug fixes!\n\nTry it out with \u201cpip install guardrails-ai\u201d", "ICYMI: excellent thread on the implementation details behind AutoPR!\n\nAutoPR automatically creates pull requests from issues, figuring out files to edit, diffs, etc. automatically\n\nIn the \ud83e\uddf5, @IrgolicR shares how he uses @guardrails_ai to check correctness of AutoPR\u2019s actions\ud83d\udc47", "\ud83e\udd2f This is absolutely wild - a Github action that uses LLMs to automatically create a pull request for an issue!\n\nAutoPR uses @guardrails_ai to ensure that generated diffs &amp; commits are valid &amp; correct\n\nCheck it out in action below \ud83d\udc47"]}, {"name": "Davis Treybig", "handle": "TreybigDavis", "bio": "Early stage investor at Innovation Endeavors, focused on computing infrastructure, developer tools, & data. Former PM at Google.", "texts": ["It is fun to see so many recent explorations in ways to scale foundation models to larger sequence lengths and deal with the quadratic scaling of self-attention. Some of the recent research work I have found most interesting:", "In an effort to try to understand all these approaches in more depth, I've summarized them in much more detail here: https://t.co/aeRb4PTDsJ\n\nIf I am missing any other interesting research in this area, I'd love to see it.", "And thanks to the many researchers who have led this work like @simran_s_arora @realDanFu @tri_dao @MichaelPoli6 @exnx @Massastrello @HazyResearch @ai_with_brains @liliyu_lili @simigd @HarshMeh1a @colin__flaherty @MaxMa1987 @violet_zct @XiangKong4 @LukeZettlemoyer @donglixp", "Excited to be cohosting the first Claude 2 hackathon with @AnthropicAI @cerebral_valley with support from @LangChainAI @llama_index @arizeai @huggingface \n\nhttps://t.co/RvG7zh3kzy", "Over the weekend of July 29-30, builders will receive API access to Anthropic\u2019s new model, Claude 2, get hands-on support from our team, and connect with leading AI industry judges to be announced soon!", "Winning teams will receive cash and credit prizes to kickstart their projects, as well as Anthropic swag. Hope to see y\u2019all there!", "Spent some time looking into WebGPU recently and shared some learnings here: https://t.co/yuE89Su1SY\n\nWould love your thoughts @Tojiro @DasSurma @DaKangz @WebGPU @julianparc @lucasmcgartland @tqchenml @HongyiJin258", "Hosting a foundation model builders meetup in Palo Alto in a few weeks: https://t.co/Ry1cBMNIyl. It will be \"Show &amp; Tell\" style with a series of lightning talks - some of the speakers we have lined up include @jerryjliu0 @mattrickard @devstein64 @mlfoundry @tristanzajonc", "We have a attendees registered from @DeepMind @huggingface @Replit @StanfordAILab @FacebookAI and tons of cool foundation model startups. Hope to see you there!", "Recently put together a fairly comprehensive \u201cprimer\u201d for our team internally on foundation models, covering things across research, productization, cost structure, use cases, architectures, etc. Sharing publicly in case it\u2019s useful to others: https://t.co/6NgZwXVQ80"]}, {"name": "Tristan Zajonc", "handle": "tristanzajonc", "bio": "Cofounder/CEO at @Continual_AI.  AI, data, startups, economics. \nFormerly @Cloudera, @SensePlatform.", "texts": ["Llama 2 is remarkably simple. The https://t.co/bT4ugOWehj is 288 lines of Python and the entire repository is &lt;1000 lines.\nhttps://t.co/ifSkPdRcVX", "Definitely one of the nicest APIs on top of LLMs today.", "Hearing more and more stories of existing SaaS companies seeing real revenue inflection after implementing generative AI features.", "This paper deserves more attention.  AI will increase the productivity and quality of knowledge workers.  But who benefits most? This paper provides experimental evidence that AI can compresses not increase the skill gap.", "Are there promising contenders to replace vector search for context augmentation?  Injecting chunks into the context feels rather rudimentary honestly.", "Technology can help humanity make the world cleaner, healthier, and more connected.  The future will be beautiful if we care enough to try.", "I'm chatting next week about Production LLMOps with @willpienaar, @changhiskhan, and @Dan_Jeffries1.  It should be a lively discussion with diverse perspectives.  https://t.co/z7V3ZbMfYQ", "Really looking forward to the new Google.  Or if not Google, https://t.co/LvEPUynbaY or https://t.co/q82E3bIoQj.   They are going to be awesome.", "When you ask customers about generative AI use cases. https://t.co/ZBoR2jVz04", "The rumors are true.  We've been hard at work building a next-generation developer platform for generative AI at @continual_ai.  We'll be sharing more soon, but you can sign up for early access here: https://t.co/C3H4Uy50Wo"]}, {"name": "Jerry Liu", "handle": "jerryjliu0", "bio": "co-founder/CEO @llama_index\n\nEx-ML @robusthq,  AI research @Uber_ATG and ML Eng @Quora. Princeton '17", "texts": ["Amazing iteration speed!", "If you\u2019re at the @Anthropic Claude 2 hackathon today (@cerebral_valley), just FYI we have FULL native support for Claude 2 in @llama_index! \ud83e\udde0\n\nJust set ANTHROPIC_KEY_KEY env variable or customize yourself (s/o @mlpowered for suggestion) \ud83d\udd11:\n\nhttps://t.co/VtKXn7rK62 https://t.co/0bXXwKRd0H", "A crucial choice when building a production RAG system is picking the right embedding model - not only does it affect performance, but also cost/latency/compute reqs \u26a1\ufe0f\u2699\ufe0f\n\n\ud83d\udca1The MTEB leaderboard on @huggingface is an awesome benchmark for understanding the best embedding models\u2026 https://t.co/ElHomCyCZn", "The `rebel-large` model is awesome for relation extraction \ud83d\udd17\n\nPaired with CUDA, it\u2019s blazing fast \u26a1\ufe0f. With @llama_index \ud83e\udd99, we can now build a knowledge graph over any text data super quickly! \ud83d\udd78\ufe0f\n\nFull Colab notebook showing how you can use it: \n\nhttps://t.co/0EUpzKjVWK https://t.co/m9w39CjMTb", "Credits go to @PereLluisHC for the rebel model - full model card on @huggingface: https://t.co/ccVvyUM2YP\n\nAlso credits to @LoganMarkewich / @wey_gu for the framing + implementation!", "As @OfficialLoganK mentioned in the reply, the LlamaIndex name technically came first before the LlaMa model \ud83d\ude42. \n\nThanks for featuring us!", "Stoked to welcome Yi! We're building a team of superstars here at @llama_index \ud83e\udd99\ud83c\udf89", "For those of you who missed our webinar with @jxnlco  due to our meeting cap (sorry about that), the full recorded video is up! \n\nCome learn about how to use Pydantic with LLMs.", "We'll have recording out asap! Sorry everyone, we've paid for Zoom Large Meetings going forward \ud83d\ude42", "Properly evaluating agents is an under-explored problem - what are the key tests you should run on inputs/outputs? \ud83e\uddea\ud83e\udd16\n\nCheck out this brand-new notebook that helps to explore that on our @llama_index Yelp agent! \ud83e\uddd1\u200d\ud83c\udf73\n\nHuge s/o to the @truera_ai team: https://t.co/jdVpvWPmML"]}, {"name": "Paige Bailey", "handle": "PaigeBailey", "bio": "", "texts": ["oh twitter...this is the beginning of a beautiful friendship...and a possible addiction!", "Do your soul a favor...laugh with a kid today!\n\n@ Hamilton Elementary book donation party!", "Spending some time with my favorite books & favorite ladies at my favorite cafe: Apropos.", "interning at lovely LondyLawrence. \n\nThe countdown begins: 3 days until my English Tabi comes!", "sometimes you need a hearty diner breakfast! @ Paul's in Grandview. 2 days until my English Tabi comes!", "choosing NOT to be anxious about the job market; just motivated!  My British chum Tabi arrives at 7!", "the office is on on the MEGA Millions lotto!", "I wonder how many restaurants I can make it to in a week? The Burgundy Room is at the top of my list! http://tinyurl.com/bqa247", "2 weeks until graduation and I'll be camping in Florida! Wish you could have a Spring Break escape? http://tinyurl.com/dgy9l6", "Maurice Clarett hopes to inspire, educate others with blog: http://mauriceclarett.wordpress.com/"]}, {"name": "Michele Catasta", "handle": "pirroh", "bio": "VP of AI @Replit | Former: Head of Applied Research @Google X & Labs, Research Scientist and Instructor @Stanford University | #LLM #AI4Code", "texts": ["Late September in San Francisco comes with beautiful weather, and a lot of great talks at the @AIconference.\n\nMine will be \"What powers @Replit Ghostwriter?\"\n\nEarly bird pricing ends on 7/31:\nhttps://t.co/6gLTGyrC1P\n\u261d\ufe0f discount code to sweeten the deal! https://t.co/xPEuN5PwY0", "\u201cFigure it out, that\u2019s the mantra of @runwayml\u201d\n\nI asked @c_valenzuelab if he had recommendations for immigrants (like the two of us) who want to build a successful AI company.\nIt\u2019s all about system thinking.\n\n1/ \ud83e\uddf5", "\u201cYou can learn systems. Fundraising is a a system, building a company is a system, building a culture is a system.\u201d\nI couldn\u2019t agree more.\n\nHere you can watch our entire fireside chat at the @stripe AI day:\nhttps://t.co/gb7qz5dc2Z\n\n2/", "You hear it every day: \u201cthere is so much happening in AI!\u201d\nYes, but\u2026 how much is MUCH?\n\n@Replit has become the platform of choice for AI-native builders \u2014 numbers don\u2019t lie:\n- 34000% growth in AI projects\n- ... \n1/ \ud83e\uddf5", "\ud83d\udc47 @Jeff_Burke14 has crunched the data and pulled out impressive stats \ud83d\udcc8\nhttps://t.co/PcAr9CG1Z5\n\n2/", "Public shoutout to @Stefania_druga for inspiring me to ask many of the questions that shaped my fireside chat with @c_valenzuelab!", "And @Replit will be there to support them \ud83e\udd17", "As usual, @hardmaru brings wisdom to the latest hype-induced AI discussion on Twitter.", "Couple of weeks ago we started to plan our @Replit AI podcast with @jefrankle. By the time we livestreamed it, @MosaicML agreed to join @databricks (\ud83d\udd25 AI acquisition to date) and Jonathan became @databricks' Chief Neural Network Scientist.\nJust a coincidence? \ud83e\udd14 My DMs are open\u2026", "The @Replit office never goes to sleep! \nToday we run a full-day hackathon focused on our new Extensions framework: https://t.co/ME6zfOjau2\n\nHighlights in the \ud83e\uddf5 \ud83d\udc47"]}, {"name": "Harini Kannan", "handle": "harinidkannan", "bio": "Working on something new. Previously generative AI @GoogleBrain and @MIT CS", "texts": ["Congrats @realSharonZhou!", "Excited to announce RoboDesk, a multi-task, pixel-based reinforcement learning benchmark that features 9 diverse tasks in the same environment. The tasks test for a wide variety of robotic skills and involve multiple interactive objects (drawers, buttons, various blocks). \ud83e\udd16\ud83d\udc47 https://t.co/PCAXAaT5EO", "We carefully designed and tested RoboDesk to ensure fast and stable physics simulation. This avoids objects from intersecting, getting stuck, or quickly flying away, common problems that can occur with multi-object environments.", "RoboDesk comes as a self-contained Python package with few dependencies. The source code is clean and pragmatic, making it a useful blueprint for creating new MuJoCo environments.\n\npip install robodesk\n\nMore info: https://t.co/tisnSTF0iL\n\n(cc @danijarh @chelseabfinn @doomie)", "Been using Boomerang http://t.co/mlwxsiYNYO to schedule messages in Gmail or make emails go away until I'm ready. Highly recommended."]}, {"name": "Raza Habib", "handle": "RazRazcle", "bio": "CEO @humanloop (YC S20) |Unbelievably excited about the future of AI. \n\nFollow me for updates on LLMs and how to build products with them.", "texts": ["I'm going to be judging at @AnthropicAI's first official Hackathon next weekend! \n\nSuper excited to see what people build \u2014 there are only 150 spots, so sign up this week if you're interested!\nhttps://t.co/8GuT6RCAki", "I keep hearing people say things like \"LLMs are just maths\" or \"It's just a bunch of matrices\". This is literally wrong. \n\nWe instantiate the maths physically as moving electrons inside a computer. LLMs have bodies and brains. They're data centres, wires etc", "This is a really thoughtful defence of open-source foundation models from @jeremyphoward, well worth a read!\n\nhttps://t.co/VKhYiHJwKc", "Features like OpenAI functions create switching costs between model providers and will become a form of defensibility for OAI against Anthropic et al", "I'd love to have Claude or GPT-4 as an extra attendee in zoom meetings where you can get them to quickly answer factual questions or brainstorm as a team member", "Just set up pi from inflection to chat to chatGPT via https://t.co/us6rgydEXi. we live in crazy times", "https://t.co/ctq5I1kuzr", "This! \n\nIt's really hard to behave in a way that is consistent with a belief that the models will get phenomenally better because it's so far outside of what we've experienced in the past.", "Everyone has an opinion on the default AI/LLM stack right now.\n\nDon't be fooled into thinking it's complicated. It's never been easier to build a compelling AI product. \n\nIf you're unsure where to start, just get an API key and play!", "\"No GPUs before PMF\" should be the mantra of most applied AI start-ups. The cloud LLMs are so good now, most people should start here and optimise later."]}, {"name": "Rachel Woods", "handle": "rachel_l_woods", "bio": "Ex-Facebook Research Data Scientist. Pushing the envelope of operating businesses with AI. #AIOps", "texts": ["What are the coolest projects these days where ChatGPT is generating prompts for itself? (github repos, etc)", "Generative AI is still only as good as the prompts you give it.", "The rules of how to build an AI-powered business are currently being written.", "Love this.", "A lot of the AI clickbait will say you're prompting ChatGPT wrong.\n\nBut the reality is there are multiple ways to prompt it, it just depends on what you are using it for. https://t.co/RVeNdxaZvv", "We are teaching our upcoming Prompting for AI Ops course out of the OpenAI Playground. If you're serious about delegating your work to AI, then learning the Playground is a must. \n\nYou have more control over settings and behaviors of the model.\n\nIt forces you to think in\u2026 https://t.co/ahqa9ectba", "There are different levels of a prompt quality\n\nAnd knowing what \"level\" you're at can help you design a good process around it:\n\nLevel 1: this prompt helped me start the work\n\nLevel 2: this prompt dramatically helped with the work\n\nLevel 3: this prompt dramatically helped\u2026", "So am I the only person struggling to find my \"Twitter\" open tab this week?", "For the past few months, I've become obsessed with the problem of how do you build an AI-powered business\n\nAKA - \"how do we actually use this stuff\"\n\nBut it honestly started because at the beginning of the year, I did hundreds of AI Advising calls with businesses  and while I was\u2026 https://t.co/yUTRdP8hE9", "AI, because work should be more human"]}, {"name": "Jeff Wang \ud83d\udc68\u200d\ud83d\ude80", "handle": "jffwng", "bio": "Product Lead @MetaAI (FAIR). I like language models. I also like non-language models. Previously at Twitter and startups", "texts": ["Happy Friday https://t.co/Fc8wQhMp9F", "AGI\ud83e\udd16 or NHI\ud83d\udc7d", "\ud83e\udd99Llama 2 is now available for both research and commercial use.\n\n\ud83d\udd25 Trained with 40% more data (2T tokens) than LLama 1 and 2x context length\n\ud83d\udee0\ufe0f Sizes: 7B, 13B and 70B\n\ud83d\udc51 Outperforms other OS models\n\ud83e\udd17 Available on Azure, HuggingFace + more\n\nDownload model:\u2026 https://t.co/ICMYBLpxz6", "- Paper: https://t.co/v6gjDXGX6a\n- Blog: https://t.co/VIk07dv97n\n- Website (Download): https://t.co/JzYwkSCjtv\n- Github: https://t.co/KIlpOtgLbf\n- HF Gradio demo: https://t.co/miYvULa02g https://t.co/bmHTW4sGvd", "Benchmarks - https://t.co/8j6qayQuVl https://t.co/zGUzVIgeWf", "Voicebox, a new generative speech model. What can it do? Here are some examples:\n\n1. Transient noise removal. Getting interrupted by doorbell while recording speech? Voicebox can be used like a magic eraser to remove transient noise.\n\n2. Content editing. Voicebox can also help\u2026", "See and hear sample examples here: https://t.co/sn1uMIrgyR", "Read the paper: https://t.co/7P4V6kuJFy", "Generate music \ud83c\udfb6 using natural language. \n\nTry out the demo. Get the code. Use the API. Read the paper. All available to you in @syhw\u2019s \ud83e\uddf5 below.", "\ud83d\udc40\ud83e\udd99"]}]
+[
+    {
+        "name": "Harrison Chase",
+        "handle": "hwchase17",
+        "bio": "@LangChainAI, previously @robusthq @kensho\n\nMLOps \u222a Generative AI \u222a sports analytics",
+        "activity": [
+            {
+                "type": "TWEET",
+                "content": "\ud83d\udd27Anthropic Functions\n\nA wrapper around @AnthropicAI models to expose support for function calling in the same way as @OpenAI\n\nUses XML encoding under the hood, as per docs thats what Claude is best at.\n\nAdded some examples for tagging and extraction\n\nhttps://t.co/hTfabV929X https://t.co/mWyKSRWX4H"
+            },
+            {
+                "type": "QUOTE",
+                "content": "Yes! you can do this with any agent by setting `handle_parsing_errors=True` when initializing the AgentExecutor\n\nDocs: https://t.co/chLgoKWhFg",
+                "parent_name": "Harrison Chase",
+                "parent_content": "@hwchase17 @AnthropicAI Great guide. Question:when the agent don't respond in the correct way can we solve this problem by catching the exception and promoting it back to reply in that specific format?"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@dani_avila7",
+                "parent_content": "Testing Code Interpreter with any LLM in Visual Studio Code\n\n@codegptAI open a notebook, create the code, run, repeat!\n\nVe\u2026"
+            },
+            {
+                "type": "TWEET",
+                "content": "At the @AnthropicAI hackathon and learned that claude-2 is really good at XML! So of course I had to try to create an agent specifically for Anthropic that uses XML\n\nInitial draft here: https://t.co/reUWRky9fU\n\nWill be building and polishing throughout the day! https://t.co/FkVX4qDrPu"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@ptsi",
+                "parent_content": "On August 10 I land in SF to kick off the @CamcorderAI \ud83c\udf38\ud83d\udcf9 seed fundraise. Camcorder will turn 8 months old 3 days before.\n\nThe $1\u2026"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@DrTBehrens",
+                "parent_content": "\ud83d\udd0d Discovering @LangChainAI &amp; @weaviate_io integration - mind-blowing! \ud83d\udcda\ud83d\udd17  Storing PDF pages &amp; Obsidian notes in a vector da\u2026"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@LangChainAI",
+                "parent_content": "New in \ud83e\udd9c\ud83d\udd17:\n\n\ud83d\udd0e @meilisearch vector store\n\ud83d\udc19 Expanded @github toolkit\n\ud83c\udf38 Expanded support for models run on Petals\n\ud83c\udf81 @Dropbox\u2026"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@Hacubu",
+                "parent_content": "\ud83d\udcbf\ud83d\udd00 Combining Memory Classes \ud83d\udd00\ud83d\udcbf\n\n@LangChainAI JS/TS now supports multiple memory classes in the same chain!  \n\nCombine standard\u2026"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@jamescalam",
+                "parent_content": "Diving into retrieval augmentation with #Llama2 (on a single free-tier Colab GPU \ud83d\udc40) \u2014 using @huggingface @LangChainAI and @\u2026"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@Shroominic",
+                "parent_content": "Claude2 from @AnthropicAI running on the CodeInterpreterAPI\ud83d\ude80 https://t.co/BUeXPBtdTy"
+            }
+        ]
+    },
+    {
+        "name": "Vivek Natarajan",
+        "handle": "vivnat",
+        "bio": "Advancing Biomedical AI @GoogleAI | Previously @facebookai Research | Definite Optimist",
+        "activity": [
+            {
+                "type": "QUOTE",
+                "content": "Very impressive advertisement with no source code or model weights. So basically nobody can test or verify any claims. Just take their word for it. Very impressive.",
+                "parent_name": "Anshul Kundaje (@akundaje@genomic.social)",
+                "parent_content": "Medicine is inherently multimodal.\n\nThrilled to share Med-PaLM M, the first demonstration of a generalist multimodal biomedical AI system with a stellar team @GoogleAI @GoogleDeepMind @GoogleHealth \n\nPaper: https://t.co/oEMXZSW2bK https://t.co/ZgEtG0gXEs"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@anshulkundaje Anshul, thanks for the feedback. We believe in openly sharing progress but also in safe + responsible innovation.\n\nWe have been working with many academic + industry partners to evaluate Med-PaLM including from Stanford.\n\nIf you would like to collaborate, feel free to reach out.",
+                "parent_name": "Anshul Kundaje (@akundaje@genomic.social)",
+                "parent_content": "Very impressive advertisement with no source code or model weights. So basically nobody can test or verify any claims. Just take their word for it. Very impressive."
+            },
+            {
+                "type": "TWEET",
+                "content": "Medicine is inherently multimodal.\n\nThrilled to share Med-PaLM M, the first demonstration of a generalist multimodal biomedical AI system with a stellar team @GoogleAI @GoogleDeepMind @GoogleHealth \n\nPaper: https://t.co/oEMXZSW2bK https://t.co/ZgEtG0gXEs"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@taotu831 @AziziShekoofeh @HardyShakerman @peteflorence @DannyDriess @thekaransinghal @alan_karthi @GoogleAI @GoogleHealth @GoogleDeepMind @pichuan Mohamed Amin, Sara Mahdavi, Chris Semturs, Joelle Barral, @skornblith  @acarroll_ATG @_basilM @RyutaroTanno @achowdhery @greg_corrado @ymatias and many more we have the privilege of working with (2/2)",
+                "parent_name": "Vivek Natarajan",
+                "parent_content": "@taotu831 @AziziShekoofeh @HardyShakerman @peteflorence @DannyDriess @thekaransinghal @alan_karthi @GoogleAI @GoogleHealth @GoogleDeepMind Huge props to @taotu831 for driving this work with relentless energy and optimism together with stellar teammates @AziziShekoofeh @DannyDriess @HardyShakerman @peteflorence @thekaransinghal @alan_karthi @pichuan across @GoogleAI @GoogleDeepMind @GoogleHealth (1/2)"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@natrevbioeng",
+                "parent_content": "New Research Highlight! A multidimensional clinical question-answering clinical benchmark to evaluate fine-tuned models o\u2026"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@jimwinkens",
+                "parent_content": "Thrilled to announce CoDoC, our approach to improving the robustness of medical AI systems with AI-clinician collaboration."
+            },
+            {
+                "type": "QUOTE",
+                "content": "I got my EB1-A green card last year - it\u2019s life altering. \n\nIndebted to the incredible generosity of folks I met through this platform who wrote recommendations for me. \n\nHope to pay it forward - if you are going through the process and need letters, please reach out if helpful.",
+                "parent_name": "Vivek Natarajan",
+                "parent_content": "This impacts a lot of people and is pretty awful (I was once on the EB-1 list and how I got my GC). The US turning it's back on some very skilled immigrants and making them suddenly wait 10 more years to have a permanent tie to the US."
+            },
+            {
+                "type": "COMMENT",
+                "content": "The system is good but hopefully tweaks are made to prevent gamification and prioritize the deserving. \n\nNeed to ensure exceptional people like @RSabareesh working on semiconductors  - can\u2019t publish, but whose expertise is perhaps of the highest importance to the US today - also\u2026",
+                "parent_name": "Vivek Natarajan",
+                "parent_content": "I got my EB1-A green card last year - it\u2019s life altering. \n\nIndebted to the incredible generosity of folks I met through this platform who wrote recommendations for me. \n\nHope to pay it forward - if you are going through the process and need letters, please reach out if helpful."
+            },
+            {
+                "type": "QUOTE",
+                "content": "Simply amazing how \u26a1\ufe0ffast \u26a1\ufe0fthis #AI model is progressing along the journey of providing positive impact to patients! \n\nCongrats @vivnat and #google team for keeping raising the limits of what AI can bring to #Healthcare #innovation #medpalm",
+                "parent_name": "Manuel Mitola",
+                "parent_content": "Delighted to share that our Large Language Model (LLM) for medicine, Med-PaLM, has been published in @Nature today.\n\nhttps://t.co/Ip49EOOR1u\n\nWith a dream team of co-authors @alan_karthi @AziziShekoofeh @taotu831 @thekaransinghal and many more at @GoogleAI @GoogleHealth"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@ManuelMitola Thank you so much, Manuel!!",
+                "parent_name": "Manuel Mitola",
+                "parent_content": "Simply amazing how \u26a1\ufe0ffast \u26a1\ufe0fthis #AI model is progressing along the journey of providing positive impact to patients! \n\nCongrats @vivnat and #google team for keeping raising the limits of what AI can bring to #Healthcare #innovation #medpalm"
+            }
+        ]
+    },
+    {
+        "name": "Ben Mann",
+        "handle": "8enmann",
+        "bio": "Make AI safe again",
+        "activity": [
+            {
+                "type": "RETWEET",
+                "parent_name": "@AnthropicAI",
+                "parent_content": "As AI models continue to rapidly improve, ensuring the security of these systems is a critical priority. In this post we d\u2026"
+            },
+            {
+                "type": "TWEET",
+                "content": "Meta used my 1991 ideas to train LLaMA 2, but made it insinuate that I \u201chave been involved in harmful activities\u201d and have not made \u201cpositive contributions to society, such as pioneers in their field.\u201d @Meta &amp; LLaMA promoter @ylecun should correct this ASAP. See\u2026 https://t.co/wAogyvEr7v"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@SchmidhuberAI @Meta @ylecun Claude gets you https://t.co/KnWNUw7DQG",
+                "parent_name": "J\u00fcrgen Schmidhuber",
+                "parent_content": "Meta used my 1991 ideas to train LLaMA 2, but made it insinuate that I \u201chave been involved in harmful activities\u201d and have not made \u201cpositive contributions to society, such as pioneers in their field.\u201d @Meta &amp; LLaMA promoter @ylecun should correct this ASAP. See\u2026 https://t.co/wAogyvEr7v"
+            },
+            {
+                "type": "TWEET",
+                "content": "@AnthropicAI Hi team -- huge fan of C2. Whenever I click \"Get notified about paid plans\" it gives me this error: https://t.co/LVOhmgCiHg"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@quinnemmett @AnthropicAI Fixed! Thanks for the report",
+                "parent_name": "Quinn Emmett \ud83c\udf0e",
+                "parent_content": "@AnthropicAI Hi team -- huge fan of C2. Whenever I click \"Get notified about paid plans\" it gives me this error: https://t.co/LVOhmgCiHg"
+            },
+            {
+                "type": "TWEET",
+                "content": "\ud83c\udfad\n\nWould you pay more to watch a TV show with real human actors vs. AI generated likenesses, if the content was the same?"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@kandouss Seems like a big if, ie the human actors are not contributing anything of unique substance?",
+                "parent_name": "Kamal Ndousse",
+                "parent_content": "\ud83c\udfad\n\nWould you pay more to watch a TV show with real human actors vs. AI generated likenesses, if the content was the same?"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@AnthropicAI",
+                "parent_content": "Introducing Claude 2! Our latest model has improved performance in coding, math and reasoning. It can produce longer respo\u2026"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@AnthropicAI",
+                "parent_content": "We develop a method to test global opinions represented in language models. We find the opinions represented by the models\u2026"
+            },
+            {
+                "type": "TWEET",
+                "content": "someone who is good at the economy please explain https://t.co/kSbONuWCVX"
+            }
+        ]
+    },
+    {
+        "name": "Dina Yerlan",
+        "handle": "dina_yrl",
+        "bio": "building ai products\ud83e\udd16#adobefirefly, vc scout @nea prev: sourceai founding eng (acq. by @datarobot), @bcg, @carnegiemellon. views my own",
+        "activity": [
+            {
+                "type": "QUOTE",
+                "content": "Generative Expand powered by #AdobeFirefly \u2728",
+                "parent_name": "Dina Yerlan",
+                "parent_content": "Explore the world hiding just outside the boundaries of your photos...\u2728 with Generative Expand in @Photoshop (beta). Explore this feature and more, now available in 100+ languages: https://t.co/9UCE62V51i https://t.co/nmdTNMmbcf"
+            },
+            {
+                "type": "QUOTE",
+                "content": "current status:catching up on superconductor(miss my days in semiconductor cleanroom) and monitoring this thread\ud83d\udc40",
+                "parent_name": "Dina Yerlan",
+                "parent_content": "Meissner effect or bust: day 1.5\n \nUnbelievable outpouring of support. The most positive trend I\u2019ve ever seen on Twitter. It feels like the entire world is shouting, GO!\n\nSigma package arrived! First thermal synth (PbO + PbSO4) might start tonight.\n\nPotential partnerships with\u2026 https://t.co/rvglyHlKUl"
+            },
+            {
+                "type": "QUOTE",
+                "content": "\ud83c\uddec\ud83c\udde7 Got the opportunity to put my British accent to good use to narrate this reel about SAM for @MetaAI!\n\ud83d\udd0a Have a listen!",
+                "parent_name": "Nikhila Ravi",
+                "parent_content": "The Segment Anything Model (SAM) by Meta AI is a step toward the first foundation model for image segmentation. SAM is capable of one-click segmentation of any object from photos or videos + zero-shot transfer to other segmentation tasks.\n\nTry the demo \u27a1\ufe0f https://t.co/jypkFsqJJL https://t.co/FxtBFknky5"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@nikhilaravi @MetaAI haha I told you your British accent needs to be put to use more!",
+                "parent_name": "Nikhila Ravi",
+                "parent_content": "\ud83c\uddec\ud83c\udde7 Got the opportunity to put my British accent to good use to narrate this reel about SAM for @MetaAI!\n\ud83d\udd0a Have a listen!"
+            },
+            {
+                "type": "TWEET",
+                "content": "I\u2019m thrilled to share that I've joined @OpenAI! \ud83d\ude80 For years I\u2019ve researched AI self-play and reasoning in games like Poker and Diplomacy. I\u2019ll now investigate how to make these methods truly general. If successful, we may one day see LLMs that are 1,000x better than GPT-4 \ud83c\udf0c 1/"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@polynoamial @OpenAI Congratulations!",
+                "parent_name": "Noam Brown \u2708\ufe0f ICML 7/24-7/31",
+                "parent_content": "I\u2019m thrilled to share that I've joined @OpenAI! \ud83d\ude80 For years I\u2019ve researched AI self-play and reasoning in games like Poker and Diplomacy. I\u2019ll now investigate how to make these methods truly general. If successful, we may one day see LLMs that are 1,000x better than GPT-4 \ud83c\udf0c 1/"
+            },
+            {
+                "type": "QUOTE",
+                "content": "This problem is also an artifact of not being sufficiently \"careful\" with the initial training data to start.\n\nWhat's more likely to happen: \n\n1. proper data governance \n\nor\n\n2. teaching models how to subtract information in an additive way (additive == more training)\n\n\ud83e\udd14",
+                "parent_name": "Susan Zhang @ ICML",
+                "parent_content": "Google is hosting the first \"Machine Unlearning\" challenge. Yes you heard it right - it's the art of forgetting, an emergent research field. \n\nGPT-4 lobotomy is a type of machine unlearning. OpenAI tried for months to remove abilities it deems unethical or harmful, sometimes\u2026 https://t.co/jBnGXjSiua"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@suchenzang I like the second idea but even the first one is not easy to do now",
+                "parent_name": "Susan Zhang @ ICML",
+                "parent_content": "This problem is also an artifact of not being sufficiently \"careful\" with the initial training data to start.\n\nWhat's more likely to happen: \n\n1. proper data governance \n\nor\n\n2. teaching models how to subtract information in an additive way (additive == more training)\n\n\ud83e\udd14"
+            },
+            {
+                "type": "TWEET",
+                "content": "English is the new python \nhttps://t.co/qqy9IlQPue"
+            },
+            {
+                "type": "TWEET",
+                "content": "3 canceled flights couldn\u2019t keep me from bringing together the best female leaders in ML in SF from @a16z @costanoavc @radicalvcfund @AdeptAILabs @runwayml @nvidia @DeepMind @Google @weights_biases @theaiexchange @flairAI_+\n\nhosting with the dream team @venturetwins @molwelch https://t.co/D5NJ6Xj59u"
+            }
+        ]
+    },
+    {
+        "name": "shreya rajpal",
+        "handle": "ShreyaR",
+        "bio": "ML, systems, and everything in between. Building @guardrails_ai. Previously founding eng @predibase, @Apple SPG, @driveai_, @IllinoisCS, @iitdelhi.",
+        "activity": [
+            {
+                "type": "RETWEET",
+                "parent_name": "@rajpaldhruv",
+                "parent_content": "seeing myself on the cover of my favourite playlist hits different \u2764\ufe0f\u200d\ud83d\udd25 thank you @spotifyindia https://t.co/DhrOG9uwS9"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@NumbersStnAI",
+                "parent_content": "\ud83d\ude80Soon we're unveiling NSQL Llama 7B, an even more robust SQL generation FM building on Meta's Llama 2!\n\nWe're on par with\u2026"
+            },
+            {
+                "type": "TWEET",
+                "content": "I had a fantastic time talking about Guardrails for LLMs at the LLMs in Production Conference II. You can check out the whole presentation here \u2b07\ufe0f\n\nhttps://t.co/LkznWPKxSX"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@krandiash",
+                "parent_content": "Successfully defended my PhD yesterday, one of the most fun experiences of my life (barring Covid) thanks to @HazyResearch\u2026"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@NirantK",
+                "parent_content": "\u26a1\ufe0f Announcing 1M @OpenAI embedding for Entities \u26a1\ufe0f\n\n1\ufe0f\u20e3 DBPedia: Entity and it's description capture rich meaning\n2\ufe0f\u20e3 Embeddin\u2026"
+            },
+            {
+                "type": "TWEET",
+                "content": "Excited to be giving a talk at the @databricks\u2019 Data + AI summit this afternoon\n\nSwing by Hall F to learn more about how your enterprise AI needs Guardrails https://t.co/MIokoEL5RF"
+            },
+            {
+                "type": "TWEET",
+                "content": "Excited to join a stacked lineup of speakers at the @mlopscommunity LLMs in Production conference!\n\nI'll be talking about the practical approach to building guardrails for LLM applications in production, and how @guardrails_ai can help! https://t.co/eNKMLG9m2C"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@weights_biases",
+                "parent_content": "Come for @dk21's \"A Gentle Introduction to #LLM APIs\" on how large language models work and how to use them in your app\u2026"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@adityagrover_",
+                "parent_content": "Introducing Decision Stacks: A new foundation model for RL\n\n\u2705Modular design for flexible use of generative models (trans\u2026"
+            },
+            {
+                "type": "TWEET",
+                "content": "@OpenAI's function calling is a HUGE utility for developers! \ud83d\udca5\n\n@guardrails_ai's latest release supports easy JSON generation, validation and correction using function calling\n\n1\ufe0f\u20e3 Create a @pydantic basemodel of the JSON schema\n2\ufe0f\u20e3 Set up `Guard`\n3\ufe0f\u20e3 Call OpenAI's freshest model https://t.co/Gheyueie10"
+            }
+        ]
+    },
+    {
+        "name": "Willem Pienaar",
+        "handle": "willpienaar",
+        "bio": "I build AI tools and open source communities. Previously led engineering teams @TectonAI, built the ML platform at @gojektech, and created @feast_dev.",
+        "activity": [
+            {
+                "type": "RETWEET",
+                "parent_name": "@SnowflakeDB",
+                "parent_content": "Feature Stores in the Age of Generative AI and LLMs with the Creator of Feast #dataheroes https://t.co/iwhNdywcGq"
+            },
+            {
+                "type": "TWEET",
+                "content": "Can generative AI remove all grunt work from software engineering? I'm working with some folks who think so.\n\nI\u2019ve put down some thoughts over at Agentik https://t.co/KMpvSBzXGh, and I\u2019ll be sharing more over the coming weeks."
+            },
+            {
+                "type": "TWEET",
+                "content": "Super excited to be speaking at the LLMs in Production conference. We're just one day out!\n\nA really stacked lineup with @matei_zaharia @chipro @RazRazcle @tristanzajonc @aparnadhinak @ajratner @ShreyaR @mistercrunch @TreybigDavis @doppenhe and many more!\n\nhttps://t.co/KoiPYyZxsV https://t.co/YQmf0GrAwY"
+            },
+            {
+                "type": "QUOTE",
+                "content": "Had a blast working with @shrumm and the team over at @weights_biases to help fill out this course on \"Building LLM-Powered Applications\"!\n\nGreat content for folks that are serious about building production-grade AI applications! Check out the section on https://t.co/xDnYDFKHcB!",
+                "parent_name": "Willem Pienaar",
+                "parent_content": "\ud83c\udf89 I'm thrilled to announce we're launching a free online course at @weights_biases, titled \"Building LLM-Powered Applications.\" This course is designed for Machine Learning practitioners and Software Engineers who are interested in understanding LLMs and wish to use them in\u2026 https://t.co/I7XhoqIryQ"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@DrJimFan",
+                "parent_content": "What if we set GPT-4 free in Minecraft? \u26cf\ufe0f\n\nI\u2019m excited to announce Voyager, the first lifelong learning agent that plays Min\u2026"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@marvinvonhagen",
+                "parent_content": "\"A whole new paradigm would be needed to solve prompt injections 10/10 times \u2013 It may well be that LLMs can never be us\u2026"
+            },
+            {
+                "type": "TWEET",
+                "content": "Introducing Rebuff: An open source self-hardening prompt injection detector!\n\nhttps://t.co/uftr5ULXmJ\nhttps://t.co/cvl1XEszeu\n\nThe more you attack it, the stronger it gets! \n\n\ud83e\uddf5\ud83d\udc47 1/4 https://t.co/tfgPlyGQ5N"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@willpienaar I understand; I just mean the client-code (invocation) will still reside on a server in most scale-out architectures.",
+                "parent_name": "Willem Pienaar",
+                "parent_content": "@jeffrschneider \"Fat\" here just means that the logic is client side vs server side. It's still only going to be a few lines of code and very lightweight."
+            },
+            {
+                "type": "COMMENT",
+                "content": "@jeffrschneider Correct",
+                "parent_name": "Jeff Schneider",
+                "parent_content": "@willpienaar I understand; I just mean the client-code (invocation) will still reside on a server in most scale-out architectures."
+            },
+            {
+                "type": "COMMENT",
+                "content": "@willpienaar cool. The fat client will likely be deployed in a serverless env. (lambda, etc.)  - so not too fat, or can't use it. Other popular LLM projects fail this test and are unusable for cheap scale-out.",
+                "parent_name": "Willem Pienaar",
+                "parent_content": "@jeffrschneider Depends. If you run the heuristic and vector database checks, it should be pretty fast. The LLM check is slow of course. We'll soon have fat clients for TS/JS and Python that doesn't require a service. That should be much leaner overall."
+            }
+        ]
+    },
+    {
+        "name": "Davis Treybig",
+        "handle": "TreybigDavis",
+        "bio": "Early stage investor at Innovation Endeavors, focused on computing infrastructure, developer tools, & data. Former PM at Google.",
+        "activity": [
+            {
+                "type": "TWEET",
+                "content": "It is fun to see so many recent explorations in ways to scale foundation models to larger sequence lengths and deal with the quadratic scaling of self-attention. Some of the recent research work I have found most interesting:"
+            },
+            {
+                "type": "COMMENT",
+                "content": "And thanks to the many researchers who have led this work like @simran_s_arora @realDanFu @tri_dao @MichaelPoli6 @exnx @Massastrello @HazyResearch @ai_with_brains @liliyu_lili @simigd @HarshMeh1a @colin__flaherty @MaxMa1987 @violet_zct @XiangKong4 @LukeZettlemoyer @donglixp",
+                "parent_name": "Davis Treybig",
+                "parent_content": "In an effort to try to understand all these approaches in more depth, I've summarized them in much more detail here: https://t.co/aeRb4PTDsJ\n\nIf I am missing any other interesting research in this area, I'd love to see it."
+            },
+            {
+                "type": "TWEET",
+                "content": "Excited to be cohosting the first Claude 2 hackathon with @AnthropicAI @cerebral_valley with support from @LangChainAI @llama_index @arizeai @huggingface \n\nhttps://t.co/RvG7zh3kzy"
+            },
+            {
+                "type": "COMMENT",
+                "content": "Over the weekend of July 29-30, builders will receive API access to Anthropic\u2019s new model, Claude 2, get hands-on support from our team, and connect with leading AI industry judges to be announced soon!",
+                "parent_name": "Davis Treybig",
+                "parent_content": "Excited to be cohosting the first Claude 2 hackathon with @AnthropicAI @cerebral_valley with support from @LangChainAI @llama_index @arizeai @huggingface \n\nhttps://t.co/RvG7zh3kzy"
+            },
+            {
+                "type": "COMMENT",
+                "content": "Winning teams will receive cash and credit prizes to kickstart their projects, as well as Anthropic swag. Hope to see y\u2019all there!",
+                "parent_name": "Davis Treybig",
+                "parent_content": "Over the weekend of July 29-30, builders will receive API access to Anthropic\u2019s new model, Claude 2, get hands-on support from our team, and connect with leading AI industry judges to be announced soon!"
+            },
+            {
+                "type": "QUOTE",
+                "content": "https://t.co/4D2rhe0D67",
+                "parent_name": "Luke (I\u2019m just Ken) McGartland",
+                "parent_content": "startup fundraising but make it rocky training montage \ud83e\udd4a https://t.co/84VieIA71C"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@lucasmcgartland Gotta draft getting yourself ready for round 2 https://t.co/Wk2verxi8x",
+                "parent_name": "Luke (I\u2019m just Ken) McGartland",
+                "parent_content": "https://t.co/4D2rhe0D67"
+            },
+            {
+                "type": "TWEET",
+                "content": "I do find almond milk and stuff like that offensive. I only ever drink Canadian Milk. Straight from the bottle. https://t.co/96n3zMfoMZ"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@TreybigDavis Does Vermont even have a strategic maple syrup reserve ?",
+                "parent_name": "Davis Treybig",
+                "parent_content": "@glcst Thoughts on Vermont maple syrup vs Canadian maple syrup?"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@glcst No maple syrup heists in Vermont :) https://t.co/KlKqUTTzOa",
+                "parent_name": "Glauber Costa",
+                "parent_content": "@TreybigDavis Does Vermont even have a strategic maple syrup reserve ?"
+            }
+        ]
+    },
+    {
+        "name": "Tristan Zajonc",
+        "handle": "tristanzajonc",
+        "bio": "Cofounder/CEO at @Continual_AI.  AI, data, startups, economics. \nFormerly @Cloudera, @SensePlatform.",
+        "activity": [
+            {
+                "type": "RETWEET",
+                "parent_name": "@moinnadeem",
+                "parent_content": "This is an important plot from the LLaMa 2 paper. It directly outlines the pre-training hours for the model!\n\nCosts below,\u2026"
+            },
+            {
+                "type": "TWEET",
+                "content": "Llama 2 is remarkably simple. The https://t.co/bT4ugOWehj is 288 lines of Python and the entire repository is &lt;1000 lines.\nhttps://t.co/ifSkPdRcVX"
+            },
+            {
+                "type": "TWEET",
+                "content": "This is huge: Llama-v2 is open source, with a license that authorizes commercial use!\n\nThis is going to change the landscape of the LLM market.\nLlama-v2 is available on Microsoft Azure and will be available on AWS, Hugging Face and other providers\n\nPretrained and fine-tuned\u2026"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@ylecun Thanks for this awesome contribution to AI.",
+                "parent_name": "Yann LeCun",
+                "parent_content": "This is huge: Llama-v2 is open source, with a license that authorizes commercial use!\n\nThis is going to change the landscape of the LLM market.\nLlama-v2 is available on Microsoft Azure and will be available on AWS, Hugging Face and other providers\n\nPretrained and fine-tuned\u2026"
+            },
+            {
+                "type": "QUOTE",
+                "content": "Definitely one of the nicest APIs on top of LLMs today.",
+                "parent_name": "Tristan Zajonc",
+                "parent_content": "\ud83e\udd73 Marvin's turning 1.0!\n\n@AskMarvinAI is our lightweight AI engineering framework for building software that's reliable, scalable, and easy to trust.\n\nIf you know Python, you know Marvin: its LLM abstractions were designed to feel as natural as possible.\nhttps://t.co/b8ndix6imd"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@peteroneilljr",
+                "parent_content": "#gluecon using AI to build products. @ContinualAI used to make copilot type AIs for your systems. https://t.co/pODemWgeLU"
+            },
+            {
+                "type": "TWEET",
+                "content": "\ud83d\udca5Just a few days ago, I was talking to someone and I mentioned that in next 6 months, there will be many more LLMs without restrictive license, supporting commercial use. And here we are already! TII's Falcon 40B is available now and has already beaten LLAMA 65B! \ud83d\ude80\ud83d\ude80\ud83d\ude80 https://t.co/v9vMKRyzZ9"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@abhi1thakur The license requires written permission and royalty payment for commercial use. Don\u2019t think that counts as without restrictive license.",
+                "parent_name": "abhishek",
+                "parent_content": "\ud83d\udca5Just a few days ago, I was talking to someone and I mentioned that in next 6 months, there will be many more LLMs without restrictive license, supporting commercial use. And here we are already! TII's Falcon 40B is available now and has already beaten LLAMA 65B! \ud83d\ude80\ud83d\ude80\ud83d\ude80 https://t.co/v9vMKRyzZ9"
+            },
+            {
+                "type": "TWEET",
+                "content": "Hearing more and more stories of existing SaaS companies seeing real revenue inflection after implementing generative AI features."
+            },
+            {
+                "type": "COMMENT",
+                "content": "@tristanzajonc Can you be more specific?",
+                "parent_name": "Tristan Zajonc",
+                "parent_content": "Hearing more and more stories of existing SaaS companies seeing real revenue inflection after implementing generative AI features."
+            }
+        ]
+    },
+    {
+        "name": "Jerry Liu",
+        "handle": "jerryjliu0",
+        "bio": "co-founder/CEO @llama_index\n\nEx-ML @robusthq,  AI research @Uber_ATG and ML Eng @Quora. Princeton '17",
+        "activity": [
+            {
+                "type": "TWEET",
+                "content": "The `rebel-large` model is awesome for relation extraction \ud83d\udd17\n\nPaired with CUDA, it\u2019s blazing fast \u26a1\ufe0f. With @llama_index \ud83e\udd99, we can now build a knowledge graph over any text data super quickly! \ud83d\udd78\ufe0f\n\nFull Colab notebook showing how you can use it: \n\nhttps://t.co/0EUpzKjVWK https://t.co/m9w39CjMTb"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@jerryjliu0 @llama_index Can this work with ComposableGraph or is it an alternative?",
+                "parent_name": "Jerry Liu",
+                "parent_content": "The `rebel-large` model is awesome for relation extraction \ud83d\udd17\n\nPaired with CUDA, it\u2019s blazing fast \u26a1\ufe0f. With @llama_index \ud83e\udd99, we can now build a knowledge graph over any text data super quickly! \ud83d\udd78\ufe0f\n\nFull Colab notebook showing how you can use it: \n\nhttps://t.co/0EUpzKjVWK https://t.co/m9w39CjMTb"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@max_mohammadi @llama_index not related to composable graph, this is related to our knowledge graph index https://t.co/bqzCAjOVLb",
+                "parent_name": "maxmohammadi.sol",
+                "parent_content": "@jerryjliu0 @llama_index Can this work with ComposableGraph or is it an alternative?"
+            },
+            {
+                "type": "QUOTE",
+                "content": "Amazing iteration speed!",
+                "parent_name": "Jerry Liu",
+                "parent_content": "In honor of the @AnthropicAI Claude 2 @cerebral_valley hackathon I implemented Anthropic support in @llama_index TS: https://t.co/epJV26rfSt Overall it was really straightforward spent a bit over an hour and most of that was making sure the examples worked. \ud83e\uddf5"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@yi_ding",
+                "parent_content": "In honor of the @AnthropicAI Claude 2 @cerebral_valley hackathon I implemented Anthropic support in @llama_index TS: https://t\u2026"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@yi_ding",
+                "parent_content": "Even though it\u2019s called LlamaIndex.TS you can absolutely use it with plain old JavaScript."
+            },
+            {
+                "type": "TWEET",
+                "content": "If you\u2019re at the @Anthropic Claude 2 hackathon today (@cerebral_valley), just FYI we have FULL native support for Claude 2 in @llama_index! \ud83e\udde0\n\nJust set ANTHROPIC_KEY_KEY env variable or customize yourself (s/o @mlpowered for suggestion) \ud83d\udd11:\n\nhttps://t.co/VtKXn7rK62 https://t.co/0bXXwKRd0H"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@Anthropic @cerebral_valley @llama_index @mlpowered *ANTHROPIC_API_KEY  :)",
+                "parent_name": "Jerry Liu",
+                "parent_content": "If you\u2019re at the @Anthropic Claude 2 hackathon today (@cerebral_valley), just FYI we have FULL native support for Claude 2 in @llama_index! \ud83e\udde0\n\nJust set ANTHROPIC_KEY_KEY env variable or customize yourself (s/o @mlpowered for suggestion) \ud83d\udd11:\n\nhttps://t.co/VtKXn7rK62 https://t.co/0bXXwKRd0H"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@cerebral_valley",
+                "parent_content": "The @AnthropicAI Claude 2 Hackathon is in full swing at @SHACK15sf https://t.co/CAon6Ennt3"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@llama_index",
+                "parent_content": "There\u2019s a lot of vector dbs out there - they all share similarities, but what are the differences between them?\n\nThis has\u2026"
+            }
+        ]
+    },
+    {
+        "name": "Paige Bailey",
+        "handle": "PaigeBailey",
+        "bio": "",
+        "activity": [
+            {
+                "type": "TWEET",
+                "content": "\u201cDo not attempt to fit God into your little political boxes\u201d-@RichNathan #DifferentTogetherVC"
+            },
+            {
+                "type": "TWEET",
+                "content": "I just voted for @richard0riginal The Farm https://t.co/IcMinZ1C8y on @Awardeocompany"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@EPickerill",
+                "parent_content": "\"Courage is facing our fears in the present moment and doing what's right even though we are afraid.\" -@RichNathan #vineyar\u2026"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@aj_nash",
+                "parent_content": "Repenting. That's how you have a multiethnic church.  #vineyardglobalfamily http://t.co/gfbI6JApkx"
+            },
+            {
+                "type": "TWEET",
+                "content": "Happy Birthday to the guy who never knew a stranger. Who fixes things, climbs mountains, and loves\u2026 https://t.co/F7MnExGq3H"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@nicknye",
+                "parent_content": "Media: It isn't the whole beautiful story of racial unity in Columbus but a small slice! http://t.co/33npsGX1Kd"
+            },
+            {
+                "type": "TWEET",
+                "content": "@CatalystLeader Where can I get the DVDs of these talks? http://t.co/C50x3XHXr5"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@edcyzewski",
+                "parent_content": "4 Reasons why you should join the Vineyard. Via pastor Amanda Nash: http://t.co/j20W7j6vH4 http://t.co/Ld2z2VPspI"
+            },
+            {
+                "type": "TWEET",
+                "content": "Oh yeah!! RT @gabe_t: Hey @PaigeBailey! I saw you on the big screen at the @buckeyes game in #TheShoe"
+            },
+            {
+                "type": "TWEET",
+                "content": "#richnathanselfie Help Rich raise his Klout above @commonsquirrel ! RT @RichNathan: http://t.co/vMSLeNFjCx"
+            }
+        ]
+    },
+    {
+        "name": "Michele Catasta",
+        "handle": "pirroh",
+        "bio": "VP of AI @Replit | Former: Head of Applied Research @Google X & Labs, Research Scientist and Instructor @Stanford University | #LLM #AI4Code",
+        "activity": [
+            {
+                "type": "RETWEET",
+                "parent_name": "@googledevs",
+                "parent_content": "\ud83d\udd34 Live now! \u2192 https://t.co/HRfPi4Aa7y \n\nJoin @DynamicWebPaige, Product Lead for Generative Models at @GoogleDeepMind, for a\u2026"
+            },
+            {
+                "type": "TWEET",
+                "content": "Late September in San Francisco comes with beautiful weather, and a lot of great talks at the @AIconference.\n\nMine will be \"What powers @Replit Ghostwriter?\"\n\nEarly bird pricing ends on 7/31:\nhttps://t.co/6gLTGyrC1P\n\u261d\ufe0f discount code to sweeten the deal! https://t.co/xPEuN5PwY0"
+            },
+            {
+                "type": "QUOTE",
+                "content": "Here\u2019s another one: \n\n\u201cImmigrants, we get the job done\u201d - per Hamilton via Lin Manuel Miranda\n\nGreat podcast, @pirroh",
+                "parent_name": "Julie Shin Choi (she/her)",
+                "parent_content": "\u201cFigure it out, that\u2019s the mantra of @runwayml\u201d\n\nI asked @c_valenzuelab if he had recommendations for immigrants (like the two of us) who want to build a successful AI company.\nIt\u2019s all about system thinking.\n\n1/ \ud83e\uddf5"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@juliechoi Thanks Julie \ud83d\ude4f",
+                "parent_name": "Julie Shin Choi (she/her)",
+                "parent_content": "Here\u2019s another one: \n\n\u201cImmigrants, we get the job done\u201d - per Hamilton via Lin Manuel Miranda\n\nGreat podcast, @pirroh"
+            },
+            {
+                "type": "TWEET",
+                "content": "\u201cFigure it out, that\u2019s the mantra of @runwayml\u201d\n\nI asked @c_valenzuelab if he had recommendations for immigrants (like the two of us) who want to build a successful AI company.\nIt\u2019s all about system thinking.\n\n1/ \ud83e\uddf5"
+            },
+            {
+                "type": "COMMENT",
+                "content": "\u201cYou can learn systems. Fundraising is a a system, building a company is a system, building a culture is a system.\u201d\nI couldn\u2019t agree more.\n\nHere you can watch our entire fireside chat at the @stripe AI day:\nhttps://t.co/gb7qz5dc2Z\n\n2/",
+                "parent_name": "Michele Catasta",
+                "parent_content": "\u201cFigure it out, that\u2019s the mantra of @runwayml\u201d\n\nI asked @c_valenzuelab if he had recommendations for immigrants (like the two of us) who want to build a successful AI company.\nIt\u2019s all about system thinking.\n\n1/ \ud83e\uddf5"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@DynamicWebPaige",
+                "parent_content": "\"Learn more about how tools like @Replit\u2019s Ghostwriter and @Google Bard are revolutionizing the developer experience a\u2026"
+            },
+            {
+                "type": "TWEET",
+                "content": "Great insights come from a strong partnership between Research and Data. I'm so excited to share that @iam_lpettingill joined @JohnAgan's team at @Replit this week. Prior to Replit, Lindsay was a founder at Iggy and early Data Science at Airbnb.\n\nJoin me in welcoming Lindsay! https://t.co/WfGjsDK8tE"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@davidhoang @amasad @iam_lpettingill @JohnAgan @Replit Welcome aboard, Lindsay!",
+                "parent_name": "David Hoang",
+                "parent_content": "Great insights come from a strong partnership between Research and Data. I'm so excited to share that @iam_lpettingill joined @JohnAgan's team at @Replit this week. Prior to Replit, Lindsay was a founder at Iggy and early Data Science at Airbnb.\n\nJoin me in welcoming Lindsay! https://t.co/WfGjsDK8tE"
+            },
+            {
+                "type": "TWEET",
+                "content": "You hear it every day: \u201cthere is so much happening in AI!\u201d\nYes, but\u2026 how much is MUCH?\n\n@Replit has become the platform of choice for AI-native builders \u2014 numbers don\u2019t lie:\n- 34000% growth in AI projects\n- ... \n1/ \ud83e\uddf5"
+            }
+        ]
+    },
+    {
+        "name": "Harini Kannan",
+        "handle": "harinidkannan",
+        "bio": "Working on something new. Previously generative AI @GoogleBrain and @MIT CS",
+        "activity": [
+            {
+                "type": "QUOTE",
+                "content": "Congrats @realSharonZhou!",
+                "parent_name": "Harini Kannan",
+                "parent_content": "I\u2019m super excited to announce @LaminiAI, the LLM engine that gives every developer the superpowers that took the world from GPT-3 to ChatGPT! We make it easy to rapidly train custom LLMs from @OpenAI @EleutherAI @Cerebras @Databricks @HuggingFace @Meta https://t.co/qUKQWNuzjQ \ud83e\uddf5 https://t.co/1WkGWKfAqH"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@realSharonZhou",
+                "parent_content": "I\u2019m super excited to announce @LaminiAI, the LLM engine that gives every developer the superpowers that took the world\u2026"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@eladgil",
+                "parent_content": "This one works quite well"
+            },
+            {
+                "type": "TWEET",
+                "content": "What is the best AI headshot service?\nI.e. I put in some photos and outputs a pro headshot?"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@eladgil https://t.co/BWsX6jLz1u\n\nNew photography model made by ML researchers, not just from a Dreambooth API, so you get real photos of yourself not avatars https://t.co/tZ5RgmPzuU",
+                "parent_name": "Elad Gil",
+                "parent_content": "What is the best AI headshot service?\nI.e. I put in some photos and outputs a pro headshot?"
+            },
+            {
+                "type": "TWEET",
+                "content": "Excited to announce RoboDesk, a multi-task, pixel-based reinforcement learning benchmark that features 9 diverse tasks in the same environment. The tasks test for a wide variety of robotic skills and involve multiple interactive objects (drawers, buttons, various blocks). \ud83e\udd16\ud83d\udc47 https://t.co/PCAXAaT5EO"
+            },
+            {
+                "type": "COMMENT",
+                "content": "RoboDesk comes as a self-contained Python package with few dependencies. The source code is clean and pragmatic, making it a useful blueprint for creating new MuJoCo environments.\n\npip install robodesk\n\nMore info: https://t.co/tisnSTF0iL\n\n(cc @danijarh @chelseabfinn @doomie)",
+                "parent_name": "Harini Kannan",
+                "parent_content": "We carefully designed and tested RoboDesk to ensure fast and stable physics simulation. This avoids objects from intersecting, getting stuck, or quickly flying away, common problems that can occur with multi-object environments."
+            },
+            {
+                "type": "TWEET",
+                "content": "Exciting news today - Reverie has raised a $25M Series A! I'm immensely grateful and proud of the incredible team that got us here, and so excited for what lies ahead in our journey to cure diseases with computation. \n\nhttps://t.co/3Mh9QqETvp"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@GuptaAnkitV Congrats!! So exciting :)",
+                "parent_name": "Ankit Gupta",
+                "parent_content": "Exciting news today - Reverie has raised a $25M Series A! I'm immensely grateful and proud of the incredible team that got us here, and so excited for what lies ahead in our journey to cure diseases with computation. \n\nhttps://t.co/3Mh9QqETvp"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@babaeizadeh",
+                "parent_content": "Blog post on our latest experiments on visual model based reinforcement learning\nhttps://t.co/XlS1aME66z \n\nOne of the most\u2026"
+            }
+        ]
+    },
+    {
+        "name": "Raza Habib",
+        "handle": "RazRazcle",
+        "bio": "CEO @humanloop (YC S20) |Unbelievably excited about the future of AI. \n\nFollow me for updates on LLMs and how to build products with them.",
+        "activity": [
+            {
+                "type": "RETWEET",
+                "parent_name": "@aidangomezzz",
+                "parent_content": "We're excited to start putting Coral in the hands of users!\n\nCoral is \"retrieval-first\" in the sense it will reference an\u2026"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@humanloop",
+                "parent_content": "Happy Tuesday: Today we're launching support for @Meta's Llama 2 in the Humanloop Playground!\n\nYou can now go to https://t.c\u2026"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@jxnlco",
+                "parent_content": "I tried some structured extraction with llama2  via perplexitys web client \n\nHere are some qualitative results\n\n1) llama7b can\u2026"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@nathanbenaich",
+                "parent_content": "\u201cThe new spring in artificial intelligence is the most significant development in computing in my lifetime\u201d\n- Sergey Bri\u2026"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@deepfates",
+                "parent_content": "Well, that was easy https://t.co/ND72hqD8aC"
+            },
+            {
+                "type": "TWEET",
+                "content": "I'm going to be judging at @AnthropicAI's first official Hackathon next weekend! \n\nSuper excited to see what people build \u2014 there are only 150 spots, so sign up this week if you're interested!\nhttps://t.co/8GuT6RCAki"
+            },
+            {
+                "type": "TWEET",
+                "content": "I keep hearing people say things like \"LLMs are just maths\" or \"It's just a bunch of matrices\". This is literally wrong. \n\nWe instantiate the maths physically as moving electrons inside a computer. LLMs have bodies and brains. They're data centres, wires etc"
+            },
+            {
+                "type": "TWEET",
+                "content": "This is a really thoughtful defence of open-source foundation models from @jeremyphoward, well worth a read!\n\nhttps://t.co/VKhYiHJwKc"
+            },
+            {
+                "type": "TWEET",
+                "content": "Features like OpenAI functions create switching costs between model providers and will become a form of defensibility for OAI against Anthropic et al"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@RazRazcle That would be true if the calls are consistent within the same model \ud83d\ude02",
+                "parent_name": "Raza Habib",
+                "parent_content": "Features like OpenAI functions create switching costs between model providers and will become a form of defensibility for OAI against Anthropic et al"
+            }
+        ]
+    },
+    {
+        "name": "Rachel Woods",
+        "handle": "rachel_l_woods",
+        "bio": "Ex-Facebook Research Data Scientist. Pushing the envelope of operating businesses with AI. #AIOps",
+        "activity": [
+            {
+                "type": "TWEET",
+                "content": "Best ai photo editing tool to remove watermarks?"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@bentossell Canva\u2019s magic eraser is quite good",
+                "parent_name": "Ben Tossell",
+                "parent_content": "Best ai photo editing tool to remove watermarks?"
+            },
+            {
+                "type": "TWEET",
+                "content": "What are the coolest projects these days where ChatGPT is generating prompts for itself? (github repos, etc)"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@sama",
+                "parent_content": "Move faster. Slowness anywhere justifies slowness everywhere.\n\n2021 instead of 2022. This week instead of next week. Today instea\u2026"
+            },
+            {
+                "type": "TWEET",
+                "content": "Generative AI is still only as good as the prompts you give it."
+            },
+            {
+                "type": "TWEET",
+                "content": "The rules of how to build an AI-powered business are currently being written."
+            },
+            {
+                "type": "COMMENT",
+                "content": "@rachel_l_woods lol - all of us on the AI Exchange call are saying the same thing right now.  :-).",
+                "parent_name": "Rachel Woods",
+                "parent_content": "The rules of how to build an AI-powered business are currently being written."
+            },
+            {
+                "type": "COMMENT",
+                "content": "@EasyasPieDesign I was so happy to hear how great the community call was today! We have the best people \ud83d\ude0c",
+                "parent_name": "Easy as Pie Design",
+                "parent_content": "@rachel_l_woods lol - all of us on the AI Exchange call are saying the same thing right now.  :-)."
+            },
+            {
+                "type": "QUOTE",
+                "content": "Love this.",
+                "parent_name": "Rachel Woods",
+                "parent_content": "Announcing the new and improved Lennybot \ud83e\udd16\n\nA ChatGPT-4 powered chatbot that is trained on all of my newsletter content AND now all of my podcast transcripts. Also, includes links to all of the content it references.\n\nAsk it:\n\u2713 How do I get better at strategy?\n\u2713 How do I\u2026 https://t.co/xHCzGQkCWR"
+            },
+            {
+                "type": "TWEET",
+                "content": "A lot of the AI clickbait will say you're prompting ChatGPT wrong.\n\nBut the reality is there are multiple ways to prompt it, it just depends on what you are using it for. https://t.co/RVeNdxaZvv"
+            }
+        ]
+    },
+    {
+        "name": "Jeff Wang \ud83d\udc68\u200d\ud83d\ude80",
+        "handle": "jffwng",
+        "bio": "Product Lead @MetaAI (FAIR). I like language models. I also like non-language models. Previously at Twitter and startups",
+        "activity": [
+            {
+                "type": "TWEET",
+                "content": "Happy Friday https://t.co/Fc8wQhMp9F"
+            },
+            {
+                "type": "TWEET",
+                "content": "AGI\ud83e\udd16 or NHI\ud83d\udc7d"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@clefourrier",
+                "parent_content": "Curious to know how Llama-2 models compare to other LLMs? \ud83e\udd99\n\ud83d\udc40\u2696\ufe0f Check it out on the Open LLM Leaderboard! https://t.co/phl\u2026"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@ClementDelangue",
+                "parent_content": "Awesome to see @Meta release Llama2's weights with a permissive license for commercial use: https://t.co/gSV2hgO4yT\n\nT\u2026"
+            },
+            {
+                "type": "RETWEET",
+                "parent_name": "@drewhouston",
+                "parent_content": "Proud to partner with @Meta on the LLaMA 2 launch and invest in open source AI!"
+            },
+            {
+                "type": "QUOTE",
+                "content": "\ud83e\udd99Llama 2 is now available for both research and commercial use.\n\n\ud83d\udd25 Trained with 40% more data (2T tokens) than LLama 1 and 2x context length\n\ud83d\udee0\ufe0f Sizes: 7B, 13B and 70B\n\ud83d\udc51 Outperforms other OS models\n\ud83e\udd17 Available on Azure, HuggingFace + more\n\nDownload model:\u2026 https://t.co/ICMYBLpxz6",
+                "parent_name": "Jeff Wang \ud83d\udc68\u200d\ud83d\ude80",
+                "parent_content": "This is huge: Llama-v2 is open source, with a license that authorizes commercial use!\n\nThis is going to change the landscape of the LLM market.\nLlama-v2 is available on Microsoft Azure and will be available on AWS, Hugging Face and other providers\n\nPretrained and fine-tuned\u2026"
+            },
+            {
+                "type": "COMMENT",
+                "content": "- Paper: https://t.co/v6gjDXGX6a\n- Blog: https://t.co/VIk07dv97n\n- Website (Download): https://t.co/JzYwkSCjtv\n- Github: https://t.co/KIlpOtgLbf\n- HF Gradio demo: https://t.co/miYvULa02g https://t.co/bmHTW4sGvd",
+                "parent_name": "Jeff Wang \ud83d\udc68\u200d\ud83d\ude80",
+                "parent_content": "\ud83e\udd99Llama 2 is now available for both research and commercial use.\n\n\ud83d\udd25 Trained with 40% more data (2T tokens) than LLama 1 and 2x context length\n\ud83d\udee0\ufe0f Sizes: 7B, 13B and 70B\n\ud83d\udc51 Outperforms other OS models\n\ud83e\udd17 Available on Azure, HuggingFace + more\n\nDownload model:\u2026 https://t.co/ICMYBLpxz6"
+            },
+            {
+                "type": "COMMENT",
+                "content": "Benchmarks - https://t.co/8j6qayQuVl https://t.co/zGUzVIgeWf",
+                "parent_name": "Jeff Wang \ud83d\udc68\u200d\ud83d\ude80",
+                "parent_content": "- Paper: https://t.co/v6gjDXGX6a\n- Blog: https://t.co/VIk07dv97n\n- Website (Download): https://t.co/JzYwkSCjtv\n- Github: https://t.co/KIlpOtgLbf\n- HF Gradio demo: https://t.co/miYvULa02g https://t.co/bmHTW4sGvd"
+            },
+            {
+                "type": "QUOTE",
+                "content": "Imagine if you ran a company with upside down unit economics and a candidate for CEO said he wanted to disband the only revenue team.",
+                "parent_name": "Lee Edwards",
+                "parent_content": "BREAKING: Ron DeSantis was just asked if he's in favor of eliminating any federal agencies.\n\nHe says he wants to eliminate the Departments of Education, Commerce, and Energy \u2014 and the IRS. https://t.co/xwdA0GiJ9Y"
+            },
+            {
+                "type": "COMMENT",
+                "content": "@terronk IRS is probably the most well run department in all of government",
+                "parent_name": "Lee Edwards",
+                "parent_content": "Imagine if you ran a company with upside down unit economics and a candidate for CEO said he wanted to disband the only revenue team."
+            }
+        ]
+    }
+]
