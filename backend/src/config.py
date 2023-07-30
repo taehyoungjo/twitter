@@ -252,17 +252,6 @@ def init_tweets():
         User(handle="satyanadella", name="Satya Nadella", bio="CEO of Microsoft"),
     )
 
-    # add judge twitter personas
-    
-    subdir = '../samples/bios'
-    json_files = [f for f in os.listdir(subdir)]
-    for filename in json_files:
-        with open(os.path.join(subdir, filename), 'r') as file:
-            data = json.load(file)
-            users.add_user(
-                User(handle=data.get('screen_name'), name=data.get('name'), bio=data.get('description')),
-            )
-
     tweets.add_tweet(
         Tweet(
             type=TweetType.TWEET,
@@ -298,6 +287,30 @@ def init_tweets():
             parent_id=0,
         )
     )
+
+    # add judges too
+
+    NUM_DEFAULT_USERS = 3
+    judge_json = '../samples/initjudges.json'
+    with open(judge_json, 'r') as file:
+        data = json.load(file)
+        for i, judge in enumerate(data):
+            users.add_user(
+                User(handle=judge['handle'], name=judge['name'], bio=judge['bio']),
+            )
+            if judge['texts']:
+                for text in judge['texts']:
+                    tweets.add_tweet(
+                        Tweet(
+                            type=TweetType.TWEET,
+                            user_id=i + NUM_DEFAULT_USERS,
+                            likes=[],
+                            retweets=[],
+                            comments=[],
+                            timestamp=0,
+                            content=text,
+                        )
+                    )
 
 
 init_tweets()

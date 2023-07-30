@@ -21,11 +21,29 @@ for filename in json_files:
     with open(os.path.join(subdir2, filename), 'r') as file:
         data = json.load(file)
         text_data = [v['text'] for v in data.values()]
-        if len(text_data) < MAX_TWEETS_PER_USR:
-            user_data["texts"] = text_data
+        tweet_type = []
+
+        for text in text_data:
+            if text[0:2] == "RT":
+                tweet_type.append("RETWEET")
+            elif text[0:1] == "@":
+                tweet_type.append("COMMENT")
+            else:
+                tweet_type.append("TWEET")
+
+        return_data = [] # I just want tweets
+        for i in range(len(tweet_type)):
+            if tweet_type[i] == "TWEET":
+                return_data.append(text_data[i])
+
+        if len(return_data) <= MAX_TWEETS_PER_USR:
+            user_data["texts"] = return_data
         else:
-            user_data["texts"] = text_data[0:MAX_TWEETS_PER_USR+1]
+            user_data["texts"] = return_data[0:MAX_TWEETS_PER_USR]
 
     initial_user_data.append(user_data)
 
 print(initial_user_data)
+
+with open('initjudges.json', 'w') as output_file:
+    json.dump(initial_user_data, output_file)
