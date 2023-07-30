@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import App from "./App.tsx";
+import { Feed } from "./Feed.tsx";
 import "./index.css";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
@@ -11,8 +11,8 @@ const router = createBrowserRouter([
     element: <div>Twitter</div>,
   },
   {
-    path: "/:username",
-    element: <App />,
+    path: "/user/:username",
+    element: <Feed />,
   },
 ]);
 

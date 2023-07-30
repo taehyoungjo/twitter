@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { BiComment } from "react-icons/bi";
-import "./App.css";
 
 type BasePost = {
   id: string;
@@ -79,7 +78,7 @@ const DUMMY_FEED: Post[] = [
   } as RetweetPost,
 ];
 
-function App() {
+export function Feed() {
   const [feed] = useState<Post[]>(DUMMY_FEED);
 
   return (
@@ -199,5 +198,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
