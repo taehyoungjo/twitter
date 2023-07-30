@@ -1,0 +1,76 @@
+{
+  "advertiser_account_service_levels": [
+    "analytics"
+  ],
+  "advertiser_account_type": "promotable_user",
+  "analytics_type": "enabled",
+  "created_at": "Wed Dec 16 13:11:44 +0000 2009",
+  "description": "Advancing Biomedical AI @GoogleAI | Previously @facebookai Research | Definite Optimist",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "natviv.me",
+          "expanded_url": "https://natviv.me",
+          "indices": [
+            0,
+            23
+          ],
+          "url": "https://t.co/hjEp7rObvr"
+        }
+      ]
+    },
+    "description": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "0",
+          "indices": [
+            24,
+            33
+          ],
+          "name": "",
+          "screen_name": "GoogleAI"
+        },
+        {
+          "id_str": "0",
+          "indices": [
+            47,
+            58
+          ],
+          "name": "",
+          "screen_name": "facebookai"
+        }
+      ]
+    }
+  },
+  "fast_followers_count": 0,
+  "favourites_count": 5809,
+  "followers_count": 4529,
+  "friends_count": 340,
+  "geo_enabled": true,
+  "has_custom_timelines": true,
+  "has_extended_profile": false,
+  "id_str": "97205267",
+  "is_translator": false,
+  "location": "Mountain View, CA",
+  "media_count": 51,
+  "name": "Vivek Natarajan",
+  "normal_followers_count": 4529,
+  "pinned_tweet_ids_str": [
+    "1607609299894947841"
+  ],
+  "profile_background_color": "C0DEED",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1650016943016148992/fVTl78PS_normal.jpg",
+  "profile_interstitial_type": "",
+  "profile_link_color": "1DA1F2",
+  "protected": false,
+  "screen_name": "vivnat",
+  "statuses_count": 608,
+  "translator_type_enum": "None",
+  "url": "https://t.co/hjEp7rObvr",
+  "verified": false,
+  "withheld_in_countries": []
+}

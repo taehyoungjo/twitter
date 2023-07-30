@@ -1,0 +1,2402 @@
+{
+  "1683893288615690240": {
+    "text": "RT @rajpaldhruv: seeing myself on the cover of my favourite playlist hits different ❤️‍🔥 thank you @spotifyindia https://t.co/DhrOG9uwS9",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 9,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1683893288615690240",
+    "author_id": "23958690"
+  },
+  "1683866779347750912": {
+    "text": "RT @NumbersStnAI: 🚀Soon we're unveiling NSQL Llama 7B, an even more robust SQL generation FM building on Meta's Llama 2!\n\nWe're on par with…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 16,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1683866779347750912",
+    "author_id": "23958690"
+  },
+  "1682492547313303552": {
+    "text": "I had a fantastic time talking about Guardrails for LLMs at the LLMs in Production Conference II. You can check out the whole presentation here ⬇️\n\nhttps://t.co/LkznWPKxSX",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 4,
+    "bookmarks": 10,
+    "likes": 40,
+    "id": "1682492547313303552",
+    "author_id": "23958690"
+  },
+  "1681753877199323137": {
+    "text": "RT @krandiash: Successfully defended my PhD yesterday, one of the most fun experiences of my life (barring Covid) thanks to @HazyResearch…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 12,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1681753877199323137",
+    "author_id": "23958690"
+  },
+  "1676643228408496128": {
+    "text": "RT @NirantK: ⚡️ Announcing 1M @OpenAI embedding for Entities ⚡️\n\n1️⃣ DBPedia: Entity and it's description capture rich meaning\n2️⃣ Embeddin…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 14,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1676643228408496128",
+    "author_id": "23958690"
+  },
+  "1674522372400099328": {
+    "text": "Excited to be giving a talk at the @databricks’ Data + AI summit this afternoon\n\nSwing by Hall F to learn more about how your enterprise AI needs Guardrails https://t.co/MIokoEL5RF",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 4,
+    "bookmarks": 1,
+    "likes": 56,
+    "id": "1674522372400099328",
+    "author_id": "23958690"
+  },
+  "1669763556492070912": {
+    "text": "Excited to join a stacked lineup of speakers at the @mlopscommunity LLMs in Production conference!\n\nI'll be talking about the practical approach to building guardrails for LLM applications in production, and how @guardrails_ai can help! https://t.co/eNKMLG9m2C",
+    "quotes": 1,
+    "replies": 1,
+    "retweets": 5,
+    "bookmarks": 3,
+    "likes": 44,
+    "id": "1669763556492070912",
+    "author_id": "23958690"
+  },
+  "1669748429617266689": {
+    "text": "RT @weights_biases: Come for @dk21's \"A Gentle Introduction to #LLM APIs\" on how large language models work and how to use them in your app…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 5,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1669748429617266689",
+    "author_id": "23958690"
+  },
+  "1669060246655102977": {
+    "text": "RT @adityagrover_: Introducing Decision Stacks: A new foundation model for RL\n\n✅Modular design for flexible use of generative models (trans…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 4,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1669060246655102977",
+    "author_id": "23958690"
+  },
+  "1669005658853892096": {
+    "text": "@OpenAI's function calling is a HUGE utility for developers! 💥\n\n@guardrails_ai's latest release supports easy JSON generation, validation and correction using function calling\n\n1️⃣ Create a @pydantic basemodel of the JSON schema\n2️⃣ Set up `Guard`\n3️⃣ Call OpenAI's freshest model https://t.co/Gheyueie10",
+    "quotes": 1,
+    "replies": 4,
+    "retweets": 4,
+    "bookmarks": 6,
+    "likes": 27,
+    "id": "1669005658853892096",
+    "author_id": "23958690"
+  },
+  "1669017073396375552": {
+    "text": "@jxnlco Ah that’s unfortunate haha",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1669017073396375552",
+    "author_id": "23958690"
+  },
+  "1669014074863271936": {
+    "text": "@jxnlco Gotcha, yeah I think that seems pretty reasonable.\n\nIt should be a quick change to add that or a dedicated method like call_with_pydantic",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1669014074863271936",
+    "author_id": "23958690"
+  },
+  "1669011025927233536": {
+    "text": "@jxnlco @jxnlco no — guard.__call__ is a standin for calling the LLM API, and so returns the raw string and validated JSON outputs, and the final call to Pydantic model is made by the end user",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1669011025927233536",
+    "author_id": "23958690"
+  },
+  "1666668715474288640": {
+    "text": "Thrilled to collaborate with @dk21 and @weights_biases on a new course on building LLM-powered applications!  I talk about controlling LLM outputs w/ @guardrails_ai \n\nThe course is very thoughtfully designed &amp; goes pretty deep into the stages of LLM app development. Details 👇 https://t.co/r2vFWTVNOA",
+    "quotes": 4,
+    "replies": 2,
+    "retweets": 18,
+    "bookmarks": 45,
+    "likes": 94,
+    "id": "1666668715474288640",
+    "author_id": "23958690"
+  },
+  "1668095716508717056": {
+    "text": "@NirantK @dk21 @weights_biases @guardrails_ai Second @dk21 — this would be a great webinar!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1668095716508717056",
+    "author_id": "23958690"
+  },
+  "1668094306043981824": {
+    "text": "RT @NirantK: @ShreyaR @dk21 @weights_biases @guardrails_ai This is super exciting! \n\nPlease ask them if they'd like a TA, or someone to sha…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1668094306043981824",
+    "author_id": "23958690"
+  },
+  "1666671111638249472": {
+    "text": "Had a fantastic time chatting with Charlie and Badar at @mlsecops on how to make LLMs safer and more usable in practical applications with @guardrails_ai. \nCheck out the podcast below! 📣",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 3,
+    "bookmarks": 0,
+    "likes": 20,
+    "id": "1666671111638249472",
+    "author_id": "23958690"
+  },
+  "1666669791762055168": {
+    "text": "RT @rachel_l_woods: If you're not talking to businesses about their AI adoption all the time, this will probably surprise you:\n\nBusinesses…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 24,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1666669791762055168",
+    "author_id": "23958690"
+  },
+  "1662140374369062912": {
+    "text": "@MeerkatML is the (pandas + seaborn) for unstructured data.\n\nReally useful for building workflows around LLMs!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 2,
+    "id": "1662140374369062912",
+    "author_id": "23958690"
+  },
+  "1661646833268170752": {
+    "text": "RT @swyx: @FanaHOVA even more awesome @guardrails_ai and @shreyar coverage!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1661646833268170752",
+    "author_id": "23958690"
+  },
+  "1661646778754818048": {
+    "text": "RT @rachel_l_woods: Definitely worth the listen \n\n@ShreyaR and @guardrails_ai",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 6,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1661646778754818048",
+    "author_id": "23958690"
+  },
+  "1661107383224139777": {
+    "text": "I had a fantastic time chatting with @labenz about practical strategies for adding Guardrails to LLM applications at the Cognitive Revolution podcast! \n\nCheck out my episode below 👇",
+    "quotes": 1,
+    "replies": 0,
+    "retweets": 3,
+    "bookmarks": 3,
+    "likes": 29,
+    "id": "1661107383224139777",
+    "author_id": "23958690"
+  },
+  "1660026690826022914": {
+    "text": "RT @swyx: @verdverm @amitlevy64 @chrismessina some outputs good, many outputs bad. i really, really like @ShreyaR 's approach of practical…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 2,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1660026690826022914",
+    "author_id": "23958690"
+  },
+  "1659960309556322304": {
+    "text": "@sergeykarayev @laurel_orr1’s https://t.co/BUrbwKAzyu",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 2,
+    "likes": 7,
+    "id": "1659960309556322304",
+    "author_id": "23958690"
+  },
+  "1659361080697819136": {
+    "text": "RT @sangmichaelxie: Should LMs train on more books, news, or web data?\n\nIntroducing DoReMi🎶, which optimizes the data mixture with a small…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 143,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1659361080697819136",
+    "author_id": "23958690"
+  },
+  "1658487312978964481": {
+    "text": "RT @willpienaar: Introducing Rebuff: An open source self-hardening prompt injection detector!\n\nhttps://t.co/uftr5ULXmJ\nhttps://t.co/cvl1XEs…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 59,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1658487312978964481",
+    "author_id": "23958690"
+  },
+  "1658315675411308546": {
+    "text": "RT @DivGarg9: Going to the most amazing hackathon ever held 🤩🔥\n\nWe will be building autonomous AI agents that can take Actions and are able…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 12,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1658315675411308546",
+    "author_id": "23958690"
+  },
+  "1658300020196782081": {
+    "text": "RT @swyx: btw @FanaHOVA shipped a fantastic pod today with @ShreyaR (I *love* we are the first podcast of call for exciting up and coming A…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 2,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1658300020196782081",
+    "author_id": "23958690"
+  },
+  "1658270625126031360": {
+    "text": "RT @FanaHOVA: We talked about a lot of the design decisions and goals for Guardrails in the latest pod episode! https://t.co/JgXQr8ldIQ",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1658270625126031360",
+    "author_id": "23958690"
+  },
+  "1658270599473664001": {
+    "text": "Had a blast chatting with @FanaHOVA and @swyx about how to build Guardrails for AI for the Latent Space podcast!\n\nCheck out the episode below👇",
+    "quotes": 0,
+    "replies": 3,
+    "retweets": 3,
+    "bookmarks": 3,
+    "likes": 29,
+    "id": "1658270599473664001",
+    "author_id": "23958690"
+  },
+  "1657065829085888517": {
+    "text": "🛤️ New @guardrails_ai release out!\n\n✅Better logging support — optionally persist logs to disk\n✅Manifest embeddings (with caching) by @laurel_orr1\n✅More guardrails to validate generated summaries\n✅A ton of bug fixes!\n\nTry it out with “pip install guardrails-ai”",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 5,
+    "bookmarks": 4,
+    "likes": 21,
+    "id": "1657065829085888517",
+    "author_id": "23958690"
+  },
+  "1656706775507410944": {
+    "text": "RT @AnthropicAI: Introducing 100K Context Windows! We’ve expanded Claude’s context window to 100,000 tokens of text, corresponding to aroun…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1103,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1656706775507410944",
+    "author_id": "23958690"
+  },
+  "1655830443089072128": {
+    "text": "RT @NirantK: Twitter, please do your thing and help me find the best Women in AI in Bengaluru?\n\nPreference for active contributors e.g. wri…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 37,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1655830443089072128",
+    "author_id": "23958690"
+  },
+  "1654200464794333185": {
+    "text": "RT @hwchase17: 🔀Router Chains🔀\n\nA simple (yet much requested) abstraction that started with a @ShreyaR pr months ago and is finally in @Lan…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 55,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1654200464794333185",
+    "author_id": "23958690"
+  },
+  "1653606292597149696": {
+    "text": "RT @IrgolicR: @ShreyaR @guardrails_ai Thanks Shreya! @guardrails_ai is the perfect tool for interacting with LLMs that makes AutoPR clean a…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 2,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1653606292597149696",
+    "author_id": "23958690"
+  },
+  "1653443725643898882": {
+    "text": "ICYMI: excellent thread on the implementation details behind AutoPR!\n\nAutoPR automatically creates pull requests from issues, figuring out files to edit, diffs, etc. automatically\n\nIn the 🧵, @IrgolicR shares how he uses @guardrails_ai to check correctness of AutoPR’s actions👇",
+    "quotes": 0,
+    "replies": 2,
+    "retweets": 2,
+    "bookmarks": 4,
+    "likes": 25,
+    "id": "1653443725643898882",
+    "author_id": "23958690"
+  },
+  "1653441972353503232": {
+    "text": "RT @IrgolicR: AutoPR is built with @guardrails_ai, a python library that sits on top of the LLM. Describe the output you want using an XML…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 2,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1653441972353503232",
+    "author_id": "23958690"
+  },
+  "1652765681593749509": {
+    "text": "RT @kaixhin: Cool project - was talking to folks at @StabilityAI_JP about how large pretrained models could come with guarantees, and this…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 2,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1652765681593749509",
+    "author_id": "23958690"
+  },
+  "1652764150928674816": {
+    "text": "RT @IrgolicR: @ShreyaR @guardrails_ai Thank you so much, guardrails made this all possible. I really appreciate all the work you've put int…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1652764150928674816",
+    "author_id": "23958690"
+  },
+  "1652504295491907589": {
+    "text": "🤯 This is absolutely wild - a Github action that uses LLMs to automatically create a pull request for an issue!\n\nAutoPR uses @guardrails_ai to ensure that generated diffs &amp; commits are valid &amp; correct\n\nCheck it out in action below 👇",
+    "quotes": 2,
+    "replies": 2,
+    "retweets": 21,
+    "bookmarks": 63,
+    "likes": 136,
+    "id": "1652504295491907589",
+    "author_id": "23958690"
+  },
+  "1652504297349976067": {
+    "text": "Follow the amazing @IrgolicR to keep up with this project!\n\nhttps://t.co/xCeDpJZx8P",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 5,
+    "id": "1652504297349976067",
+    "author_id": "23958690"
+  },
+  "1652367276665102338": {
+    "text": "Using @guardrails_ai for contract QA 🚀",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 4,
+    "likes": 16,
+    "id": "1652367276665102338",
+    "author_id": "23958690"
+  },
+  "1651742671961214980": {
+    "text": "Really cool stuff! LLM generated summaries of all of the activity on @guardrails_ai \n\nhttps://t.co/pqYNl1IFsg",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 1,
+    "likes": 9,
+    "id": "1651742671961214980",
+    "author_id": "23958690"
+  },
+  "1651636025461211136": {
+    "text": "Had a wonderful time at the AI for builders podcast where I talk about the need for Guardrails when building with LLMs!\n\nHuge shoutout to @jturow and @doppenhe for inviting me and some amazing speakers like @laurel_orr1 and @GrantSlatton",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 2,
+    "bookmarks": 1,
+    "likes": 17,
+    "id": "1651636025461211136",
+    "author_id": "23958690"
+  },
+  "1651615125194022912": {
+    "text": "Introducing guardrails for document summarization!! 🎉\n\n@guardrails_ai offers 5 new safeguards for multi-document summarization (how to use them at end of 🧵)\n\n1/5 Sentence match guardrails: Ensure that each sentence in the summary has a high similarity score with source texts",
+    "quotes": 0,
+    "replies": 5,
+    "retweets": 16,
+    "bookmarks": 81,
+    "likes": 142,
+    "id": "1651615125194022912",
+    "author_id": "23958690"
+  },
+  "1651615126867550209": {
+    "text": "2/5 Redundant sentences guardrails: Remove redundant info from generated summaries\n\n3/5 Extractive Summary: Fuzzy match over generated summary to find the source sentence to trace back the origins of each summary sentence!\n\n4/5 Summary reading time: Self-explanatory",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 9,
+    "id": "1651615126867550209",
+    "author_id": "23958690"
+  },
+  "1651615128557875202": {
+    "text": "5/5 Saliency check: Ensure that a key percentage of topics from the original documents are captured in the summary\n\n⚒ How to use them ⚒\n\nAdd the name of the guardrail to the RAIL spec:\n\nE.g.\n\n`&lt;string name=\"summary\" format=\"extractive-summary\" /&gt;`\n\nhttps://t.co/tNZJa8ez2D",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 4,
+    "likes": 15,
+    "id": "1651615128557875202",
+    "author_id": "23958690"
+  },
+  "1650883072324419587": {
+    "text": "VERY excited to announce new comprehensive ✨Text2SQL support✨ in @guardrails_ai!\n\nWhat's new:\n✅ Create sandboxed db for testing\n✅ Validate SQL in sandbox\n✅ Constraints on predicates/columns\n✅ Reasking if any of ^^ fails\n✅ Few shot examples similar to query in prompt\n\n(1/2) https://t.co/YIsnQgxQgx",
+    "quotes": 2,
+    "replies": 6,
+    "retweets": 15,
+    "bookmarks": 32,
+    "likes": 100,
+    "id": "1650883072324419587",
+    "author_id": "23958690"
+  },
+  "1650943078566612993": {
+    "text": "@ataiiam @guardrails_ai Thank you!\n\nThe sandboxed db is created once at the initialization of the Text2SQL module as an up front cost, and then reused for every LLM call.",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1650943078566612993",
+    "author_id": "23958690"
+  },
+  "1650892340054073345": {
+    "text": "How to guard against prompt injection for Text2SQL use cases. Another one that's missing:\n\n3. Always use a sandbox!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 7,
+    "id": "1650892340054073345",
+    "author_id": "23958690"
+  },
+  "1650886288827097088": {
+    "text": "@devxpy @guardrails_ai Good question! There's 2 ways to handle this atm\n\n1. Share credentials with limited access\n\n2. Use validators that guard against specific prompt injection threats. E.g. a few modules in the code today: ExcludeSqlPredicates and SqlColumnPresence at  https://t.co/XQESRnSXRC",
+    "quotes": 1,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 1,
+    "likes": 5,
+    "id": "1650886288827097088",
+    "author_id": "23958690"
+  },
+  "1650883074803245056": {
+    "text": "Here's docs to read more about how to use this:\n\nhttps://t.co/1Wfs1oU46B\n\nScreenshots below of how incorrect SQL is detected and prepped for reasking, and the corrected SQL that is returned from the LLM!\n\nHuge shoutout to @laurel_orr1 for helping out with the effort!\n\n(2/2) https://t.co/Z5dnVAKFGT",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 1,
+    "likes": 2,
+    "id": "1650883074803245056",
+    "author_id": "23958690"
+  },
+  "1650549547385643008": {
+    "text": "RT @MeerkatML: New demo up 🚀",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1650549547385643008",
+    "author_id": "23958690"
+  },
+  "1650535204178784259": {
+    "text": "🛤️ Guardrails AI v0.1.6 is out now! This is pretty massive release, here's some of the highlights:\n\n✅ Guardrails CLI: Use @guardrails_ai from non-Python applications\n✅ Python 3.11 support\n✅ Manifest support: Run any LLM, embedding model with caching\n✅ Many new validators!! 1/",
+    "quotes": 2,
+    "replies": 1,
+    "retweets": 11,
+    "bookmarks": 14,
+    "likes": 67,
+    "id": "1650535204178784259",
+    "author_id": "23958690"
+  },
+  "1650535205697105920": {
+    "text": "✅ Retries for transient errors (e.g. hitting rate limiting or connectivity errors)\n✅ A ton of housekeeping and bugfixes!\n\nCheck it out!\n\nhttps://t.co/tNZJa8ez2D",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 7,
+    "id": "1650535205697105920",
+    "author_id": "23958690"
+  },
+  "1650548959621050368": {
+    "text": "Huge shoutout to community contributors @mikkolehtimaki @IrgolicR @laurel_orr1 for their contributions! 🎉",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 7,
+    "id": "1650548959621050368",
+    "author_id": "23958690"
+  },
+  "1649520182669508610": {
+    "text": "RT @BEBischof: My team is hiring an AI Eng. \n\nIf you’re a builder and are passionate about applying AI capabilities to DS workflows, this r…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 12,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1649520182669508610",
+    "author_id": "23958690"
+  },
+  "1649256126083653632": {
+    "text": "Two really exciting @guardrails_ai updates! 🚀\n\n1. The GitHub repo hit 1000 🌟s\n2. @mikulskibartosz wrote a pretty fantastic deep dive into the package! Check it out\n\nhttps://t.co/CT3N9Syblt",
+    "quotes": 1,
+    "replies": 1,
+    "retweets": 6,
+    "bookmarks": 9,
+    "likes": 60,
+    "id": "1649256126083653632",
+    "author_id": "23958690"
+  },
+  "1649253345062952961": {
+    "text": "RT @mikulskibartosz: Don’t let AI models keep making the same mistakes! Use @guardrails_ai to validate and correct the output of large lang…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 5,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1649253345062952961",
+    "author_id": "23958690"
+  },
+  "1648401754822963200": {
+    "text": "RT @jamiew: @thesephist @tylerangert @ShreyaR +1 guardrails is best solution I've seen for this (publicly) https://t.co/LVbMu6mmPO",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1648401754822963200",
+    "author_id": "23958690"
+  },
+  "1648084589003550720": {
+    "text": "RT @DivGarg9: Unveiling the first Super App in the @OpenAI plugin App Store: the MULTI·ON Browser\n\nWell, what can it do? Literally Everythi…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 148,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1648084589003550720",
+    "author_id": "23958690"
+  },
+  "1647990311107571712": {
+    "text": "📢 If you've struggled to get JSONs with Chat-GPT models, @guardrails_ai now supports instruction tags! \n\nCheck out this link for how to use instruction tags: https://t.co/D8YTi9v7Yj\n\nHUGE s/o to @mikkolehtimaki for leading this effort! 🤩 https://t.co/nfFzT1CHbS",
+    "quotes": 0,
+    "replies": 4,
+    "retweets": 15,
+    "bookmarks": 30,
+    "likes": 80,
+    "id": "1647990311107571712",
+    "author_id": "23958690"
+  },
+  "1647996522355900416": {
+    "text": "@BenjaminDEKR @guardrails_ai @mikkolehtimaki Yes! If the output doesn’t match the spec, Guardrails constructs a new prompt with the specific failures, and reasks the LLM for corrections.\n\nYou can see an example of this in the logs at the end of the https://t.co/D8YTi9v7Yj",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 1,
+    "likes": 2,
+    "id": "1647996522355900416",
+    "author_id": "23958690"
+  },
+  "1647993339030175745": {
+    "text": "RT @krandiash: Excited to see the RedPajama dataset released: check out the @MeerkatML data exploration dashboard we put together in a coll…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 9,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1647993339030175745",
+    "author_id": "23958690"
+  },
+  "1646603908268326917": {
+    "text": "RT @thesephist: Very excited to be a part of the conversation on productizing + productionizing LLMs today alongside folks like @ShreyaR @j…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 4,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1646603908268326917",
+    "author_id": "23958690"
+  },
+  "1646587062580289537": {
+    "text": "RT @krandiash: New blog post about how we're thinking about the role of foundation models, especially in projects like @MeerkatML",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 4,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1646587062580289537",
+    "author_id": "23958690"
+  },
+  "1646175158963695617": {
+    "text": "Honestly if you’re running into issues trying to get pure JSON outputs with LLMs, just use @guardrails_ai for generating prompts that get JSON 🤷‍♀️\n\nIt’s freakishly good already, and there’s WIP to make it even better!\n\nhttps://t.co/NdDIMJfxye",
+    "quotes": 1,
+    "replies": 5,
+    "retweets": 12,
+    "bookmarks": 57,
+    "likes": 123,
+    "id": "1646175158963695617",
+    "author_id": "23958690"
+  },
+  "1646169048088969219": {
+    "text": "@genmon @stungeye @OpenAI Hey Matt, I’m the creator of @guardrails_ai. The prompting strategy from guardrails works really well for getting JSON outputs only. Happy to help if you give it a try!",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 6,
+    "id": "1646169048088969219",
+    "author_id": "23958690"
+  },
+  "1645834508003049473": {
+    "text": "@hspter @sarahcat21 @hspter if you’re looking for resources, the docs are probably the easiest way to get started!\n\nhttps://t.co/hamc2kivHs",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1645834508003049473",
+    "author_id": "23958690"
+  },
+  "1645818466946134017": {
+    "text": "🛤️ More custom LLM support in @guardrails_ai over the weekend!\n\nThe fantastic @laurel_orr1 contributed an integration with Manifest\n🌟 Models from @CohereAI, @AI21Labs  @ togethercompute, @huggingface \n🌟 Using local models(!)\n🌟 Caching model inputs and outputs https://t.co/RmIPK8ue3A",
+    "quotes": 1,
+    "replies": 2,
+    "retweets": 4,
+    "bookmarks": 10,
+    "likes": 60,
+    "id": "1645818466946134017",
+    "author_id": "23958690"
+  },
+  "1645818960615702528": {
+    "text": "@guardrails_ai @laurel_orr1 @CohereAI @AI21Labs @huggingface 📚Docs: https://t.co/e7UKpHndqr\n\n🚀Manifest: https://t.co/BUrbwKAzyu",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 1,
+    "likes": 5,
+    "id": "1645818960615702528",
+    "author_id": "23958690"
+  },
+  "1645814461356453888": {
+    "text": "📢 Exciting news, folks!\n\nThrilled to announce that I’ll be joining a panel of experts to discuss security and privacy at the LLMs in Production conference this Thursday!\n\nJoin us if you’re interested in security in the context of LLMs",
+    "quotes": 0,
+    "replies": 2,
+    "retweets": 5,
+    "bookmarks": 6,
+    "likes": 87,
+    "id": "1645814461356453888",
+    "author_id": "23958690"
+  },
+  "1644414055745228800": {
+    "text": "RT @sbspalding: This is a very, very good idea.",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 2,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1644414055745228800",
+    "author_id": "23958690"
+  },
+  "1644382874865659904": {
+    "text": "This is awesome! 🤩\n\nCheck out this demo of PDFs ➡️ tabular data using @guardrails_ai",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 2,
+    "bookmarks": 11,
+    "likes": 25,
+    "id": "1644382874865659904",
+    "author_id": "23958690"
+  },
+  "1644380763591446528": {
+    "text": "Really enjoyed giving a @guardrails_ai primer at Deep Hack!!\n\nHuge s/o to @NirantK for inviting me and organizing 🚀",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 1,
+    "bookmarks": 2,
+    "likes": 16,
+    "id": "1644380763591446528",
+    "author_id": "23958690"
+  },
+  "1644368080993230848": {
+    "text": "🛤️ You can use @guardrails_ai with any LLM APIs, including @openai's GPT-3, GPT-3.5 , GPT-4, and even custom LLMs.\n\nHere's how: \nhttps://t.co/e7UKpHmFAT https://t.co/reWsoz1bli",
+    "quotes": 2,
+    "replies": 2,
+    "retweets": 30,
+    "bookmarks": 74,
+    "likes": 180,
+    "id": "1644368080993230848",
+    "author_id": "23958690"
+  },
+  "1643274019003564032": {
+    "text": "🙌 Over the weekend, I revamped the getting started guide in @guardrails_ai!\n\nUnstructured doctors notes ➡️ Structured dictionary of patient info, symptoms and medication.\n\nhttps://t.co/pzELM0pPjo\n\nCheck out unstructured input and the final output 👇 https://t.co/Epmx6OdzG8",
+    "quotes": 0,
+    "replies": 5,
+    "retweets": 10,
+    "bookmarks": 23,
+    "likes": 54,
+    "id": "1643274019003564032",
+    "author_id": "23958690"
+  },
+  "1643322691993358337": {
+    "text": "@NirantK @guardrails_ai 😅 DM'ing you!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1643322691993358337",
+    "author_id": "23958690"
+  },
+  "1643322029922455552": {
+    "text": "🙌",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 3,
+    "likes": 16,
+    "id": "1643322029922455552",
+    "author_id": "23958690"
+  },
+  "1643278514328858624": {
+    "text": "@deliprao Ah I believe that was left in there by accident. Thanks for catching it! 🙂\n\nI’ll fix this and update the notebook",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1643278514328858624",
+    "author_id": "23958690"
+  },
+  "1643277599878316032": {
+    "text": "This is 🔥🔥🔥\n\nLLMs to generate pandas dataframes from PDFs using @guardrails_ai and @gpt_index!\n\nGuardrails ensures that the LLM generated data is structured correctly, and the output of guardrails is directly used to create a 🐼 dataframe\n\nhttps://t.co/vv3JuKVNw8",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 13,
+    "bookmarks": 26,
+    "likes": 66,
+    "id": "1643277599878316032",
+    "author_id": "23958690"
+  },
+  "1643274020769394688": {
+    "text": "The getting started guide now contains\nstep-by-step instructions about how to\n\n✅ add validation for quality criteria\n✅ specify corrective actions for when the LLM output is inavlid\n✅ inspect the logs to see how reasking works under the hood!",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 1,
+    "likes": 5,
+    "id": "1643274020769394688",
+    "author_id": "23958690"
+  },
+  "1643272393899806720": {
+    "text": "RT @sbspalding: Really good stuff.",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1643272393899806720",
+    "author_id": "23958690"
+  },
+  "1642934899781910528": {
+    "text": "If you're building an LLM application &amp; the LLM occasionally produces garbage output, what do you do to correct it?\n\nHere's how LLM mishaps are corrected in @guardrails_ai:\n\n✅ ReAsk: Automatically re-prompt LLM with helpful context &amp; combine new response with previous ones\n(1/n)",
+    "quotes": 3,
+    "replies": 2,
+    "retweets": 14,
+    "bookmarks": 86,
+    "likes": 106,
+    "id": "1642934899781910528",
+    "author_id": "23958690"
+  },
+  "1642934900771766305": {
+    "text": "✅ Fix: Deterministically fix the garbage output, either by using a default value or by creating a programmatic fix\n✅ Filter: Filter out the specific invalid output from the full LLM response\n✅ Noop: Do nothing, but add to logs that some invalid output was generated\n(2/n)",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 8,
+    "id": "1642934900771766305",
+    "author_id": "23958690"
+  },
+  "1642934901832859649": {
+    "text": "✅ Exception: Raise an exception.\n✅ Refrain: Sometimes, the output is so bad that the right thing to do is to refuse from returning any answer.\n\nRead more about how to configure the correct action to take here https://t.co/qqOMNnPeVV",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 1,
+    "likes": 10,
+    "id": "1642934901832859649",
+    "author_id": "23958690"
+  },
+  "1642618722660798465": {
+    "text": "📣 @guardrails_ai now has a CLI!\n\nYou can use `guardrails validate` to validate your LLM outputs via the CLI. This unblocks using Guardrails from non-Python applications! 🌟\n\nCheck out more details here https://t.co/j0uUWwc96F",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 4,
+    "bookmarks": 8,
+    "likes": 46,
+    "id": "1642618722660798465",
+    "author_id": "23958690"
+  },
+  "1642230707186704385": {
+    "text": "RT @DivGarg9: Excited to finally share my blog post on Software 3.0 🔥\n\nThe post was originally written before GPT-4 release, and the predic…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 72,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1642230707186704385",
+    "author_id": "23958690"
+  },
+  "1641946448798572544": {
+    "text": "This is 🔥🔥\n\n@justinliang1020 uses @guardrails_ai to query the OpenAPI spec of ChatGPT plugins in a structured way, making sure that the queries are valid for any plugin!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 4,
+    "likes": 21,
+    "id": "1641946448798572544",
+    "author_id": "23958690"
+  },
+  "1641845198270627841": {
+    "text": "Stoked to showcase @guardrails_ai at the 🤗 Open Source meet up!\n\nI’ll talk about how guardrails helps if you care about\n1️⃣ prompt engineering\n2️⃣ structured outputs\n3️⃣ ensuring that your LLM app is aligned with intent &amp; not flaky\n\nThanks to @ClementDelangue for the opportunity!",
+    "quotes": 1,
+    "replies": 3,
+    "retweets": 10,
+    "bookmarks": 8,
+    "likes": 78,
+    "id": "1641845198270627841",
+    "author_id": "23958690"
+  },
+  "1641611797034848257": {
+    "text": "The @guardrails_ai discord just hit 100 members! 🥳\n\nIf you aren’t on the discord and are building LLM apps, here’s the invite link: https://t.co/BbnpbfvX3o",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 3,
+    "bookmarks": 3,
+    "likes": 26,
+    "id": "1641611797034848257",
+    "author_id": "23958690"
+  },
+  "1641507365907484672": {
+    "text": "Yess! Choice datatypes are pretty useful when you want to take an action, and want the LLM to specify details about that action.\n\nE.g. pick ‘fight’ or ‘flight’.\n\n☑️For fight, choose a weapon (string)\n☑️For flight, return a dictionary of direction and distance.",
+    "quotes": 1,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 1,
+    "likes": 7,
+    "id": "1641507365907484672",
+    "author_id": "23958690"
+  },
+  "1641505894767947776": {
+    "text": "RT @hackathongoofer: Super Amazing Launch! @ShreyaR is awesome!!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 2,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1641505894767947776",
+    "author_id": "23958690"
+  },
+  "1641480722400653312": {
+    "text": "🛤️ Huge release Guardrails 0.1.5 out now!\n\n⚡️ Choice data types i.e. 'if' conditions!! Generate different JSON schemas based on the choice\n⚡️ Massively better logging support\n⚡️ New actions: fix + reask, raise\n⚡️ Custom system prompts for Chat APIs\n⚡️ Bug fixes\n\nDetails 👇 https://t.co/BGAXDTntm4",
+    "quotes": 3,
+    "replies": 4,
+    "retweets": 10,
+    "bookmarks": 16,
+    "likes": 74,
+    "id": "1641480722400653312",
+    "author_id": "23958690"
+  },
+  "1641480738938794001": {
+    "text": "💪 More actions!\n\nIf validation fails, you have the additional option of:\n1️⃣ raising an error\n2️⃣ deterministically fixing the failed value, rerunning validation, and reasking the LLM if the deterministic fix doesn't work.\n\nhttps://t.co/qqOMNnPeVV",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1641480738938794001",
+    "author_id": "23958690"
+  },
+  "1641480739920269313": {
+    "text": "Big thanks to @krandiash and @RafIrgolic for landing fixes for this release!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1641480739920269313",
+    "author_id": "23958690"
+  },
+  "1641361182513827840": {
+    "text": "@RajaswaPatil @guardrails_ai @inspiredco_ai Crfm’s helm. Also seconding openai evals",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 2,
+    "id": "1641361182513827840",
+    "author_id": "23958690"
+  },
+  "1640527225031389184": {
+    "text": "Recorded my 5-min ⚡️ talk from AI Tinkerers' where I demoed @pydantic 🤝 @guardrails_ai!\n\nGuardrails makes it really easy to ensure LLM-generated data is valid for a pydantic model. Under the hood, it reasks the LLM with new prompts until invalid data is corrected. Check it out👇 https://t.co/fdn4jWTL80",
+    "quotes": 1,
+    "replies": 3,
+    "retweets": 6,
+    "bookmarks": 40,
+    "likes": 94,
+    "id": "1640527225031389184",
+    "author_id": "23958690"
+  },
+  "1640790014631223296": {
+    "text": "@deliprao 🙌",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1640790014631223296",
+    "author_id": "23958690"
+  },
+  "1640789918128701440": {
+    "text": "It uses the pydantic model underneath! All of the validators that are defined in the pydantic model are executed, and reasking the LLM is triggered only when pydantic validation fails.\n\nYou can see the code for this example at \nhttps://t.co/G51JcP6Arl",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 9,
+    "id": "1640789918128701440",
+    "author_id": "23958690"
+  },
+  "1640113120776695810": {
+    "text": "Awesome new package for scraping web pages with natural language that uses @guardrails_ai. Check it out! 🔥🔥",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 8,
+    "likes": 28,
+    "id": "1640113120776695810",
+    "author_id": "23958690"
+  },
+  "1639909531072483328": {
+    "text": "@sridatta @ericjang11 @sridatta yes! You can use models in the loop to do validation in @guardrails_ai today, so a model that critiques whether the previous instruction was followed can be used as a validation step!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 4,
+    "likes": 8,
+    "id": "1639909531072483328",
+    "author_id": "23958690"
+  },
+  "1638978645376266241": {
+    "text": "RT @krandiash: Say hello to 🧠 MRI support in @MeerkatML!\n\nYou can now visualize 3D MRIs, segmentations, all that fun stuff in a few lines o…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1638978645376266241",
+    "author_id": "23958690"
+  },
+  "1638760890668552192": {
+    "text": "Interesting testimonial from a @guardrails_ai user today:\n\n\"It took me a day to find the right prompting strategy, but with Guardrails it took me less than 5 mins!\" \n\nOutside of validation, @guardrails_ai provides a way of prompting that seems to generate valid JSON consistently",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 1,
+    "bookmarks": 9,
+    "likes": 47,
+    "id": "1638760890668552192",
+    "author_id": "23958690"
+  },
+  "1638584897127452672": {
+    "text": "Exciting stuff!! 🛤️\n\nYou can use @guardrails_ai as an output parser within @LangChainAI, and validated and corrected LLM outputs for every LLM call",
+    "quotes": 0,
+    "replies": 2,
+    "retweets": 6,
+    "bookmarks": 13,
+    "likes": 49,
+    "id": "1638584897127452672",
+    "author_id": "23958690"
+  },
+  "1635292887595491328": {
+    "text": "Excited to release ✨Guardrails AI✨— an open-source package to add SLAs for LLM outputs!\n\nGuardrails supports\n🌟 pydantic-style validation of LLM outputs\n🌟 corrective actions (e.g. reasking LLM) when needed\n🌟 structure and type guarantees (e.g. JSON)\n\nhttps://t.co/4cfvbNsEaO https://t.co/4ymtKXZBSr",
+    "quotes": 33,
+    "replies": 32,
+    "retweets": 114,
+    "bookmarks": 385,
+    "likes": 740,
+    "id": "1635292887595491328",
+    "author_id": "23958690"
+  },
+  "1638359849720483842": {
+    "text": "@OaklynKing This is already available in LangChain! Here’s some documentation on how to use it https://t.co/RxLFS16gYY",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1638359849720483842",
+    "author_id": "23958690"
+  },
+  "1638038874831327234": {
+    "text": "Really enjoyed giving a @guardrails_ai demo at AI Tinkerers today!",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 18,
+    "id": "1638038874831327234",
+    "author_id": "23958690"
+  },
+  "1638045900684808194": {
+    "text": "@sangyh2 @guardrails_ai Not that I’m aware of. I can record my demo though and share it!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1638045900684808194",
+    "author_id": "23958690"
+  },
+  "1638040811823849472": {
+    "text": "🤩🤩",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 33,
+    "id": "1638040811823849472",
+    "author_id": "23958690"
+  },
+  "1638040482893938689": {
+    "text": "You can now use @guardrails_ai to validate LLM outputs in @gpt_index! Big thanks to @jerryjliu0 and @disiok for  their speedy work on getting this in!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 3,
+    "bookmarks": 4,
+    "likes": 32,
+    "id": "1638040482893938689",
+    "author_id": "23958690"
+  },
+  "1638034785267507200": {
+    "text": "RT @mathemagic1an: 5) Guardrails  by @ShreyaR \n\nProvides a declarative interface for specifying structured LLM outputs, including output va…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 2,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1638034785267507200",
+    "author_id": "23958690"
+  },
+  "1637861541671477248": {
+    "text": "@gpt_index 🤝 @guardrails_ai is out now!\n\nYou can now create Guardrails output parsers that use .rail specs within Llama index, and enforce structure and quality guarantees on outputs",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 5,
+    "id": "1637861541671477248",
+    "author_id": "23958690"
+  },
+  "1637852773055094792": {
+    "text": "🛤️ @pydantic support in @guardrails_ai!!\n\nIf you want to fit some LLM output in a Pydantic model, Guardrails now supports:\n\n✅ Automatic prompt engineering from pydantic model to try for a valid output\n✅ Correcting LLM output by reasking GPT if needed\n\n📚 https://t.co/G51JcP62BN",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 7,
+    "bookmarks": 10,
+    "likes": 37,
+    "id": "1637852773055094792",
+    "author_id": "23958690"
+  },
+  "1637852774141419539": {
+    "text": "This is part of the new @guardrails_ai release, with other big updates:\n\n🌟 Semantic-similarity validator for summarization\n🌟 Support for Python expressions in outputs\n🌟 Really massive internal refactor with new testing\n🌟 Multiple bug fixes",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 2,
+    "id": "1637852774141419539",
+    "author_id": "23958690"
+  },
+  "1637852775185891328": {
+    "text": "Huge shoutout to @krandiash and irgolic for driving many of these changes",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1637852775185891328",
+    "author_id": "23958690"
+  },
+  "1637674460013793280": {
+    "text": "RT @krandiash: A very short blog post on 3 directions for data tools I’m personally excited about in the era of GPT-4.\n\nWe’re working on th…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 3,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1637674460013793280",
+    "author_id": "23958690"
+  },
+  "1636890742177288193": {
+    "text": "RT @NirantK: @ShreyaR @guardrails_ai @krandiash @devenbhooshan @gneubig @KyleRayKelley @DevenNavani @oliverbusk @lakshyaag @HighnessAlex 50…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1636890742177288193",
+    "author_id": "23958690"
+  },
+  "1636886934411939840": {
+    "text": "500🌟 for @guardrails_ai on Github!!\n\nHuge shoutout to community contributions by @krandiash @devenbhooshan irgolic @gneubig @KyleRayKelley @DevenNavani @oliverbusk @lakshyaag @HighnessAlex fruttasecca pkandarpa-cs\n\nAlso announcing the guardrails discord! https://t.co/JcAVdjHexD",
+    "quotes": 1,
+    "replies": 4,
+    "retweets": 2,
+    "bookmarks": 4,
+    "likes": 35,
+    "id": "1636886934411939840",
+    "author_id": "23958690"
+  },
+  "1636760556827705345": {
+    "text": "🛤️ New @guardrails_ai release out! `pip install guardrails-ai==0.1.3` for:\n\n🌟 New text validators `is-profanity-free` and `is-high-quality-translation`\n🌟 Support for ChatGPT(!!)\n🌟 Ability to configure max reasks *per query*\n🌟 Bug fixes for @LangChainAI 🤝 @guardrails_ai",
+    "quotes": 0,
+    "replies": 2,
+    "retweets": 1,
+    "bookmarks": 6,
+    "likes": 28,
+    "id": "1636760556827705345",
+    "author_id": "23958690"
+  },
+  "1636760559252131840": {
+    "text": "🌟 Support for ChatGPT(!!)\n\nAdd guardrails (i.e. output schema, validation and correction) to @OpenAI's ChatGPT API!\n\n```\nvalidated_output = guard(openai.ChatCompletion.create, model='gpt-3.5-turbo', ...)\n```",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1636760559252131840",
+    "author_id": "23958690"
+  },
+  "1636760560279642115": {
+    "text": "🌟 Ability to configure max reasks *per query*\n\nYou can now set the maximum number of reasking LLMs to correct invalid output within the main guard call:\n\n```\nguard(openai.Completion.create, num_reasks=2, ...)\n```",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1636760560279642115",
+    "author_id": "23958690"
+  },
+  "1636546546132197376": {
+    "text": "@guardrails_ai featured on Open Source projects of the week!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 4,
+    "id": "1636546546132197376",
+    "author_id": "23958690"
+  },
+  "1636543292581216257": {
+    "text": "Amazing community contribution @guardrails_ai: you can now add a ✨translation quality✨ guardrail to generated text!\n\nHuge shoutout to @gneubig 🙌\n\nBelow, the raw GPT-3 output which is a poor translation, and the output by @guardrails_ai which filters low quality translations! https://t.co/nGl1XtKOGs",
+    "quotes": 1,
+    "replies": 1,
+    "retweets": 2,
+    "bookmarks": 3,
+    "likes": 30,
+    "id": "1636543292581216257",
+    "author_id": "23958690"
+  },
+  "1636544452818014208": {
+    "text": "You can use this example in the library today — check out the docs\n\nhttps://t.co/aPzNs5fTT5",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1636544452818014208",
+    "author_id": "23958690"
+  },
+  "1636464955515105280": {
+    "text": "RT @rajpaldhruv: My bollywood debut ‘Fark Nahi Padta’ from Farzi Out Now!\n\nhttps://t.co/6cJSctDrx8 https://t.co/ivlyvAiaN4",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 9,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1636464955515105280",
+    "author_id": "23958690"
+  },
+  "1636434534475665410": {
+    "text": "Wow!! Super impressive demo of how to use GPT-4 to answer questions about @guardrails_ai\n\nE.g. asking GPT-4 how to construct a “Guard” class and it does a pretty great job of answering! \n\nShoutout to @krandiash for building this",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 3,
+    "bookmarks": 3,
+    "likes": 12,
+    "id": "1636434534475665410",
+    "author_id": "23958690"
+  },
+  "1636134835885596673": {
+    "text": "📣Just announced:\n\none of the GPT-5’s modalities is going to be to speak in your mother’s voice telling you to do your dishes and get off Twitter",
+    "quotes": 0,
+    "replies": 2,
+    "retweets": 3,
+    "bookmarks": 0,
+    "likes": 25,
+    "id": "1636134835885596673",
+    "author_id": "23958690"
+  },
+  "1636123672791638016": {
+    "text": "This was the most requested feature on the release of @guardrails_ai!!\n\nTo use @guardrails_ai within Langchain, check out the docs at https://t.co/RxLFS16gYY",
+    "quotes": 1,
+    "replies": 1,
+    "retweets": 1,
+    "bookmarks": 3,
+    "likes": 16,
+    "id": "1636123672791638016",
+    "author_id": "23958690"
+  },
+  "1636122963610341376": {
+    "text": "For everyone asking, @LangChainAI🤝 @guardrails_ai\n out now!! \n\nApply guardrails on your LangChain components!\n\nDocs: https://t.co/RxLFS16gYY https://t.co/DddOLgUVC1",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 2,
+    "bookmarks": 0,
+    "likes": 13,
+    "id": "1636122963610341376",
+    "author_id": "23958690"
+  },
+  "1636056955205869571": {
+    "text": "RT @krandiash: 🚀 Demo: 🖼️ Custom Visualizations in @MeerkatML \n\nThis is super cool: a fully interactive viz in your notebook cell in 7 line…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 4,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1636056955205869571",
+    "author_id": "23958690"
+  },
+  "1636056053870891008": {
+    "text": "🚀🚀🚀",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 5,
+    "id": "1636056053870891008",
+    "author_id": "23958690"
+  },
+  "1636055933028818947": {
+    "text": "@markopolojarvi @markopolojarvi this is a use case that @guardrails_ai supports, curious if this would solve the problem you're running into?\n\nHere's an example of making GPT-3 generate tweet-sized outputs by enforcing a length validator on it https://t.co/pzELM0qn8W",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 1,
+    "likes": 1,
+    "id": "1636055933028818947",
+    "author_id": "23958690"
+  },
+  "1636054864500502528": {
+    "text": "RT @guardrails_ai: Hello world 🐣",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1636054864500502528",
+    "author_id": "23958690"
+  },
+  "1636054789695115264": {
+    "text": "@hua_keru @hua_keru no size limits imposed by rail!\n\nThere are size limits due to the context window on GPT-3, so that the returned JSON should fit inside the GPT-3 window size.",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1636054789695115264",
+    "author_id": "23958690"
+  },
+  "1636054442922627073": {
+    "text": "@MarkTan72526562 @worqas Nice catch! Should be fixed now 😄",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1636054442922627073",
+    "author_id": "23958690"
+  },
+  "1636050748273483778": {
+    "text": "@robinwritescode Thank you @robinwritescode! Feel free to file issues on the github or DM if you run into any issues!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 1,
+    "likes": 1,
+    "id": "1636050748273483778",
+    "author_id": "23958690"
+  },
+  "1636049778722365441": {
+    "text": "RT @mbusigin: Very cool work! This is another solution to bridging the differentiable and deterministic worlds! We are now entering a world…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1636049778722365441",
+    "author_id": "23958690"
+  },
+  "1636049057142677507": {
+    "text": "RT @danielhavir: Grateful I got to have a (small) part in organizing this challenge.\n\nThe best time to read these scrolls would’ve been 275…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1636049057142677507",
+    "author_id": "23958690"
+  },
+  "1636047997695062017": {
+    "text": "🚀 New @guardrails_ai release out!!\n\n🌟 You can now add guardrails to any LLM, including self hosted models!\n🌟 Tutorial on generating synthetic tabular data\n🌟 Tutorial on generating profanity-free text\n🌟 Changes for enabling @LangChainAI integration\n🌟 Bug fixes &amp; docs updates https://t.co/h32dzObgGa",
+    "quotes": 0,
+    "replies": 3,
+    "retweets": 15,
+    "bookmarks": 21,
+    "likes": 92,
+    "id": "1636047997695062017",
+    "author_id": "23958690"
+  },
+  "1636048000136138755": {
+    "text": "HUGE shoutout to community contributors @devenbhooshan @oliverbusk @DevenNavani @lakshyaag pkandarpa-cs irgolic fruttasecca and to @krandiash for driving these changes!\n\nIt's really exciting to see the contributions &amp; the creative ways in which ppl are using @guardrails_ai",
+    "quotes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 5,
+    "id": "1636048000136138755",
+    "author_id": "23958690"
+  },
+  "1635894251593814017": {
+    "text": "👀 @guardrails_ai x @LangChainAI coming out tomorrow!!\n\nhttps://t.co/tCFgll8BZM\n\nThis will add a layer of safety around your Langchain apps! Super excited for devs to be able to use guardrails from within LangChain!!\nShoutout to @hwchase17 for the speedy reviews 🚀",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 6,
+    "bookmarks": 5,
+    "likes": 44,
+    "id": "1635894251593814017",
+    "author_id": "23958690"
+  },
+  "1635878134737412097": {
+    "text": "@nealkhosla @nealkhosla strong agree! I just released on open source library yesterday to add quality guarantees &amp; SLAs around LLM outputs. Would love to get your thoughts on Guardrails AI as a safety layer on top of LLM API based workflows\n\nhttps://t.co/KGWrC6ao7i",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1635878134737412097",
+    "author_id": "23958690"
+  },
+  "1635488900587331585": {
+    "text": "RT @WEAREGODWEARE: I am excited to pair this with GPT-4. \n\nThank you! I will begin my experiments today.",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1635488900587331585",
+    "author_id": "23958690"
+  },
+  "1635488387422466048": {
+    "text": "RT @iliasmiraoui: LLMs as a programming language with dynamic rules. LET’S GO 🚀",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1635488387422466048",
+    "author_id": "23958690"
+  },
+  "1635488201522700289": {
+    "text": "RT @samcwl: Huge! Excited for the Langchain integration.\n\nAlso great example! 🏦",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1635488201522700289",
+    "author_id": "23958690"
+  },
+  "1635488053535064064": {
+    "text": "RT @dory111111: Awesome job! This tool validates LLM outputs using pydantic-style and seems really useful because it offers corrective acti…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1635488053535064064",
+    "author_id": "23958690"
+  },
+  "1635486902467067904": {
+    "text": "@yoheinakajima @ptsi @altryne @yoheinakajima agreed! Asking the LLM to fix bad/invalid responses also led to higher quality results &amp; fewer reasks overall\n\nThis is also how reasking is implemented in guardrails -- all reasks provide the invalid fields and error messages to a new prompt for correction",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 2,
+    "id": "1635486902467067904",
+    "author_id": "23958690"
+  },
+  "1635474060271566849": {
+    "text": "🙌 Guardrails AI got its first community contribution!!\n\nHuge shoutout to @devenbhooshan for adding a tutorial on using guardrails to filter out profanity from translated text. https://t.co/fzYfmMH7Qg\n\nThe example uses RAIL to create a custom validator for profanity filtering https://t.co/qO0gM0Q1J2",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 2,
+    "likes": 21,
+    "id": "1635474060271566849",
+    "author_id": "23958690"
+  },
+  "1635367224981716994": {
+    "text": "@mwalterbrady Thanks, glad you found the explanation and the design of the lib useful!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1635367224981716994",
+    "author_id": "23958690"
+  },
+  "1635355342635958274": {
+    "text": "@worqas @worqas yes! Here's an example in the doc where the compiled prompt is printed https://t.co/QixWNrcBcG (in Step 2)\n\ntl;dr: once you create an instance of the `gd.Guard` class, you can print `guard.base_prompt` attribute of that class to see the compiled prompt.",
+    "quotes": 0,
+    "replies": 3,
+    "retweets": 0,
+    "bookmarks": 2,
+    "likes": 6,
+    "id": "1635355342635958274",
+    "author_id": "23958690"
+  },
+  "1635345327703330816": {
+    "text": "@SanjivG10 Thank you @SanjivG10, let me know if you run into any issues!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1635345327703330816",
+    "author_id": "23958690"
+  },
+  "1635341479513325568": {
+    "text": "RT @krandiash: RAIL is a super elegant format and starting point for working with LLMs reliably — having used it a bit, it’s pretty nice to…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1635341479513325568",
+    "author_id": "23958690"
+  },
+  "1635341443870101505": {
+    "text": "RT @arjunram: The middle tier for AI is being built at a ferocious pace! One more building block in place.",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 2,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1635341443870101505",
+    "author_id": "23958690"
+  },
+  "1635331978978549760": {
+    "text": "@markopolojarvi Thank you!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1635331978978549760",
+    "author_id": "23958690"
+  },
+  "1635331248469196800": {
+    "text": "@alexchaomander Thank you! The full JSON object is returned from a single call to the LLM endpoint, so no extra cost than calling the LLM API directly!\n\nThe only caveat is if you've set 'reask' as a corrective action, in which case a 2nd call to the LLM API will be made to correct the answer",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 4,
+    "id": "1635331248469196800",
+    "author_id": "23958690"
+  },
+  "1635329771533123589": {
+    "text": "@JAPozueloM @LangChainAI Glad to hear that you find it relevant!\n\nAgreed about the @LangChainAI integration -- I've started exploring what a possible solution within a LangChain flow could look like, planning on adding support within this week!",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 8,
+    "id": "1635329771533123589",
+    "author_id": "23958690"
+  },
+  "1635327722519162883": {
+    "text": "@doppenhe Thanks for sharing @doppenhe!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1635327722519162883",
+    "author_id": "23958690"
+  },
+  "1635327572522450945": {
+    "text": "RT @doppenhe: 1/5: Guardrails is an open-source Python package that lets a user add structure, type and quality guarantees to the outputs o…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1635327572522450945",
+    "author_id": "23958690"
+  },
+  "1635323544694579201": {
+    "text": "RT @johnjnay: \"Reliable AI markup Language\" Adds Structure, Type &amp; Quality Guarantees to LLMs\n\n-Pydantic-style validation of LLM output\n-En…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 18,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1635323544694579201",
+    "author_id": "23958690"
+  },
+  "1635322153917878274": {
+    "text": "@lateinteraction Yes, agreed! A higher quality/\"safer\" workflow of calling an LLM API can be:\ndsp &gt; LLM API call -&gt; guardrails",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 7,
+    "id": "1635322153917878274",
+    "author_id": "23958690"
+  },
+  "1635318368957001728": {
+    "text": "@mhmazur Thanks for sharing this on Emergent Mind!\n\nWould love to know if get a chance to test out Guardrails for the quality issues you've been running into!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1635318368957001728",
+    "author_id": "23958690"
+  },
+  "1635317216353882112": {
+    "text": "@JosephDFox @LangChainAI Agreed!! Coming soon :)",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1635317216353882112",
+    "author_id": "23958690"
+  },
+  "1635317039870148610": {
+    "text": "RT @JosephDFox: Guardrails + @LangChainAI will be an interesting combo...",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1635317039870148610",
+    "author_id": "23958690"
+  },
+  "1635316405469081603": {
+    "text": "RT @the_chrismc: This is so needed!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1635316405469081603",
+    "author_id": "23958690"
+  },
+  "1635316350536261632": {
+    "text": "RT @adamcohenhillel: Something like this was needed!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1635316350536261632",
+    "author_id": "23958690"
+  },
+  "1635309885805182976": {
+    "text": "RT @kenn: Great idea!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1635309885805182976",
+    "author_id": "23958690"
+  },
+  "1635308488695107586": {
+    "text": "RT @atbeme: Interesting new format for LLM outputs",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1635308488695107586",
+    "author_id": "23958690"
+  },
+  "1635308174994731009": {
+    "text": "RT @GiorgioPatrini: Great addition for people putting LLM in production: guardrails!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 2,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1635308174994731009",
+    "author_id": "23958690"
+  },
+  "1635307039600836608": {
+    "text": "RT @hwchase17: really impressive work here - a new formatting language (.rail) for constructing prompts 🤯",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 23,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1635307039600836608",
+    "author_id": "23958690"
+  },
+  "1635294090349912069": {
+    "text": "Some examples of the cool things you can do w/ guardrails\n\n🧩 Extract entities from a ToS document: https://t.co/QixWNrcBcG\n🧩 Generate bug-free Python code: https://t.co/g0lxyrdN95\n🧩 Use GPT to play valid chess moves: https://t.co/f6q1obnWPu https://t.co/5IejFO4t6N",
+    "quotes": 1,
+    "replies": 1,
+    "retweets": 2,
+    "bookmarks": 13,
+    "likes": 37,
+    "id": "1635294090349912069",
+    "author_id": "23958690"
+  },
+  "1635294098910494722": {
+    "text": "There's a lot left to do such as:\n\n❓ Adding better log introspection\n❓ More validators\n❓ More examples and tutorials\n❓ Typescript support\n\nCheck out the roadmap below if you'd like to help!\n\nhttps://t.co/hamc2kivHs https://t.co/EWrtdLF9XS",
+    "quotes": 0,
+    "replies": 2,
+    "retweets": 1,
+    "bookmarks": 3,
+    "likes": 17,
+    "id": "1635294098910494722",
+    "author_id": "23958690"
+  },
+  "1635294082661744641": {
+    "text": "✅ Validates that each field of the output respects quality criteria (e.g. text should be shorter than 5 words, text should be bias-free, code should be bug-free), etc.\n✅ Takes corrective action when quality criteria are not met (including intelligent reasking) https://t.co/GWuOZIFJ12",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 1,
+    "likes": 13,
+    "id": "1635294082661744641",
+    "author_id": "23958690"
+  },
+  "1633193482675421185": {
+    "text": "Excited to be part of this panel @GreylockVC on women starting up!\n\nThanks to the incredible @myuliyam for organizing!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 2,
+    "bookmarks": 1,
+    "likes": 9,
+    "id": "1633193482675421185",
+    "author_id": "23958690"
+  },
+  "1631415646335692800": {
+    "text": "RT @krandiash: 🌊 How can Meerkat help? FMs need to be controlled. Right now, it's like you're on a ship in a storm, and you're fighting the…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1631415646335692800",
+    "author_id": "23958690"
+  },
+  "1631407520190447616": {
+    "text": "Meerkat is awesome! If you’ve ever felt the pain of trying to do data wrangling on unstructured data, you’ll know that existing tools are severely lacking.\n\nAs with all ML/data science apps, you need to be able to see and feel your data for it to be useful",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 2,
+    "bookmarks": 2,
+    "likes": 19,
+    "id": "1631407520190447616",
+    "author_id": "23958690"
+  },
+  "1631407521775906816": {
+    "text": "Meerkat makes this ridiculously easy by closing the gap between backend data abstractions (i.e. dataframes) and interactive frontend components.\n\nHave tested this out in the past, can’t wait to build more cool stuff with it 🚀",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 2,
+    "id": "1631407521775906816",
+    "author_id": "23958690"
+  },
+  "1630296545420623873": {
+    "text": "RT @ludwig_ai: Ludwig 0.7 is live! 🎉\n\nThe release is packed with new features incl:\n✅ Expanded support for pretrained #computervision model…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 4,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1630296545420623873",
+    "author_id": "23958690"
+  },
+  "1590404764260794368": {
+    "text": "@imgrohit DM me, we’re hiring for the MLE role",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 1,
+    "likes": 1,
+    "id": "1590404764260794368",
+    "author_id": "23958690"
+  },
+  "1584713413108068353": {
+    "text": "Really enjoyed the audience’s questions at the end of the session, especially the ‘aha’ moment that a lot of folks had about Declarative ML with @ludwig_ai &amp; @predibase!\n\nThanks for the opportunity @QConSF!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 6,
+    "id": "1584713413108068353",
+    "author_id": "23958690"
+  },
+  "1584607176089571328": {
+    "text": "If you’re @QConSF, come check out my talk about declarative ML systems and why they’re great!\n\nI’ll be talking about the state of the world for ML Dev in industry, and why it can be better with Declarative ML.",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 1,
+    "likes": 7,
+    "id": "1584607176089571328",
+    "author_id": "23958690"
+  },
+  "1580648776657645569": {
+    "text": "RT @realDanFu: We spent a couple days this week speeding up Stable Diffusion in @huggingface Diffusers using FlashAttention. 3-4x faster th…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 67,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1580648776657645569",
+    "author_id": "23958690"
+  },
+  "1568122952327254017": {
+    "text": "Vejas are allbirds for people who refuse to wear allbirds",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 1,
+    "likes": 2,
+    "id": "1568122952327254017",
+    "author_id": "23958690"
+  },
+  "1564039799761014785": {
+    "text": "RT @NikitaShamgunov: Formula for an infrastructure startup success:\n- Find a 10x architectural advantage in cost and speed in a large categ…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 43,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1564039799761014785",
+    "author_id": "23958690"
+  },
+  "1560709175323242497": {
+    "text": "Startups trying to find product-market fit",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 10,
+    "id": "1560709175323242497",
+    "author_id": "23958690"
+  },
+  "1548812447632412673": {
+    "text": "@BeidiChen @CarnegieMellon @CMU_ECE @Meta @MetaAI Congrats Beidi! 🎉",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1548812447632412673",
+    "author_id": "23958690"
+  },
+  "1529858677036855296": {
+    "text": "@mishumausam @etzioni @schmmd @uwcse Congrats Mausam!!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1529858677036855296",
+    "author_id": "23958690"
+  },
+  "1524839183507783681": {
+    "text": "RT @GreylockVC: The team @predibase is building the first declarative ML platform that makes using ML as easy as writing a SQL query. As th…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 6,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1524839183507783681",
+    "author_id": "23958690"
+  },
+  "1524809803616292879": {
+    "text": "RT @saammotamedi: 1/ Today, Predibase comes out of stealth and we @GreylockVC unveil our Seed and Series A partnership with the team. \n\n@pr…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 11,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1524809803616292879",
+    "author_id": "23958690"
+  },
+  "1524809680328921096": {
+    "text": "RT @jacopotagliabue: Among all the #MLOps companies I've been working with in the last few months, Predibase is one of the most exciting: b…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 5,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1524809680328921096",
+    "author_id": "23958690"
+  },
+  "1524809549818957824": {
+    "text": "🚨COMING OUT OF STEALTH ALERT🚨Super excited to announce what I’ve been working on!\n\n85% of ML projects in industry fail because building ML products is too expensive, too slow and too specialized. ML dev is fraught with duplicated effort using low level APIs\n\nEnter @predibase 🧵",
+    "quotes": 0,
+    "replies": 3,
+    "retweets": 5,
+    "bookmarks": 7,
+    "likes": 69,
+    "id": "1524809549818957824",
+    "author_id": "23958690"
+  },
+  "1524809552943673344": {
+    "text": "What’s amazing to me about Predibase is how common the problem we solve is. Our founders had independently built declarative ML solutions while at Uber AI (@ludwig_ai) and Apple (Overton). \n\nI’m so excited to work on a team that brings this solution to a larger audience!",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 2,
+    "id": "1524809552943673344",
+    "author_id": "23958690"
+  },
+  "1524809553900015636": {
+    "text": "For more info, read our coming out of stealth announcement https://t.co/x2csmCSaCm and check out our website https://t.co/4UZxwRgYQC",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 1,
+    "likes": 5,
+    "id": "1524809553900015636",
+    "author_id": "23958690"
+  },
+  "1521571372115234818": {
+    "text": "RT @w4nderlus7: Just published a new blogpost: Ludwig AutoML for Text Classification. We show how easy it is to use @ludwig_ai  AutoML modu…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 8,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1521571372115234818",
+    "author_id": "23958690"
+  },
+  "1511053577137000448": {
+    "text": "always a mind***k when I remember that r/place and wordle were created by the same dude",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 4,
+    "bookmarks": 0,
+    "likes": 24,
+    "id": "1511053577137000448",
+    "author_id": "23958690"
+  },
+  "1493700543381868546": {
+    "text": "RT @ludwig_ai: Proud to share about Ludwig open source community led work on AutoML! We show how easy and fast it is to train deep learning…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 5,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1493700543381868546",
+    "author_id": "23958690"
+  },
+  "1493700482384072705": {
+    "text": "Really exciting blog post about AutoML for tabular data!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 3,
+    "id": "1493700482384072705",
+    "author_id": "23958690"
+  },
+  "1488712642738868226": {
+    "text": "RT @ludwig_ai: Just released Ludwig v0.4.1. it contains many bugfixes and improved integration with @raydistributed! It is also the last re…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 3,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1488712642738868226",
+    "author_id": "23958690"
+  },
+  "1483534808504422400": {
+    "text": "RT @myuliyam: Are you looking for greater impact &amp; more ownership in your tech career? Learn about opportunities at the next Google or Amaz…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1483534808504422400",
+    "author_id": "23958690"
+  },
+  "1478928406376898563": {
+    "text": "@featheredGrouse Follow this up with how being allowed to participate in the hiring process will give you and the team an opportunity to vet that new hires don’t add to this bottleneck or possibly improve the overall culture.",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1478928406376898563",
+    "author_id": "23958690"
+  },
+  "1478928497594691584": {
+    "text": "@featheredGrouse On a side note — your experience is totally valid and actually *extremely* common. From my exp, these values should come from top down in order for there to be meaningful change. Good luck — I hope you have a meaningful conversation about this with your manager/team! :)",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 1,
+    "id": "1478928497594691584",
+    "author_id": "23958690"
+  },
+  "1473745392705572864": {
+    "text": "RT @rajpaldhruv: beautiful day in Monterey (where they shot big little lies) with the fam https://t.co/S4prVWpMkz",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1473745392705572864",
+    "author_id": "23958690"
+  },
+  "1473225157544054790": {
+    "text": "I haven’t seen any family in ~2 years now because of COVID, so I’ve been feeling extra blessed that @rajpaldhruv could come and visit me this month! 🥰",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 11,
+    "id": "1473225157544054790",
+    "author_id": "23958690"
+  },
+  "1470255443897290756": {
+    "text": "RT @hugo_larochelle: Today, @RaiaHadsell, @kchonyc and I are happy to announce the creation of a new journal: Transaction on Machine Learni…",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 708,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1470255443897290756",
+    "author_id": "23958690"
+  },
+  "1468835719258927106": {
+    "text": "@HamelHusain @eigenhector Also curious about this!",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 0,
+    "id": "1468835719258927106",
+    "author_id": "23958690"
+  },
+  "1299115788071178241": {
+    "text": "🎉Our AI/ML residency program is here!!\n\nI'll be a resident host on @goodfellow_ian's team at SPG. Please apply, or spread the word to candidates who you think would be a good fit!",
+    "quotes": 2,
+    "replies": 9,
+    "retweets": 46,
+    "bookmarks": 36,
+    "likes": 340,
+    "id": "1299115788071178241",
+    "author_id": "23958690"
+  },
+  "1202411827587514369": {
+    "text": "Apple is hiring engineers for the cross-functional ML team at Special Projects Group!\n\nIf you’re attending @NeurIPSConf, find me at the @Apple booth from 2.30-4pm on Tuesday (12/10). Or reach out and schedule some time, and I’d be happy to chat about our work!",
+    "quotes": 2,
+    "replies": 33,
+    "retweets": 44,
+    "bookmarks": 30,
+    "likes": 337,
+    "id": "1202411827587514369",
+    "author_id": "23958690"
+  },
+  "1154846534632005632": {
+    "text": "I missed this when it came out, but I just discovered https://t.co/sLBiGuxyjz\n\nThe chapter on transposed convolutions is probably the best explanation I’ve seen on the subject!",
+    "quotes": 2,
+    "replies": 3,
+    "retweets": 45,
+    "bookmarks": 86,
+    "likes": 233,
+    "id": "1154846534632005632",
+    "author_id": "23958690"
+  },
+  "1177353140682645505": {
+    "text": "I’ve been out of school and in the workforce for a little over a year now, and my biggest takeaway (yet) on how to be a good engineer — not being afraid to look stupid!\n\nThe more I swallow my pride and ask (stupid) questions, the more productive I am..",
+    "quotes": 2,
+    "replies": 4,
+    "retweets": 11,
+    "bookmarks": 6,
+    "likes": 132,
+    "id": "1177353140682645505",
+    "author_id": "23958690"
+  },
+  "1204578074160857088": {
+    "text": "Thanks everyone that stopped by at the Apple booth @NeurIPSConf! It was great talking about the cool ML stuff we’re doing at SPG! https://t.co/guXiNHFf1R",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 1,
+    "bookmarks": 1,
+    "likes": 77,
+    "id": "1204578074160857088",
+    "author_id": "23958690"
+  },
+  "1260144545385164800": {
+    "text": "Yo model’s so fat, it can’t fit on a p3dn.24xlarge",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 1,
+    "likes": 77,
+    "id": "1260144545385164800",
+    "author_id": "23958690"
+  },
+  "1292135841737740288": {
+    "text": "Never else am I happier to not have gone for a PhD than when it’s review day for a major conference",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 72,
+    "id": "1292135841737740288",
+    "author_id": "23958690"
+  },
+  "1286567457998561280": {
+    "text": "I got GPT3 access a few days ago and have a couple of really cool applications in the pipeline. I don’t think I’ve been this excited about a side project in forever! \n\nThanks @gdb and @OpenAI for building something that has given so many people a new hobby, on top of all else!",
+    "quotes": 0,
+    "replies": 3,
+    "retweets": 1,
+    "bookmarks": 1,
+    "likes": 76,
+    "id": "1286567457998561280",
+    "author_id": "23958690"
+  },
+  "1206828738513530881": {
+    "text": "Before ML Twitter gets sick of hearing about #NeurIPS2019, I wanted to highlight a really cool talk by Prof. Zhiru Zhang from Cornell about Neural Network and Hardware co-design. Here’s a great summary slide giving an overview of different NN model optimization techniques! https://t.co/g9xjPC2XyD",
+    "quotes": 0,
+    "replies": 2,
+    "retweets": 12,
+    "bookmarks": 12,
+    "likes": 68,
+    "id": "1206828738513530881",
+    "author_id": "23958690"
+  },
+  "1283938118630993920": {
+    "text": "somebody needs to build the next Grammarly with GPT-3",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 61,
+    "id": "1283938118630993920",
+    "author_id": "23958690"
+  },
+  "1398738833005449218": {
+    "text": "small W acknowledgement: yesterday was @Apple’s perf review day and a LARGE number of ppl added me as their reviewer. really made me feel like my work and my opinion matters, especially since this last year has been quite challenging in so many ways 🙂",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 59,
+    "id": "1398738833005449218",
+    "author_id": "23958690"
+  },
+  "1292534353562501120": {
+    "text": "Can all statML be explained in this format pls?",
+    "quotes": 3,
+    "replies": 2,
+    "retweets": 1,
+    "bookmarks": 8,
+    "likes": 54,
+    "id": "1292534353562501120",
+    "author_id": "23958690"
+  },
+  "1286482464907513857": {
+    "text": "do you also draft messages to your personal slack if you’re writing a big announcement/essay because you’re scared of accidentally hitting Send or are you normal?",
+    "quotes": 1,
+    "replies": 6,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 55,
+    "id": "1286482464907513857",
+    "author_id": "23958690"
+  },
+  "1292741269219758080": {
+    "text": "Been out of school 2 years now, and doubling down on this tweet from last year.\n\nMy big lesson: BE ANNOYING!\n\nConsciously taking up space in meetings and discussions and asking plenty of questions without self-censoring has been the best thing for both my career and mental health",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 1,
+    "bookmarks": 3,
+    "likes": 45,
+    "id": "1292741269219758080",
+    "author_id": "23958690"
+  },
+  "1282646279005192192": {
+    "text": "🎊🎉Apple released its redesigned ML research page at https://t.co/V4xILGQbfo, spans 🍎’s research over vision, health, privacy, etc.",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 4,
+    "likes": 45,
+    "id": "1282646279005192192",
+    "author_id": "23958690"
+  },
+  "1445803790536372232": {
+    "text": "Some personal news — after an amazing 2 years at Apple SPG, I recently left to join a tiny startup working on big problems in low-code ML!\n\nMore updates to come soon, but in the meantime hmu if you’re interested in working on applied ML problems across a variety of use cases.",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 2,
+    "likes": 43,
+    "id": "1445803790536372232",
+    "author_id": "23958690"
+  },
+  "1456689437778251787": {
+    "text": "Crazy to see the same misconceptions about working in ML industry jobs over and over again.\n\nI’ve worked in ML in tiny startups and in massive orgs, and have had research offers from top industry ML labs. I can confirm — you do NOT need a PhD to work in ML. (contd.)",
+    "quotes": 0,
+    "replies": 3,
+    "retweets": 1,
+    "bookmarks": 9,
+    "likes": 35,
+    "id": "1456689437778251787",
+    "author_id": "23958690"
+  },
+  "1298386406088163328": {
+    "text": "This is an amazing team with a lot of exciting problems to work on.\n\nSource: Me",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 1,
+    "bookmarks": 3,
+    "likes": 31,
+    "id": "1298386406088163328",
+    "author_id": "23958690"
+  },
+  "1292204823400439808": {
+    "text": "For real South Indian filter coffee is the best coffee out there",
+    "quotes": 0,
+    "replies": 5,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 26,
+    "id": "1292204823400439808",
+    "author_id": "23958690"
+  },
+  "1364139615670571010": {
+    "text": "Listening to Random Access Memories all day. Daft Punk got me through multiple 16 hour flights to India and back, gonna miss them 😔",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 26,
+    "id": "1364139615670571010",
+    "author_id": "23958690"
+  },
+  "1282903139230736386": {
+    "text": "Just goes to show the value of ML models-as-a-service!\n\nImagine a world where all ML model advances have an inference API that allows users to build cool apps like this. Takes away the burden of reproducibility from the user, and saves hours/$$ training a new model from scratch.",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 3,
+    "bookmarks": 1,
+    "likes": 23,
+    "id": "1282903139230736386",
+    "author_id": "23958690"
+  },
+  "1635292891181621248": {
+    "text": "At the heart of guardrails is RAIL, a language-agnostic spec that lets developers specify what a good LLM output looks like.\n\nRAIL specifies structure + output validation, manages prompts and can contain custom code for validation, corrective action, etc.\n\nhttps://t.co/iB55g8SNGa https://t.co/HEsw4bIRXT",
+    "quotes": 0,
+    "replies": 2,
+    "retweets": 3,
+    "bookmarks": 3,
+    "likes": 25,
+    "id": "1635292891181621248",
+    "author_id": "23958690"
+  },
+  "1261111945215619072": {
+    "text": "(1/2) I love this thread!\n\nAs an ML engineer in industry, a lot of my work is exploratory, so the tendency is to not merge code often. Isolating parts of your code that would be useful to your org (ie merge-able), is hard but rewarding. Code review is a great learning experience!",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 1,
+    "bookmarks": 1,
+    "likes": 23,
+    "id": "1261111945215619072",
+    "author_id": "23958690"
+  },
+  "1284209026155155456": {
+    "text": "looking at @sharifshameem’s tweets every morning about new stuff GPT-3 can do — is this what new parents feel like when their child is learning to walk?",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 19,
+    "id": "1284209026155155456",
+    "author_id": "23958690"
+  },
+  "1299115789052567554": {
+    "text": "Here's the specific job posting for the Santa Clara Valley location, from which candidates will be matched to our team.\n\nhttps://t.co/4zy8wEGN9A",
+    "quotes": 0,
+    "replies": 3,
+    "retweets": 3,
+    "bookmarks": 6,
+    "likes": 19,
+    "id": "1299115789052567554",
+    "author_id": "23958690"
+  },
+  "1466272772699480076": {
+    "text": "This honestly doesn’t get the attention it deserves. The process is so poorly designed that you are:\n- capped at 10 attempts before you’re locked out for 3 days, and\n- so flaky that you need multiple retries because of errors.",
+    "quotes": 0,
+    "replies": 2,
+    "retweets": 1,
+    "bookmarks": 0,
+    "likes": 18,
+    "id": "1466272772699480076",
+    "author_id": "23958690"
+  },
+  "1283125780499673088": {
+    "text": "Can’t stress enough how cool this is!!\n\nML engineer perspective — I sometimes consult with teams who want to start developing/deploying ML solutions, and the conversation is inevitably me telling them they need more training data, and them taking weeks/months for data collection.",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 1,
+    "likes": 15,
+    "id": "1283125780499673088",
+    "author_id": "23958690"
+  },
+  "1285489052511174658": {
+    "text": "Has anyone used @PyTorchLightnin in production environments? What was the value add compared to standard @PyTorch development?",
+    "quotes": 0,
+    "replies": 3,
+    "retweets": 0,
+    "bookmarks": 1,
+    "likes": 13,
+    "id": "1285489052511174658",
+    "author_id": "23958690"
+  },
+  "1635294073656590337": {
+    "text": "Guardrails adds a simple wrapper around your fave LLM API (e.g. OpenAI, 🤗), and under the hood:\n\n✅ Appends output schema specification to your prompt\n✅ Checks that the LLM output adheres to structure &amp; type specs (contd...)",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 2,
+    "likes": 13,
+    "id": "1635294073656590337",
+    "author_id": "23958690"
+  },
+  "483475581074296832": {
+    "text": "@KananGill this one was probably the funniest yet! :D Keep 'em coming, lads!\n\nOnly bad part? I've got that goddamn song stuck in my head!",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 3,
+    "bookmarks": 0,
+    "likes": 8,
+    "id": "483475581074296832",
+    "author_id": "23958690"
+  },
+  "1158588462611570689": {
+    "text": "I can’t believe the number of people that green lit this idea!\n\nAll of the bias that exists in hiring decisions will likely be an intrinsic feature of this. Examples of bias - tone evaluation for immigrants/people with accents, facial tracking for people of color..",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 2,
+    "bookmarks": 1,
+    "likes": 10,
+    "id": "1158588462611570689",
+    "author_id": "23958690"
+  },
+  "1206829481857445888": {
+    "text": "This talk was part of the Energy Efficient Machine Learning and Cognitive Computing workshop (https://t.co/LdPbznjBQj)",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 1,
+    "bookmarks": 2,
+    "likes": 11,
+    "id": "1206829481857445888",
+    "author_id": "23958690"
+  },
+  "1466273403485097988": {
+    "text": "It’s like TicketMaster. But built in the 2000s. And you get banned if you try again after not getting a ticket the first time around. And you want to see your family instead of Coldplay.",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 11,
+    "id": "1466273403485097988",
+    "author_id": "23958690"
+  },
+  "1364403763927076866": {
+    "text": "Are @joinClubhouse invites still a thing? Anyway, I have a few of them lying around, DM me if you want one 😌",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 10,
+    "id": "1364403763927076866",
+    "author_id": "23958690"
+  },
+  "1456154907103268865": {
+    "text": "LOVE the Diwali animation on iMessage today! \n\nHappy Diwali everyone! 🪔 ✨",
+    "quotes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "bookmarks": 0,
+    "likes": 10,
+    "id": "1456154907103268865",
+    "author_id": "23958690"
+  }
+}

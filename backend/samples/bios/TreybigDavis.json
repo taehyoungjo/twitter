@@ -1,0 +1,41 @@
+{
+  "advertiser_account_service_levels": [
+    "analytics"
+  ],
+  "advertiser_account_type": "promotable_user",
+  "analytics_type": "disabled",
+  "created_at": "Sun Sep 20 04:23:53 +0000 2020",
+  "description": "Early stage investor at Innovation Endeavors, focused on computing infrastructure, developer tools, & data. Former PM at Google.",
+  "entities": {
+    "description": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    }
+  },
+  "fast_followers_count": 0,
+  "favourites_count": 240,
+  "followers_count": 313,
+  "friends_count": 851,
+  "geo_enabled": false,
+  "has_custom_timelines": true,
+  "has_extended_profile": true,
+  "id_str": "1307535862784233473",
+  "is_translator": false,
+  "location": "San Francisco, CA",
+  "media_count": 4,
+  "name": "Davis Treybig",
+  "normal_followers_count": 313,
+  "pinned_tweet_ids_str": [],
+  "profile_background_color": "F5F8FA",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1436483771218337797/Y3kF8CMR_normal.jpg",
+  "profile_interstitial_type": "",
+  "profile_link_color": "1DA1F2",
+  "protected": false,
+  "screen_name": "TreybigDavis",
+  "statuses_count": 58,
+  "translator_type_enum": "None",
+  "verified": false,
+  "withheld_in_countries": []
+}
