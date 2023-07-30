@@ -90,37 +90,41 @@ export function Feed() {
 
   return (
     <>
-      <div className="flex items-center w-full px-4 pb-4 border-b fixed bg-white">
-        <div className="max-w-screen-md w-full flex py-2 mx-auto ">
+      <div className="flex items-center w-full  fixed bg-white/50 backdrop-blur-md">
+        <div className="max-w-screen-md w-full flex mx-auto border-b border-x p-6 py-3">
           <img src={TwitterLogo} className="w-12 rotate-180 mr-4" />
           <h1 className="text-4xl font-semibold">Twitter</h1>
         </div>
       </div>
       <div className="max-w-screen-md mx-auto border-l border-r">
         {/* Message Box */}
-        <div className="border-slate-200 p-4 pt-24">
-          <div>
-            Currently viewing as
-            <span className="font-bold ml-1">{user?.name}</span>
+        <div className="pt-16 border-b">
+          <div className="px-4 py-2 text-xl bg-neutral-200 text-neutral-600">
+            Viewing as
+            <span className="font-bold ml-1 text-black">{user?.name}</span>
           </div>
-          <textarea
-            placeholder="What is happening?!"
-            className="w-full rounded-lg border border-slate-200 p-2"
-            value={text}
-            onChange={(e) => setText(e.target.value)}
-          />
-          <button
-            className="bg-blue-500 font-bold text-white rounded-full px-6 py-2"
-            onClick={() => {
-              apiClient.post("/start", {
-                user_id: parseInt(userId),
-                content: text,
-              });
-              setText("");
-            }}
-          >
-            Tweet
-          </button>
+          <div className="group">
+            <textarea
+              placeholder="What is happening?!"
+              className="w-full text-xl focus:outline-none border-slate-200 px-4 py-2"
+              value={text}
+              onChange={(e) => setText(e.target.value)}
+            />
+            <div className="flex justify-end p-2">
+              <button
+                className="bg-blue-500 font-semibold text-lg text-white rounded-full px-8 py-2"
+                onClick={() => {
+                  apiClient.post("/start", {
+                    user_id: parseInt(userId),
+                    content: text,
+                  });
+                  setText("");
+                }}
+              >
+                Tweet
+              </button>
+            </div>
+          </div>
         </div>
         {feed &&
           feed.map((f) => {

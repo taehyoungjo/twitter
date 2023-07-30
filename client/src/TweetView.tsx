@@ -4,6 +4,7 @@ import { ApiFeed, ApiTweet, Tweet, apiClient } from "./config";
 import { FaRegComment, FaRegHeart } from "react-icons/fa";
 import { AiOutlineRetweet } from "react-icons/ai";
 import { motion } from "framer-motion";
+import TwitterLogo from "./components/twitter.svg";
 
 function Comment({ comment }: { comment: Tweet }) {
   const [isInitialRender, setIsInitialRender] = useState(true);
@@ -103,51 +104,60 @@ export function TweetView() {
     return () => clearInterval(interval);
   }, [id]);
 
-  if (!mainTweet || !comments) {
-    return <div>Loading...</div>;
-  }
-
   return (
-    <div>
-      {/* Main Tweet */}
-      <div className="flex space-x-4 border-b border-slate-200 p-4">
-        {/* Avatar */}
-        <div className="bg-slate-300 rounded-full w-8 h-8 shrink-0"></div>
-
-        <div key={mainTweet.id} className="flex flex-col space-y-2 grow">
-          {/* Header */}
-          <div className="flex space-x-2">
-            <h2 className="font-bold">{mainTweet.name}</h2>
-            <h2 className="text-slate-500">@{mainTweet.handle}</h2>
-            <span className="text-slate-500">
-              {new Date(mainTweet.timestamp).toLocaleString()}
-            </span>
-          </div>
-          {/* Content */}
-          <div>{mainTweet.content}</div>
-
-          {/* Footer */}
-          <div className="flex space-x-2">
-            <div className="text-slate-600 flex space-x-1 items-center">
-              <FaRegComment />
-              <span>{mainTweet.comments}</span>
-            </div>
-            <div className="text-slate-600 flex space-x-2 items-center">
-              <AiOutlineRetweet />
-              <span>{mainTweet.retweets}</span>
-            </div>
-            <div className="text-slate-600 flex space-x-2 items-center">
-              <FaRegHeart />
-              <span>{mainTweet.likes}</span>
-            </div>
-          </div>
+    <>
+      <div className="flex items-center w-full fixed bg-white">
+        <div className="max-w-screen-md w-full flex mx-auto border-b border-x p-6 py-3">
+          <img src={TwitterLogo} className="w-12 rotate-180 mr-4" />
+          <h1 className="text-4xl font-semibold">Twitter</h1>
         </div>
       </div>
 
-      {/* Comments */}
-      {comments.map((comment) => {
-        return <Comment comment={comment} />;
-      })}
-    </div>
+      {mainTweet && comments ? (
+        <div className="max-w-screen-md mx-auto border-l border-r pt-24">
+          {/* Main Tweet */}
+          <div className="flex space-x-4 border-b border-slate-200 p-4">
+            {/* Avatar */}
+            <div className="bg-slate-300 rounded-full w-8 h-8 shrink-0"></div>
+
+            <div key={mainTweet.id} className="flex flex-col space-y-2 grow">
+              {/* Header */}
+              <div className="flex space-x-2">
+                <h2 className="font-bold">{mainTweet.name}</h2>
+                <h2 className="text-slate-500">@{mainTweet.handle}</h2>
+                <span className="text-slate-500">
+                  {new Date(mainTweet.timestamp).toLocaleString()}
+                </span>
+              </div>
+              {/* Content */}
+              <div>{mainTweet.content}</div>
+
+              {/* Footer */}
+              <div className="flex space-x-2">
+                <div className="text-slate-600 flex space-x-1 items-center">
+                  <FaRegComment />
+                  <span>{mainTweet.comments}</span>
+                </div>
+                <div className="text-slate-600 flex space-x-2 items-center">
+                  <AiOutlineRetweet />
+                  <span>{mainTweet.retweets}</span>
+                </div>
+                <div className="text-slate-600 flex space-x-2 items-center">
+                  <FaRegHeart />
+                  <span>{mainTweet.likes}</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* Comments */}
+          {comments.map((comment) => {
+            return <Comment comment={comment} />;
+          })}
+        </div>
+      ) : (
+        <></>
+      )}
+    </>
   );
 }
