@@ -12,7 +12,7 @@ export function Feed() {
     const newFeed: Post[] = [];
 
     apiFeed.tweets.forEach((t, index) => {
-      if ("parent_tweet_id" in t) {
+      if (t.type === "COMMENT") {
         return;
       }
       const author = apiFeed.users[t.user_id];
@@ -62,7 +62,7 @@ export function Feed() {
         console.log(res.data);
         setFeed(convertFeed(res.data));
       });
-    }, 1000);
+    }, 8000);
 
     return () => clearInterval(interval);
   }, []);

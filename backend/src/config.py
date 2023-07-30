@@ -8,7 +8,8 @@ from enum import Enum
 from typing import Optional
 
 from dotenv import load_dotenv
-from langchain.llms import Anthropic
+from langchain.chat_models import ChatAnthropic
+from langchain.schema import AIMessage, BaseMessage, HumanMessage
 from pydantic import BaseModel, Field
 
 load_dotenv()
@@ -188,13 +189,13 @@ class Tweet(BaseModel):
     def __str__(self):
         if self.type == TweetType.TWEET:
             return f"""\
-<tweet id={self.tweet_id}>
+<tweet id="{self.tweet_id}">
     {self.content}
 </tweet>\
 """
         elif self.type == TweetType.QUOTE:
             return f"""\
-<quote id={self.tweet_id}>
+<quote id="{self.tweet_id}">
     <parent id="{self.parent_id}" author="{self.parent_tweet.author.name}">
         {self.parent_tweet.content}
     </parent>
@@ -204,7 +205,7 @@ class Tweet(BaseModel):
 
         elif self.type == TweetType.COMMENT:
             return f"""\
-<comment id={self.tweet_id}>
+<comment id="{self.tweet_id}">
     <parent id="{self.parent_id}" author="{self.parent_tweet.author.name}">
         {self.parent_tweet.content}
     </parent>
@@ -270,15 +271,15 @@ def init_tweets():
 init_tweets()
 
 
-llm = Anthropic(
+llm = ChatAnthropic(
     anthropic_api_key=ANTHROPIC_API_KEY,
     model="claude-2",
     temperature=0.2,
+    max_tokens_to_sample=4096,
 )
 
 
 sample = User.parse_file("../samples/jess.json")
-print(sample)
 
 users.add_user(sample)
 
@@ -286,9 +287,9 @@ users.add_user(sample)
 # %%
 
 
-def build_prompt(user: User, timeline: list[Tweet]) -> str:
-    prompt = "\n\nHuman: "
-    prompt += f'You are a Twitter user named {user.name}. Your bio is: "{user.bio}". Below is a collection of your past activity on Twitter, formatted as XML. These examples of how you use Twitter demonstrate your personality:\n'
+def build_prompt(user: User, timeline: list[Tweet]) -> list[BaseMessage]:
+    messages = []
+    prompt = f'You are a Twitter user named {user.name}. Your bio is: "{user.bio}". Below is a collection of your past activity on Twitter, formatted as XML. These examples of how you use Twitter demonstrate your personality:\n'
     prompt += "<activity>\n"
     for action in user.activity:
         prompt += str(action)
@@ -304,12 +305,15 @@ def build_prompt(user: User, timeline: list[Tweet]) -> str:
 
     prompt += "</timeline>\n\n"
 
-    prompt += "Looking only at your current timeline, generate up to 3 new actions to the timeline that you might take during this Twitter session. Return your response as XML, matching the schema from above. Only generate tweets, comments, retweets, and quotes."
-    prompt += "\n\nAssistant:"
+    prompt += "Looking only at your current timeline, generate up to 3 new actions to the timeline that you might take during this Twitter session. Return your response as XML, matching the schema from above. Only generate tweets, comments, retweets, and quotes. Include IDs for any parents."
 
-    prompt += " Here are up to 3 new actions I might take, based on Tweets on my timeline:\n<activity>\n"
+    messages.append(HumanMessage(content=prompt))
 
-    return prompt
+    ai_prompt = " Here are up to 3 new actions I might take, based on Tweets on my timeline:\n<activity>\n"
+
+    messages.append(AIMessage(content=ai_prompt))
+
+    return messages
 
 
 def clean_result(result: str):
@@ -438,18 +442,18 @@ def update_globals(actions: list[Action]):
 
 
 # %%
-prompt = build_prompt(sample, tweets.tweets)
-print("Prompt:\n" + prompt)
-result = llm.generate([prompt])
-result_text = result.generations[0][0].text
-result_text = clean_result(result_text)
-print("Result text:\n" + result_text)
-actions = parse_xml_to_actions(result_text, 4)  # todo: figure out user id stuff
-print(actions)
-print("Updating globals...")
-update_globals(actions)
-print("Tweets now:")
-print(tweets)
+# prompt = build_prompt(sample, tweets.tweets)
+# print("Prompt:\n" + prompt)
+# result = llm.generate([prompt])
+# result_text = result.generations[0][0].text
+# result_text = clean_result(result_text)
+# print("Result text:\n" + result_text)
+# actions = parse_xml_to_actions(result_text, 4)  # todo: figure out user id stuff
+# print(actions)
+# print("Updating globals...")
+# update_globals(actions)
+# print("Tweets now:")
+# print(tweets)
 
 
 # %%
