@@ -403,18 +403,18 @@ def update_globals(actions: list[Action]):
 
 
 # %%
-prompt = build_prompt(sample, tweets)
-print("Prompt:\n" + prompt)
-result = llm.generate([prompt])
-result_text = result.generations[0][0].text
-result_text = clean_result(result_text)
-print("Result text:\n" + result_text)
-actions = parse_xml_to_actions(result_text, 4)  # todo: figure out user id stuff
-print(actions)
-print("Updating globals...")
-update_globals(actions)
-print("Tweets now:")
-print(tweets)
+# prompt = build_prompt(sample, tweets)
+# print("Prompt:\n" + prompt)
+# result = llm.generate([prompt])
+# result_text = result.generations[0][0].text
+# result_text = clean_result(result_text)
+# print("Result text:\n" + result_text)
+# actions = parse_xml_to_actions(result_text, 4)  # todo: figure out user id stuff
+# print(actions)
+# print("Updating globals...")
+# update_globals(actions)
+# print("Tweets now:")
+# print(tweets)
 
 
 # %%
