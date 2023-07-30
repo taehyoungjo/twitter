@@ -9,10 +9,12 @@ from enum import Enum
 from typing import Optional
 from uuid import uuid4
 
+import numpy as np
 from dotenv import load_dotenv
 from env import ANTHROPIC_API_KEYS
 from langchain.chat_models import ChatAnthropic
 from langchain.schema import AIMessage, BaseMessage, HumanMessage
+from numpy.typing import NDArray
 from pydantic import BaseModel, Field
 
 load_dotenv()
@@ -36,19 +38,31 @@ class UserDatabase:
 
 class TweetDatabase:
     def __init__(self):
-        self.tweets: list[Tweet] = []
+        self.tweets: NDArray[Tweet] = np.array([])
         self.run_id = uuid4()
 
     def add_tweet(self, tweet: Tweet):
         tweet.tweet_id = len(self.tweets)
-        self.tweets.append(tweet)
+
+        self.tweets = np.append(self.tweets, tweet)
+
+        # self.tweets.append(tweet)
 
     def get_timeline(self):
         """
         Gets the timeline for a user to include in their prompt.
+
         """
 
-        return self.tweets[-50:]
+        scores = np.array([tweet.score + 1 for tweet in self.tweets])
+        scores = scores / np.sum(scores)
+
+        # sample 50 tweets from the distribution
+        # might need to increase probability
+        sample_size = min(50, len(self.tweets))
+        return np.random.choice(self.tweets, size=sample_size, p=scores, replace=False)
+
+        # return self.tweets[-50:]
 
     def update_log(self):
         print("trying to write")
@@ -175,6 +189,7 @@ class User(BaseModel):
     handle: str
     name: str
     bio: str
+    avatar_url: str
     activity: list[Action] = Field(default_factory=list, exclude=True)
 
 
@@ -260,16 +275,36 @@ class Tweet(BaseModel):
 # Initialize tweets with some dummy data
 def init_tweets():
     users.add_user(
-        User(handle="elonmusk", name="Elon Musk", bio="Technoking of Tesla"),
+        User(
+            handle="elonmusk",
+            name="Elon Musk",
+            bio="Technoking of Tesla",
+            avatar_url="https://pbs.twimg.com/profile_images/1683325380441128960/yRsRRjGO_400x400.jpg",
+        ),
     )
     users.add_user(
-        User(handle="jack", name="Jack Dorsey", bio="CEO of Twitter"),
+        User(
+            handle="jack",
+            name="Jack Dorsey",
+            bio="CEO of Twitter",
+            avatar_url="https://pbs.twimg.com/profile_images/1661201415899951105/azNjKOSH_400x400.jpg",
+        ),
     )
     users.add_user(
-        User(handle="sundarpichai", name="Sundar Pichai", bio="CEO of Google"),
+        User(
+            handle="sundarpichai",
+            name="Sundar Pichai",
+            bio="CEO of Google",
+            avatar_url="https://pbs.twimg.com/profile_images/864282616597405701/M-FEJMZ0_400x400.jpg",
+        ),
     )
     users.add_user(
-        User(handle="satyanadella", name="Satya Nadella", bio="CEO of Microsoft"),
+        User(
+            handle="satyanadella",
+            name="Satya Nadella",
+            bio="CEO of Microsoft",
+            avatar_url="https://pbs.twimg.com/profile_images/1221837516816306177/_Ld4un5A_400x400.jpg",
+        ),
     )
 
     tweets.add_tweet(
@@ -309,28 +344,27 @@ def init_tweets():
     )
 
     # add judges too
-
-    NUM_DEFAULT_USERS = 3
+    NUM_DEFAULT_USERS = 4
     judge_json = "../samples/initjudges.json"
     with open(judge_json, "r") as file:
         data = json.load(file)
         for i, judge in enumerate(data):
-            users.add_user(
-                User(handle=judge["handle"], name=judge["name"], bio=judge["bio"]),
-            )
-            if judge["texts"]:
-                for text in judge["texts"]:
-                    tweets.add_tweet(
-                        Tweet(
-                            type=TweetType.TWEET,
-                            user_id=i + NUM_DEFAULT_USERS + 1,
-                            likes=[],
-                            retweets=[],
-                            comments=[],
-                            timestamp=0,
-                            content=text,
-                        )
-                    )
+            users.add_user(User.parse_obj(judge))
+
+            # if judge["texts"]:
+            #     for text in judge["texts"]:
+            #         tweets.add_tweet(
+            #             Tweet(
+            #                 type=TweetType.TWEET,
+            #                 user_id=i + NUM_DEFAULT_USERS,
+            #                 likes=[],
+            #                 retweets=[],
+            #                 comments=[],
+            #                 timestamp=0,
+            #                 content=text,
+            #             )
+            #         )
+        print("PARSING SUCCESSFUL")
 
 
 init_tweets()
@@ -355,7 +389,14 @@ def build_prompt(user: User, timeline: list[Tweet]) -> list[BaseMessage]:
     prompt += "</timeline>\n\n"
 
     prompt += """\
-Looking only at your current timeline, generate up to 3 new actions to the timeline that you might take during this Twitter session. Only generate tweets, comments, retweets, and quotes. Include IDs for any parents.
+Looking only at your current timeline, generate up to 5 new actions to the timeline that you might take during this Twitter session. Only generate likes, tweets, comments, retweets, and quotes. Include IDs for any parents.
+
+If you want to generate a like, use the following format to indicate which tweet you liked:
+<like>
+    <parent id="parent_id" author="parent_author">
+        parent_content
+    </parent>
+</like>
 
 Before giving your response, think about what tweets, if any, you would interact with and what your tone and writing style would be. Also, think about new tweets of your own you could post. Use the following demonstration XML:
 <response>
