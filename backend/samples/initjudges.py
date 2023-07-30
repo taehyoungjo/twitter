@@ -1,6 +1,8 @@
 import os
 import json
 
+MAX_TWEETS_PER_USR = 10
+
 subdir1 = 'bios'
 subdir2 = 'tweets'
 json_files = [f for f in os.listdir(subdir1)]
@@ -19,7 +21,10 @@ for filename in json_files:
     with open(os.path.join(subdir2, filename), 'r') as file:
         data = json.load(file)
         text_data = [v['text'] for v in data.values()]
-        user_data["texts"] = text_data
+        if len(text_data) < MAX_TWEETS_PER_USR:
+            user_data["texts"] = text_data
+        else:
+            user_data["texts"] = text_data[0:MAX_TWEETS_PER_USR+1]
 
     initial_user_data.append(user_data)
 
