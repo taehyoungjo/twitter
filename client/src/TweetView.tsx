@@ -121,12 +121,15 @@ export function TweetView() {
           {/* Main Tweet */}
           <div className="flex space-x-4 border-b border-slate-200 p-4">
             {/* Avatar */}
-            {/* <div className="bg-slate-300 rounded-full w-8 h-8 shrink-0"></div> */}
-            <img src={mainTweet.avatarUrl} className="w-8 h-8 rounded-full" />
 
-            <div key={mainTweet.id} className="flex flex-col space-y-2 grow">
+            <div key={mainTweet.id} className="flex flex-col space-y-2 grow ">
               {/* Header */}
-              <div className="flex space-x-2">
+              <div className="flex space-x-2 items-center">
+                <img
+                  src={mainTweet.avatarUrl}
+                  className="w-8 h-8 rounded-full"
+                />
+
                 <h2 className="font-bold">{mainTweet.name}</h2>
                 <h2 className="text-slate-500">@{mainTweet.handle}</h2>
                 <span className="text-slate-500">
@@ -134,23 +137,29 @@ export function TweetView() {
                 </span>
               </div>
               {/* Content */}
-              <div>{mainTweet.content}</div>
+              <div className="text-xl p-4">{mainTweet.content}</div>
+            </div>
+          </div>
 
-              {/* Footer */}
-              <div className="flex space-x-2">
-                <div className="text-slate-600 flex space-x-1 items-center">
-                  <FaRegComment />
-                  <span>{mainTweet.comments}</span>
-                </div>
-                <div className="text-slate-600 flex space-x-2 items-center">
-                  <AiOutlineRetweet />
-                  <span>{mainTweet.retweets}</span>
-                </div>
-                <div className="text-slate-600 flex space-x-2 items-center">
-                  <FaRegHeart />
-                  <span>{mainTweet.likes}</span>
-                </div>
-              </div>
+          {/* Footer */}
+          <div className="flex space-x-2 px-8 py-2 border-b ">
+            <div className=" flex space-x-2 items-center">
+              <span className="text-slate-700 font-bold">
+                {mainTweet.comments}
+              </span>
+              <span className="text-slate-500">comments</span>
+            </div>
+            <div className=" flex space-x-2 items-center">
+              <span className="text-slate-700 font-bold">
+                {mainTweet.retweets}
+              </span>
+              <span className="text-slate-500">retweets</span>
+            </div>
+            <div className=" flex space-x-2 items-center">
+              <span className="text-slate-700 font-bold">
+                {mainTweet.likes}
+              </span>
+              <span className="text-slate-500">likes</span>
             </div>
           </div>
 
