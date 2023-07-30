@@ -90,8 +90,8 @@ export function Feed() {
 
   return (
     <>
-      <div className="flex items-center w-full px-4 py-2 border-b fixed bg-white/25 backdrop-blur-md">
-        <div className="max-w-screen-md w-full flex py-2 mx-auto ">
+      <div className="flex items-center w-full  fixed bg-white/50 backdrop-blur-md">
+        <div className="max-w-screen-md w-full flex mx-auto border-b border-x p-6 py-3">
           <img src={TwitterLogo} className="w-12 rotate-180 mr-4" />
           <h1 className="text-4xl font-semibold">Twitter</h1>
         </div>
@@ -99,7 +99,7 @@ export function Feed() {
       <div className="max-w-screen-md mx-auto border-l border-r">
         {/* Message Box */}
         <div className="pt-16 border-b">
-          <div className="px-4 mt-2 py-2 text-xl bg-neutral-200 text-neutral-600">
+          <div className="px-4 py-2 text-xl bg-neutral-200 text-neutral-600">
             Viewing as
             <span className="font-bold ml-1 text-black">{user?.name}</span>
           </div>

@@ -106,8 +106,8 @@ export function TweetView() {
 
   return (
     <>
-      <div className="flex items-center w-full px-4 pb-4 border-b fixed bg-white">
-        <div className="max-w-screen-md w-full flex py-2 mx-auto ">
+      <div className="flex items-center w-full fixed bg-white">
+        <div className="max-w-screen-md w-full flex mx-auto border-b border-x p-6 py-3">
           <img src={TwitterLogo} className="w-12 rotate-180 mr-4" />
           <h1 className="text-4xl font-semibold">Twitter</h1>
         </div>
