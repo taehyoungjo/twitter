@@ -1,0 +1,4891 @@
+{
+  "handle": "willpienaar",
+  "name": "Willem Pienaar",
+  "bio": "I build AI tools and open source communities. Previously led engineering teams @TectonAI, built the ML platform at @gojektech, and created @feast_dev.",
+  "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg",
+  "activity": [
+    {
+      "type": "RETWEET",
+      "text": "RT @SnowflakeDB: Feature Stores in the Age of Generative AI and LLMs with the Creator of Feast #dataheroes https://t.co/iwhNdywcGq",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 4,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1674227480964784128",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Can generative AI remove all grunt work from software engineering? I'm working with some folks who think so.\n\nI’ve put down some thoughts over at Agentik https://t.co/KMpvSBzXGh, and I’ll be sharing more over the coming weeks.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 1,
+      "likes": 7,
+      "id": "1669773182981799943",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Super excited to be speaking at the LLMs in Production conference. We're just one day out!\n\nA really stacked lineup with @matei_zaharia @chipro @RazRazcle @tristanzajonc @aparnadhinak @ajratner @ShreyaR @mistercrunch @TreybigDavis @doppenhe and many more!\n\nhttps://t.co/KoiPYyZxsV https://t.co/YQmf0GrAwY",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1668995301586116619",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "Had a blast working with @shrumm and the team over at @weights_biases to help fill out this course on \"Building LLM-Powered Applications\"!\n\nGreat content for folks that are serious about building production-grade AI applications! Check out the section on https://t.co/xDnYDFKHcB!",
+      "quotes": 1,
+      "replies": 0,
+      "retweets": 2,
+      "bookmarks": 3,
+      "likes": 7,
+      "id": "1666529727350468608",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": {
+        "text": "🎉 I'm thrilled to announce we're launching a free online course at @weights_biases, titled \"Building LLM-Powered Applications.\" This course is designed for Machine Learning practitioners and Software Engineers who are interested in understanding LLMs and wish to use them in… https://t.co/I7XhoqIryQ",
+        "id": "1666457606402068483"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @DrJimFan: What if we set GPT-4 free in Minecraft? ⛏️\n\nI’m excited to announce Voyager, the first lifelong learning agent that plays Min…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 1958,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1662137012143681536",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @marvinvonhagen: \"A whole new paradigm would be needed to solve prompt injections 10/10 times – It may well be that LLMs can never be us…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 18,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1662112609301327872",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Introducing Rebuff: An open source self-hardening prompt injection detector!\n\nhttps://t.co/uftr5ULXmJ\nhttps://t.co/cvl1XEszeu\n\nThe more you attack it, the stronger it gets! \n\n🧵👇 1/4 https://t.co/tfgPlyGQ5N",
+      "quotes": 9,
+      "replies": 18,
+      "retweets": 59,
+      "bookmarks": 168,
+      "likes": 250,
+      "id": "1658479681182797836",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@willpienaar I understand; I just mean the client-code (invocation) will still reside on a server in most scale-out architectures.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1658885023183798300",
+      "author": {
+        "handle": "jeffrschneider",
+        "name": "Jeff Schneider",
+        "id": "57413",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1622763444431736832/TLpz2mJw_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1658857234372210688",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@jeffrschneider \"Fat\" here just means that the logic is client side vs server side. It's still only going to be a few lines of code and very lightweight.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1658857234372210688",
+        "author": {
+          "handle": "willpienaar",
+          "name": "Willem Pienaar",
+          "id": "2889217594",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1658638663050305544"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@jeffrschneider Correct",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1658978897323606019",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1658885023183798300",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@willpienaar I understand; I just mean the client-code (invocation) will still reside on a server in most scale-out architectures.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1658885023183798300",
+        "author": {
+          "handle": "jeffrschneider",
+          "name": "Jeff Schneider",
+          "id": "57413",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1622763444431736832/TLpz2mJw_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1658857234372210688"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@willpienaar cool. The fat client will likely be deployed in a serverless env. (lambda, etc.)  - so not too fat, or can't use it. Other popular LLM projects fail this test and are unusable for cheap scale-out.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1658638663050305544",
+      "author": {
+        "handle": "jeffrschneider",
+        "name": "Jeff Schneider",
+        "id": "57413",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1622763444431736832/TLpz2mJw_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1658635591687319560",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@jeffrschneider Depends. If you run the heuristic and vector database checks, it should be pretty fast. The LLM check is slow of course. We'll soon have fat clients for TS/JS and Python that doesn't require a service. That should be much leaner overall.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1658635591687319560",
+        "author": {
+          "handle": "willpienaar",
+          "name": "Willem Pienaar",
+          "id": "2889217594",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1658621172697690112"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@jeffrschneider \"Fat\" here just means that the logic is client side vs server side. It's still only going to be a few lines of code and very lightweight.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1658857234372210688",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1658638663050305544",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@willpienaar cool. The fat client will likely be deployed in a serverless env. (lambda, etc.)  - so not too fat, or can't use it. Other popular LLM projects fail this test and are unusable for cheap scale-out.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1658638663050305544",
+        "author": {
+          "handle": "jeffrschneider",
+          "name": "Jeff Schneider",
+          "id": "57413",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1622763444431736832/TLpz2mJw_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1658635591687319560"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@willpienaar I need this. \nHow fast is the detection?",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1658621172697690112",
+      "author": {
+        "handle": "jeffrschneider",
+        "name": "Jeff Schneider",
+        "id": "57413",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1622763444431736832/TLpz2mJw_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1658479681182797836",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Introducing Rebuff: An open source self-hardening prompt injection detector!\n\nhttps://t.co/uftr5ULXmJ\nhttps://t.co/cvl1XEszeu\n\nThe more you attack it, the stronger it gets! \n\n🧵👇 1/4 https://t.co/tfgPlyGQ5N",
+        "quotes": 9,
+        "replies": 18,
+        "retweets": 59,
+        "bookmarks": 168,
+        "likes": 250,
+        "id": "1658479681182797836",
+        "author": {
+          "handle": "willpienaar",
+          "name": "Willem Pienaar",
+          "id": "2889217594",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@jeffrschneider Depends. If you run the heuristic and vector database checks, it should be pretty fast. The LLM check is slow of course. We'll soon have fat clients for TS/JS and Python that doesn't require a service. That should be much leaner overall.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1658635591687319560",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1658621172697690112",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@willpienaar I need this. \nHow fast is the detection?",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1658621172697690112",
+        "author": {
+          "handle": "jeffrschneider",
+          "name": "Jeff Schneider",
+          "id": "57413",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1622763444431736832/TLpz2mJw_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1658479681182797836"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@willpienaar Just tried it - great stuff!",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1658575730899562496",
+      "author": {
+        "handle": "frankzliu",
+        "name": "Frank Liu",
+        "id": "1471764159998328837",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1471767298101084160/XkMEVCba_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1658479681182797836",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Introducing Rebuff: An open source self-hardening prompt injection detector!\n\nhttps://t.co/uftr5ULXmJ\nhttps://t.co/cvl1XEszeu\n\nThe more you attack it, the stronger it gets! \n\n🧵👇 1/4 https://t.co/tfgPlyGQ5N",
+        "quotes": 9,
+        "replies": 18,
+        "retweets": 59,
+        "bookmarks": 168,
+        "likes": 250,
+        "id": "1658479681182797836",
+        "author": {
+          "handle": "willpienaar",
+          "name": "Willem Pienaar",
+          "id": "2889217594",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@frankzliu Let's get Zilliz/Milvus in there!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1658614055563669512",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1658575730899562496",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@willpienaar Just tried it - great stuff!",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1658575730899562496",
+        "author": {
+          "handle": "frankzliu",
+          "name": "Frank Liu",
+          "id": "1471764159998328837",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1471767298101084160/XkMEVCba_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1658479681182797836"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@willpienaar Yea that's the section I was talking about- just wanted to suggest including that in the Github README or docs, maybe I missed where it is :)",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1658525812050493447",
+      "author": {
+        "handle": "KGreshake",
+        "name": "Kai Greshake",
+        "id": "1426732124556701698",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1640020795136122881/6o0blE-t_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1658520457400680456",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@KGreshake Hey @KGreshake, we do have this section near the bottom https://t.co/2QT6e6mdTf",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 1,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1658520457400680456",
+        "author": {
+          "handle": "willpienaar",
+          "name": "Willem Pienaar",
+          "id": "2889217594",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1658512187256602656"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@KGreshake Hey @KGreshake, happy to add more detail!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1658537250441908224",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1658525812050493447",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@willpienaar Yea that's the section I was talking about- just wanted to suggest including that in the Github README or docs, maybe I missed where it is :)",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1658525812050493447",
+        "author": {
+          "handle": "KGreshake",
+          "name": "Kai Greshake",
+          "id": "1426732124556701698",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1640020795136122881/6o0blE-t_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1658520457400680456"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@willpienaar I like the fact that you added a disclaimer to the repo; however I think it would be good if you added the limitations outlined in your post on langchain's blog, too. Also worried what this means for redteaming; all is rebutted as: this will make the defense better and be patched",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1658512187256602656",
+      "author": {
+        "handle": "KGreshake",
+        "name": "Kai Greshake",
+        "id": "1426732124556701698",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1640020795136122881/6o0blE-t_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1658479681182797836",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Introducing Rebuff: An open source self-hardening prompt injection detector!\n\nhttps://t.co/uftr5ULXmJ\nhttps://t.co/cvl1XEszeu\n\nThe more you attack it, the stronger it gets! \n\n🧵👇 1/4 https://t.co/tfgPlyGQ5N",
+        "quotes": 9,
+        "replies": 18,
+        "retweets": 59,
+        "bookmarks": 168,
+        "likes": 250,
+        "id": "1658479681182797836",
+        "author": {
+          "handle": "willpienaar",
+          "name": "Willem Pienaar",
+          "id": "2889217594",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@KGreshake Hey @KGreshake, we do have this section near the bottom https://t.co/2QT6e6mdTf",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1658520457400680456",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1658512187256602656",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@willpienaar I like the fact that you added a disclaimer to the repo; however I think it would be good if you added the limitations outlined in your post on langchain's blog, too. Also worried what this means for redteaming; all is rebutted as: this will make the defense better and be patched",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1658512187256602656",
+        "author": {
+          "handle": "KGreshake",
+          "name": "Kai Greshake",
+          "id": "1426732124556701698",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1640020795136122881/6o0blE-t_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1658479681182797836"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @hwchase17: As more LangChains make their way into production, we're getting more questions about the security and privacy of these syst…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 26,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1658499143357067267",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "When Rebuff detects an attack, it stores the attack signature in a database of learned attacks, and uses that signature to prevent future attacks!\n\nYou can try out the managed version in our playground: https://t.co/cvl1XEszeu\n\nOr deploy it yourself: https://t.co/uftr5ULXmJ\n\n4/4",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 2,
+      "bookmarks": 3,
+      "likes": 11,
+      "id": "1658479690934525953",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1658479688388612100",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "However, we believe that AI builders still need security in place while we work to solve the problem.\n\nRebuff adds that security through 4 layers of defense:\n1. Heuristic checks\n2. LLM based checks\n3. Similarity based checks on known attacks\n4. Canary word leak detection\n\n3/4",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 2,
+        "bookmarks": 0,
+        "likes": 7,
+        "id": "1658479688388612100",
+        "author": {
+          "handle": "willpienaar",
+          "name": "Willem Pienaar",
+          "id": "2889217594",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1658479684517265410"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Have questions about the future of software in the age of LLMs? This panel has answers, and some 🔥 takes! Check out the replay with experts @Dan_Jeffries1, @willpienaar, @changhiskhan &amp; @tristanzajonc  https://t.co/TMJL06O8Kl",
+      "quotes": 2,
+      "replies": 2,
+      "retweets": 1,
+      "bookmarks": 1,
+      "likes": 7,
+      "id": "1657053016954920961",
+      "author": {
+        "handle": "continual_ai",
+        "name": "Continual",
+        "id": "1166792296068550657",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1681715355599904768/BhIpx26K_normal.png"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@continual_ai @Dan_Jeffries1 @changhiskhan @tristanzajonc It was great, we should do a follow up at some point!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1657055448686534659",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1657053016954920961",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Have questions about the future of software in the age of LLMs? This panel has answers, and some 🔥 takes! Check out the replay with experts @Dan_Jeffries1, @willpienaar, @changhiskhan &amp; @tristanzajonc  https://t.co/TMJL06O8Kl",
+        "quotes": 2,
+        "replies": 2,
+        "retweets": 1,
+        "bookmarks": 1,
+        "likes": 7,
+        "id": "1657053016954920961",
+        "author": {
+          "handle": "continual_ai",
+          "name": "Continual",
+          "id": "1166792296068550657",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1681715355599904768/BhIpx26K_normal.png"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "Had a blast chatting with @changhiskhan @Dan_Jeffries1 and @tristanzajonc on productionizing LLMs!\n\nThings got a bit heated near the end 🌶️!\n\nSome of the things we discussed 👇",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 1,
+      "bookmarks": 1,
+      "likes": 3,
+      "id": "1657055311746813952",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": {
+        "text": "Have questions about the future of software in the age of LLMs? This panel has answers, and some 🔥 takes! Check out the replay with experts @Dan_Jeffries1, @willpienaar, @changhiskhan &amp; @tristanzajonc  https://t.co/TMJL06O8Kl",
+        "id": "1657053016954920961"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "1. Whether or not we can take lessons from the rise of cloud with what we will see in AI\n2. The shift to custom models for specific tasks\n3. How in-house training may not be necessary for most teams\n4. The role of humans in prompt creation\n5. How soon we'll get to AGI",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1657055313315373056",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1657055311746813952",
+      "replyTo": {
+        "type": "QUOTE",
+        "text": "Had a blast chatting with @changhiskhan @Dan_Jeffries1 and @tristanzajonc on productionizing LLMs!\n\nThings got a bit heated near the end 🌶️!\n\nSome of the things we discussed 👇",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 1,
+        "bookmarks": 1,
+        "likes": 3,
+        "id": "1657055311746813952",
+        "author": {
+          "handle": "willpienaar",
+          "name": "Willem Pienaar",
+          "id": "2889217594",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+        },
+        "quoted": {
+          "text": "Have questions about the future of software in the age of LLMs? This panel has answers, and some 🔥 takes! Check out the replay with experts @Dan_Jeffries1, @willpienaar, @changhiskhan &amp; @tristanzajonc  https://t.co/TMJL06O8Kl",
+          "id": "1657053016954920961"
+        }
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "❤️ Spring in NYC https://t.co/yfJPcvtvYM",
+      "quotes": 0,
+      "replies": 11,
+      "retweets": 3,
+      "bookmarks": 2,
+      "likes": 170,
+      "id": "1657006995663142912",
+      "author": {
+        "handle": "mattturck",
+        "name": "Matt Turck",
+        "id": "247785677",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/525262417635205120/xkF8FYY-_normal.jpeg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@mattturck It's the best place to be on earth in the spring.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1657024315777331201",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1657006995663142912",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "❤️ Spring in NYC https://t.co/yfJPcvtvYM",
+        "quotes": 0,
+        "replies": 11,
+        "retweets": 3,
+        "bookmarks": 2,
+        "likes": 170,
+        "id": "1657006995663142912",
+        "author": {
+          "handle": "mattturck",
+          "name": "Matt Turck",
+          "id": "247785677",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/525262417635205120/xkF8FYY-_normal.jpeg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "!\n\nAnyone tried this yet?",
+      "quotes": 0,
+      "replies": 6,
+      "retweets": 1,
+      "bookmarks": 11,
+      "likes": 57,
+      "id": "1656700770346242049",
+      "author": {
+        "handle": "simonw",
+        "name": "Simon Willison",
+        "id": "12497",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75_normal.jpeg"
+      },
+      "quoted": {
+        "text": "Introducing 100K Context Windows! We’ve expanded Claude’s context window to 100,000 tokens of text, corresponding to around 75K words. Submit hundreds of pages of materials for Claude to digest and analyze. Conversations with Claude can go on for hours or days. https://t.co/4WLEp7ou7U",
+        "id": "1656700154190389248"
+      },
+      "quoteDeleted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@simonw Madre de Dios! https://t.co/wcBuE75Ato",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 4,
+      "id": "1656712031486066694",
+      "author": {
+        "handle": "marktenenholtz",
+        "name": "Mark Tenenholtz",
+        "id": "1186043355710545920",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1468741945560289283/YZ3cOr_H_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1656700770346242049",
+      "replyTo": {
+        "type": "QUOTE",
+        "text": "!\n\nAnyone tried this yet?",
+        "quotes": 0,
+        "replies": 6,
+        "retweets": 1,
+        "bookmarks": 11,
+        "likes": 57,
+        "id": "1656700770346242049",
+        "author": {
+          "handle": "simonw",
+          "name": "Simon Willison",
+          "id": "12497",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75_normal.jpeg"
+        },
+        "quoted": {
+          "text": "Introducing 100K Context Windows! We’ve expanded Claude’s context window to 100,000 tokens of text, corresponding to around 75K words. Submit hundreds of pages of materials for Claude to digest and analyze. Conversations with Claude can go on for hours or days. https://t.co/4WLEp7ou7U",
+          "id": "1656700154190389248"
+        },
+        "quoteDeleted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@marktenenholtz @simonw How does it perform on code? That's what I really want to know!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1656712646371033117",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1656712031486066694",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@simonw Madre de Dios! https://t.co/wcBuE75Ato",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 4,
+        "id": "1656712031486066694",
+        "author": {
+          "handle": "marktenenholtz",
+          "name": "Mark Tenenholtz",
+          "id": "1186043355710545920",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1468741945560289283/YZ3cOr_H_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1656700770346242049"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "I participated in a talk hosted by @LangChainAI  this morning, where I attempted to explain prompt injection and why it's so hard to solve in just 8 minutes.\n\nThe video, slides and transcript of my presentation are now available on my blog\n\nhttps://t.co/t2Y7PoSpTZ",
+      "quotes": 11,
+      "replies": 9,
+      "retweets": 82,
+      "bookmarks": 298,
+      "likes": 502,
+      "id": "1653496356441567234",
+      "author": {
+        "handle": "simonw",
+        "name": "Simon Willison",
+        "id": "12497",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75_normal.jpeg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@simonw @LangChainAI If it's so hard to solve in 8 minutes, why not try spending 9 minutes solving it?\n;)",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 26,
+      "id": "1653542968463339521",
+      "author": {
+        "handle": "jeremyphoward",
+        "name": "Jeremy Howard",
+        "id": "175282603",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1279600070145437696/eocLhSLu_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1653496356441567234",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "I participated in a talk hosted by @LangChainAI  this morning, where I attempted to explain prompt injection and why it's so hard to solve in just 8 minutes.\n\nThe video, slides and transcript of my presentation are now available on my blog\n\nhttps://t.co/t2Y7PoSpTZ",
+        "quotes": 11,
+        "replies": 9,
+        "retweets": 82,
+        "bookmarks": 298,
+        "likes": 502,
+        "id": "1653496356441567234",
+        "author": {
+          "handle": "simonw",
+          "name": "Simon Willison",
+          "id": "12497",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75_normal.jpeg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@jeremyphoward @simonw @LangChainAI https://t.co/yzy9sdNiSr",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1653613504753192966",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1653542968463339521",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@simonw @LangChainAI If it's so hard to solve in 8 minutes, why not try spending 9 minutes solving it?\n;)",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 26,
+        "id": "1653542968463339521",
+        "author": {
+          "handle": "jeremyphoward",
+          "name": "Jeremy Howard",
+          "id": "175282603",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1279600070145437696/eocLhSLu_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1653496356441567234"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@simonw @LangChainAI I really enjoyed all the presentations. Just wish we had more time to get into the weeds. Specifically, the techniques builders should incorporate today. We should definitely consider a follow up! (cc @hwchase17)",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1653498054564265984",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1653496356441567234",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "I participated in a talk hosted by @LangChainAI  this morning, where I attempted to explain prompt injection and why it's so hard to solve in just 8 minutes.\n\nThe video, slides and transcript of my presentation are now available on my blog\n\nhttps://t.co/t2Y7PoSpTZ",
+        "quotes": 11,
+        "replies": 9,
+        "retweets": 82,
+        "bookmarks": 298,
+        "likes": 502,
+        "id": "1653496356441567234",
+        "author": {
+          "handle": "simonw",
+          "name": "Simon Willison",
+          "id": "12497",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75_normal.jpeg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "Exactly the kinds of discussions we should be having if we're to move from toy AI applications to reliable production systems. @hwchase17 and his team are on a roll!",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 1,
+      "bookmarks": 2,
+      "likes": 13,
+      "id": "1652347709075095552",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": {
+        "text": "This may be the most exciting @LangChainAI webinar we've done yet...\n\n⭐️Prompt Injection⭐️\n\nWith an all-star panel of guests:\n\n@simonw \n@willpienaar \n@kojinoshiba (Robust Intelligence)\nJonathan Cohen (Nvidia)\nChristopher Parisien (Nvidia)\n\nRegister 👇\n\nhttps://t.co/LfuGGhDHJa",
+        "id": "1652319657821339649"
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "Super exciting to see @hwchase17 and the contributors at @LangChainAI  incorporate emergent techniques into their framework so quickly!\n\nContextual compression is just one of many low hanging fruit in boosting the accuracy and relevance of generations. Loads more to come soon!",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 5,
+      "bookmarks": 14,
+      "likes": 50,
+      "id": "1649438906893619201",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": {
+        "text": "⭐️Contextual Compression⭐️\n\nWe introduce multiple new methods in @LangChainAI to compress retrieved documents w.r.t. the query before passing to an LLM for generation\n\nInspired by @willpienaar at the \"LLMs in production\" conference\n\nBlog: https://t.co/bs7psooUry\n\n🧵More details:",
+        "id": "1649428295467905025"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @metaphorsystems: Hey Friends!\nWe’re releasing some updates to Metaphor, including an updated model, a much more comprehensive index and…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 24,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1648437626360438784",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Teams were crushing it again at this weekend's GPT Plugins Hackathon! \n\nHere are some of my personal favorites! https://t.co/kFwrASOgQP",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 1,
+      "bookmarks": 1,
+      "likes": 6,
+      "id": "1647807141988945920",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "Just loads of friendly faces all around with @Scobleizer and @transitive_bs https://t.co/aEBTly8US3",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1647807155129679873",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1647807153200324609",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "And in the half-baked category is the DevOps Autopilot that just ships things into production without you lifting a finger. What could go wrong? https://t.co/AeZjj4Jlae",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1647807153200324609",
+        "author": {
+          "handle": "willpienaar",
+          "name": "Willem Pienaar",
+          "id": "2889217594",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1647807151669379074"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "TIL that Chicken Tikka Masala is from Scotland??\n\nClimate change, AI, and more from my latest AMA https://t.co/cVGhWc4voj https://t.co/2n3B38rd7p",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 8,
+      "id": "1647750475830161411",
+      "author": {
+        "handle": "aronchick",
+        "name": "David Aronchick",
+        "id": "15024407",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/555160425537355776/mOofSPqG_normal.jpeg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@aronchick Relatedly, the word curry also has an interesting origin: https://t.co/4Ruv025fLd",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1647778391071002624",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1647750475830161411",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "TIL that Chicken Tikka Masala is from Scotland??\n\nClimate change, AI, and more from my latest AMA https://t.co/cVGhWc4voj https://t.co/2n3B38rd7p",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 1,
+        "bookmarks": 0,
+        "likes": 8,
+        "id": "1647750475830161411",
+        "author": {
+          "handle": "aronchick",
+          "name": "David Aronchick",
+          "id": "15024407",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/555160425537355776/mOofSPqG_normal.jpeg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @transitive_bs: Here are my cliff notes from @mlopscommunity's amazing event today focused on how to use LLMs effectively in production…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 11,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1646941049640869888",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@eugeneyan @mlopscommunity production grade socks",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1646611427028000768",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1646605177057837056",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@mlopscommunity @willpienaar heh that’s really cool but I have too many of those already—happy to give it to someone else. thank you!",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1646605177057837056",
+        "author": {
+          "handle": "eugeneyan",
+          "name": "Eugene Yan",
+          "id": "35109534",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1651817216629960706/lw4ZsN8u_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1646604855576780800"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "It's wild out there if you're building on top of LLMs.\n\nI'm thrilled to be sharing some novel techniques we're seeing teams adopt to build products that are safer, faster, and more reliable!\n\nJoin myself, @hwchase17, @thesephist, and @Dan_Jeffries1!\n\nhttps://t.co/QFPRHNP0fE https://t.co/Y3HrdHM5uG",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 6,
+      "likes": 19,
+      "id": "1646192462183165952",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Evaporate: Create Structured Views on Data Lakes with LLMs (by @HazyResearch)\n\n• Use LLMs for extraction / code synthesis\n• Tradeoff: cost vs. accuracy\n• Ensembles candidate functions with weak supervision\n\nTakeaway: 110x reduction in LLM-processed documents &amp; outperforms SOTA https://t.co/1c0OHUKmRQ",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 1,
+      "bookmarks": 7,
+      "likes": 11,
+      "id": "1645913940201979905",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "https://t.co/At63KyVlpl",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1645913942135566340",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1645913940201979905",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Evaporate: Create Structured Views on Data Lakes with LLMs (by @HazyResearch)\n\n• Use LLMs for extraction / code synthesis\n• Tradeoff: cost vs. accuracy\n• Ensembles candidate functions with weak supervision\n\nTakeaway: 110x reduction in LLM-processed documents &amp; outperforms SOTA https://t.co/1c0OHUKmRQ",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 1,
+        "bookmarks": 7,
+        "likes": 11,
+        "id": "1645913940201979905",
+        "author": {
+          "handle": "willpienaar",
+          "name": "Willem Pienaar",
+          "id": "2889217594",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "AutoGPT aka Skynet? \n\nThis is a real GitHub issue:\n\n\"Auto-GPT decided on it's own that it wanted to create an AI model on its own, and started doing so. Even ignoring my CRTL+C attempts and just kept going.\"\n\nhttps://t.co/YTTK1SckEy",
+      "quotes": 3,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 2,
+      "likes": 8,
+      "id": "1645559800363896833",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "So is Chain of Thought prompting already redundant?\n\nAt first glance it seems so, but in my experiments RCI prompting can push an LLM into an \"apology loop\" where it keeps second guessing itself. \n\nThe efficacy of RCI still seems very use case dependent.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1641925462489444354",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": {
+        "text": "LLM Agents Can Recursively Criticize &amp; Improve Outputs\n\n-Simple prompt to review &amp; improve can beat:\nReinforcement Learning\nSupervised Learning\nCoT prompting\n\n-Only needs a few demos per task, rather than thousands\n-No task-specific reward function needed\n\nhttps://t.co/Ec0x86jXb0 https://t.co/I9W9ZFkURf",
+        "id": "1641786389267185664"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "⁦⁦⁦@idangazit⁩'s principles for building ⁦@GitHubCopilot⁩'s ghost text.\n\nThese principles apply to virtually all products being built on LLMs today!\n\nDesign defensively for model failure. Make the output easy to ignore, easy to retry, modeless, and mutable. https://t.co/uYauW5Fp6F",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 3,
+      "likes": 18,
+      "id": "1641514775086522372",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Excited to launch the Fixie Developer Preview and announce our $17M seed round from @Redpoint, @MadronaVentures, @ZettaVentures , @SignalFire, @BloombergBeta, and @kearnyjackson!\n\nhttps://t.co/LvdpYrImAG",
+      "quotes": 6,
+      "replies": 13,
+      "retweets": 16,
+      "bookmarks": 25,
+      "likes": 99,
+      "id": "1641457340770832385",
+      "author": {
+        "handle": "mdwelsh",
+        "name": "Matt Welsh",
+        "id": "14435433",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1610520643631747079/keh6OagB_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@mdwelsh @Redpoint @MadronaVentures @ZettaVentures @SignalFire @BloombergBeta @kearnyjackson Congrats @mdwelsh, keen to try it out!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1641491992315146256",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1641457340770832385",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Excited to launch the Fixie Developer Preview and announce our $17M seed round from @Redpoint, @MadronaVentures, @ZettaVentures , @SignalFire, @BloombergBeta, and @kearnyjackson!\n\nhttps://t.co/LvdpYrImAG",
+        "quotes": 6,
+        "replies": 13,
+        "retweets": 16,
+        "bookmarks": 25,
+        "likes": 99,
+        "id": "1641457340770832385",
+        "author": {
+          "handle": "mdwelsh",
+          "name": "Matt Welsh",
+          "id": "14435433",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1610520643631747079/keh6OagB_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "I think I *might* have done a world’s first. Need to make a demo.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 18,
+      "id": "1640064751773569024",
+      "author": {
+        "handle": "sgrove",
+        "name": "Sean Grove",
+        "id": "14435843",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1631871127177027584/ZniSuIrl_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@sgrove What is an example of a \"world's first\"? Not a category I think in",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1640146121577168898",
+      "author": {
+        "handle": "stevekrouse",
+        "name": "Steve Krouse",
+        "id": "431200836",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/920962798590595074/MHJaRnhd_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1640064751773569024",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "I think I *might* have done a world’s first. Need to make a demo.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 18,
+        "id": "1640064751773569024",
+        "author": {
+          "handle": "sgrove",
+          "name": "Sean Grove",
+          "id": "14435843",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1631871127177027584/ZniSuIrl_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@stevekrouse @sgrove https://t.co/WfgrLSerXe",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1640466112818323459",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1640146121577168898",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@sgrove What is an example of a \"world's first\"? Not a category I think in",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1640146121577168898",
+        "author": {
+          "handle": "stevekrouse",
+          "name": "Steve Krouse",
+          "id": "431200836",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/920962798590595074/MHJaRnhd_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1640064751773569024"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "I have been using ChatGPT to generate examples of code using APIs of libraries I want to use(like Tokio, PyO3, and async_openai), and 95% of the time it generates extremely relevant code. This is amazing, and probably going to take away a lot of traffic from StackOverflow!",
+      "quotes": 0,
+      "replies": 3,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 5,
+      "id": "1640438871753363456",
+      "author": {
+        "handle": "diptanu",
+        "name": "Diptanu Choudhury",
+        "id": "11611512",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1574286686900539392/OcZque7X_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@diptanu No, but the dev workflow seems identical to Cursor. Conversational and diff oriented instead of asking the human to make the edits.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1640464142854389760",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1640459228912685057",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@willpienaar Been following your advice and embracing ChatGPT more and more in my workflow, hoping I get into the copilot x beta program soon! Do you have it already?",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1640459228912685057",
+        "author": {
+          "handle": "diptanu",
+          "name": "Diptanu Choudhury",
+          "id": "11611512",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1574286686900539392/OcZque7X_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1640449054294540288"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "“Better for you if you take me off.” says The Whispering Earring - More prescient than ever as we increase our dependence on AI https://t.co/psTGCETydV",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1640451015425273857",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "🤖If LLMs are the foundation for AI, we have a lot to dev and learn from one another. \n\n🤓I'm thinking of running a little sesh (IRL or virtual) to share ideas, tips/tricks, fav tools, design patterns, an open questions w/AI founders + builders.\n\n👋Interested?",
+      "quotes": 2,
+      "replies": 83,
+      "retweets": 13,
+      "bookmarks": 27,
+      "likes": 267,
+      "id": "1640010720036134917",
+      "author": {
+        "handle": "nathanbenaich",
+        "name": "Nathan Benaich",
+        "id": "422388777",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@nathanbenaich Let's do it.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1640012137253990403",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1640010720036134917",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "🤖If LLMs are the foundation for AI, we have a lot to dev and learn from one another. \n\n🤓I'm thinking of running a little sesh (IRL or virtual) to share ideas, tips/tricks, fav tools, design patterns, an open questions w/AI founders + builders.\n\n👋Interested?",
+        "quotes": 2,
+        "replies": 83,
+        "retweets": 13,
+        "bookmarks": 27,
+        "likes": 267,
+        "id": "1640010720036134917",
+        "author": {
+          "handle": "nathanbenaich",
+          "name": "Nathan Benaich",
+          "id": "422388777",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "World building in @BlockadeLabs is pretty incredible. https://t.co/ze0ZchZHwa",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 5,
+      "bookmarks": 0,
+      "likes": 12,
+      "id": "1639921858077429763",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "where is the LLM-powered app that simplifies GCP / AWS iam roles / permissions\n\ngive it to me now\n\ni will pay $$",
+      "quotes": 2,
+      "replies": 21,
+      "retweets": 11,
+      "bookmarks": 18,
+      "likes": 144,
+      "id": "1637975982417264640",
+      "author": {
+        "handle": "sjwhitmore",
+        "name": "Sam Whitmore",
+        "id": "251757939",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1471143057907060739/hhdUy1In_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@sjwhitmore @jeremylewi built this",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1638152936172953600",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1637975982417264640",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "where is the LLM-powered app that simplifies GCP / AWS iam roles / permissions\n\ngive it to me now\n\ni will pay $$",
+        "quotes": 2,
+        "replies": 21,
+        "retweets": 11,
+        "bookmarks": 18,
+        "likes": 144,
+        "id": "1637975982417264640",
+        "author": {
+          "handle": "sjwhitmore",
+          "name": "Sam Whitmore",
+          "id": "251757939",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1471143057907060739/hhdUy1In_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Is departing from Newark airport ever not stressful?",
+      "quotes": 0,
+      "replies": 6,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 14,
+      "id": "1637548158061355008",
+      "author": {
+        "handle": "sarahcat21",
+        "name": "Sarah Catanzaro",
+        "id": "2539212208",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1333644490532413441/Cu9IvkII_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@adamlaiacano @sarahcat21 I just refuse to fly from Newark unless it's to South Africa (where I don't have a choice)",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1637863154884702208",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1637862941750878224",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@willpienaar @sarahcat21 I always preferred it from midtown. Much easier, cheaper, and lower-variance duration to take NJTransit to EWR than a car to JFK.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1637862941750878224",
+        "author": {
+          "handle": "adamlaiacano",
+          "name": "Adam Laiacano",
+          "id": "208789178",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1470888517429600258/oO5wka16_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1637861929820766209"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "I couldn't resist and had a blast building with LLM APIs today.\n\n`/summarize` returns bullet-point summaries from URLs. It's built on @LangChainAI with @discord as a frontend.\n\nWhile it's nothing as impressive compared to everything else, I haven't had so much fun in a while. 😊 https://t.co/06Y0AsZ9zK",
+      "quotes": 1,
+      "replies": 14,
+      "retweets": 26,
+      "bookmarks": 204,
+      "likes": 302,
+      "id": "1637562031233708032",
+      "author": {
+        "handle": "eugeneyan",
+        "name": "Eugene Yan",
+        "id": "35109534",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1651817216629960706/lw4ZsN8u_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@eugeneyan @LangChainAI @discord This is the way @eugeneyan",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1637568128124329984",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1637562031233708032",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "I couldn't resist and had a blast building with LLM APIs today.\n\n`/summarize` returns bullet-point summaries from URLs. It's built on @LangChainAI with @discord as a frontend.\n\nWhile it's nothing as impressive compared to everything else, I haven't had so much fun in a while. 😊 https://t.co/06Y0AsZ9zK",
+        "quotes": 1,
+        "replies": 14,
+        "retweets": 26,
+        "bookmarks": 204,
+        "likes": 302,
+        "id": "1637562031233708032",
+        "author": {
+          "handle": "eugeneyan",
+          "name": "Eugene Yan",
+          "id": "35109534",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1651817216629960706/lw4ZsN8u_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "The situation with $SIVB is not about a handful of wealthy individuals who bet on risky assets and lost money. In fact I’d argue that those people are barely affected. It’s about thousands of companies not being able to pay tens of thousands of employees.  A🧵",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 16,
+      "id": "1634605789469102081",
+      "author": {
+        "handle": "MathesonZander",
+        "name": "Zander",
+        "id": "1233500481126903810",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1671722403691655169/L1-h0_cL_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@MathesonZander @atShruti @kirbywinfield @chudson @abrams @kentlind @TaylorJHolland @jasoncwarner @emaxerrno @galenward @mistercrunch @anna_fil Crazy times. @bytewax is lucky to have you at the helm @MathesonZander.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 5,
+      "id": "1634628746111229952",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1634605798369427456",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "I’m thankful for the support of friends, teammates, family and investors during this time. @atShruti @kirbywinfield @chudson @abrams @kentlind @TaylorJHolland @jasoncwarner @emaxerrno @galenward @mistercrunch @willpienaar @anna_fil and many more.",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 12,
+        "id": "1634605798369427456",
+        "author": {
+          "handle": "MathesonZander",
+          "name": "Zander",
+          "id": "1233500481126903810",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1671722403691655169/L1-h0_cL_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1634605795936718849"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Some notes Ive taken about model serving - my journey led me to explore ML compilers (most people tend to focus exclusively on inference servers)\n\nhttps://t.co/JOyyVKRLql",
+      "quotes": 2,
+      "replies": 7,
+      "retweets": 34,
+      "bookmarks": 166,
+      "likes": 221,
+      "id": "1624056202060607489",
+      "author": {
+        "handle": "HamelHusain",
+        "name": "Hamel Husain",
+        "id": "825766640",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1287206199088173057/ixE4fKy1_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@willpienaar Tell me more, I haven’t considered that",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1624083038400573440",
+      "author": {
+        "handle": "HamelHusain",
+        "name": "Hamel Husain",
+        "id": "825766640",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1287206199088173057/ixE4fKy1_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1624082319563714560",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@HamelHusain The discussion on graph breaks and the importance of minimizing them is fascinating. Have you considered the relationship between graph breaks and interpretability?",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1624082319563714560",
+        "author": {
+          "handle": "willpienaar",
+          "name": "Willem Pienaar",
+          "id": "2889217594",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1624056202060607489"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@HamelHusain I guess the question is whether interpretability tooling is at all impeded by the existence of graph breaks, or whether they can deal with them seamlessly. I'm actually not sure.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1624084546303021057",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1624083038400573440",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@willpienaar Tell me more, I haven’t considered that",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1624083038400573440",
+        "author": {
+          "handle": "HamelHusain",
+          "name": "Hamel Husain",
+          "id": "825766640",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1287206199088173057/ixE4fKy1_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1624082319563714560"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@HamelHusain The discussion on graph breaks and the importance of minimizing them is fascinating. Have you considered the relationship between graph breaks and interpretability?",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1624082319563714560",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1624056202060607489",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Some notes Ive taken about model serving - my journey led me to explore ML compilers (most people tend to focus exclusively on inference servers)\n\nhttps://t.co/JOyyVKRLql",
+        "quotes": 2,
+        "replies": 7,
+        "retweets": 34,
+        "bookmarks": 166,
+        "likes": 221,
+        "id": "1624056202060607489",
+        "author": {
+          "handle": "HamelHusain",
+          "name": "Hamel Husain",
+          "id": "825766640",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1287206199088173057/ixE4fKy1_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Latency is a huge problem for folks building AI products on LLMs. https://t.co/P07qZm7Frt",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1623467745093328897",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "The amount of calls quickly balloon when using techniques (like DEMONSTRATE–SEARCH–PREDICT) that require multi-hop workflows.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1623468489183793153",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1623467745093328897",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Latency is a huge problem for folks building AI products on LLMs. https://t.co/P07qZm7Frt",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 3,
+        "id": "1623467745093328897",
+        "author": {
+          "handle": "willpienaar",
+          "name": "Willem Pienaar",
+          "id": "2889217594",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Playing around with ChatGPT and other LLMs over the last couple months, I've found myself spending a lot of time copy-pasting content from websites and converting it to plain text.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1621992069852979200",
+      "author": {
+        "handle": "AbeGong",
+        "name": "Abe Gong",
+        "id": "493456371",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/759051280081793029/zK3WK8EL_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@AbeGong @gpt_index https://t.co/bC9HxBfdQ5 https://t.co/XiLWxSOxdC",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1622215944624914436",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1622215759395962880",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@AbeGong How accurate does it need to be for your use case @AbeGong ? Trafilatura seems to be a pretty accurate middle ground, and use Justext. It has also been integrated into @gpt_index.",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1622215759395962880",
+        "author": {
+          "handle": "willpienaar",
+          "name": "Willem Pienaar",
+          "id": "2889217594",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1621992072738750464"
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "It seems like the logical next step is PKI and digital certificates (X.509) for AI generated content, assuming  watermarks can somehow be made durable.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1618590113696735234",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": {
+        "text": "I was very skeptical of GPTZero that claims to detect human vs ChatGPT output. Now I’m more convinced after seeing this LLM watermark algorithm @tomgoldsteincs. If OpenAI deploys something like this, then GPTZero will do a *much* better job.\n\nBrace yourself, high-schoolers!\n\n1/ https://t.co/mS2JDRVAUY",
+        "id": "1618295998249594880"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "We're excited to have @willpienaar, Creator of Feast, speak at #SnowflakeBUILD! Save your seat today:  https://t.co/Q0xVkZodGO https://t.co/88ryV8qRAh",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 2,
+      "bookmarks": 1,
+      "likes": 4,
+      "id": "1590109433643704320",
+      "author": {
+        "handle": "SnowflakeDB",
+        "name": "Snowflake",
+        "id": "2539962439",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1676633027647246337/_3-XUmcR_normal.png"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@SnowflakeDB Excited for #SnowflakeBUILD!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1590144056751181826",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1590109433643704320",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "We're excited to have @willpienaar, Creator of Feast, speak at #SnowflakeBUILD! Save your seat today:  https://t.co/Q0xVkZodGO https://t.co/88ryV8qRAh",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 2,
+        "bookmarks": 1,
+        "likes": 4,
+        "id": "1590109433643704320",
+        "author": {
+          "handle": "SnowflakeDB",
+          "name": "Snowflake",
+          "id": "2539962439",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1676633027647246337/_3-XUmcR_normal.png"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Some people, when confronted with a data problem, think \"I know, I'll use data contracts.\" Now they have twenty problem https://t.co/gY23eY3S5b",
+      "quotes": 0,
+      "replies": 12,
+      "retweets": 8,
+      "bookmarks": 53,
+      "likes": 149,
+      "id": "1588588905741574146",
+      "author": {
+        "handle": "pdrmnvd",
+        "name": "pedram🐤",
+        "id": "1210587926825852930",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1633149665914003456/9UnrgDyV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@pdrmnvd so data contracts are the new micro services",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1588589930011250688",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1588588905741574146",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Some people, when confronted with a data problem, think \"I know, I'll use data contracts.\" Now they have twenty problem https://t.co/gY23eY3S5b",
+        "quotes": 0,
+        "replies": 12,
+        "retweets": 8,
+        "bookmarks": 53,
+        "likes": 149,
+        "id": "1588588905741574146",
+        "author": {
+          "handle": "pdrmnvd",
+          "name": "pedram🐤",
+          "id": "1210587926825852930",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1633149665914003456/9UnrgDyV_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "My 2021 interview with @willpienaar on his work on @feast_dev, the open source feature store from @TectonAI https://t.co/E2d5PNzGz5",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 4,
+      "id": "1546931106640953344",
+      "author": {
+        "handle": "tdhopper",
+        "name": "Tim Hopper",
+        "id": "89249164",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1416494918172819466/bS_ikmlL_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@tdhopper @feast_dev @TectonAI 👋",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1546993509814702082",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1546931106640953344",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "My 2021 interview with @willpienaar on his work on @feast_dev, the open source feature store from @TectonAI https://t.co/E2d5PNzGz5",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 1,
+        "bookmarks": 0,
+        "likes": 4,
+        "id": "1546931106640953344",
+        "author": {
+          "handle": "tdhopper",
+          "name": "Tim Hopper",
+          "id": "89249164",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1416494918172819466/bS_ikmlL_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "What is the most pedantic thing you can't help but care about?",
+      "quotes": 0,
+      "replies": 18,
+      "retweets": 0,
+      "bookmarks": 1,
+      "likes": 9,
+      "id": "1529333250572767232",
+      "author": {
+        "handle": "pdrmnvd",
+        "name": "pedram🐤",
+        "id": "1210587926825852930",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1633149665914003456/9UnrgDyV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@pedram_navid When people say \"it begs the question\" thinking it means \"it raises the question\".",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1529471657185787906",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1529333250572767232",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "What is the most pedantic thing you can't help but care about?",
+        "quotes": 0,
+        "replies": 18,
+        "retweets": 0,
+        "bookmarks": 1,
+        "likes": 9,
+        "id": "1529333250572767232",
+        "author": {
+          "handle": "pdrmnvd",
+          "name": "pedram🐤",
+          "id": "1210587926825852930",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1633149665914003456/9UnrgDyV_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "I'd like to thank the nameless faceless data scientist at @Spotify that finally removed me from the control group of their recommendation system.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1523433084167008256",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Asking \"what problem are we trying to solve here\" any time anyone asks me to do something I don't want to do.",
+      "quotes": 4,
+      "replies": 13,
+      "retweets": 22,
+      "bookmarks": 12,
+      "likes": 280,
+      "id": "1508248007535259653",
+      "author": {
+        "handle": "pdrmnvd",
+        "name": "pedram🐤",
+        "id": "1210587926825852930",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1633149665914003456/9UnrgDyV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@pedram_navid So…. does anyone have bandwidth to pick this up?\n\n* looks around room *",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1508257325034913792",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1508254433431367682",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@willpienaar and by we, i definitely mean not me.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 2,
+        "id": "1508254433431367682",
+        "author": {
+          "handle": "pdrmnvd",
+          "name": "pedram🐤",
+          "id": "1210587926825852930",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1633149665914003456/9UnrgDyV_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1508253901732077568"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "whatever hot takes will come, data council was a good event with wonderful people. smart, kind, funny, earnest, and caring folks that love data and the community and are all doing their best. this is just a moment and we're all working to make it all better 💟",
+      "quotes": 0,
+      "replies": 5,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 64,
+      "id": "1507250119892160543",
+      "author": {
+        "handle": "tayloramurphy",
+        "name": "Databae",
+        "id": "275673898",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1591188883659792384/NAsk4qTK_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "and having some fun along the way",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1507250121888567299",
+      "author": {
+        "handle": "tayloramurphy",
+        "name": "Databae",
+        "id": "275673898",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1591188883659792384/NAsk4qTK_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1507250119892160543",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "whatever hot takes will come, data council was a good event with wonderful people. smart, kind, funny, earnest, and caring folks that love data and the community and are all doing their best. this is just a moment and we're all working to make it all better 💟",
+        "quotes": 0,
+        "replies": 5,
+        "retweets": 1,
+        "bookmarks": 0,
+        "likes": 64,
+        "id": "1507250119892160543",
+        "author": {
+          "handle": "tayloramurphy",
+          "name": "Databae",
+          "id": "275673898",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1591188883659792384/NAsk4qTK_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@tayloramurphy Couldn't agree more. We'll look back longingly at this conference one day and recognize it as a truly anomalous event.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1507276367716573185",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1507250121888567299",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "and having some fun along the way",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 3,
+        "id": "1507250121888567299",
+        "author": {
+          "handle": "tayloramurphy",
+          "name": "Databae",
+          "id": "275673898",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1591188883659792384/NAsk4qTK_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1507250119892160543"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Anybody have a best practices guide on decoupling data loading, preprocessing, the model, the training loop, and serving? Specifically, for pytorch models, and ideally huggingface (so don't come at me with TFX)",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 2,
+      "likes": 5,
+      "id": "1481642578059542540",
+      "author": {
+        "handle": "eprosenthal",
+        "name": "Ethan Rosenthal",
+        "id": "2467685286",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1026608236378681349/VbVATcom_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@eprosenthal @eprosenthal depending on the type of data loading and preprocessing, some of this logic can be upstreamed into a feature store. Do you have a PyTorch repo that I can update to illustrate?",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1481653750343159810",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1481642592064323591",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "Back to the original question, I feel like all of this _can_ be solvable for a specific model, but I'd love to see some generic best practices (e.g. \"Datasets should preprocess but be agnostic of the data source, so you should pass in a function to load the data in __init__()\")",
+        "quotes": 0,
+        "replies": 3,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1481642592064323591",
+        "author": {
+          "handle": "eprosenthal",
+          "name": "Ethan Rosenthal",
+          "id": "2467685286",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1026608236378681349/VbVATcom_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1481642589665169416"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "What are some 🚩red flags🚩to look out for when considering whether to join a data / tech team?",
+      "quotes": 8,
+      "replies": 53,
+      "retweets": 57,
+      "bookmarks": 145,
+      "likes": 299,
+      "id": "1481072938505834497",
+      "author": {
+        "handle": "eugeneyan",
+        "name": "Eugene Yan",
+        "id": "35109534",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1651817216629960706/lw4ZsN8u_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@eugeneyan High churn.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 14,
+      "id": "1481076919097430016",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1481072938505834497",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "What are some 🚩red flags🚩to look out for when considering whether to join a data / tech team?",
+        "quotes": 8,
+        "replies": 53,
+        "retweets": 57,
+        "bookmarks": 145,
+        "likes": 299,
+        "id": "1481072938505834497",
+        "author": {
+          "handle": "eugeneyan",
+          "name": "Eugene Yan",
+          "id": "35109534",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1651817216629960706/lw4ZsN8u_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "I’ve noticed one of the top reasons smart people get really upset/frustrated is they don’t understand the “rules of the game” they are playing. They think other people are irrational or that way the whole thing is rigged or something.",
+      "quotes": 3,
+      "replies": 11,
+      "retweets": 7,
+      "bookmarks": 17,
+      "likes": 85,
+      "id": "1480383031475154944",
+      "author": {
+        "handle": "bernhardsson",
+        "name": "Erik Bernhardsson",
+        "id": "1191207924",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1245012019557871617/hk-YIKm1_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@bernhardsson I think it’s even simpler: They don’t even know a game is being played, let alone what the rules are.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1480574897713606657",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1480383031475154944",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "I’ve noticed one of the top reasons smart people get really upset/frustrated is they don’t understand the “rules of the game” they are playing. They think other people are irrational or that way the whole thing is rigged or something.",
+        "quotes": 3,
+        "replies": 11,
+        "retweets": 7,
+        "bookmarks": 17,
+        "likes": 85,
+        "id": "1480383031475154944",
+        "author": {
+          "handle": "bernhardsson",
+          "name": "Erik Bernhardsson",
+          "id": "1191207924",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1245012019557871617/hk-YIKm1_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "With @raydistributed project is becoming ubiquitous for ML and running parallel and distributed Python jobs, it can replace the need for hack or workaround projects in Python, like Dask",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1479154312651493377",
+      "author": {
+        "handle": "Kingwulf",
+        "name": "Henry Saputra",
+        "id": "16954778",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/767645057558077440/9CY35Tal_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@Kingwulf @raydistributed If Ray provided first class streaming support it would explode in adoption",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1479344114554470400",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1479154312651493377",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "With @raydistributed project is becoming ubiquitous for ML and running parallel and distributed Python jobs, it can replace the need for hack or workaround projects in Python, like Dask",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1479154312651493377",
+        "author": {
+          "handle": "Kingwulf",
+          "name": "Henry Saputra",
+          "id": "16954778",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/767645057558077440/9CY35Tal_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "When Superman eats food with something hard in the middle (a bone, an olive pit, etc), he probably just chews through it like it's nothing.",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 1,
+      "bookmarks": 1,
+      "likes": 5,
+      "id": "1479210129002143746",
+      "author": {
+        "handle": "aronchick",
+        "name": "David Aronchick",
+        "id": "15024407",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/555160425537355776/mOofSPqG_normal.jpeg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@aronchick Well he can eat a pocket knife like it’s nothing https://t.co/o1NyVpuWNx",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1479340632199946243",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1479210129002143746",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "When Superman eats food with something hard in the middle (a bone, an olive pit, etc), he probably just chews through it like it's nothing.",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 1,
+        "bookmarks": 1,
+        "likes": 5,
+        "id": "1479210129002143746",
+        "author": {
+          "handle": "aronchick",
+          "name": "David Aronchick",
+          "id": "15024407",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/555160425537355776/mOofSPqG_normal.jpeg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Has anyone adopted an enterprise search solution that makes it easy to search across Google Drive, Slack, JIRA, Confluence and GitHub? Looking for recommendations.",
+      "quotes": 0,
+      "replies": 11,
+      "retweets": 3,
+      "bookmarks": 6,
+      "likes": 19,
+      "id": "1478708975768006659",
+      "author": {
+        "handle": "jeremylewi",
+        "name": "Jeremy Lewi",
+        "id": "27740668",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1389905940/me2_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@HamelHusain @simonw @jeremylewi @WillingCarol @datasetteproj @simonw have you tried out @litestreamio at all? I wonder if the stack you mentioned above could be kept relatively fresh through frequently running GitHub Actions + Litestream.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 1,
+      "likes": 1,
+      "id": "1478794322589847552",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1478778958023839745",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@simonw @jeremylewi @WillingCarol @datasetteproj Great idea would love this.\n \nRight now I search your TILs, blog etc separately",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1478778958023839745",
+        "author": {
+          "handle": "HamelHusain",
+          "name": "Hamel Husain",
+          "id": "825766640",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1287206199088173057/ixE4fKy1_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1478778694088888321"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Impressive read/write latency improvements in this analysis of caching policies for feature stores.\n\nFrom \"Automated Cache Hierarchy for Feature Stores\" (link below) https://t.co/Gb7qRqzKk2",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 1,
+      "bookmarks": 1,
+      "likes": 5,
+      "id": "1478452485836599298",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "https://t.co/sQemeDqCtE",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1478452530891804679",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1478452485836599298",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Impressive read/write latency improvements in this analysis of caching policies for feature stores.\n\nFrom \"Automated Cache Hierarchy for Feature Stores\" (link below) https://t.co/Gb7qRqzKk2",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 1,
+        "bookmarks": 1,
+        "likes": 5,
+        "id": "1478452485836599298",
+        "author": {
+          "handle": "willpienaar",
+          "name": "Willem Pienaar",
+          "id": "2889217594",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Great question from the @LocalOptimistic slack - how do you stay technical as a manager? Does it matter?\n\nMy answer - I constantly worry about not being technical enough\n\nAn unorganized thread for my unorganized system.",
+      "quotes": 4,
+      "replies": 3,
+      "retweets": 10,
+      "bookmarks": 49,
+      "likes": 113,
+      "id": "1478165513477902343",
+      "author": {
+        "handle": "teej_m",
+        "name": "// teej //",
+        "id": "17101063",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1407521867339075585/VHHZl6A0_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@eugeneyan @vboykis @teej_m I'm also curious.\n\nI've entered a few small groups (5-8 people) where we exchange ideas and learnings, but the members focus on the same domain. That leads to depth in learning, not breadth. It seems like the difference in the above mentorship is that it's 1:1 and spans domains.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1478240294332100610",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1478225969517240320",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@vboykis @teej_m This is new to me and I'm intrigued. Would either of you be able to share some pointers on how you got started please?",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 3,
+        "id": "1478225969517240320",
+        "author": {
+          "handle": "eugeneyan",
+          "name": "Eugene Yan",
+          "id": "35109534",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1651817216629960706/lw4ZsN8u_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1478168396458082306"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @chipro: After my post on real-time machine learning last year, many people asked me how to do it.\n\nThis post discusses the challenges +…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 413,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1477876059357921282",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "After my post on real-time machine learning last year, many people asked me how to do it.\n\nThis post discusses the challenges + solutions for online prediction, online evaluation, and continual learning, with use cases and examples.\n\nFeedback appreciated!\n\nhttps://t.co/lywDVpYnUD",
+      "quotes": 26,
+      "replies": 38,
+      "retweets": 413,
+      "bookmarks": 793,
+      "likes": 1866,
+      "id": "1477812589484658689",
+      "author": {
+        "handle": "chipro",
+        "name": "Chip Huyen",
+        "id": "15278016",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1207515454987632640/W_7nccBB_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@chipro Very well written @chipro!\n\nAs @jayparth_ said, most ML teams see feature stores as the solution to real-time feature computation and serving. @TectonAI supports most classes of streaming computation today, and we're actively working on a streaming compute engine for @feast_dev.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1477873917024882689",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1477812589484658689",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "After my post on real-time machine learning last year, many people asked me how to do it.\n\nThis post discusses the challenges + solutions for online prediction, online evaluation, and continual learning, with use cases and examples.\n\nFeedback appreciated!\n\nhttps://t.co/lywDVpYnUD",
+        "quotes": 26,
+        "replies": 38,
+        "retweets": 413,
+        "bookmarks": 793,
+        "likes": 1866,
+        "id": "1477812589484658689",
+        "author": {
+          "handle": "chipro",
+          "name": "Chip Huyen",
+          "id": "15278016",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1207515454987632640/W_7nccBB_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@chipro @jayparth_ @TectonAI @feast_dev In terms of log-and-wait: It's simple to implement and many teams have had success with it. The key downside is the inability to compute/backfill new features for model training.\n\nHave you seen teams rely on log-and-wait if they aren't serving very large amounts of traffic?",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1477875709238341633",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1477873917024882689",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@chipro Very well written @chipro!\n\nAs @jayparth_ said, most ML teams see feature stores as the solution to real-time feature computation and serving. @TectonAI supports most classes of streaming computation today, and we're actively working on a streaming compute engine for @feast_dev.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 2,
+        "id": "1477873917024882689",
+        "author": {
+          "handle": "willpienaar",
+          "name": "Willem Pienaar",
+          "id": "2889217594",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1477812589484658689"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Building a feature store on AWS? Check out this post  on running Feast on AWS with S3, Redshift, and DynamoDB https://t.co/zk4ZjoNaWV",
+      "quotes": 1,
+      "replies": 0,
+      "retweets": 2,
+      "bookmarks": 2,
+      "likes": 8,
+      "id": "1445406336452374544",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @feast_dev: How to use #Feast #FeatureStore and @GoogleCloudTech to design  an ML data stack for fraud prediction  \nhttps://t.co/djR3DLJ…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 14,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1435671336320266240",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "Awesome to see the work @Randxie29's team has done at @RobinhoodApp to run and extend @feast_dev!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1425530531739930631",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": {
+        "text": ".@RobinhoodApp's Rand) Xie explains in technical details how &amp; why they use @feast_dev in their production at @applyConf #MLOps #MachineLearning https://t.co/XVDkRcJjHN",
+        "id": "1425502318376591363"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @2twitme: Make a difference, make changes you want in @feast_dev. Let us know! cc: @TectonAI https://t.co/I5kBrK9OId",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1417527886047682560",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "Let us know what you'd like to us to build next for Feast by completing this 5 minute survey!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1415045208950018050",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": {
+        "text": "[ANNOUNCEMENT] We are conducting a Feast Community Survey to gather what you want to see next in Feast. Please help us shape the future features in #Feast Feature Store. \nhttps://t.co/XdZkjYZ5zk",
+        "id": "1415035472984698880"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @realDanFu: This Thursday, @willpienaar (@TectonAI) will be talking to us about bridging data and models with feature stores. As always,…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 2,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1409891865428561923",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @TectonAI: 🎉 Introducing Feast 0.11 including Redis support and Feature Inferencing! Learn more: https://t.co/wdGtq6nhr2\n\n#MLOps #ML #Fe…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 3,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1408495657363464197",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "Great stuff @GokuMohandas",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 1,
+      "likes": 3,
+      "id": "1404695705176797188",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": {
+        "text": "New @madewithml lessons on Pipelines &amp; Feature Stores to connect DataOps &amp; MLOps workflows in our machine learning systems:\n\n- Orchestration w/ @ApacheAirflow (DAGs, Tasks, Runs): https://t.co/TjN5No1mCa\n\n- Feature stores w/ @feast_dev (historical/online): https://t.co/l9lqdJeePX https://t.co/NGnR4MXrcj",
+        "id": "1404411799504519176"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "I am considering to give Feast a try for a hobby project. Although the framework seems to be rather immature still, it appears to be very easy to use. If you have used Feast or a similar feature store before, then I would be happy to hear your thoughts!\n\nhttps://t.co/pl1y5RY5xI",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 10,
+      "id": "1400369374205198338",
+      "author": {
+        "handle": "JanVanHaaren",
+        "name": "Jan Van Haaren",
+        "id": "44340841",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1104443812670246918/LZRRJ_-X_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@JanVanHaaren Happy to answer any questions you might have @JanVanHaaren!",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1400681266396151809",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1400369374205198338",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "I am considering to give Feast a try for a hobby project. Although the framework seems to be rather immature still, it appears to be very easy to use. If you have used Feast or a similar feature store before, then I would be happy to hear your thoughts!\n\nhttps://t.co/pl1y5RY5xI",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 10,
+        "id": "1400369374205198338",
+        "author": {
+          "handle": "JanVanHaaren",
+          "name": "Jan Van Haaren",
+          "id": "44340841",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1104443812670246918/LZRRJ_-X_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @TectonAI: @willpienaar and @Dpbrinkm are at it again for the Feast Podcast. This episode @JoostRothweiler explains how his team at @Ady…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1392179207959052288",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "I'll be presenting the new @feast_dev 0.10 at  https://t.co/ElyE7wedQT. Check it out!\n\n#ml #mlops #data https://t.co/UWyNqZOaon",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 2,
+      "bookmarks": 0,
+      "likes": 5,
+      "id": "1384897576479215616",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "David is brilliant, and this looks ultimately exciting and intriguing.  Also free registration 😊",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 9,
+      "id": "1384705089177149442",
+      "author": {
+        "handle": "lenadroid",
+        "name": "Lena Hall 🇺🇦",
+        "id": "1017428432",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1581460196576350208/2zIMLoyl_normal.jpg"
+      },
+      "quoted": {
+        "text": "Hey everyone! I’m going to be hinting at an ENTIRELY NEW OSS project this coming Thursday during a lightning talk - get in on the ground floor :)  Registration is free! https://t.co/lNBpGrOWml\n#applyconf #MLOps #machinelearning https://t.co/ggkjHvx7uZ",
+        "id": "1384656890794291201"
+      },
+      "quoteDeleted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@aronchick @lenadroid Think of it as a quick meetup with friends. Thousands of friends.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1384721043776892934",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1384715459782615041",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@lenadroid Aahhhh too much pressure!",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1384715459782615041",
+        "author": {
+          "handle": "aronchick",
+          "name": "David Aronchick",
+          "id": "15024407",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/555160425537355776/mOofSPqG_normal.jpeg"
+        },
+        "quoted": false,
+        "replyToId": "1384709534237618178"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @TechCrunch: Tecton teams with founder of Feast open source machine learning feature store https://t.co/wz2q3UQctq by @ron_miller",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 5,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1382880767009648641",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @TectonAI: 📰Tecton CEO @mikedelbalso and @feast_dev creator @willpienaar sat down with @TechCrunch to discuss the future of Feature Stor…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 2,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1382761009945841664",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Just shipped Feast 0.10. This is a big one for us!\n\nCheck out the launch post over here:  https://t.co/05fveE9M3y\n\n#FeatureStore #MLOps #ML",
+      "quotes": 2,
+      "replies": 0,
+      "retweets": 7,
+      "bookmarks": 1,
+      "likes": 26,
+      "id": "1382732154992353280",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "Feature stores (with cameos from @feast_dev and @TectonAI) have made it into the ThoughtWorks Radar!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1382012812143206400",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": {
+        "text": "We've published our latest sweep of technologies - ThoughtWorks Radar vol 24\n\nhttps://t.co/7NRkjvT9zg",
+        "id": "1381955945060831235"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Been hit with several PRs on fastai where people are attempting to hijack our CI for bitcoin mining\n\nHow are other maintainers dealing with this?\n\nhttps://t.co/7Zxgim6Kmh\nhttps://t.co/J0iCeIBzY5\nhttps://t.co/Nw8Titi8fO",
+      "quotes": 1,
+      "replies": 5,
+      "retweets": 6,
+      "bookmarks": 7,
+      "likes": 19,
+      "id": "1380032702661808128",
+      "author": {
+        "handle": "HamelHusain",
+        "name": "Hamel Husain",
+        "id": "825766640",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1287206199088173057/ixE4fKy1_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@HamelHusain We are using ok-to-test labels with “pull_request_target”. See https://t.co/LK5zj26JRQ",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1380070884212310018",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1380032702661808128",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Been hit with several PRs on fastai where people are attempting to hijack our CI for bitcoin mining\n\nHow are other maintainers dealing with this?\n\nhttps://t.co/7Zxgim6Kmh\nhttps://t.co/J0iCeIBzY5\nhttps://t.co/Nw8Titi8fO",
+        "quotes": 1,
+        "replies": 5,
+        "retweets": 6,
+        "bookmarks": 7,
+        "likes": 19,
+        "id": "1380032702661808128",
+        "author": {
+          "handle": "HamelHusain",
+          "name": "Hamel Husain",
+          "id": "825766640",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1287206199088173057/ixE4fKy1_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @TectonAI: 🔥 Announcing the amazing lineup of speakers for #ApplyConf. 40 ML practitioners from companies like Google, DoorDash, Microso…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 9,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1377333417977651203",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "A company I would love if it existed is a better domain name marketplace. Imagine if you offer something like ibuying (instant offers) for sellers and flexible financing (rent to own etc) for buyers.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 1,
+      "likes": 13,
+      "id": "1376559655577645063",
+      "author": {
+        "handle": "bernhardsson",
+        "name": "Erik Bernhardsson",
+        "id": "1191207924",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1245012019557871617/hk-YIKm1_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@fulhack And have multiple individual owners of a single domain",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1376633374941405190",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1376559655577645063",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "A company I would love if it existed is a better domain name marketplace. Imagine if you offer something like ibuying (instant offers) for sellers and flexible financing (rent to own etc) for buyers.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 1,
+        "likes": 13,
+        "id": "1376559655577645063",
+        "author": {
+          "handle": "bernhardsson",
+          "name": "Erik Bernhardsson",
+          "id": "1191207924",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1245012019557871617/hk-YIKm1_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "You can get events to Cloud Run services with:\n\n1- Eventarc AuditLog trigger\n2- Eventarc Pub/Sub trigger \n3- Pub/Sub direct. \n\nHow do you decide which one to use? Check out my article:\n\nhttps://t.co/TiLwp5JISS",
+      "quotes": 3,
+      "replies": 1,
+      "retweets": 7,
+      "bookmarks": 3,
+      "likes": 33,
+      "id": "1370306590029529093",
+      "author": {
+        "handle": "meteatamel",
+        "name": "Mete Atamel",
+        "id": "75778654",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1103216597232222209/YyYjS3qI_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@meteatamel Looking forward to it. I think it will be a major unlock for Cloud Run.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1373646369865363459",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1373529323739750408",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@willpienaar No. Eventarc only supports Google Cloud event sources right now. However, 3rd party sources are on the roadmap.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1373529323739750408",
+        "author": {
+          "handle": "meteatamel",
+          "name": "Mete Atamel",
+          "id": "75778654",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1103216597232222209/YyYjS3qI_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1373302968288563200"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "@github The new Discussions feature is pretty neat, but is there a reason why discussions aren't indexed by search engines? cc @tweetsbyevi",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1369789067341094914",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "this weekend i read about feature stores to better understand (1) what they are and (2) how they can be a valuable part of the ML stack\n\ni've learned that feature stores help standardize the interface between models and data. this standardization is valuable in many dimensions 👇",
+      "quotes": 1,
+      "replies": 2,
+      "retweets": 10,
+      "bookmarks": 29,
+      "likes": 88,
+      "id": "1368764447829950464",
+      "author": {
+        "handle": "jeremyjordan",
+        "name": "Jeremy Jordan",
+        "id": "72131969",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/955654637507436544/k0Bh9OUt_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@adamlaiacano @jeremyjordan I think it's ultimately unavoidable if the feature store is the layer between models and data. If a goal is to commoditize model serving then the model or the feature store should have at least some request-time transformations.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1368995969526681601",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1368777465062162434",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@jeremyjordan Some things like Zipline (and I think Tecton?) put aggregations right into the feature store. It’s clever but I am sure it can and will be pushed to the max by MLEs.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 2,
+        "id": "1368777465062162434",
+        "author": {
+          "handle": "adamlaiacano",
+          "name": "Adam Laiacano",
+          "id": "208789178",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1470888517429600258/oO5wka16_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1368772234010128387"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "- how do you experiment with the addition of new features? do you populate a \"research\" namespace which is only used for offline (non-production) exploration?",
+      "quotes": 0,
+      "replies": 4,
+      "retweets": 0,
+      "bookmarks": 1,
+      "likes": 2,
+      "id": "1368764459288834048",
+      "author": {
+        "handle": "jeremyjordan",
+        "name": "Jeremy Jordan",
+        "id": "72131969",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/955654637507436544/k0Bh9OUt_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1368764457715924994",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "i'm excited to dig deeper into this topic! some questions i still have:\n\n- do you populate feature stores with only \"raw\" features and leave derived features (e.g. interaction terms) for post-processing before model predictions? https://t.co/qT8dxEhPHU",
+        "quotes": 0,
+        "replies": 5,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 3,
+        "id": "1368764457715924994",
+        "author": {
+          "handle": "jeremyjordan",
+          "name": "Jeremy Jordan",
+          "id": "72131969",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/955654637507436544/k0Bh9OUt_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1368764455019024387"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@jeremyjordan I've seen teams use a \"sandbox\" project/namespace for general purpose development. Other teams create dedicated dev namespaces per project. We're working on new functionality for Feast where experimentation doesn't require a namespace to be registered at all (local only).",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1368995131974590467",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1368764459288834048",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "- how do you experiment with the addition of new features? do you populate a \"research\" namespace which is only used for offline (non-production) exploration?",
+        "quotes": 0,
+        "replies": 4,
+        "retweets": 0,
+        "bookmarks": 1,
+        "likes": 2,
+        "id": "1368764459288834048",
+        "author": {
+          "handle": "jeremyjordan",
+          "name": "Jeremy Jordan",
+          "id": "72131969",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/955654637507436544/k0Bh9OUt_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1368764457715924994"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@jeremyjordan In general we encourage teams to pre-compute (derive) features as much as is possible. Of course this wont work in all cases. Storage costs can balloon for certain kinds of feature computations, and some features depend on request-level inputs.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1368994473510768640",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1368764457715924994",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "i'm excited to dig deeper into this topic! some questions i still have:\n\n- do you populate feature stores with only \"raw\" features and leave derived features (e.g. interaction terms) for post-processing before model predictions? https://t.co/qT8dxEhPHU",
+        "quotes": 0,
+        "replies": 5,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 3,
+        "id": "1368764457715924994",
+        "author": {
+          "handle": "jeremyjordan",
+          "name": "Jeremy Jordan",
+          "id": "72131969",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/955654637507436544/k0Bh9OUt_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1368764455019024387"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @TectonAI: @willpienaar continues getting featured on incredible podcasts to talk about feature stores. This time he spoke with the grea…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 2,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1362218919402950658",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @aronchick: Yooooooooooooo ... I'll be talking with @dpbrinkm on February 3 for the @mlopscommunity meetup with @willpienaar (co-creator…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1353906404113879042",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @TectonAI: Tecton's own @willpienaar sat down with @adamlaiacano  and @tdhopper to talk about #Feast and the current state of feature st…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 2,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1352295745840300033",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @TectonAI: Big news for Feast and Tecton today! @willpienaar joins the Tecton team, and Tecton becomes Fest core contributor.\n\nWhy? Make…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 7,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1328861886989778945",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "Entering the @linuxfoundation is major milestone for @feast_dev as more teams adopt and contribute to the project.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1326213382903492608",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": {
+        "text": "@feast_dev joins @LFAIDataFdn as an Incubation Project via @gojektech and @googlecloud. Feast (Feature Store) is a tool for operationalizing features for machine learning. Learn more: https://t.co/Hv5cIgpSmy #LFAIDataFdn #FEAST #AI #ML #MLOps @linuxfoundation https://t.co/kjfHrhrTnp",
+        "id": "1326205498740404231"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "The 2020 US election is just like cricket. In the GA test match, rural areas batted first, and the urban vote now needs 8k votes in 11k ballots to win. Votes per ballot required: 0.6 Biden batting 0.7. will he make it, or will the supreme court rule him out? https://t.co/ttNOT3sbXO",
+      "quotes": 2,
+      "replies": 8,
+      "retweets": 2,
+      "bookmarks": 1,
+      "likes": 58,
+      "id": "1324547686276632576",
+      "author": {
+        "handle": "lak_luster",
+        "name": "lak lakshmanan",
+        "id": "3044303442",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1384025772633903108/MX2L2Z0p_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@lak_gcp Well I hope we can come to a conclusion within 5 days like a test match.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1324709002052210689",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1324547686276632576",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "The 2020 US election is just like cricket. In the GA test match, rural areas batted first, and the urban vote now needs 8k votes in 11k ballots to win. Votes per ballot required: 0.6 Biden batting 0.7. will he make it, or will the supreme court rule him out? https://t.co/ttNOT3sbXO",
+        "quotes": 2,
+        "replies": 8,
+        "retweets": 2,
+        "bookmarks": 1,
+        "likes": 58,
+        "id": "1324547686276632576",
+        "author": {
+          "handle": "lak_luster",
+          "name": "lak lakshmanan",
+          "id": "3044303442",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1384025772633903108/MX2L2Z0p_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @feast_dev: Big things are happening with Feast! https://t.co/IHFVcgwYei",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 2,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1321849169355497473",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "Just co-authored this post with @mikedelbalso on feature stores. Hope it helps to clear things up a bit!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 1,
+      "likes": 8,
+      "id": "1318951330723946496",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": {
+        "text": "What is a feature store? @willpienaar, creator of the Feast feature store, and @mikedelbalso share their common definition of feature stores in this co-authored blog post.\n\nhttps://t.co/u1BJyOEwU7\n\n#featurestore #mlops #MachineLearing",
+        "id": "1318938008679165952"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @mlopscommunity: Most underrated part about getting models into prod? @DavidSHershey broke it down for us real nice and slow. TL;DR - fe…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 4,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1311973597766770690",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "I'll be speaking at Spark + AI Summit 2020 on scaling ML &amp; data using Feast, our open source feature store. Catch the talk on 06/25 https://t.co/c7HohqFhst #spark #ai #featurestore",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1275298790543462400",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @gojektech: 'Turing’ is our solution to simplify online testing and evaluation of ML models.\n\nIt’s the last stage of our ML lifecycle th…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 24,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1269176060953759744",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @emmy_ft: 5 axioms of a strong community: \n👍transparent, open communication\n👍 Good docs\n👍 Innovate\n👍 Recruit\n👍 Spend time on building re…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1235892887847489541",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "We're proud and excited to announce a major milestone for our project: Kubeflow's 1.0 release!\n\nhttps://t.co/bvMncVS4fH\n\nThank you to the countless organizations, contributors and users who helped us bring efficient #machinelearning tooling to Kubernetes.",
+      "quotes": 36,
+      "replies": 8,
+      "retweets": 200,
+      "bookmarks": 14,
+      "likes": 345,
+      "id": "1234511295686168577",
+      "author": {
+        "handle": "kubeflow",
+        "name": "Kubeflow",
+        "id": "921374026781556736",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1004828537545584640/EE9PAsVm_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@kubeflow Congrats to @jeremylewi @texasmichelle @aronchick and the rest of the community!",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1234628725842382853",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1234511295686168577",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "We're proud and excited to announce a major milestone for our project: Kubeflow's 1.0 release!\n\nhttps://t.co/bvMncVS4fH\n\nThank you to the countless organizations, contributors and users who helped us bring efficient #machinelearning tooling to Kubernetes.",
+        "quotes": 36,
+        "replies": 8,
+        "retweets": 200,
+        "bookmarks": 14,
+        "likes": 345,
+        "id": "1234511295686168577",
+        "author": {
+          "handle": "kubeflow",
+          "name": "Kubeflow",
+          "id": "921374026781556736",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1004828537545584640/EE9PAsVm_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "Excited to share our progress on Feast, our open source feature store!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 1,
+      "likes": 1,
+      "id": "1227146067923238918",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": {
+        "text": "At the core of most modern #MachineLearning systems sit features. It's no different for us.\n\nHere's @fleetingcurios' breakdown of Feast — @gojektech's open-source feature store that helps us solve feature management and serving. \n\nDig in!✌️\nhttps://t.co/4qbB9J08uQ",
+        "id": "1227091616252354560"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @AxSaucedo: Feature Stores for ML: Duplicated work in data science scales fast. Feature stores have potential for re-usability. This sit…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 4,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1222152466768093184",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "One of the most widely adopted tools we built in the data science platform team.",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 1,
+      "bookmarks": 1,
+      "likes": 8,
+      "id": "1214638867317264384",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": {
+        "text": "Data pipelines are a vital part of any #DataScience platform, but dealing with scheduling and automation takes the fun out of things. 🙇‍♂️\n\nSo we built Clockwork, which adds additional features to AirBnb #Airflow for ease of use. @fleetingcurios explains.👌\nhttps://t.co/UbpqO77yWq",
+        "id": "1214405278893932544"
+      },
+      "quoteDeleted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@willpienaar It looks great, we do something similar with AirFlow in @hopsworks, but not yet as advanced as Clockwork. Any plans to open-source it?",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1214640232051695616",
+      "author": {
+        "handle": "jim_dowling",
+        "name": "Jim Dowling",
+        "id": "470330975",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/864786743039598592/ApGjyFAZ_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1214638867317264384",
+      "replyTo": {
+        "type": "QUOTE",
+        "text": "One of the most widely adopted tools we built in the data science platform team.",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 1,
+        "bookmarks": 1,
+        "likes": 8,
+        "id": "1214638867317264384",
+        "author": {
+          "handle": "willpienaar",
+          "name": "Willem Pienaar",
+          "id": "2889217594",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+        },
+        "quoted": {
+          "text": "Data pipelines are a vital part of any #DataScience platform, but dealing with scheduling and automation takes the fun out of things. 🙇‍♂️\n\nSo we built Clockwork, which adds additional features to AirBnb #Airflow for ease of use. @fleetingcurios explains.👌\nhttps://t.co/UbpqO77yWq",
+          "id": "1214405278893932544"
+        },
+        "quoteDeleted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@jim_dowling @hopsworks Would love to open source it, but we have no plans to do so yet. Hopefully something we can pick up later in the year.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1214872736872321025",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1214640232051695616",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@willpienaar It looks great, we do something similar with AirFlow in @hopsworks, but not yet as advanced as Clockwork. Any plans to open-source it?",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1214640232051695616",
+        "author": {
+          "handle": "jim_dowling",
+          "name": "Jim Dowling",
+          "id": "470330975",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/864786743039598592/ApGjyFAZ_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1214638867317264384"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @gojektech: Training a #MachineLearning model is one part of the process. What comes after? \n\nIn this post, @fleetingcurios explains how…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 10,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1214639051753439233",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@crystalwidjaja @akothari @ivanhzhao @NotionHQ Damn, just saw this! Next time...",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1209215643054039040",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1208628411813384192",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@akothari @ivanhzhao @NotionHQ @willpienaar",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1208628411813384192",
+        "author": {
+          "handle": "crystalwidjaja",
+          "name": "crystal widjaja",
+          "id": "1113448671473856513",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1570757860233187330/-QR2iSf__normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1208611522349416454"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @gojektech: The @gojektech SuperApp relies on #DataScience to optimise our initiatives, so our Data Science Platform team works to make…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 10,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1204652366307287040",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Puncture caused by the valve just falling off the inner tube 😳 https://t.co/D9TPcfMM0b",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1201669296532807680",
+      "author": {
+        "handle": "kaihendry",
+        "name": "Kai Hendry",
+        "id": "14742294",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1537060391561625600/uu7LdIoX_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@kaihendry I've been waiting years to use this word. \n\nYou need a \"binnebandlosebuiteband\"",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1201887594314784768",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1201669296532807680",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Puncture caused by the valve just falling off the inner tube 😳 https://t.co/D9TPcfMM0b",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1201669296532807680",
+        "author": {
+          "handle": "kaihendry",
+          "name": "Kai Hendry",
+          "id": "14742294",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1537060391561625600/uu7LdIoX_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "https://t.co/shkz1O6oIu",
+      "quotes": 12,
+      "replies": 6,
+      "retweets": 58,
+      "bookmarks": 3,
+      "likes": 130,
+      "id": "1188834765601820673",
+      "author": {
+        "handle": "ponnappa",
+        "name": "Sidu Ponnappa",
+        "id": "21295041",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1197707958387273728/xzhFJjZl_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@ponnappa Seems like a likeable person",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1188961206163230720",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1188834765601820673",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "https://t.co/shkz1O6oIu",
+        "quotes": 12,
+        "replies": 6,
+        "retweets": 58,
+        "bookmarks": 3,
+        "likes": 130,
+        "id": "1188834765601820673",
+        "author": {
+          "handle": "ponnappa",
+          "name": "Sidu Ponnappa",
+          "id": "21295041",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1197707958387273728/xzhFJjZl_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Just had a super productive week while pairing on @gojektech ML use cases with the @kubeflow team. Thanks to @jeremylewi and @googlecloud for making it happen. #ml #KFServing #tfx https://t.co/sFqO41uVIZ",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 1,
+      "likes": 4,
+      "id": "1180349997054717952",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "The pursuit of efficiency is the single biggest contributor to a loss of throughput in product delivery.\n\nPithy version: Efficiency is the enemy of throughput.",
+      "quotes": 2,
+      "replies": 2,
+      "retweets": 1,
+      "bookmarks": 1,
+      "likes": 21,
+      "id": "1177488715737788423",
+      "author": {
+        "handle": "ponnappa",
+        "name": "Sidu Ponnappa",
+        "id": "21295041",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1197707958387273728/xzhFJjZl_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@ponnappa I think this really depends on your definition of efficiency. Are you limiting it to code or does an improved office design or tooling count? Those seem like net gains on both efficiency and delivery.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1177752972991725569",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1177488715737788423",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "The pursuit of efficiency is the single biggest contributor to a loss of throughput in product delivery.\n\nPithy version: Efficiency is the enemy of throughput.",
+        "quotes": 2,
+        "replies": 2,
+        "retweets": 1,
+        "bookmarks": 1,
+        "likes": 21,
+        "id": "1177488715737788423",
+        "author": {
+          "handle": "ponnappa",
+          "name": "Sidu Ponnappa",
+          "id": "21295041",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1197707958387273728/xzhFJjZl_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @kelseyhightower: I've been. It's called KubeCon. https://t.co/GqEHG5w7om",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 314,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1172142837447589893",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @iamaijamal: What is better than BeamSQL? More support of #SQL dialects by BeamSQL! 🕺🏻👏\nRui Wang from @googlecloud is going to tell us h…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 7,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1162527645268992000",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "@willpienaar howzit ;) Johnny Clegg is dead. #endofanera",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1151309697229570048",
+      "author": {
+        "handle": "kaihendry",
+        "name": "Kai Hendry",
+        "id": "14742294",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1537060391561625600/uu7LdIoX_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@kaihendry Hey @kaihendry! He was a legend.\n\nWe should catch up again!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1151494859787657217",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1151309697229570048",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "@willpienaar howzit ;) Johnny Clegg is dead. #endofanera",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1151309697229570048",
+        "author": {
+          "handle": "kaihendry",
+          "name": "Kai Hendry",
+          "id": "14742294",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1537060391561625600/uu7LdIoX_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Google Cloud Next Extended is happening this weekend (1st of June) in #Singapore https://t.co/RS1LiqmM6d",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1133168959706918914",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "#KubeCon is a wrap. Had a blast presenting with @jeremylewi on why #kubernetes and #kubeflow makes sense for ML at @gojektech https://t.co/m1nWvumlJV",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 9,
+      "id": "1133167698014195712",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "#CloudNext19 is all wrapped up. Great turnout for the talk on @kubeflow yesterday! https://t.co/gvtAXXFxAp",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1116776944165462016",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Accelerating Machine Learning App Development with Kubeflow Pipelines https://t.co/E3nxyJmIhT @Kubeflow",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1116775632052994048",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Only two more days until I'm presenting on #Kubeflow at #GoogleNext19 in San Francisco → https://t.co/Rf9O2e4aah",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1115745313128456192",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @TensorFlow: Take a sneak peek into TensorFlow 2.0’s new features!\n\n Learn more here ↓  https://t.co/NQAsvxT9g2",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 403,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1089055340409147392",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @gojektech: Jaeger, our #machinelearning allocation system named after the humanoid mechs of Pacific Rim🖖 https://t.co/XaYlvRo0DS \n\nYour…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 10,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1062996089706446848",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @dataengconf: @gojekindonesia decreased time to market and improved customer experience by building a feature platform to scale machine…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 2,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1044986309062754304",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @goelkir: Excellent insight by @willpienaar on creation of feature platform at #ODSC_India https://t.co/0aTW08hXQT",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1035869079230238721",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @dataengconf: #DataEngConf BCN '18 Speaker Announcement: @willpienaar from @gojekindonesia will be speaking at our upcoming #Barcelona c…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 4,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1024615359431639041",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "My presentation from #googlenext18 on scaling #ML is now on youtube  https://t.co/T9OepVjZPT",
+      "quotes": 2,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 4,
+      "likes": 15,
+      "id": "1022690767817469959",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Had loads of fun presenting on #ML at #GoogleNext18 in SF! @gojekindonesia @gojektech https://t.co/V5x5k9uYgP",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 2,
+      "bookmarks": 0,
+      "likes": 8,
+      "id": "1022448050529128449",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "@AjeyGore crushed it today in his keynote at #googlenext18. Well done! @gojektech @gojekindonesia https://t.co/xV8BiLDgGh",
+      "quotes": 2,
+      "replies": 1,
+      "retweets": 16,
+      "bookmarks": 0,
+      "likes": 41,
+      "id": "1022178030377000962",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Honored to be asked to share our #ML story with @rajsheth at #GoogleNext18 https://t.co/aV14d96Hbv",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 4,
+      "id": "1021962703378604032",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @AjeyGore: We are here at Google next 18 ! @gojektech @gojekindonesia \n\nWell done!!! https://t.co/sXW22NhnOW",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 31,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1021961119131262976",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Don't miss my session tomorrow at #GoogleNext18. I will be presenting on Scaling #ML at GO-JEK. It's at 3:15pm on the 25th of July → https://t.co/mfXsiKygrd",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 2,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1021794244745289728",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Doing a quick tech check at #GoogleNext18 in SF. Only two days until I present! https://t.co/YxCbMyi1HJ",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1021517235649572865",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Excited to be speaking at Google Singapore tonight! Will be presenting on some of the challenges we face when scaling machine learning. https://t.co/djFQfmatEL\n#singapore #gdg #google #gcp",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1019401832563552257",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@willpienaar Excellent sharing. It's inspiring. Could you share your slides?",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1019559404264292352",
+      "author": {
+        "handle": "longanhsu",
+        "name": "gene",
+        "id": "727761653320830977",
+        "avatarUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+      },
+      "quoted": false,
+      "replyToId": "1019401832563552257",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Excited to be speaking at Google Singapore tonight! Will be presenting on some of the challenges we face when scaling machine learning. https://t.co/djFQfmatEL\n#singapore #gdg #google #gcp",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 2,
+        "id": "1019401832563552257",
+        "author": {
+          "handle": "willpienaar",
+          "name": "Willem Pienaar",
+          "id": "2889217594",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@longanhsu Hey @longanhsu, I'll be releasing the slides after my presentation at #cloudnext18 in SF next week.",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1019733549107179520",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1019559404264292352",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@willpienaar Excellent sharing. It's inspiring. Could you share your slides?",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1019559404264292352",
+        "author": {
+          "handle": "longanhsu",
+          "name": "gene",
+          "id": "727761653320830977",
+          "avatarUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+        },
+        "quoted": false,
+        "replyToId": "1019401832563552257"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @miekg: Kubernetes networking https://t.co/bntEUWsaU4",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 718,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1012144668866326528",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @kelseyhightower: 2020 prediction: Monolithic applications will be back in style after people discover the drawbacks of distributed mono…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 2029,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1008157283807711232",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @rBharshetty: Published a blog post on “How to build Resilience in large scale Distributed Systems” https://t.co/Xl4R1gEChu. Lessons lea…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 5,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "992981671321333761",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @sampullara: The most amazing thing happened this morning. Apple open sourced FoundationDB! https://t.co/pylu0sLSrE",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 164,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "987224552592871424",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @SpaceX: More photos from last night's Falcon 9 launch → https://t.co/095WHX44BX https://t.co/p8W1SsLEC0",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 4005,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "979512584981237760",
+      "author": {
+        "handle": "willpienaar",
+        "name": "Willem Pienaar",
+        "id": "2889217594",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634630158606045185/N4LEwC3A_normal.jpg"
+      },
+      "quoted": false
+    }
+  ]
+}

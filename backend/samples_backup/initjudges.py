@@ -31,26 +31,11 @@ import json
 import os
 
 # %%
-TWEETS_PER_USER = 20
+TWEETS_PER_USER = 10
 
 raw_dir = "raw"
 clean_dir = "clean"
 json_files = [f for f in os.listdir(raw_dir)]
-
-# move "elonmusk.json" to front of list
-json_files.remove("elonmusk.json")
-json_files.insert(0, "elonmusk.json")
-
-json_files.remove("jack.json")
-json_files.insert(1, "jack.json")
-
-json_files.remove("sundarpichai.json")
-json_files.insert(2, "sundarpichai.json")
-
-json_files.remove("satyanadella.json")
-json_files.insert(3, "satyanadella.json")
-
-print(json_files)
 
 all_users = []
 for filename in json_files:
@@ -64,6 +49,7 @@ for filename in json_files:
         user_data["avatar_url"] = data.get("avatarUrl")
 
         activity = []
+        print(data.get("activity"))
         for raw_action in data.get("activity"):
             action = {}
             if raw_action["type"] == "TWEET":

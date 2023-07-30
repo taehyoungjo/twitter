@@ -1,0 +1,1619 @@
+{
+  "handle": "john_sungjin",
+  "name": "John Kim",
+  "bio": "Founding a @neo backed startup | @yale 2022",
+  "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg",
+  "activity": [
+    {
+      "type": "QUOTE",
+      "text": "the discovery of room-temperature superconductors aligns suspiciously well with scaling laws that demand massive amounts of energy\n\njust a coincidence tho right? haha",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 5,
+      "id": "1683970295709995008",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": {
+        "text": "we might be so very back\n\nhttps://t.co/Zm9VW7ya6L",
+        "id": "1683942918858633217"
+      },
+      "quoteDeleted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "and just as sam altman invests $375 million into fusion? which (according to my 5 min of googling) superconductivity makes more viable?\n\nif you had a time machine...",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1683970298008465409",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1683970295709995008",
+      "replyTo": {
+        "type": "QUOTE",
+        "text": "the discovery of room-temperature superconductors aligns suspiciously well with scaling laws that demand massive amounts of energy\n\njust a coincidence tho right? haha",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 5,
+        "id": "1683970295709995008",
+        "author": {
+          "handle": "john_sungjin",
+          "name": "John Kim",
+          "id": "1500972139511492609",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+        },
+        "quoted": {
+          "text": "we might be so very back\n\nhttps://t.co/Zm9VW7ya6L",
+          "id": "1683942918858633217"
+        },
+        "quoteDeleted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "also sus\n\nhttps://t.co/PRnxuJugQ1",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1683970299598114816",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": {
+        "text": "we're about to go into another one of those \"every week some life altering technology drops\" time periods",
+        "id": "1683727052518592512"
+      },
+      "quoteDeleted": false,
+      "replyToId": "1683970298008465409",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "and just as sam altman invests $375 million into fusion? which (according to my 5 min of googling) superconductivity makes more viable?\n\nif you had a time machine...",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1683970298008465409",
+        "author": {
+          "handle": "john_sungjin",
+          "name": "John Kim",
+          "id": "1500972139511492609",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1683970295709995008"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "co directed + produced a music video check it out 🤭 https://t.co/d170tMnopB",
+      "quotes": 0,
+      "replies": 3,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 6,
+      "id": "1682076848740773888",
+      "author": {
+        "handle": "nyenver",
+        "name": "Enver",
+        "id": "1292711995",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1498960943031537664/ImGNEM1K_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@nyenver this is super sick!! i really like the colorful vintage grading\n\nfavorite shots: them framed inside the car at 1:38 w the orange/blue, and the fast cuts at the end after she opens the bedroom veil thing",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1682091376144687104",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1682076848740773888",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "co directed + produced a music video check it out 🤭 https://t.co/d170tMnopB",
+        "quotes": 0,
+        "replies": 3,
+        "retweets": 1,
+        "bookmarks": 0,
+        "likes": 6,
+        "id": "1682076848740773888",
+        "author": {
+          "handle": "nyenver",
+          "name": "Enver",
+          "id": "1292711995",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1498960943031537664/ImGNEM1K_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @evanon0ping: Turns out AI works pretty well when you don't care if it's correct\n\nI’m releasing @tryrootbeer's first product, Zero! It's…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 17,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1673830789707083776",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @nebbrooks: Hey folks! We’re excited to unveil what we’ve been working on at DirectAI - object detection without training data. Check it…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 19,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1665065523728756736",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": ".@sama running the craziest \"commoditize your complements\" hustle in history with OpenAI and Worldcoin\n\ncommoditize the human condition, sell \"i am a homo sapiens\" passes",
+      "quotes": 1,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 1,
+      "likes": 7,
+      "id": "1658598664120696832",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "ask and ye shall receive https://t.co/G4uVxH50zR",
+      "quotes": 1,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 6,
+      "id": "1656136952503205888",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": {
+        "text": "@john_sungjin Can you try it with gpt4's browsing plugin (I don't have access 😔) please .",
+        "id": "1656002369082249216"
+      },
+      "quoteDeleted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@s0rtSvane 🫡",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1656146738569441281",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1656146531354030080",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@john_sungjin Very cool ! Thanks for the research 🫡",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1656146531354030080",
+        "author": {
+          "handle": "s0rtSvane",
+          "name": "sortsvane",
+          "id": "1457702819163557900",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1631210780518666240/whkfa5AO_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1656138436020178944"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Jailbroke all the ChatGPT plugin prompts (https://t.co/L9nr3JYfxj) and wrote some thoughts. TL;DR:\n\n- Plugin specs are injected as Typescript\n- Improving ReAct/@LangChainAI agents\n- A new SEO industry for LLMs (LEO?)\n- Companies are thinking beyond OpenAI https://t.co/Gw30wuN27e",
+      "quotes": 1,
+      "replies": 3,
+      "retweets": 13,
+      "bookmarks": 17,
+      "likes": 33,
+      "id": "1640751124348309509",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@john_sungjin Can you try it with gpt4's browsing plugin (I don't have access 😔) please .",
+      "quotes": 1,
+      "replies": 2,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1656002369082249216",
+      "author": {
+        "handle": "s0rtSvane",
+        "name": "sortsvane",
+        "id": "1457702819163557900",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1631210780518666240/whkfa5AO_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1640751136952164354",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "Detailed blog post here: https://t.co/AoNOv0s8Ar\n\nConsidering doing this more regularly - let me know what you think!",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 1,
+        "likes": 4,
+        "id": "1640751136952164354",
+        "author": {
+          "handle": "john_sungjin",
+          "name": "John Kim",
+          "id": "1500972139511492609",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1640751134779535360"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@s0rtSvane https://t.co/lfA5s2FJd4",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1656137020505456645",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": {
+        "text": "ask and ye shall receive https://t.co/G4uVxH50zR",
+        "id": "1656136952503205888"
+      },
+      "quoteDeleted": false,
+      "replyToId": "1656002369082249216",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@john_sungjin Can you try it with gpt4's browsing plugin (I don't have access 😔) please .",
+        "quotes": 1,
+        "replies": 2,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1656002369082249216",
+        "author": {
+          "handle": "s0rtSvane",
+          "name": "sortsvane",
+          "id": "1457702819163557900",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1631210780518666240/whkfa5AO_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1640751136952164354"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @danielgross: LlamaAcademy: a factory that teaches LLaMA's how write API code. ChatGPT Plugins, but no manifest file is needed -- it jus…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 116,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1648742665184509953",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @tikgiau: 🚀 Excited to share MiniGPT-4, an open-sourced model performing complex vision-language tasks like GPT-4!\n\n✍️ Write poems for p…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 261,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1647821860174974976",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "best 4 dollars of my life\nhttps://t.co/GqUL3c7e7H",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 1,
+      "likes": 3,
+      "id": "1646701894147121153",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "intelligent robots have forever been a sci-fi staple, but conspicuously absent in everyday life - until now!\n\nwatching Matic clean a house with 8 guys (sorry Matic) is magical; was always sad when @A_Reichenbach_ had to take it back to the office",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 2,
+      "bookmarks": 0,
+      "likes": 9,
+      "id": "1646584107726671872",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": {
+        "text": "Meet Matic! \n\nA reimagined robot vacuum and mop that sees like a human, cleans like a human. Not all messes are created equal, so Matic adapts to what it sees. \n\nVisit out website to learn more and reserve yours today! https://t.co/HFR5h19fLD https://t.co/r09YrBO2zt",
+        "id": "1646286971332083713"
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "you know the announcement is good when the demo video starts like this https://t.co/6MLvlDgLCQ",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 8,
+      "id": "1645900352477351936",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": {
+        "text": "Want to train 10B+ ChatGPT-style models on a single GPU and 100B+ on multi-GPUs systems? Introducing DeepSpeed-Chat, an easy (single script), fast, and low-cost solution for training high-quality ChatGPT-style models with RLHF, 15x faster than SoTA.\n\nBlog: https://t.co/IlaTDZkUL4 https://t.co/o1SvrdFRVk",
+        "id": "1645862992272322561"
+      },
+      "quoteDeleted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "it just keeps getting better\n\n@satyanadella fire your marketing department, these guys are all you need https://t.co/e1NGEOP1S0",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1645901367515693056",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1645900352477351936",
+      "replyTo": {
+        "type": "QUOTE",
+        "text": "you know the announcement is good when the demo video starts like this https://t.co/6MLvlDgLCQ",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 8,
+        "id": "1645900352477351936",
+        "author": {
+          "handle": "john_sungjin",
+          "name": "John Kim",
+          "id": "1500972139511492609",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+        },
+        "quoted": {
+          "text": "Want to train 10B+ ChatGPT-style models on a single GPU and 100B+ on multi-GPUs systems? Introducing DeepSpeed-Chat, an easy (single script), fast, and low-cost solution for training high-quality ChatGPT-style models with RLHF, 15x faster than SoTA.\n\nBlog: https://t.co/IlaTDZkUL4 https://t.co/o1SvrdFRVk",
+          "id": "1645862992272322561"
+        },
+        "quoteDeleted": false
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @neurosp1ke: Check out OA SFT pythia-12B vs. gpt-3.5 turbo on 250 random OA prompts: https://t.co/Klg9zBg2mF",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 19,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1645896081388220417",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @BlinkDL_AI: Raven v8🐦14B to the moon🚀based on #RWKV (100% #RNN language model) 14B/7B/3B/1B Download: https://t.co/eNVQc2hcyg And v9 so…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 41,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1645524755947323392",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "Some of you might have remembered a tweet I put out a couple months ago about an OpenAPI agent that iteratively looks through a large spec to figure out how to make a request. This new OpenAPI Planner/Executor agent is *way* better",
+      "quotes": 0,
+      "replies": 4,
+      "retweets": 5,
+      "bookmarks": 29,
+      "likes": 70,
+      "id": "1644100852725186560",
+      "author": {
+        "handle": "ankush_gola11",
+        "name": "Ankush Gola",
+        "id": "313696214",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1630124044552142848/sKGnSxAm_normal.jpg"
+      },
+      "quoted": {
+        "text": "New version 🦜🔗 v0.0.132 with a focus on interacting with APIs (using OpenAPI specs)\n\n⚕️OpenAPIEndpointChain - a chain that wraps a specific endpoint to provide a \"Natural Language API\"\n\n📒OpenAPI Planner/Executor Agent - good for interacting with large specs\n\n🧵 https://t.co/83dWcyEaxN",
+        "id": "1644035656086355969"
+      },
+      "quoteDeleted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@ankush_gola11 yall did some crazy prompt engineering for this! glad to see that the openapi -&gt; typescript conversion helps",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1644184058388422658",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1644100852725186560",
+      "replyTo": {
+        "type": "QUOTE",
+        "text": "Some of you might have remembered a tweet I put out a couple months ago about an OpenAPI agent that iteratively looks through a large spec to figure out how to make a request. This new OpenAPI Planner/Executor agent is *way* better",
+        "quotes": 0,
+        "replies": 4,
+        "retweets": 5,
+        "bookmarks": 29,
+        "likes": 70,
+        "id": "1644100852725186560",
+        "author": {
+          "handle": "ankush_gola11",
+          "name": "Ankush Gola",
+          "id": "313696214",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1630124044552142848/sKGnSxAm_normal.jpg"
+        },
+        "quoted": {
+          "text": "New version 🦜🔗 v0.0.132 with a focus on interacting with APIs (using OpenAPI specs)\n\n⚕️OpenAPIEndpointChain - a chain that wraps a specific endpoint to provide a \"Natural Language API\"\n\n📒OpenAPI Planner/Executor Agent - good for interacting with large specs\n\n🧵 https://t.co/83dWcyEaxN",
+          "id": "1644035656086355969"
+        },
+        "quoteDeleted": false
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "super interesting project for LLM programming! prompts are increasingly complex, yet the best interface most libraries provide to build them is... python f-strings.\n\nLMQL offers control over model behavior through token masking + control flow, really excited to try it out",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 2,
+      "bookmarks": 0,
+      "likes": 5,
+      "id": "1644046991004147713",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": {
+        "text": "🚀 Excited to announce the first release of https://t.co/phw1uWlPEF, a novel open source programming language and platform for language model interaction!\n\nCombining prompts, constraints &amp; scripting, LMQL elevates the capabilities of large language models.\n\n🧵1/6 A quick tour. https://t.co/7Sv8rL2mtB",
+        "id": "1643582539745964033"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "It's been fascinating watching AI twitter evolve from just prompts → \"talk to documents\" → agents + tools → multi-agent!\n\nPredictions on what's coming next (tl;dr: LLM-Corp):",
+      "quotes": 5,
+      "replies": 8,
+      "retweets": 15,
+      "bookmarks": 74,
+      "likes": 133,
+      "id": "1643317607683223552",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@john_sungjin You are spot on. I built a multi agent pipeline the other day. This is the future.\nhttps://t.co/19yOCQGmZG",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1643329595633029120",
+      "author": {
+        "handle": "olliethedev",
+        "name": "Ollie The Dev",
+        "id": "1564360554835316740",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1684644767534047232/KA5gp3Lp_normal.jpg"
+      },
+      "quoted": {
+        "text": "🧵1/8  Here is how to build a pipeline that automates the process of creating, researching, improving &amp; finalizing an article on any topic. I used  #langchain  &amp; @OpenAI, Google Search and Google News API! Let's dive in!👇 https://t.co/jYjnst5Utz",
+        "id": "1643074399166185473"
+      },
+      "quoteDeleted": false,
+      "replyToId": "1643318759225163776",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "(Might work on some demos for this, would love to hear ideas)",
+        "quotes": 0,
+        "replies": 3,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 5,
+        "id": "1643318759225163776",
+        "author": {
+          "handle": "john_sungjin",
+          "name": "John Kim",
+          "id": "1500972139511492609",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1643317611063812096"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@olliethedev this is really cool! how do you manage context size? looks like there's a lot of information captured during draft iteration + research, do you run into token limits often?\n\nalso think it might be interesting to use an agent to plan these steps vs. having a fixed pipeline",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1643332190951067648",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1643329595633029120",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@john_sungjin You are spot on. I built a multi agent pipeline the other day. This is the future.\nhttps://t.co/19yOCQGmZG",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1643329595633029120",
+        "author": {
+          "handle": "olliethedev",
+          "name": "Ollie The Dev",
+          "id": "1564360554835316740",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1684644767534047232/KA5gp3Lp_normal.jpg"
+        },
+        "quoted": {
+          "text": "🧵1/8  Here is how to build a pipeline that automates the process of creating, researching, improving &amp; finalizing an article on any topic. I used  #langchain  &amp; @OpenAI, Google Search and Google News API! Let's dive in!👇 https://t.co/jYjnst5Utz",
+          "id": "1643074399166185473"
+        },
+        "quoteDeleted": false,
+        "replyToId": "1643318759225163776"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@kvvnhu @alexjkwang im gonna create a team to replace you guys",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1643325365534990336",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1643325240876072960",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@alexjkwang @john_sungjin wow have you heard of https://t.co/wvozUsaPrJ? came across it the other day and it's pretty cool",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 3,
+        "id": "1643325240876072960",
+        "author": {
+          "handle": "kvvnhu",
+          "name": "Kevin Hu",
+          "id": "1138696200121544705",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1657405646814474241/yFD-IV5__normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1643324610778402816"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "(Might work on some demos for this, would love to hear ideas)",
+      "quotes": 0,
+      "replies": 3,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 5,
+      "id": "1643318759225163776",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1643317611063812096",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "Imagine composing teams of LLM agents, each specialized for a specific role and workflow (programmers, researchers, data scientists, etc.); LLM-Corp.\n\nCurious to hear insights from people who've worked on multi-agent RL, or even distributed systems to solve coordination!",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 2,
+        "bookmarks": 3,
+        "likes": 16,
+        "id": "1643317611063812096",
+        "author": {
+          "handle": "john_sungjin",
+          "name": "John Kim",
+          "id": "1500972139511492609",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1643317609927184385"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@john_sungjin @LangChainAI wait... the fiscal note one can't be correct, can it? it's like the cat facts meme for joe biden?",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1640921248262770689",
+      "author": {
+        "handle": "newhouseb",
+        "name": "Ben Newhouse",
+        "id": "1371101",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1049492602108620802/mGxAjU02_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1640751124348309509",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Jailbroke all the ChatGPT plugin prompts (https://t.co/L9nr3JYfxj) and wrote some thoughts. TL;DR:\n\n- Plugin specs are injected as Typescript\n- Improving ReAct/@LangChainAI agents\n- A new SEO industry for LLMs (LEO?)\n- Companies are thinking beyond OpenAI https://t.co/Gw30wuN27e",
+        "quotes": 1,
+        "replies": 3,
+        "retweets": 13,
+        "bookmarks": 17,
+        "likes": 33,
+        "id": "1640751124348309509",
+        "author": {
+          "handle": "john_sungjin",
+          "name": "John Kim",
+          "id": "1500972139511492609",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@newhouseb @LangChainAI you mean you actually expected \"Global Policy &amp; Market Intelligence\"? that's not nearly as fun",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1640925916045119488",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1640921248262770689",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@john_sungjin @LangChainAI wait... the fiscal note one can't be correct, can it? it's like the cat facts meme for joe biden?",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1640921248262770689",
+        "author": {
+          "handle": "newhouseb",
+          "name": "Ben Newhouse",
+          "id": "1371101",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1049492602108620802/mGxAjU02_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1640751124348309509"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "Detailed blog post here: https://t.co/AoNOv0s8Ar\n\nConsidering doing this more regularly - let me know what you think!",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 1,
+      "likes": 4,
+      "id": "1640751136952164354",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1640751134779535360",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "4. Instacart's API includes a partner_name value. Right now, it's always supposed to be OpenAI, but this indicates that companies are thinking past just ChatGPT. In my opinion, this is the right call - more writing on this coming later. https://t.co/cecUT3bnVI",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 3,
+        "id": "1640751134779535360",
+        "author": {
+          "handle": "john_sungjin",
+          "name": "John Kim",
+          "id": "1500972139511492609",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1640751132715921408"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @newhouseb: Weekend Project Just Dropped: \n\n⭐Structural Alignment of LLMs⭐\n\nThe genius of ChatGPT is that it puts an incredibly forgivin…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 10,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1640375047037812736",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "You can jailbreak @OpenAI's plugin chatGPT if you want to see plugin code.\n\nai-plugin.json specs are not available for every plugin, but chatGPT will just tell you! https://t.co/hRYhwLZuf1",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 4,
+      "bookmarks": 11,
+      "likes": 13,
+      "id": "1639051499576918016",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "here's the info for speak, if you're curious: https://t.co/OEZtl03g3I",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1639051503565697025",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1639051501430788097",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "You can verify it by checking the Wolfram prompt with the public spec (https://t.co/NMpDXx5kMe). Seems like the prompt is reformatted into typescript! https://t.co/01BqBjr7C4",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 1,
+        "id": "1639051501430788097",
+        "author": {
+          "handle": "john_sungjin",
+          "name": "John Kim",
+          "id": "1500972139511492609",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1639051499576918016"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "You can see the full prompts/specs here: https://t.co/nLa3ZbCTPh",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1639051505662824448",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1639051503565697025",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "here's the info for speak, if you're curious: https://t.co/OEZtl03g3I",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 0,
+        "id": "1639051503565697025",
+        "author": {
+          "handle": "john_sungjin",
+          "name": "John Kim",
+          "id": "1500972139511492609",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1639051501430788097"
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "You can verify it by checking the Wolfram prompt with the public spec (https://t.co/NMpDXx5kMe). Seems like the prompt is reformatted into typescript! https://t.co/01BqBjr7C4",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1639051501430788097",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1639051499576918016",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "You can jailbreak @OpenAI's plugin chatGPT if you want to see plugin code.\n\nai-plugin.json specs are not available for every plugin, but chatGPT will just tell you! https://t.co/hRYhwLZuf1",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 4,
+        "bookmarks": 11,
+        "likes": 13,
+        "id": "1639051499576918016",
+        "author": {
+          "handle": "john_sungjin",
+          "name": "John Kim",
+          "id": "1500972139511492609",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "new plugin agent from @OpenAI is p wild\n\nanyone want to do some integrals and learn about government events while practicing their french? https://t.co/4LupwbvjO1",
+      "quotes": 0,
+      "replies": 3,
+      "retweets": 3,
+      "bookmarks": 1,
+      "likes": 21,
+      "id": "1639029335662403584",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "we hit the limit! ran out of tokens for the response at 10 steps\n\nyou did good work, chatgpt https://t.co/0TkbxyPg07",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1639031171379269632",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1639029335662403584",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "new plugin agent from @OpenAI is p wild\n\nanyone want to do some integrals and learn about government events while practicing their french? https://t.co/4LupwbvjO1",
+        "quotes": 0,
+        "replies": 3,
+        "retweets": 3,
+        "bookmarks": 1,
+        "likes": 21,
+        "id": "1639029335662403584",
+        "author": {
+          "handle": "john_sungjin",
+          "name": "John Kim",
+          "id": "1500972139511492609",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @neo: Today we unveiled a new AI track for Neo Accelerator with help from @Microsoft  and @OpenAI to empower startup founders with the b…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 50,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1638227809696088065",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @amanrsanger: https://t.co/VPezbyBKDO is now powered by GPT-4!\n\nSince partnering with @openai in December, we’ve completely redesigned t…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 283,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1636043580757409793",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @alexjkwang: 1/ A preview of what we’ve been secretly building at Orchard: LLM agents.\n\nBy coordinating and prompting LLM systems effect…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 46,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1633293977888890880",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "this is the most impressive (and personally useful) LLM product launch I've seen to date - @kliu128 @sqhough  are miles ahead\n\nit's an incredible feeling watching Chord plan, learn, and write for the first time! (the feeling is my wallet getting lighter.)",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 3,
+      "bookmarks": 0,
+      "likes": 14,
+      "id": "1629207490792652800",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": {
+        "text": "Our beta is out! Chord - an AI engine that does real-time research &amp; serves recommendations for products, books, and more. Imagine an on-demand, crowdsourced Wirecutter: we scour the web for organic discussion on topics and then compose in-depth articles. https://t.co/7fly0Ou6k4 https://t.co/QWjyACAabS",
+        "id": "1629197468096421888"
+      }
+    },
+    {
+      "type": "TWEET",
+      "text": "Unveiling Spark: A glimpse into the modular future.\n\nLaunch your own rollup in less than five minutes, TODAY.\n\nTo get started: https://t.co/IKwiBuA9La https://t.co/M7vWn3sxrF",
+      "quotes": 17,
+      "replies": 7,
+      "retweets": 57,
+      "bookmarks": 62,
+      "likes": 239,
+      "id": "1624543265809907712",
+      "author": {
+        "handle": "Calderaxyz",
+        "name": "Caldera",
+        "id": "1502716760486678528",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623757228275830784/4NkGh0gK_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@Calderaxyz traction",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1624642586668601345",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1624543265809907712",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Unveiling Spark: A glimpse into the modular future.\n\nLaunch your own rollup in less than five minutes, TODAY.\n\nTo get started: https://t.co/IKwiBuA9La https://t.co/M7vWn3sxrF",
+        "quotes": 17,
+        "replies": 7,
+        "retweets": 57,
+        "bookmarks": 62,
+        "likes": 239,
+        "id": "1624543265809907712",
+        "author": {
+          "handle": "Calderaxyz",
+          "name": "Caldera",
+          "id": "1502716760486678528",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623757228275830784/4NkGh0gK_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @neo: Founders: Apply now to Neo Accelerator, the ultimate launchpad for 20 awesome tech startups. \nhttps://t.co/1JROrobhOR https://t.co…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 106,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1620494165015695360",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "Creating a list of ChatGPT prompts to make the product manager life easier.\n\nReply 🤖 below if you’d like me to send it to you.",
+      "quotes": 3,
+      "replies": 749,
+      "retweets": 25,
+      "bookmarks": 260,
+      "likes": 429,
+      "id": "1605899710383812609",
+      "author": {
+        "handle": "kavirkaycee",
+        "name": "Kavir",
+        "id": "920717508",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1561370949668446209/rFOEeKzt_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@kavirkaycee 🤖",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1606171678899408897",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1605899710383812609",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "Creating a list of ChatGPT prompts to make the product manager life easier.\n\nReply 🤖 below if you’d like me to send it to you.",
+        "quotes": 3,
+        "replies": 749,
+        "retweets": 25,
+        "bookmarks": 260,
+        "likes": 429,
+        "id": "1605899710383812609",
+        "author": {
+          "handle": "kavirkaycee",
+          "name": "Kavir",
+          "id": "920717508",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1561370949668446209/rFOEeKzt_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "The Villagers are growing an Orchard! 🌱",
+      "quotes": 0,
+      "replies": 2,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 12,
+      "id": "1603541895191269376",
+      "author": {
+        "handle": "taehyoungjo",
+        "name": "Tae Hyoung Jo",
+        "id": "1093574024066752512",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1502697563455213573/fYQdxTtP_normal.jpg"
+      },
+      "quoted": {
+        "text": "1/ I'm thrilled to announce the launch of Orchard, a fully-featured text editor with an AI chat interface designed to enhance your writing and topped off with an AI autocomplete experience (Copilot for writing)!\nhttps://t.co/AL1FfepNTw",
+        "id": "1603408050005557249"
+      },
+      "quoteDeleted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@taehyoungjo https://t.co/t0DEyX1pma",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 7,
+      "id": "1603564168115650560",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1603541895191269376",
+      "replyTo": {
+        "type": "QUOTE",
+        "text": "The Villagers are growing an Orchard! 🌱",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 12,
+        "id": "1603541895191269376",
+        "author": {
+          "handle": "taehyoungjo",
+          "name": "Tae Hyoung Jo",
+          "id": "1093574024066752512",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1502697563455213573/fYQdxTtP_normal.jpg"
+        },
+        "quoted": {
+          "text": "1/ I'm thrilled to announce the launch of Orchard, a fully-featured text editor with an AI chat interface designed to enhance your writing and topped off with an AI autocomplete experience (Copilot for writing)!\nhttps://t.co/AL1FfepNTw",
+          "id": "1603408050005557249"
+        },
+        "quoteDeleted": false
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "👀 second best thing to happen to Orchard today",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 7,
+      "id": "1603468520523636737",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": {
+        "text": "Our new embedding model is significantly more capable at language processing and code tasks, cost effective, and simpler to use. https://t.co/Wyba0DZGBF",
+        "id": "1603466863370854401"
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "Congrats Alex and team! \n\nCan't wait to try it this weekend with this blog post I've been trying to write for ages",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 11,
+      "id": "1603423274641379330",
+      "author": {
+        "handle": "besartcopa",
+        "name": "Besart Çopa",
+        "id": "1387764670518411269",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1558229471446155265/2E2qtcRM_normal.jpg"
+      },
+      "quoted": {
+        "text": "1/ I'm thrilled to announce the launch of Orchard, a fully-featured text editor with an AI chat interface designed to enhance your writing and topped off with an AI autocomplete experience (Copilot for writing)!\nhttps://t.co/AL1FfepNTw",
+        "id": "1603408050005557249"
+      },
+      "quoteDeleted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "@besartcopa traction",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 6,
+      "id": "1603464944955150337",
+      "author": {
+        "handle": "theappletucker",
+        "name": "Parker Jou",
+        "id": "1441265308455501824",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1531532873479532545/M4LhTVWl_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1603423274641379330",
+      "replyTo": {
+        "type": "QUOTE",
+        "text": "Congrats Alex and team! \n\nCan't wait to try it this weekend with this blog post I've been trying to write for ages",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 11,
+        "id": "1603423274641379330",
+        "author": {
+          "handle": "besartcopa",
+          "name": "Besart Çopa",
+          "id": "1387764670518411269",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1558229471446155265/2E2qtcRM_normal.jpg"
+        },
+        "quoted": {
+          "text": "1/ I'm thrilled to announce the launch of Orchard, a fully-featured text editor with an AI chat interface designed to enhance your writing and topped off with an AI autocomplete experience (Copilot for writing)!\nhttps://t.co/AL1FfepNTw",
+          "id": "1603408050005557249"
+        },
+        "quoteDeleted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "@theappletucker @besartcopa traction",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 5,
+      "id": "1603465780800024576",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1603464944955150337",
+      "replyTo": {
+        "type": "REPLY",
+        "text": "@besartcopa traction",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "likes": 6,
+        "id": "1603464944955150337",
+        "author": {
+          "handle": "theappletucker",
+          "name": "Parker Jou",
+          "id": "1441265308455501824",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1531532873479532545/M4LhTVWl_normal.jpg"
+        },
+        "quoted": false,
+        "replyToId": "1603423274641379330"
+      }
+    },
+    {
+      "type": "QUOTE",
+      "text": "Really excited to show everyone what we've been working on! Still super early and we have a lot to build, but hoping to hear a lot of constructive feedback. Try it at https://t.co/bCQ7JJwHlR!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 1,
+      "bookmarks": 0,
+      "likes": 13,
+      "id": "1603433990848847872",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": {
+        "text": "1/ I'm thrilled to announce the launch of Orchard, a fully-featured text editor with an AI chat interface designed to enhance your writing and topped off with an AI autocomplete experience (Copilot for writing)!\nhttps://t.co/AL1FfepNTw",
+        "id": "1603408050005557249"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @alexjkwang: 1/ I'm thrilled to announce the launch of Orchard, a fully-featured text editor with an AI chat interface designed to enhan…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 77,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1603431802554621957",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @newhouseb: An unsolicited Mea Culpa on AGI: A few years back I was at an event with @ilyasut where he presented his belief that we more…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 2,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1600557540076843008",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "prompt engineering is like trying to use a new API, except there's no documentation so you have to guess how to call a route, but you don't even know if it exists, and the devs included fun easter eggs like the \"Let's think step-by-step\" route which just summons AGI",
+      "quotes": 0,
+      "replies": 3,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 14,
+      "id": "1597807406251094016",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @apartovi: Is risky the new safe? \n\nMacro trends have toppled giants all year. Early-stage startups may be relatively sheltered from the…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 11,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1595206065330667520",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @jebank: We’re building a new company @tryrelayapp to make it effortless for every team to run a tight ship! Sign up for early access he…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 43,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1580028807393685504",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "QUOTE",
+      "text": "I've been using Warp for a few months now and it's already the best terminal. Super excited to try out the new changes!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1577758351110258688",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": {
+        "text": "1/ Today, we are launching a slew of product updates, including a big improvement to session management in the terminal. \n\nNavigate to and from terminal and IDE quickly, save your tabs and panes, customize your tabs, and more👇🏽 https://t.co/gaWM6bKeEY",
+        "id": "1577713957443407873"
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @megan_rozanski1: SO excited to finally share what \n@HaveTheDeetz and I have been working on for months!! Mind and Match exists to help…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 83,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1576255749939814400",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "@cloudosmotic awesome! i think i cant send a dm without a follow back, though...😅",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1554239119743524864",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "TWEET",
+      "text": "@cloudosmotic hi sean! sorry to hijack this post - i loved your \"fun with step functions\" talk but had some questions i'd appreciate your insight on. is there a better way i can reach you?",
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 2,
+      "id": "1554195848505856001",
+      "author": {
+        "handle": "john_sungjin",
+        "name": "John Kim",
+        "id": "1500972139511492609",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1500975924719796225/VILvFwsV_normal.jpg"
+      },
+      "quoted": false
+    }
+  ]
+}
