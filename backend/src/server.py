@@ -1,4 +1,6 @@
 import asyncio
+import random
+from typing import Tuple
 
 from config import (
     Tweet,
@@ -6,7 +8,7 @@ from config import (
     User,
     build_prompt,
     clean_result,
-    llm,
+    llms,
     parse_xml_to_actions,
     tweets,
     update_globals,
@@ -14,10 +16,9 @@ from config import (
 )
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from langchain.chat_models import ChatAnthropic
 from langchain.schema import BaseMessage
 from pydantic import BaseModel
-
-MAX_CONCURRENT_REQUESTS = 2
 
 app = FastAPI()
 
@@ -34,35 +35,47 @@ async def update():
     """
     Run a single tick of the simulation.
     """
-    active_users = users.users
+    active_users = random.sample(users.users, 10)
 
-    async def async_generate(prompt: list[BaseMessage], user_id: int):
-        try:
-            response = await llm.agenerate([prompt])
-            result_text = response.generations[0][0].text
-            actions = parse_xml_to_actions(clean_result(result_text), user_id)
-            update_globals(actions)
+    # this is our queue
+    prompts = [
+        (user.user_id, build_prompt(user, tweets.get_timeline()))
+        for user in active_users
+    ]
 
-        except Exception as e:
-            print("FAILED:", e)
+    queue = asyncio.Queue()
+    for prompt in prompts:
+        await queue.put(prompt)
 
-    prompts = [build_prompt(user, tweets.get_timeline()) for user in active_users]
+    async def worker(
+        llm: ChatAnthropic, queue: asyncio.Queue[Tuple[int, list[BaseMessage]]]
+    ):
+        while not queue.empty():
+            user_id, prompt = await queue.get()
+            try:
+                response = await llm.agenerate([prompt])
+                result_text = response.generations[0][0].text
+                actions = parse_xml_to_actions(clean_result(result_text), user_id)
+                update_globals(actions)
+            except Exception as e:
+                print("FAILED:", e)
+                # await queue.put((user_id, prompt))
 
-    async def perform_requests(prompts: list[list[BaseMessage]], max_concurrent: int):
-        semaphore = asyncio.Semaphore(max_concurrent)
-        tasks = []
+            queue.task_done()
 
-        async def worker(prompt: list[BaseMessage], user_id: int):
-            async with semaphore:
-                await async_generate(prompt, user_id)
-
-        for prompt, user in zip(prompts, active_users):
-            task = asyncio.ensure_future(worker(prompt, user.user_id))
+    tasks = []
+    for llm_info in llms:
+        for _ in range(llm_info["max_concurrent"]):
+            task = asyncio.create_task(worker(llm_info["llm"], queue))
             tasks.append(task)
 
-        return await asyncio.gather(*tasks)
+    print("Running", len(tasks), "tasks")
 
-    await perform_requests(prompts, MAX_CONCURRENT_REQUESTS)
+    await queue.join()
+    for task in tasks:
+        task.cancel()
+
+    await asyncio.gather(*tasks, return_exceptions=True)
 
 
 class Simulation:

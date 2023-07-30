@@ -10,12 +10,12 @@ from typing import Optional
 from uuid import uuid4
 
 from dotenv import load_dotenv
+from env import ANTHROPIC_API_KEYS
 from langchain.chat_models import ChatAnthropic
 from langchain.schema import AIMessage, BaseMessage, HumanMessage
 from pydantic import BaseModel, Field
 
 load_dotenv()
-ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 
 
 # %%
@@ -44,7 +44,10 @@ class TweetDatabase:
         self.tweets.append(tweet)
 
     def get_timeline(self):
-        # get at most last 50 tweets
+        """
+        Gets the timeline for a user to include in their prompt.
+        """
+
         return self.tweets[-50:]
 
     def update_log(self):
@@ -61,12 +64,18 @@ class TweetDatabase:
 users: UserDatabase = UserDatabase()
 tweets: TweetDatabase = TweetDatabase()
 
-llm = ChatAnthropic(
-    anthropic_api_key=ANTHROPIC_API_KEY,
-    model="claude-2",
-    temperature=0.2,
-    max_tokens_to_sample=4096,
-)
+llms = [
+    {
+        "llm": ChatAnthropic(
+            anthropic_api_key=anthropic_api_key,
+            model="claude-2",
+            temperature=0.2,
+            max_tokens_to_sample=4096,
+        ),
+        "max_concurrent": 2,
+    }
+    for anthropic_api_key in ANTHROPIC_API_KEYS
+]
 
 
 class ActionType(str, Enum):
@@ -197,6 +206,17 @@ class Tweet(BaseModel):
     # TODO: add validator for parent_tweet_id
 
     @property
+    def score(self) -> int:
+        """
+        THE TWITTER ALGORITHM
+
+        Sum of number of likes, retweets, quotes, and comments.
+        """
+        return (
+            len(self.likes) + len(self.retweets) + len(self.quotes) + len(self.comments)
+        )
+
+    @property
     def parent_tweet(self) -> Tweet:
         if self.parent_id is None:
             raise ValueError("Tweet is not a quote or comment")
@@ -291,19 +311,19 @@ def init_tweets():
     # add judges too
 
     NUM_DEFAULT_USERS = 3
-    judge_json = '../samples/initjudges.json'
-    with open(judge_json, 'r') as file:
+    judge_json = "../samples/initjudges.json"
+    with open(judge_json, "r") as file:
         data = json.load(file)
         for i, judge in enumerate(data):
             users.add_user(
-                User(handle=judge['handle'], name=judge['name'], bio=judge['bio']),
+                User(handle=judge["handle"], name=judge["name"], bio=judge["bio"]),
             )
-            if judge['texts']:
-                for text in judge['texts']:
+            if judge["texts"]:
+                for text in judge["texts"]:
                     tweets.add_tweet(
                         Tweet(
                             type=TweetType.TWEET,
-                            user_id=i + NUM_DEFAULT_USERS,
+                            user_id=i + NUM_DEFAULT_USERS + 1,
                             likes=[],
                             retweets=[],
                             comments=[],
