@@ -13,9 +13,36 @@ ipywidgets = "^8.0.7"
 langchain = "^0.0.247"
 python-dotenv = "^1.0.0"
 fastapi = "^0.100.1"
-uvicorn = {extras = ["standard"], version = "^0.23.1"}
+uvicorn = { extras = ["standard"], version = "^0.23.1" }
 
+
+[tool.poetry.group.dev.dependencies]
+pyright = "^1.1.318"
+ruff = "^0.0.280"
+black = "^23.7.0"
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.ruff]
+line-length = 120
+ignore = ["E501"]
+
+[tool.pyright]
+include = ["src"]
+typeCheckingMode = "strict"
+useLibraryCodeForTypes = true
+
+reportMissingTypeStubs = "warning"
+
+reportUnusedImport = "warning"
+reportUnusedVariable = "warning"
+
+reportPrivateImportUsage = "none"
+
+reportUnknownParameterType = "none"
+reportUnknownArgumentType = "none"
+reportUnknownLambdaType = "none"
+reportUnknownVariableType = "none"
+reportUnknownMemberType = "none"

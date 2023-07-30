@@ -54,6 +54,11 @@ def init_tweets():
         User(handle="jack", name="Jack Dorsey", bio="CEO of Twitter"),
         User(handle="sundarpichai", name="Sundar Pichai", bio="CEO of Google"),
         User(handle="satyanadella", name="Satya Nadella", bio="CEO of Microsoft"),
+        User(
+            handle="TheDweck",
+            name="Jess Dweck",
+            bio="Writer for the TV. Bigtime cool person",
+        ),
     ]
 
     tweets = [
@@ -88,6 +93,10 @@ def init_tweets():
 
 
 users, tweets = init_tweets()
+
+
+def build_user_action_prompt(user: User):
+    return ""
 
 
 @app.post("/start")
