@@ -35,3 +35,20 @@ export interface ApiFeed {
   users: Array<ApiUser>;
   tweets: Array<ApiTweet | ApiQuote | ApiComment>;
 }
+
+export type Tweet = {
+  id: number;
+  name: string;
+  handle: string;
+  content: string;
+  likes: number;
+  retweets: number;
+  comments: number;
+  timestamp: number;
+};
+
+export type Quote = Tweet & {
+  quotedTweet: Tweet;
+};
+
+export type Post = Tweet | Quote;

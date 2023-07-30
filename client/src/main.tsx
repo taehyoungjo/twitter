@@ -4,6 +4,7 @@ import { Feed } from "./Feed.tsx";
 import "./index.css";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { TweetView } from "./TweetView.tsx";
 
 const router = createBrowserRouter([
   {
@@ -13,6 +14,10 @@ const router = createBrowserRouter([
   {
     path: "/user/:username",
     element: <Feed />,
+  },
+  {
+    path: "/tweet/:id",
+    element: <TweetView />,
   },
 ]);
 

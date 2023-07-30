@@ -1,32 +1,20 @@
 import { useEffect, useState } from "react";
-import { apiClient, ApiFeed } from "./config";
-import { FaRegComment, FaRetweet, FaRegHeart } from "react-icons/fa";
+import { apiClient, ApiFeed, Post } from "./config";
+import { FaRegComment, FaRegHeart } from "react-icons/fa";
 import { AiOutlineRetweet } from "react-icons/ai";
-
-type Tweet = {
-  id: number;
-  name: string;
-  handle: string;
-  content: string;
-  likes: number;
-  retweets: number;
-  comments: number;
-  timestamp: number;
-};
-
-type Quote = Tweet & {
-  quotedTweet: Tweet;
-};
-
-type Post = Tweet | Quote;
+import { useNavigate } from "react-router-dom";
 
 export function Feed() {
+  const navigate = useNavigate();
   const [feed, setFeed] = useState<Post[] | undefined>();
 
   function convertFeed(apiFeed: ApiFeed) {
     const newFeed: Post[] = [];
 
     apiFeed.tweets.forEach((t, index) => {
+      if ("parent_tweet_id" in t) {
+        return;
+      }
       const author = apiFeed.users[t.user_id];
       if ("quoted_tweet_id" in t) {
         const quotedTweet = apiFeed.tweets[t.quoted_tweet_id];
@@ -79,13 +67,21 @@ export function Feed() {
     return () => clearInterval(interval);
   }, []);
 
+  console.log(feed);
+
   return (
     <div className="border-slate-200 border-t">
       {feed &&
         feed.map((f) => {
           if ("quotedTweet" in f) {
             return (
-              <div className="flex space-x-4 border-b border-slate-200 p-4">
+              <div
+                className="flex space-x-4 border-b border-slate-200 p-4"
+                onClick={() => {
+                  // use react router to navigate to the tweet view
+                  navigate(`/tweet/${f.id}`);
+                }}
+              >
                 {/* Avatar */}
                 <div className="bg-slate-300 rounded-full w-8 h-8"></div>
 
@@ -105,6 +101,11 @@ export function Feed() {
                   <div
                     key={f.quotedTweet.id}
                     className="space-y-2 border border-slate-200 p-4 rounded-lg"
+                    onClick={(e) => {
+                      // use react router to navigate to the tweet view
+                      e.stopPropagation();
+                      navigate(`/tweet/${f.quotedTweet.id}`);
+                    }}
                   >
                     <div className="flex space-x-2 items-center">
                       <div className="bg-slate-300 rounded-full w-5 h-5"></div>
@@ -116,14 +117,14 @@ export function Feed() {
                         {new Date(f.quotedTweet.timestamp).toLocaleString()}
                       </span>
                     </div>
-                    <div>{f.content}</div>
+                    <div>{f.quotedTweet.content}</div>
                   </div>
 
                   {/* Footer */}
                   <div className="flex space-x-2">
                     <div className="text-slate-600 flex space-x-1 items-center">
                       <FaRegComment />
-                      <span>{f.likes}</span>
+                      <span>{f.comments}</span>
                     </div>
                     <div className="text-slate-600 flex space-x-2 items-center">
                       <AiOutlineRetweet />
@@ -131,7 +132,7 @@ export function Feed() {
                     </div>
                     <div className="text-slate-600 flex space-x-2 items-center">
                       <FaRegHeart />
-                      <span>{f.comments}</span>
+                      <span>{f.likes}</span>
                     </div>
                   </div>
                 </div>
@@ -140,7 +141,13 @@ export function Feed() {
           }
 
           return (
-            <div className="flex space-x-4 border-b border-slate-200 p-4">
+            <div
+              className="flex space-x-4 border-b border-slate-200 p-4"
+              onClick={() => {
+                // use react router to navigate to the tweet view
+                navigate(`/tweet/${f.id}`);
+              }}
+            >
               {/* Avatar */}
               <div className="bg-slate-300 rounded-full w-8 h-8"></div>
 
@@ -159,7 +166,7 @@ export function Feed() {
                 <div className="flex space-x-2">
                   <div className="text-slate-600 flex space-x-1 items-center">
                     <FaRegComment />
-                    <span>{f.likes}</span>
+                    <span>{f.comments}</span>
                   </div>
                   <div className="text-slate-600 flex space-x-2 items-center">
                     <AiOutlineRetweet />
@@ -167,7 +174,7 @@ export function Feed() {
                   </div>
                   <div className="text-slate-600 flex space-x-2 items-center">
                     <FaRegHeart />
-                    <span>{f.comments}</span>
+                    <span>{f.likes}</span>
                   </div>
                 </div>
               </div>
