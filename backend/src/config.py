@@ -51,6 +51,13 @@ class TweetDatabase:
 users: UserDatabase = UserDatabase()
 tweets: TweetDatabase = TweetDatabase()
 
+llm = ChatAnthropic(
+    anthropic_api_key=ANTHROPIC_API_KEY,
+    model="claude-2",
+    temperature=0.2,
+    max_tokens_to_sample=4096,
+)
+
 
 class ActionType(str, Enum):
     TWEET = "TWEET"
@@ -193,13 +200,13 @@ class Tweet(BaseModel):
     def __str__(self):
         if self.type == TweetType.TWEET:
             return f"""\
-<tweet id="{self.tweet_id}">
+<tweet id="{self.tweet_id}" author="{self.author.name}">
     {self.content}
 </tweet>\
 """
         elif self.type == TweetType.QUOTE:
             return f"""\
-<quote id="{self.tweet_id}">
+<quote id="{self.tweet_id}" author="{self.author.name}">
     <parent id="{self.parent_id}" author="{self.parent_tweet.author.name}">
         {self.parent_tweet.content}
     </parent>
@@ -209,7 +216,7 @@ class Tweet(BaseModel):
 
         elif self.type == TweetType.COMMENT:
             return f"""\
-<comment id="{self.tweet_id}">
+<comment id="{self.tweet_id}" author="{self.author.name}">
     <parent id="{self.parent_id}" author="{self.parent_tweet.author.name}">
         {self.parent_tweet.content}
     </parent>
@@ -275,22 +282,6 @@ def init_tweets():
 init_tweets()
 
 
-llm = ChatAnthropic(
-    anthropic_api_key=ANTHROPIC_API_KEY,
-    model="claude-2",
-    temperature=0.2,
-    max_tokens_to_sample=4096,
-)
-
-
-sample = User.parse_file("../samples/jess.json")
-
-users.add_user(sample)
-
-
-# %%
-
-
 def build_prompt(user: User, timeline: list[Tweet]) -> list[BaseMessage]:
     messages = []
     prompt = f'You are a Twitter user named {user.name}. Your bio is: "{user.bio}". Below is a collection of your past activity on Twitter, formatted as XML. These examples of how you use Twitter demonstrate your personality:\n'
@@ -309,11 +300,23 @@ def build_prompt(user: User, timeline: list[Tweet]) -> list[BaseMessage]:
 
     prompt += "</timeline>\n\n"
 
-    prompt += "Looking only at your current timeline, generate up to 3 new actions to the timeline that you might take during this Twitter session. Return your response as XML, matching the schema from above. Only generate tweets, comments, retweets, and quotes. Include IDs for any parents."
+    prompt += """\
+Looking only at your current timeline, generate up to 3 new actions to the timeline that you might take during this Twitter session. Only generate tweets, comments, retweets, and quotes. Include IDs for any parents.
+
+Before giving your response, think about what Tweets, if any, you would interact with, why you would react to them, and what your tone and writing style would be. Use the following demonstration XML:
+<response>
+<thoughts>
+Your thoughts here
+</thoughts>
+<activity>
+Your tweets, comments, retweets, and quotes here
+</activity>
+</response>\
+"""
 
     messages.append(HumanMessage(content=prompt))
 
-    ai_prompt = " Here are up to 3 new actions I might take, based on Tweets on my timeline:\n<activity>\n"
+    ai_prompt = "<response><thoughts>\n"
 
     messages.append(AIMessage(content=ai_prompt))
 
@@ -321,14 +324,15 @@ def build_prompt(user: User, timeline: list[Tweet]) -> list[BaseMessage]:
 
 
 def clean_result(result: str):
-    return "<activity>\n" + result
+    return "<response>\n<thoughts>\n" + result
 
 
 def parse_xml_to_actions(xml_text: str, user_id: int):
     root = ET.fromstring(xml_text)
+    activity = root.find("activity")
     actions = []
 
-    for action in root:
+    for action in activity:
         if action.tag == "tweet":
             actions.append(
                 Action(
@@ -446,3 +450,6 @@ def update_globals(actions: list[Action]):
 
 
 # %%
+sample = User.parse_file("../samples/jess.json")
+
+users.add_user(sample)
