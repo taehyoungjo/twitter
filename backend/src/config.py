@@ -189,6 +189,7 @@ class User(BaseModel):
     handle: str
     name: str
     bio: str
+    avatar_url: str
     activity: list[Action] = Field(default_factory=list, exclude=True)
 
 
@@ -274,16 +275,36 @@ class Tweet(BaseModel):
 # Initialize tweets with some dummy data
 def init_tweets():
     users.add_user(
-        User(handle="elonmusk", name="Elon Musk", bio="Technoking of Tesla"),
+        User(
+            handle="elonmusk",
+            name="Elon Musk",
+            bio="Technoking of Tesla",
+            avatar_url="https://pbs.twimg.com/profile_images/1683325380441128960/yRsRRjGO_400x400.jpg",
+        ),
     )
     users.add_user(
-        User(handle="jack", name="Jack Dorsey", bio="CEO of Twitter"),
+        User(
+            handle="jack",
+            name="Jack Dorsey",
+            bio="CEO of Twitter",
+            avatar_url="https://pbs.twimg.com/profile_images/1661201415899951105/azNjKOSH_400x400.jpg",
+        ),
     )
     users.add_user(
-        User(handle="sundarpichai", name="Sundar Pichai", bio="CEO of Google"),
+        User(
+            handle="sundarpichai",
+            name="Sundar Pichai",
+            bio="CEO of Google",
+            avatar_url="https://pbs.twimg.com/profile_images/864282616597405701/M-FEJMZ0_400x400.jpg",
+        ),
     )
     users.add_user(
-        User(handle="satyanadella", name="Satya Nadella", bio="CEO of Microsoft"),
+        User(
+            handle="satyanadella",
+            name="Satya Nadella",
+            bio="CEO of Microsoft",
+            avatar_url="https://pbs.twimg.com/profile_images/1221837516816306177/_Ld4un5A_400x400.jpg",
+        ),
     )
 
     tweets.add_tweet(

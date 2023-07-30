@@ -2,20 +2,130 @@
   "handle": "jerryjliu0",
   "name": "Jerry Liu",
   "bio": "co-founder/CEO @llama_index\n\nEx-ML @robusthq,  AI research @Uber_ATG and ML Eng @Quora. Princeton '17",
+  "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg",
   "activity": [
+    {
+      "type": "TWEET",
+      "text": "We’re doing a deep dive of two important concepts ⚠️ for better, faster, cheaper RAG systems in production 🔥:\n\n📝 Document metadata: leads to higher accuracy retrieval. Metadata can help add global context to chunks, both in the document and also outside of it (e.g. external…",
+      "quotes": 0,
+      "replies": 4,
+      "retweets": 3,
+      "bookmarks": 18,
+      "likes": 34,
+      "id": "1685691626436632576",
+      "author": {
+        "handle": "jerryjliu0",
+        "name": "Jerry Liu",
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "REPLY",
+      "text": "Check out our @docugami integration on LlamaHub: https://t.co/HSOCrOQuF5",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "id": "1685691915243806720",
+      "author": {
+        "handle": "jerryjliu0",
+        "name": "Jerry Liu",
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
+      },
+      "quoted": false,
+      "replyToId": "1685691626436632576",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "We’re doing a deep dive of two important concepts ⚠️ for better, faster, cheaper RAG systems in production 🔥:\n\n📝 Document metadata: leads to higher accuracy retrieval. Metadata can help add global context to chunks, both in the document and also outside of it (e.g. external…",
+        "quotes": 0,
+        "replies": 4,
+        "retweets": 3,
+        "bookmarks": 18,
+        "likes": 34,
+        "id": "1685691626436632576",
+        "author": {
+          "handle": "jerryjliu0",
+          "name": "Jerry Liu",
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "REPLY",
+      "text": "We've tweeted about both metadata and the need for local models before:\n\nhttps://t.co/Lihs3u5Rzv\n\nhttps://t.co/gY50A3K2ty\n\nDuring this webinar we'll cover this even more in depth!",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0,
+      "bookmarks": 0,
+      "likes": 3,
+      "id": "1685691819081023489",
+      "author": {
+        "handle": "jerryjliu0",
+        "name": "Jerry Liu",
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
+      },
+      "quoted": {
+        "text": "A lot of enterprises building with LLMs are worried about security/privacy 🔐 when using OpenAI APIs (which seems to be the default model everyone starts with).\n\nBut then it seems that you're left with two main options:\n1️⃣ Use an open-source model with a permissive enough license…",
+        "id": "1677459692803731457"
+      },
+      "quoteDeleted": false,
+      "replyToId": "1685691626436632576",
+      "replyTo": {
+        "type": "TWEET",
+        "text": "We’re doing a deep dive of two important concepts ⚠️ for better, faster, cheaper RAG systems in production 🔥:\n\n📝 Document metadata: leads to higher accuracy retrieval. Metadata can help add global context to chunks, both in the document and also outside of it (e.g. external…",
+        "quotes": 0,
+        "replies": 4,
+        "retweets": 3,
+        "bookmarks": 18,
+        "likes": 34,
+        "id": "1685691626436632576",
+        "author": {
+          "handle": "jerryjliu0",
+          "name": "Jerry Liu",
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
+        },
+        "quoted": false
+      }
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @llama_index: A common issue we’ve found with conversational agents - they often hallucinate information instead of using tools to looku…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 7,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1685690633762267136",
+      "author": {
+        "handle": "jerryjliu0",
+        "name": "Jerry Liu",
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
+      },
+      "quoted": false
+    },
     {
       "type": "TWEET",
       "text": "The `rebel-large` model is awesome for relation extraction 🔗\n\nPaired with CUDA, it’s blazing fast ⚡️. With @llama_index 🦙, we can now build a knowledge graph over any text data super quickly! 🕸️\n\nFull Colab notebook showing how you can use it: \n\nhttps://t.co/0EUpzKjVWK https://t.co/m9w39CjMTb",
       "quotes": 13,
       "replies": 16,
-      "retweets": 204,
-      "bookmarks": 771,
-      "likes": 875,
+      "retweets": 206,
+      "bookmarks": 780,
+      "likes": 881,
       "id": "1685078740555169793",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -31,7 +141,8 @@
       "author": {
         "handle": "max_mohammadi",
         "name": "maxmohammadi.sol",
-        "id": "1350923928009547778"
+        "id": "1350923928009547778",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1667061899253645314/7iMTnkLG_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1685078740555169793",
@@ -40,14 +151,15 @@
         "text": "The `rebel-large` model is awesome for relation extraction 🔗\n\nPaired with CUDA, it’s blazing fast ⚡️. With @llama_index 🦙, we can now build a knowledge graph over any text data super quickly! 🕸️\n\nFull Colab notebook showing how you can use it: \n\nhttps://t.co/0EUpzKjVWK https://t.co/m9w39CjMTb",
         "quotes": 13,
         "replies": 16,
-        "retweets": 204,
-        "bookmarks": 771,
-        "likes": 875,
+        "retweets": 206,
+        "bookmarks": 780,
+        "likes": 881,
         "id": "1685078740555169793",
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -64,7 +176,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1685364154046251009",
@@ -80,7 +193,8 @@
         "author": {
           "handle": "max_mohammadi",
           "name": "maxmohammadi.sol",
-          "id": "1350923928009547778"
+          "id": "1350923928009547778",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1667061899253645314/7iMTnkLG_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1685078740555169793"
@@ -93,12 +207,13 @@
       "replies": 0,
       "retweets": 1,
       "bookmarks": 0,
-      "likes": 24,
+      "likes": 25,
       "id": "1685498261766017024",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": {
         "text": "In honor of the @AnthropicAI Claude 2 @cerebral_valley hackathon I implemented Anthropic support in @llama_index TS: https://t.co/epJV26rfSt Overall it was really straightforward spent a bit over an hour and most of that was making sure the examples worked. 🧵",
@@ -110,14 +225,15 @@
       "text": "RT @yi_ding: In honor of the @AnthropicAI Claude 2 @cerebral_valley hackathon I implemented Anthropic support in @llama_index TS: https://t…",
       "quotes": 0,
       "replies": 0,
-      "retweets": 6,
+      "retweets": 7,
       "bookmarks": 0,
       "likes": 0,
       "id": "1685498162717532161",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -133,7 +249,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -144,12 +261,13 @@
       "replies": 2,
       "retweets": 13,
       "bookmarks": 12,
-      "likes": 61,
+      "likes": 62,
       "id": "1685399214342422528",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -165,7 +283,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1685399214342422528",
@@ -176,12 +295,13 @@
         "replies": 2,
         "retweets": 13,
         "bookmarks": 12,
-        "likes": 61,
+        "likes": 62,
         "id": "1685399214342422528",
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -198,7 +318,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -207,14 +328,15 @@
       "text": "RT @llama_index: There’s a lot of vector dbs out there - they all share similarities, but what are the differences between them?\n\nThis has…",
       "quotes": 0,
       "replies": 0,
-      "retweets": 58,
+      "retweets": 59,
       "bookmarks": 0,
       "likes": 0,
       "id": "1685326469751574528",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -224,13 +346,14 @@
       "quotes": 2,
       "replies": 1,
       "retweets": 26,
-      "bookmarks": 156,
-      "likes": 189,
+      "bookmarks": 158,
+      "likes": 190,
       "id": "1685324894941347840",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -246,7 +369,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -262,7 +386,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1685078740555169793",
@@ -271,14 +396,15 @@
         "text": "The `rebel-large` model is awesome for relation extraction 🔗\n\nPaired with CUDA, it’s blazing fast ⚡️. With @llama_index 🦙, we can now build a knowledge graph over any text data super quickly! 🕸️\n\nFull Colab notebook showing how you can use it: \n\nhttps://t.co/0EUpzKjVWK https://t.co/m9w39CjMTb",
         "quotes": 13,
         "replies": 16,
-        "retweets": 204,
-        "bookmarks": 771,
-        "likes": 875,
+        "retweets": 206,
+        "bookmarks": 780,
+        "likes": 881,
         "id": "1685078740555169793",
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -295,7 +421,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -311,7 +438,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": {
         "text": "If you’re like me, you are probably surprised to see so many people talking about Llama’s in tech 🦙\n\nI decided to write up an overview of the llama frenzy:\n\nhttps://t.co/cSQZX8HRag https://t.co/HVcaLUYGVs",
@@ -330,7 +458,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -346,7 +475,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -362,7 +492,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": {
         "text": "It's bittersweet to leave the Messaging Apps team at Apple, a team I co-founded 7 years ago. It was, and still is, an incredible team of engineers. Over the years, we shipped Apple's official account on WeChat, the Apple Business Chat chatbot, and two weeks ago Apple's WeChat…",
@@ -381,7 +512,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -397,7 +529,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -413,7 +546,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": {
         "text": "Thinking of prompt engineering as schema engineering can reduce development pains - treat prompts as Pydantic objects!\n\nOur webinar with @jxnlco (which just happened 2 hours ago) is now LIVE on YouTube 🎬: https://t.co/1dZg76IjWJ\n\nSlides 🧑‍🏫: https://t.co/g7dnXMH6Jr",
@@ -432,7 +566,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -448,7 +583,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -464,7 +600,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": {
         "text": "Great chat with @jerryjliu0 and @llama_index talking about @pydantic :)\n\nHere are the links to the slide! we didn't know it would be capped at 100 people out of ~ 500 sign ups... \n\nhttps://t.co/ciDcQTuj6R",
@@ -483,7 +620,8 @@
       "author": {
         "handle": "jxnlco",
         "name": "jason",
-        "id": "17203692"
+        "id": "17203692",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1682267111555571714/VDORoUy__normal.jpg"
       },
       "quoted": false
     },
@@ -499,7 +637,8 @@
       "author": {
         "handle": "avthars",
         "name": "Avthar",
-        "id": "179837138"
+        "id": "179837138",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1526252101143351296/tI-vIbQG_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684971442318843918",
@@ -515,7 +654,8 @@
         "author": {
           "handle": "jxnlco",
           "name": "jason",
-          "id": "17203692"
+          "id": "17203692",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1682267111555571714/VDORoUy__normal.jpg"
         },
         "quoted": false
       }
@@ -532,7 +672,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684972041076711466",
@@ -548,7 +689,8 @@
         "author": {
           "handle": "avthars",
           "name": "Avthar",
-          "id": "179837138"
+          "id": "179837138",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1526252101143351296/tI-vIbQG_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684971442318843918"
@@ -566,7 +708,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -582,7 +725,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -598,7 +742,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -614,7 +759,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -630,7 +776,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -646,7 +793,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -662,7 +810,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -678,7 +827,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -694,7 +844,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -710,7 +861,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684645112738111490",
@@ -726,7 +878,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -743,7 +896,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": {
         "text": "We're doing a LIVE, in-person workshop with @truera_ai this Thursday in SF! \n\nCome for the AI networking and food/drinks 🍻🎊\n\nStay to learn principled LLM development practices, so that you can iterate on your app (whether its a chatbot or agent) and make it production-ready ⚙️",
@@ -762,7 +916,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -778,7 +933,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -794,7 +950,8 @@
       "author": {
         "handle": "jxnlco",
         "name": "jason",
-        "id": "17203692"
+        "id": "17203692",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1682267111555571714/VDORoUy__normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684589394588729344",
@@ -810,7 +967,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684589391895998464"
@@ -828,7 +986,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684591356063150087",
@@ -844,44 +1003,11 @@
         "author": {
           "handle": "jxnlco",
           "name": "jason",
-          "id": "17203692"
+          "id": "17203692",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1682267111555571714/VDORoUy__normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684589394588729344"
-      }
-    },
-    {
-      "type": "REPLY",
-      "text": "With a sentence transformer rerank module, we can test whether ordering the existing context can make the synthesis task easier for LLMs, and it seems like it does. https://t.co/C4k9znNTqe",
-      "quotes": 0,
-      "replies": 1,
-      "retweets": 0,
-      "bookmarks": 1,
-      "likes": 2,
-      "id": "1684589391895998464",
-      "author": {
-        "handle": "jerryjliu0",
-        "name": "Jerry Liu",
-        "id": "369777416"
-      },
-      "quoted": false,
-      "replyToId": "1684589386518896640",
-      "replyTo": {
-        "type": "REPLY",
-        "text": "Let’s walk through an example:\n\nWe try a naive VectorStoreIndex query engine using ChatGPT. Using the HotpotQAEvaluator we generate answers from the engine. We compute exact match and F1 scores. https://t.co/6hQIMCZFbS",
-        "quotes": 0,
-        "replies": 1,
-        "retweets": 0,
-        "bookmarks": 1,
-        "likes": 2,
-        "id": "1684589386518896640",
-        "author": {
-          "handle": "jerryjliu0",
-          "name": "Jerry Liu",
-          "id": "369777416"
-        },
-        "quoted": false,
-        "replyToId": "1684589381838049282"
       }
     },
     {
@@ -896,7 +1022,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684589391895998464",
@@ -912,7 +1039,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684589386518896640"
@@ -930,7 +1058,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -946,7 +1075,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -962,7 +1092,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -978,7 +1109,8 @@
       "author": {
         "handle": "mayowaoshin",
         "name": "Mayo Oshin",
-        "id": "877924658393305088"
+        "id": "877924658393305088",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1577641522404663296/y2VuLYx9_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684354464734642177",
@@ -994,7 +1126,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -1011,7 +1144,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684554536277475328",
@@ -1027,7 +1161,8 @@
         "author": {
           "handle": "mayowaoshin",
           "name": "Mayo Oshin",
-          "id": "877924658393305088"
+          "id": "877924658393305088",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1577641522404663296/y2VuLYx9_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684354464734642177"
@@ -1045,7 +1180,8 @@
       "author": {
         "handle": "jaraujo_digital",
         "name": "Jeff Araujo",
-        "id": "396084251"
+        "id": "396084251",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1673876379404754945/gRpkmQlT_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684354464734642177",
@@ -1061,7 +1197,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -1078,7 +1215,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684361391942115328",
@@ -1094,7 +1232,8 @@
         "author": {
           "handle": "jaraujo_digital",
           "name": "Jeff Araujo",
-          "id": "396084251"
+          "id": "396084251",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1673876379404754945/gRpkmQlT_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684354464734642177"
@@ -1112,7 +1251,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1128,7 +1268,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1144,7 +1285,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1160,7 +1302,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1176,7 +1319,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1192,7 +1336,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684231635850629120",
@@ -1208,7 +1353,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684231634315530240"
@@ -1226,7 +1372,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684231637570326529",
@@ -1242,7 +1389,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684231635850629120"
@@ -1260,7 +1408,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1276,7 +1425,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1292,7 +1442,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1308,7 +1459,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1324,7 +1476,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1340,7 +1493,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": {
         "text": "Autonomous Agents: Are they destined to seize all Support Jobs?  🤖\n\nThis is the question we aimed to answer at the @augment hackathon where we built an Autonomous Support bot leveraging @llama_index.   \n\nDemo: https://t.co/k7ZLjuMGrw\n\nOverview / learnings / code below 👇",
@@ -1359,7 +1513,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1375,7 +1530,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1391,7 +1547,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": {
         "text": "One of the things we want to do with @llama_index TS is to help you see how LlamaIndex can help you choose the right text splitting, retrieval, and combination strategy. To that end, we're building https://t.co/VXLMYxII7w. OSS and built with @nextjs and @shadcn",
@@ -1410,7 +1567,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1426,7 +1584,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1442,7 +1601,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1458,7 +1618,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1474,7 +1635,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1490,7 +1652,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1506,7 +1669,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1683874608603340801",
@@ -1522,7 +1686,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -1539,7 +1704,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1555,7 +1721,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": {
         "text": "Tomorrow is the big day! 🎉 \n\nExcited about the future of Retrieval-Augmented Generation?\n\nJoin us for a captivating journey into cutting-edge systems with @llama_index!\n\n👉 Register now: https://t.co/i7XGLuevBz https://t.co/MFspCoHDmt",
@@ -1575,7 +1742,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1683820616917581825",
@@ -1591,7 +1759,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": {
           "text": "Tomorrow is the big day! 🎉 \n\nExcited about the future of Retrieval-Augmented Generation?\n\nJoin us for a captivating journey into cutting-edge systems with @llama_index!\n\n👉 Register now: https://t.co/i7XGLuevBz https://t.co/MFspCoHDmt",
@@ -1612,7 +1781,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1628,7 +1798,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1644,7 +1815,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1660,7 +1832,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1676,7 +1849,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1692,7 +1866,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1683639076677902336",
@@ -1708,7 +1883,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -1725,7 +1901,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1741,7 +1918,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1757,7 +1935,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1683560498040823808",
@@ -1773,7 +1952,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": {
           "text": "✨npm i llamaindex✨\n\nThe best data framework for LLM - now in Typescript!\n\nWe’ve distilled the *core* of LlamaIndex into a simple &amp; lightweight package to add LLM magic 🪄 to your Typescript apps!\n\nGet started at https://t.co/rEAGwPltuW https://t.co/6f1Cz0Gu3B",
@@ -1795,7 +1975,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1811,7 +1992,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1827,7 +2009,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1843,7 +2026,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": {
         "text": "6th lesson in @llama_index course is out now\n\nWe discuss\n\n1. Router Query Engine\n2. Retriever Router Query Engine\n3. Joint QA Summary Query Engine\n4. Sub Question Query Engine\n5. Custom Retriever with Hybrid Search\n\nin details along with code examples  \n\nGithub link below ↓ https://t.co/66NHbi92dW",
@@ -1862,7 +2046,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1878,7 +2063,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1894,7 +2080,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1683121361403936769",
@@ -1910,7 +2097,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -1927,7 +2115,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1943,7 +2132,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1959,7 +2149,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -1975,7 +2166,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682558166851264513",
@@ -1991,7 +2183,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -2008,7 +2201,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682558170772963330",
@@ -2024,7 +2218,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1682558166851264513"
@@ -2042,7 +2237,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2058,7 +2254,8 @@
       "author": {
         "handle": "marcslove",
         "name": "Marc Love",
-        "id": "15644361"
+        "id": "15644361",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1351517991503089666/B8Qrx3Eq_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682524577434574853",
@@ -2074,7 +2271,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1682524576008527873"
@@ -2092,7 +2290,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682528084430397440",
@@ -2108,7 +2307,8 @@
         "author": {
           "handle": "marcslove",
           "name": "Marc Love",
-          "id": "15644361"
+          "id": "15644361",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1351517991503089666/B8Qrx3Eq_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1682524577434574853"
@@ -2126,7 +2326,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682524577434574853",
@@ -2142,7 +2343,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1682524576008527873"
@@ -2160,7 +2362,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2176,7 +2379,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2192,7 +2396,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2208,7 +2413,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2224,7 +2430,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2240,7 +2447,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2256,7 +2464,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2272,7 +2481,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682026251446521856",
@@ -2288,7 +2498,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -2305,7 +2516,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682026253774372865",
@@ -2321,7 +2533,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1682026251446521856"
@@ -2339,7 +2552,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2355,7 +2569,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2371,7 +2586,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2387,7 +2603,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2403,7 +2620,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2419,7 +2637,8 @@
       "author": {
         "handle": "agrwalprabhat",
         "name": "Prabhat Agarwal",
-        "id": "2509843159"
+        "id": "2509843159",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1212136006159224832/7tWOJQbn_normal.jpg"
       },
       "quoted": {
         "text": "Using top-k lookup for retrieval in your RAG system is fast but imprecise 🤔\n\nUsing cross-encoding as a reranking step can dramatically speed up LLM inference time AND improve accuracy! ⚡️\n\nHere's how to implement it in @llama_index 👇: https://t.co/CCfEzs5LOH https://t.co/1sTfq9M0c2",
@@ -2439,7 +2658,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681849926303531008",
@@ -2455,7 +2675,8 @@
         "author": {
           "handle": "agrwalprabhat",
           "name": "Prabhat Agarwal",
-          "id": "2509843159"
+          "id": "2509843159",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1212136006159224832/7tWOJQbn_normal.jpg"
         },
         "quoted": {
           "text": "Using top-k lookup for retrieval in your RAG system is fast but imprecise 🤔\n\nUsing cross-encoding as a reranking step can dramatically speed up LLM inference time AND improve accuracy! ⚡️\n\nHere's how to implement it in @llama_index 👇: https://t.co/CCfEzs5LOH https://t.co/1sTfq9M0c2",
@@ -2470,13 +2691,14 @@
       "quotes": 2,
       "replies": 5,
       "retweets": 18,
-      "bookmarks": 58,
+      "bookmarks": 59,
       "likes": 94,
       "id": "1681821012353228800",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2492,7 +2714,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681821021333250048",
@@ -2508,7 +2731,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1681821016253935617"
@@ -2526,7 +2750,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2542,7 +2767,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681816031134883840",
@@ -2558,7 +2784,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1681816027552944128"
@@ -2576,7 +2803,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": {
         "text": "Indexes enable quick retrieval of relevant documents - here are a few in @llama_index  🏎️\n\n• Vector Store Index: Store nodes and embeddings in the vector db\n• List Index: Store nodes sequentially \n• Tree Index: Hierarchal structure of the nodes \n\nDemo: https://t.co/mDu2IbV23F https://t.co/PuGqn8eVy2",
@@ -2595,7 +2823,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2611,7 +2840,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2627,7 +2857,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2643,7 +2874,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": {
         "text": "Llama 2 Protip\n\nIf you are hacking with the @replicate hosted 13B or 70B models (playground or API), this is relevant for you!\n\nThe `max_length` parameter limits the total number of tokens (i.e. sum of input prompt + output response). \n\nMore details 👇",
@@ -2662,7 +2894,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2678,7 +2911,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2694,7 +2928,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2710,7 +2945,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": {
         "text": "Llama 2 Prompt Structure\nhttps://t.co/su33GhSQlF is a fantastic playground for the latest Llama 2 model.\n\nBut wait, is the suggested prompt structure the best way to interact with the model?\n\"\"\"\nUser: &lt;your prompt goes here&gt; \nAssistant:\n\"\"\"\n\nSome initial notes 👇",
@@ -2730,7 +2966,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -2747,7 +2984,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681666821928132609",
@@ -2763,7 +3001,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": {
           "text": "Llama 2 Prompt Structure\nhttps://t.co/su33GhSQlF is a fantastic playground for the latest Llama 2 model.\n\nBut wait, is the suggested prompt structure the best way to interact with the model?\n\"\"\"\nUser: &lt;your prompt goes here&gt; \nAssistant:\n\"\"\"\n\nSome initial notes 👇",
@@ -2785,7 +3024,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2801,7 +3041,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681666416976560128",
@@ -2817,7 +3058,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -2834,7 +3076,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681666420839424001",
@@ -2850,7 +3093,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1681666416976560128"
@@ -2868,7 +3112,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2884,7 +3129,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": {
         "text": "Llama 2 Prompt Structure\nhttps://t.co/su33GhSQlF is a fantastic playground for the latest Llama 2 model.\n\nBut wait, is the suggested prompt structure the best way to interact with the model?\n\"\"\"\nUser: &lt;your prompt goes here&gt; \nAssistant:\n\"\"\"\n\nSome initial notes 👇",
@@ -2903,7 +3149,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2919,7 +3166,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -2935,7 +3183,8 @@
       "author": {
         "handle": "matei_zaharia",
         "name": "Matei Zaharia",
-        "id": "201130645"
+        "id": "201130645",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/787317891867693061/isUFxFC1_normal.jpg"
       },
       "quoted": false
     },
@@ -2951,7 +3200,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681467961905926144",
@@ -2967,7 +3217,8 @@
         "author": {
           "handle": "matei_zaharia",
           "name": "Matei Zaharia",
-          "id": "201130645"
+          "id": "201130645",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/787317891867693061/isUFxFC1_normal.jpg"
         },
         "quoted": false
       }
@@ -2984,7 +3235,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -3000,7 +3252,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -3016,7 +3269,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -3032,7 +3286,8 @@
       "author": {
         "handle": "iamAliAgha",
         "name": "Ali Agha",
-        "id": "122614888"
+        "id": "122614888",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1594037908486295553/Q_bDnw3b_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681439995314470924",
@@ -3048,7 +3303,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -3065,7 +3321,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681449884937773057",
@@ -3081,7 +3338,8 @@
         "author": {
           "handle": "iamAliAgha",
           "name": "Ali Agha",
-          "id": "122614888"
+          "id": "122614888",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1594037908486295553/Q_bDnw3b_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1681439995314470924"
@@ -3099,7 +3357,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -3115,7 +3374,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -3131,7 +3391,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": {
         "text": "🦙x🦙 = 💪 Experiment with Llama 2 now via LlamaIndex! \n\nWe made a special release (v0.7.10.post1) to help you get started super easily 👇 https://t.co/CkfBHHE1Cb",
@@ -3150,7 +3411,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -3166,7 +3428,8 @@
       "author": {
         "handle": "er_akhil",
         "name": "Akhil Jain",
-        "id": "16446842"
+        "id": "16446842",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1282755875866804224/B1uBuc76_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681304143930212357",
@@ -3182,7 +3445,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -3199,7 +3463,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681435050372390913",
@@ -3215,7 +3480,8 @@
         "author": {
           "handle": "er_akhil",
           "name": "Akhil Jain",
-          "id": "16446842"
+          "id": "16446842",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1282755875866804224/B1uBuc76_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1681304143930212357"
@@ -3233,7 +3499,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -3249,7 +3516,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -3265,7 +3533,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -3281,7 +3550,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681304168630460421",
@@ -3297,7 +3567,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1681304164566175746"
@@ -3315,7 +3586,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -3331,7 +3603,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -3347,7 +3620,8 @@
       "author": {
         "handle": "namedgraph",
         "name": "Martynas Jusevičius",
-        "id": "25275776"
+        "id": "25275776",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1553740728/goa_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679649847136391168",
@@ -3363,7 +3637,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -3380,7 +3655,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681052299542528002",
@@ -3396,7 +3672,8 @@
         "author": {
           "handle": "namedgraph",
           "name": "Martynas Jusevičius",
-          "id": "25275776"
+          "id": "25275776",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1553740728/goa_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1679649847136391168"
@@ -3414,7 +3691,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -3430,7 +3708,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1680941608118927360",
@@ -3446,7 +3725,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1680941606122438657"
@@ -3464,7 +3744,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1680941609591119877",
@@ -3480,7 +3761,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1680941608118927360"
@@ -3498,7 +3780,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1680941606122438657",
@@ -3514,7 +3797,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -3531,7 +3815,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -3547,7 +3832,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -3563,7 +3849,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -3579,7 +3866,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -3595,7 +3883,8 @@
       "author": {
         "handle": "yuzhouyz",
         "name": "Joe Zhou",
-        "id": "123984251"
+        "id": "123984251",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1626826367492067328/vxoPSw3i_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1680572044960825344",
@@ -3611,7 +3900,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -3628,7 +3918,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1680681756251541505",
@@ -3644,7 +3935,8 @@
         "author": {
           "handle": "yuzhouyz",
           "name": "Joe Zhou",
-          "id": "123984251"
+          "id": "123984251",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1626826367492067328/vxoPSw3i_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1680572044960825344"
@@ -3662,7 +3954,8 @@
       "author": {
         "handle": "llama_index",
         "name": "LlamaIndex 🦙 (GPT Index)",
-        "id": "1604278358296055808"
+        "id": "1604278358296055808",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623505166996742144/n-PNQGgd_normal.jpg"
       },
       "quoted": false
     },
@@ -3678,7 +3971,8 @@
       "author": {
         "handle": "lateinteraction",
         "name": "Omar Khattab",
-        "id": "1605274291569799168"
+        "id": "1605274291569799168",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1613558765764374528/aZQB6U4b_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1680569394198372352",
@@ -3694,7 +3988,8 @@
         "author": {
           "handle": "llama_index",
           "name": "LlamaIndex 🦙 (GPT Index)",
-          "id": "1604278358296055808"
+          "id": "1604278358296055808",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623505166996742144/n-PNQGgd_normal.jpg"
         },
         "quoted": false
       }
@@ -3711,7 +4006,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1680596830361649153",
@@ -3727,7 +4023,8 @@
         "author": {
           "handle": "lateinteraction",
           "name": "Omar Khattab",
-          "id": "1605274291569799168"
+          "id": "1605274291569799168",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1613558765764374528/aZQB6U4b_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1680569394198372352"
@@ -3745,7 +4042,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -3761,7 +4059,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -3777,7 +4076,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1680210875024801792",
@@ -3793,7 +4093,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -3810,7 +4111,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1680210878568992768",
@@ -3826,7 +4128,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1680210875024801792"
@@ -3844,7 +4147,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -3860,7 +4164,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -3876,7 +4181,8 @@
       "author": {
         "handle": "dhaynes23",
         "name": "Derek Haynes",
-        "id": "15006466"
+        "id": "15006466",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/968495746948374529/WinozOYC_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679866631525380096",
@@ -3892,7 +4198,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -3909,7 +4216,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679875451228139521",
@@ -3925,7 +4233,8 @@
         "author": {
           "handle": "dhaynes23",
           "name": "Derek Haynes",
-          "id": "15006466"
+          "id": "15006466",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/968495746948374529/WinozOYC_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1679866631525380096"
@@ -3943,7 +4252,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -3959,7 +4269,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -3975,7 +4286,8 @@
       "author": {
         "handle": "dhaynes23",
         "name": "Derek Haynes",
-        "id": "15006466"
+        "id": "15006466",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/968495746948374529/WinozOYC_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679866631525380096",
@@ -3991,7 +4303,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -4008,7 +4321,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679874990819393536",
@@ -4024,7 +4338,8 @@
         "author": {
           "handle": "dhaynes23",
           "name": "Derek Haynes",
-          "id": "15006466"
+          "id": "15006466",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/968495746948374529/WinozOYC_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1679866631525380096"
@@ -4042,7 +4357,8 @@
       "author": {
         "handle": "alexhalliday",
         "name": "Alex Halliday",
-        "id": "11744852"
+        "id": "11744852",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1453771047635865600/gZuGBi5F_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679866631525380096",
@@ -4058,7 +4374,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -4075,7 +4392,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679877274836021249",
@@ -4091,7 +4409,8 @@
         "author": {
           "handle": "alexhalliday",
           "name": "Alex Halliday",
-          "id": "11744852"
+          "id": "11744852",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1453771047635865600/gZuGBi5F_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1679866631525380096"
@@ -4109,7 +4428,8 @@
       "author": {
         "handle": "ntkris",
         "name": "Krishna",
-        "id": "27213047"
+        "id": "27213047",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1522874874980671489/cCqH9E4g_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679866631525380096",
@@ -4125,7 +4445,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -4142,7 +4463,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679867059365195780",
@@ -4158,7 +4480,8 @@
         "author": {
           "handle": "ntkris",
           "name": "Krishna",
-          "id": "27213047"
+          "id": "27213047",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1522874874980671489/cCqH9E4g_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1679866631525380096"
@@ -4176,7 +4499,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -4192,7 +4516,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -4208,7 +4533,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -4224,7 +4550,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -4240,7 +4567,8 @@
       "author": {
         "handle": "llama_index",
         "name": "LlamaIndex 🦙 (GPT Index)",
-        "id": "1604278358296055808"
+        "id": "1604278358296055808",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623505166996742144/n-PNQGgd_normal.jpg"
       },
       "quoted": false
     },
@@ -4256,7 +4584,8 @@
       "author": {
         "handle": "kar2905",
         "name": "Kartik Mandaville",
-        "id": "19861423"
+        "id": "19861423",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/575198427081875456/uXTMd5bL_normal.png"
       },
       "quoted": false,
       "replyToId": "1679731344421847042",
@@ -4272,7 +4601,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1679523339058966529"
@@ -4290,7 +4620,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679732003707449344",
@@ -4306,7 +4637,8 @@
         "author": {
           "handle": "kar2905",
           "name": "Kartik Mandaville",
-          "id": "19861423"
+          "id": "19861423",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/575198427081875456/uXTMd5bL_normal.png"
         },
         "quoted": false,
         "replyToId": "1679731344421847042"
@@ -4324,7 +4656,8 @@
       "author": {
         "handle": "kar2905",
         "name": "Kartik Mandaville",
-        "id": "19861423"
+        "id": "19861423",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/575198427081875456/uXTMd5bL_normal.png"
       },
       "quoted": false,
       "replyToId": "1679522417558040577",
@@ -4340,7 +4673,8 @@
         "author": {
           "handle": "llama_index",
           "name": "LlamaIndex 🦙 (GPT Index)",
-          "id": "1604278358296055808"
+          "id": "1604278358296055808",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623505166996742144/n-PNQGgd_normal.jpg"
         },
         "quoted": false
       }
@@ -4357,7 +4691,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679523339058966529",
@@ -4373,7 +4708,8 @@
         "author": {
           "handle": "kar2905",
           "name": "Kartik Mandaville",
-          "id": "19861423"
+          "id": "19861423",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/575198427081875456/uXTMd5bL_normal.png"
         },
         "quoted": false,
         "replyToId": "1679522417558040577"
@@ -4391,7 +4727,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -4407,7 +4744,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -4423,7 +4761,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -4439,7 +4778,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -4450,12 +4790,13 @@
       "replies": 2,
       "retweets": 1,
       "bookmarks": 2,
-      "likes": 13,
+      "likes": 12,
       "id": "1679649854988095488",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679649853096484870",
@@ -4471,7 +4812,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1679649849501962241"
@@ -4489,7 +4831,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": {
         "text": "LLMs + Investment Research 📈\n\n@openbb_finance is a pioneer in open-sourcing financial data analysis, and they recently added a LlamaIndex-powered interface into their terminal. \n\nWe’re hosting a webinar with @didier_lopes this Thursday 11am PT! 👉 https://t.co/XoHjtsHl6U",
@@ -4508,7 +4851,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -4524,7 +4868,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679523826319912961",
@@ -4535,12 +4880,13 @@
         "replies": 1,
         "retweets": 0,
         "bookmarks": 0,
-        "likes": 4,
+        "likes": 3,
         "id": "1679523826319912961",
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1679523824583462913"
@@ -4558,7 +4904,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679523830681976832",
@@ -4574,7 +4921,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1679523826319912961"
@@ -4592,7 +4940,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -4608,7 +4957,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -4624,7 +4974,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -4640,7 +4991,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -4656,7 +5008,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -4672,7 +5025,8 @@
       "author": {
         "handle": "jxnlco",
         "name": "jason",
-        "id": "17203692"
+        "id": "17203692",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1682267111555571714/VDORoUy__normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679279717399302144",
@@ -4688,7 +5042,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -4705,7 +5060,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679283106749239298",
@@ -4721,7 +5077,8 @@
         "author": {
           "handle": "jxnlco",
           "name": "jason",
-          "id": "17203692"
+          "id": "17203692",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1682267111555571714/VDORoUy__normal.jpg"
         },
         "quoted": false,
         "replyToId": "1679279717399302144"
@@ -4739,7 +5096,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679279717399302144",
@@ -4755,7 +5113,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -4772,7 +5131,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679279720867979265",
@@ -4788,7 +5148,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1679279717399302144"
@@ -4806,7 +5167,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -4822,7 +5184,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -4838,7 +5201,8 @@
       "author": {
         "handle": "_Brian_Raymond",
         "name": "Brian Raymond",
-        "id": "3184444668"
+        "id": "3184444668",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1586092411834445824/MaulBk62_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679185930287222784",
@@ -4854,7 +5218,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -4871,7 +5236,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679272105811267584",
@@ -4887,7 +5253,8 @@
         "author": {
           "handle": "_Brian_Raymond",
           "name": "Brian Raymond",
-          "id": "3184444668"
+          "id": "3184444668",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1586092411834445824/MaulBk62_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1679185930287222784"
@@ -4905,7 +5272,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -4921,7 +5289,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -4937,7 +5306,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679185963900342272",
@@ -4953,7 +5323,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1679185962516238336"
@@ -4971,7 +5342,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679185965418688512",
@@ -4987,7 +5359,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1679185963900342272"
@@ -5005,7 +5378,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5021,7 +5395,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5037,7 +5412,8 @@
       "author": {
         "handle": "llama_index",
         "name": "LlamaIndex 🦙 (GPT Index)",
-        "id": "1604278358296055808"
+        "id": "1604278358296055808",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623505166996742144/n-PNQGgd_normal.jpg"
       },
       "quoted": false
     },
@@ -5053,7 +5429,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679002731342876678",
@@ -5069,7 +5446,8 @@
         "author": {
           "handle": "chontang",
           "name": "Chon Tang",
-          "id": "47439199"
+          "id": "47439199",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1461481081610256388/rDBIOE1V_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1673721496701898754"
@@ -5087,7 +5465,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5103,7 +5482,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5119,7 +5499,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5135,7 +5516,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1678944607965708288",
@@ -5151,7 +5533,8 @@
         "author": {
           "handle": "jerryjliu0",
           "name": "Jerry Liu",
-          "id": "369777416"
+          "id": "369777416",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
         },
         "quoted": false
       }
@@ -5163,12 +5546,13 @@
       "replies": 97,
       "retweets": 122,
       "bookmarks": 316,
-      "likes": 1205,
+      "likes": 1202,
       "id": "1666095220252106752",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5184,7 +5568,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5200,7 +5585,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5216,7 +5602,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5232,7 +5619,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5248,7 +5636,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5264,7 +5653,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5280,7 +5670,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5296,7 +5687,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5312,7 +5704,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5328,7 +5721,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5344,7 +5738,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5360,7 +5755,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5376,7 +5772,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5392,7 +5789,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5403,12 +5801,13 @@
       "replies": 4,
       "retweets": 106,
       "bookmarks": 370,
-      "likes": 486,
+      "likes": 485,
       "id": "1651762784731009024",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5418,13 +5817,14 @@
       "quotes": 5,
       "replies": 14,
       "retweets": 65,
-      "bookmarks": 486,
+      "bookmarks": 487,
       "likes": 481,
       "id": "1642553651259650049",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5440,7 +5840,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5456,7 +5857,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5472,7 +5874,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5488,7 +5891,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5504,7 +5908,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5520,7 +5925,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5530,13 +5936,14 @@
       "quotes": 1,
       "replies": 9,
       "retweets": 90,
-      "bookmarks": 200,
+      "bookmarks": 201,
       "likes": 366,
       "id": "1669719509987643392",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5552,7 +5959,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5568,7 +5976,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5578,13 +5987,14 @@
       "quotes": 7,
       "replies": 28,
       "retweets": 40,
-      "bookmarks": 231,
+      "bookmarks": 232,
       "likes": 359,
       "id": "1593283660702048256",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5600,7 +6010,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5616,7 +6027,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5632,7 +6044,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5648,7 +6061,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5659,12 +6073,13 @@
       "replies": 16,
       "retweets": 6,
       "bookmarks": 9,
-      "likes": 330,
+      "likes": 329,
       "id": "1636059526196781074",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5680,7 +6095,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5696,7 +6112,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5712,7 +6129,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5723,12 +6141,13 @@
       "replies": 8,
       "retweets": 49,
       "bookmarks": 257,
-      "likes": 329,
+      "likes": 330,
       "id": "1643763618629193729",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5744,7 +6163,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5760,7 +6180,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5776,7 +6197,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5787,12 +6209,13 @@
       "replies": 4,
       "retweets": 38,
       "bookmarks": 244,
-      "likes": 328,
+      "likes": 326,
       "id": "1644489328591257600",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5808,7 +6231,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5824,7 +6248,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5840,23 +6265,25 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
     {
       "type": "TWEET",
       "text": "A lot of enterprises building with LLMs are worried about security/privacy 🔐 when using OpenAI APIs (which seems to be the default model everyone starts with).\n\nBut then it seems that you're left with two main options:\n1️⃣ Use an open-source model with a permissive enough license…",
-      "quotes": 9,
+      "quotes": 10,
       "replies": 75,
       "retweets": 43,
-      "bookmarks": 413,
-      "likes": 321,
+      "bookmarks": 414,
+      "likes": 322,
       "id": "1677459692803731457",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5872,7 +6299,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5888,7 +6316,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5904,7 +6333,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5920,7 +6350,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5930,13 +6361,14 @@
       "quotes": 2,
       "replies": 8,
       "retweets": 47,
-      "bookmarks": 276,
+      "bookmarks": 278,
       "likes": 307,
       "id": "1664650985845796867",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5952,7 +6384,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5968,7 +6401,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -5984,7 +6418,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6000,7 +6435,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6016,7 +6452,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6032,7 +6469,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6048,7 +6486,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6057,14 +6496,15 @@
       "text": "There are two primary means of incorporating knowledge into an LLM:\n- 🧠 In the weights (“prior” knowledge, w/ pre-training/finetuning/etc.) \n- 📝 In the prompt (“external” knowledge, w/ in-context learning)\n\nWhat if you want to use both? 🤔 \nA 🧵showing how-to with @gpt_index!",
       "quotes": 1,
       "replies": 8,
-      "retweets": 37,
+      "retweets": 38,
       "bookmarks": 288,
       "likes": 301,
       "id": "1633516907960868865",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6080,7 +6520,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6096,7 +6537,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6112,7 +6554,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6128,7 +6571,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6144,7 +6588,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6160,7 +6605,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6176,7 +6622,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6192,7 +6639,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6208,7 +6656,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6219,12 +6668,13 @@
       "replies": 5,
       "retweets": 61,
       "bookmarks": 142,
-      "likes": 280,
+      "likes": 281,
       "id": "1648477301653520390",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6240,7 +6690,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6249,14 +6700,15 @@
       "text": "This is a fantastic article by @swyx 🔥 and I largely agree (“AI Engineer” in the new world of LLMs vs. traditional ML practitioner). \n\nI do want to make one point though - there’s shared lessons from ML/MLOps that will still be needed in an AI Engineer’s toolbox ⚒️💼\n\nBoth…",
       "quotes": 2,
       "replies": 9,
-      "retweets": 39,
+      "retweets": 38,
       "bookmarks": 203,
       "likes": 272,
       "id": "1674931132004184064",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": {
         "text": "🆕 Essay: The Rise of the AI Engineer\n\nhttps://t.co/J91uijDMBB\n\nKeeping up on AI is becoming a full time job. \n\nLet's get together and define it. https://t.co/KD2lY9FTtm",
@@ -6275,7 +6727,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6291,7 +6744,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6307,7 +6761,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6323,7 +6778,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6333,13 +6789,14 @@
       "quotes": 2,
       "replies": 7,
       "retweets": 57,
-      "bookmarks": 156,
-      "likes": 255,
+      "bookmarks": 157,
+      "likes": 256,
       "id": "1677706208017518593",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6355,7 +6812,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6371,7 +6829,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6387,7 +6846,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6403,7 +6863,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6414,12 +6875,13 @@
       "replies": 11,
       "retweets": 53,
       "bookmarks": 166,
-      "likes": 248,
+      "likes": 247,
       "id": "1641100577471074306",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6430,12 +6892,13 @@
       "replies": 9,
       "retweets": 33,
       "bookmarks": 142,
-      "likes": 246,
+      "likes": 247,
       "id": "1640016601604042753",
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6451,7 +6914,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6467,7 +6931,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6483,7 +6948,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6499,7 +6965,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6515,7 +6982,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6531,7 +6999,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6547,7 +7016,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6563,7 +7033,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6579,7 +7050,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6595,7 +7067,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6611,7 +7084,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6627,7 +7101,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     },
@@ -6643,7 +7118,8 @@
       "author": {
         "handle": "jerryjliu0",
         "name": "Jerry Liu",
-        "id": "369777416"
+        "id": "369777416",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg"
       },
       "quoted": false
     }

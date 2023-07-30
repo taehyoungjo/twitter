@@ -16,7 +16,12 @@ export function FeedTweet({ f, children }: { f: Post; children?: any }) {
     >
       <div key={f.id} className="flex flex-col space-y-2 grow">
         {/* Header */}
-        <TweetHeader name={f.name} handle={f.handle} timestamp={f.timestamp} />
+        <TweetHeader
+          name={f.name}
+          handle={f.handle}
+          timestamp={f.timestamp}
+          avatarUrl={f.avatarUrl}
+        />
         {/* Content */}
         <div>{f.content}</div>
         {children}

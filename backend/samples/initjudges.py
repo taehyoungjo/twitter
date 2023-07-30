@@ -46,6 +46,7 @@ for filename in json_files:
         user_data["name"] = data.get("name")
         user_data["handle"] = data.get("handle")
         user_data["bio"] = data.get("bio")
+        user_data["avatar_url"] = data.get("avatarUrl")
 
         activity = []
         print(data.get("activity"))
@@ -82,3 +83,5 @@ for filename in json_files:
 
 with open("initjudges.json", "w") as out:
     json.dump(all_users, out)
+
+# %%

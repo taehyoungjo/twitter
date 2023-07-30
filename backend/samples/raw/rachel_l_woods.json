@@ -2,20 +2,22 @@
   "handle": "rachel_l_woods",
   "name": "Rachel Woods",
   "bio": "Ex-Facebook Research Data Scientist. Pushing the envelope of operating businesses with AI. #AIOps",
+  "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg",
   "activity": [
     {
       "type": "TWEET",
       "text": "Best ai photo editing tool to remove watermarks?",
       "quotes": 0,
-      "replies": 7,
+      "replies": 9,
       "retweets": 0,
-      "bookmarks": 2,
-      "likes": 7,
+      "bookmarks": 4,
+      "likes": 9,
       "id": "1685670013196189697",
       "author": {
         "handle": "bentossell",
         "name": "Ben Tossell",
-        "id": "53175441"
+        "id": "53175441",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1595060668897677314/pHMUc1Zb_normal.jpg"
       },
       "quoted": false
     },
@@ -26,12 +28,13 @@
       "replies": 0,
       "retweets": 0,
       "bookmarks": 0,
-      "likes": 1,
+      "likes": 2,
       "id": "1685686319328968705",
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1685670013196189697",
@@ -39,15 +42,16 @@
         "type": "TWEET",
         "text": "Best ai photo editing tool to remove watermarks?",
         "quotes": 0,
-        "replies": 7,
+        "replies": 9,
         "retweets": 0,
-        "bookmarks": 2,
-        "likes": 7,
+        "bookmarks": 4,
+        "likes": 9,
         "id": "1685670013196189697",
         "author": {
           "handle": "bentossell",
           "name": "Ben Tossell",
-          "id": "53175441"
+          "id": "53175441",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1595060668897677314/pHMUc1Zb_normal.jpg"
         },
         "quoted": false
       }
@@ -64,7 +68,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -73,14 +78,15 @@
       "text": "RT @sama: Move faster. Slowness anywhere justifies slowness everywhere.\n\n2021 instead of 2022. This week instead of next week. Today instea…",
       "quotes": 0,
       "replies": 0,
-      "retweets": 2021,
+      "retweets": 2024,
       "bookmarks": 0,
       "likes": 0,
       "id": "1685370561008939008",
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -96,7 +102,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -112,7 +119,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -128,7 +136,8 @@
       "author": {
         "handle": "EasyasPieDesign",
         "name": "Easy as Pie Design",
-        "id": "4923799134"
+        "id": "4923799134",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1611887757747703809/xye8YFCT_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684995063875551232",
@@ -144,7 +153,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -161,7 +171,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1685003362293669889",
@@ -177,7 +188,8 @@
         "author": {
           "handle": "EasyasPieDesign",
           "name": "Easy as Pie Design",
-          "id": "4923799134"
+          "id": "4923799134",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1611887757747703809/xye8YFCT_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684995063875551232"
@@ -195,7 +207,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": {
         "text": "Announcing the new and improved Lennybot 🤖\n\nA ChatGPT-4 powered chatbot that is trained on all of my newsletter content AND now all of my podcast transcripts. Also, includes links to all of the content it references.\n\nAsk it:\n✓ How do I get better at strategy?\n✓ How do I… https://t.co/xHCzGQkCWR",
@@ -214,7 +227,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -230,7 +244,8 @@
       "author": {
         "handle": "vivmuk",
         "name": "Vivek M",
-        "id": "34200634"
+        "id": "34200634",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/731095103746547713/pFyQgzaF_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684934640858177536",
@@ -246,7 +261,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -263,7 +279,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684936916867723265",
@@ -279,7 +296,8 @@
         "author": {
           "handle": "vivmuk",
           "name": "Vivek M",
-          "id": "34200634"
+          "id": "34200634",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/731095103746547713/pFyQgzaF_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684934640858177536"
@@ -297,7 +315,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -313,7 +332,8 @@
       "author": {
         "handle": "OscarOrtega75",
         "name": "Oscar Ortega",
-        "id": "398090258"
+        "id": "398090258",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1320433798136406021/mpPGEECQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684685602636378120",
@@ -329,7 +349,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -346,7 +367,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684688799907901441",
@@ -362,7 +384,8 @@
         "author": {
           "handle": "OscarOrtega75",
           "name": "Oscar Ortega",
-          "id": "398090258"
+          "id": "398090258",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1320433798136406021/mpPGEECQ_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684685602636378120"
@@ -380,7 +403,8 @@
       "author": {
         "handle": "joshlambonline",
         "name": "Josh Lamb 🚢",
-        "id": "2429325686"
+        "id": "2429325686",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1592323420208898048/ymblVF-C_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684685602636378120",
@@ -396,7 +420,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -413,7 +438,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684687523874779136",
@@ -429,7 +455,8 @@
         "author": {
           "handle": "joshlambonline",
           "name": "Josh Lamb 🚢",
-          "id": "2429325686"
+          "id": "2429325686",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1592323420208898048/ymblVF-C_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684685602636378120"
@@ -447,7 +474,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -463,7 +491,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -479,7 +508,8 @@
       "author": {
         "handle": "TheRealAdamG",
         "name": "Adam.GPT",
-        "id": "275826054"
+        "id": "275826054",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1664471975366934529/G6JGkErf_normal.jpg"
       },
       "quoted": {
         "text": "I miss the blue Twitter bird as an icon on my tabs and favorites.  The X in a black box is underwhelming.",
@@ -499,7 +529,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -516,7 +547,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684652176935936000",
@@ -532,7 +564,8 @@
         "author": {
           "handle": "TheRealAdamG",
           "name": "Adam.GPT",
-          "id": "275826054"
+          "id": "275826054",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1664471975366934529/G6JGkErf_normal.jpg"
         },
         "quoted": {
           "text": "I miss the blue Twitter bird as an icon on my tabs and favorites.  The X in a black box is underwhelming.",
@@ -554,7 +587,8 @@
       "author": {
         "handle": "thatroblennon",
         "name": "Rob Lennon 🗯 | AI Whisperer",
-        "id": "1524901467689078789"
+        "id": "1524901467689078789",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1524905043786289152/JSpEMKHS_normal.png"
       },
       "quoted": false,
       "replyToId": "1684599314482405376",
@@ -570,7 +604,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -587,7 +622,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684600838306811904",
@@ -603,7 +639,8 @@
         "author": {
           "handle": "thatroblennon",
           "name": "Rob Lennon 🗯 | AI Whisperer",
-          "id": "1524901467689078789"
+          "id": "1524901467689078789",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1524905043786289152/JSpEMKHS_normal.png"
         },
         "quoted": false,
         "replyToId": "1684599314482405376"
@@ -621,7 +658,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -637,7 +675,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -653,7 +692,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -669,7 +709,8 @@
       "author": {
         "handle": "Roman_012",
         "name": "Roman_01",
-        "id": "705202950"
+        "id": "705202950",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1519456471829917708/XER7V2m1_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684203209475121155",
@@ -685,7 +726,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -702,7 +744,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684226235386171392",
@@ -718,7 +761,8 @@
         "author": {
           "handle": "Roman_012",
           "name": "Roman_01",
-          "id": "705202950"
+          "id": "705202950",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1519456471829917708/XER7V2m1_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684203209475121155"
@@ -736,7 +780,8 @@
       "author": {
         "handle": "GregKamradt",
         "name": "Greg Kamradt",
-        "id": "240008974"
+        "id": "240008974",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1467896309453570052/BGy5XYVQ_normal.jpg"
       },
       "quoted": {
         "text": "For the past few months, I've become obsessed with the problem of how do you build an AI-powered business\n\nAKA - \"how do we actually use this stuff\"\n\nBut it honestly started because at the beginning of the year, I did hundreds of AI Advising calls with businesses  and while I was… https://t.co/yUTRdP8hE9",
@@ -756,7 +801,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684211435608367120",
@@ -772,7 +818,8 @@
         "author": {
           "handle": "GregKamradt",
           "name": "Greg Kamradt",
-          "id": "240008974"
+          "id": "240008974",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1467896309453570052/BGy5XYVQ_normal.jpg"
         },
         "quoted": {
           "text": "For the past few months, I've become obsessed with the problem of how do you build an AI-powered business\n\nAKA - \"how do we actually use this stuff\"\n\nBut it honestly started because at the beginning of the year, I did hundreds of AI Advising calls with businesses  and while I was… https://t.co/yUTRdP8hE9",
@@ -793,7 +840,8 @@
       "author": {
         "handle": "iamrobotbear",
         "name": "robotbear.eth 👺",
-        "id": "1465481625949511680"
+        "id": "1465481625949511680",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1588217804569776128/BFh9iRzL_normal.png"
       },
       "quoted": false,
       "replyToId": "1684203209475121155",
@@ -809,7 +857,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -826,7 +875,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684219082609143808",
@@ -842,7 +892,8 @@
         "author": {
           "handle": "iamrobotbear",
           "name": "robotbear.eth 👺",
-          "id": "1465481625949511680"
+          "id": "1465481625949511680",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1588217804569776128/BFh9iRzL_normal.png"
         },
         "quoted": false,
         "replyToId": "1684203209475121155"
@@ -860,7 +911,8 @@
       "author": {
         "handle": "seanxyue",
         "name": "Sean | AI TECH & USE CASE",
-        "id": "1437081357209858048"
+        "id": "1437081357209858048",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623989677161353218/GkL-aRTU_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684203209475121155",
@@ -876,7 +928,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -893,7 +946,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684211833400336385",
@@ -909,7 +963,8 @@
         "author": {
           "handle": "seanxyue",
           "name": "Sean | AI TECH & USE CASE",
-          "id": "1437081357209858048"
+          "id": "1437081357209858048",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623989677161353218/GkL-aRTU_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684203209475121155"
@@ -927,7 +982,8 @@
       "author": {
         "handle": "minchoi",
         "name": "Min Choi",
-        "id": "23113993"
+        "id": "23113993",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1638359113221517312/CBZaJFyA_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684203209475121155",
@@ -943,7 +999,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -960,7 +1017,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684205242378862593",
@@ -976,7 +1034,8 @@
         "author": {
           "handle": "minchoi",
           "name": "Min Choi",
-          "id": "23113993"
+          "id": "23113993",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1638359113221517312/CBZaJFyA_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684203209475121155"
@@ -994,7 +1053,8 @@
       "author": {
         "handle": "FomoZeke",
         "name": "Zeke",
-        "id": "1655316306395115521"
+        "id": "1655316306395115521",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1660729646097526784/kt2HSrJ9_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684203209475121155",
@@ -1010,7 +1070,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -1027,7 +1088,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684204955622686722",
@@ -1043,7 +1105,8 @@
         "author": {
           "handle": "FomoZeke",
           "name": "Zeke",
-          "id": "1655316306395115521"
+          "id": "1655316306395115521",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1660729646097526784/kt2HSrJ9_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684203209475121155"
@@ -1061,7 +1124,8 @@
       "author": {
         "handle": "thatroblennon",
         "name": "Rob Lennon 🗯 | AI Whisperer",
-        "id": "1524901467689078789"
+        "id": "1524901467689078789",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1524905043786289152/JSpEMKHS_normal.png"
       },
       "quoted": false,
       "replyToId": "1684203209475121155",
@@ -1077,7 +1141,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -1094,7 +1159,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684204232373673986",
@@ -1110,7 +1176,8 @@
         "author": {
           "handle": "thatroblennon",
           "name": "Rob Lennon 🗯 | AI Whisperer",
-          "id": "1524901467689078789"
+          "id": "1524901467689078789",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1524905043786289152/JSpEMKHS_normal.png"
         },
         "quoted": false,
         "replyToId": "1684203209475121155"
@@ -1121,14 +1188,15 @@
       "text": "RT @svpino: 50% of StackOverflow traffic is gone!\n\nLook at the attached chart. It tells a scary story that will not be limited to StackOver…",
       "quotes": 0,
       "replies": 0,
-      "retweets": 410,
+      "retweets": 411,
       "bookmarks": 0,
       "likes": 0,
       "id": "1684176646306246657",
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -1144,7 +1212,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -1160,7 +1229,8 @@
       "author": {
         "handle": "drdanimascaro",
         "name": "Daniela Mascaro",
-        "id": "1655842917653544960"
+        "id": "1655842917653544960",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1657071178744201246/mTJ54Bab_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684044636468154372",
@@ -1176,7 +1246,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -1193,7 +1264,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684131512109748224",
@@ -1209,7 +1281,8 @@
         "author": {
           "handle": "drdanimascaro",
           "name": "Daniela Mascaro",
-          "id": "1655842917653544960"
+          "id": "1655842917653544960",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1657071178744201246/mTJ54Bab_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684044636468154372"
@@ -1227,7 +1300,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -1243,7 +1317,8 @@
       "author": {
         "handle": "User_BR549",
         "name": "UserBR549 🌻🇺🇦🌻",
-        "id": "1613900017193914370"
+        "id": "1613900017193914370",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1655595977711943682/ptyyWYhC_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1683943664278732800",
@@ -1259,7 +1334,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -1276,7 +1352,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1683957074827571201",
@@ -1292,7 +1369,8 @@
         "author": {
           "handle": "User_BR549",
           "name": "UserBR549 🌻🇺🇦🌻",
-          "id": "1613900017193914370"
+          "id": "1613900017193914370",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1655595977711943682/ptyyWYhC_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1683943664278732800"
@@ -1310,7 +1388,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": {
         "text": "What new job will attract 1M+ people within the next 5 years? \n\n(question inspired by @patrick_oshag’s pod with @cpaik)",
@@ -1329,7 +1408,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -1345,7 +1425,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -1361,7 +1442,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -1377,7 +1459,8 @@
       "author": {
         "handle": "RobCLeadership",
         "name": "RobAI🤖",
-        "id": "1576601411676151812"
+        "id": "1576601411676151812",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1669869505479168004/IWBVz-C-_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1683216413228511234",
@@ -1393,7 +1476,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -1410,7 +1494,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1683217667757408257",
@@ -1426,7 +1511,8 @@
         "author": {
           "handle": "RobCLeadership",
           "name": "RobAI🤖",
-          "id": "1576601411676151812"
+          "id": "1576601411676151812",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1669869505479168004/IWBVz-C-_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1683216413228511234"
@@ -1444,7 +1530,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -1460,7 +1547,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -1476,7 +1564,8 @@
       "author": {
         "handle": "User_BR549",
         "name": "UserBR549 🌻🇺🇦🌻",
-        "id": "1613900017193914370"
+        "id": "1613900017193914370",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1655595977711943682/ptyyWYhC_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682769448741076993",
@@ -1492,7 +1581,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -1509,7 +1599,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682788384379482114",
@@ -1525,7 +1616,8 @@
         "author": {
           "handle": "User_BR549",
           "name": "UserBR549 🌻🇺🇦🌻",
-          "id": "1613900017193914370"
+          "id": "1613900017193914370",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1655595977711943682/ptyyWYhC_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1682769448741076993"
@@ -1543,7 +1635,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -1559,7 +1652,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -1575,7 +1669,8 @@
       "author": {
         "handle": "PlebeiusG",
         "name": "Plebeius Garagicus",
-        "id": "1525267418708201474"
+        "id": "1525267418708201474",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1525311308769374209/3eRPhlfp_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682756184229412867",
@@ -1591,7 +1686,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -1608,7 +1704,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682758665139544065",
@@ -1624,7 +1721,8 @@
         "author": {
           "handle": "PlebeiusG",
           "name": "Plebeius Garagicus",
-          "id": "1525267418708201474"
+          "id": "1525267418708201474",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1525311308769374209/3eRPhlfp_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1682756184229412867"
@@ -1642,7 +1740,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -1658,7 +1757,8 @@
       "author": {
         "handle": "klopmp",
         "name": "Kenneth Lo 🚢",
-        "id": "36416949"
+        "id": "36416949",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1659408374029754370/z3mmLCdF_normal.jpg"
       },
       "quoted": false
     },
@@ -1674,7 +1774,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682636312304836608",
@@ -1690,7 +1791,8 @@
         "author": {
           "handle": "klopmp",
           "name": "Kenneth Lo 🚢",
-          "id": "36416949"
+          "id": "36416949",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1659408374029754370/z3mmLCdF_normal.jpg"
         },
         "quoted": false
       }
@@ -1707,7 +1809,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -1723,7 +1826,8 @@
       "author": {
         "handle": "gorodemode",
         "name": "Adam G.",
-        "id": "1507000360195575812"
+        "id": "1507000360195575812",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1676964325364494337/F5Ofex3t_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682366075919298560",
@@ -1739,7 +1843,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -1756,7 +1861,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682427082997899269",
@@ -1772,7 +1878,8 @@
         "author": {
           "handle": "gorodemode",
           "name": "Adam G.",
-          "id": "1507000360195575812"
+          "id": "1507000360195575812",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1676964325364494337/F5Ofex3t_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1682366075919298560"
@@ -1790,7 +1897,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -1806,7 +1914,8 @@
       "author": {
         "handle": "FomoZeke",
         "name": "Zeke",
-        "id": "1655316306395115521"
+        "id": "1655316306395115521",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1660729646097526784/kt2HSrJ9_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682366075919298560",
@@ -1822,7 +1931,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -1839,7 +1949,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682380958639562752",
@@ -1855,7 +1966,8 @@
         "author": {
           "handle": "FomoZeke",
           "name": "Zeke",
-          "id": "1655316306395115521"
+          "id": "1655316306395115521",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1660729646097526784/kt2HSrJ9_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1682366075919298560"
@@ -1873,7 +1985,8 @@
       "author": {
         "handle": "CosWiSe",
         "name": "Cos",
-        "id": "188634711"
+        "id": "188634711",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1300721595523227653/TkDF6v6b_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682366075919298560",
@@ -1889,7 +2002,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -1906,7 +2020,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682375680871350274",
@@ -1922,7 +2037,8 @@
         "author": {
           "handle": "CosWiSe",
           "name": "Cos",
-          "id": "188634711"
+          "id": "188634711",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1300721595523227653/TkDF6v6b_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1682366075919298560"
@@ -1940,7 +2056,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682366075919298560",
@@ -1956,7 +2073,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -1973,7 +2091,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -1989,7 +2108,8 @@
       "author": {
         "handle": "SullyOmarr",
         "name": "Sully",
-        "id": "1328913688892346370"
+        "id": "1328913688892346370",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1550142055854141440/iA_vPg8D_normal.jpg"
       },
       "quoted": false
     },
@@ -2000,12 +2120,13 @@
       "replies": 6,
       "retweets": 0,
       "bookmarks": 2,
-      "likes": 17,
+      "likes": 16,
       "id": "1682087545679810560",
       "author": {
         "handle": "Scobleizer",
         "name": "Robert Scoble",
-        "id": "13348"
+        "id": "13348",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1679038168178503680/ag7jvovH_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682078570544529408",
@@ -2021,7 +2142,8 @@
         "author": {
           "handle": "SullyOmarr",
           "name": "Sully",
-          "id": "1328913688892346370"
+          "id": "1328913688892346370",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1550142055854141440/iA_vPg8D_normal.jpg"
         },
         "quoted": false
       }
@@ -2038,7 +2160,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682087545679810560",
@@ -2049,12 +2172,13 @@
         "replies": 6,
         "retweets": 0,
         "bookmarks": 2,
-        "likes": 17,
+        "likes": 16,
         "id": "1682087545679810560",
         "author": {
           "handle": "Scobleizer",
           "name": "Robert Scoble",
-          "id": "13348"
+          "id": "13348",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1679038168178503680/ag7jvovH_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1682078570544529408"
@@ -2072,7 +2196,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": {
         "text": "I'm so excited to cross “File an 83(b)” off every founder's to-do list.\n\nNo printers. No pens. No post office. No missed deadlines. No worries. ⤵️\n\nhttps://t.co/y79lccamty",
@@ -2091,7 +2216,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -2107,7 +2233,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -2123,7 +2250,8 @@
       "author": {
         "handle": "me_rukmij",
         "name": "Ruki",
-        "id": "1286881297655148544"
+        "id": "1286881297655148544",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1329074189932716038/jM-je0oH_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682009367044825090",
@@ -2139,7 +2267,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -2156,7 +2285,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682010357831970817",
@@ -2172,7 +2302,8 @@
         "author": {
           "handle": "me_rukmij",
           "name": "Ruki",
-          "id": "1286881297655148544"
+          "id": "1286881297655148544",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1329074189932716038/jM-je0oH_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1682009367044825090"
@@ -2190,7 +2321,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -2206,7 +2338,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -2222,7 +2355,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -2238,7 +2372,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -2254,7 +2389,8 @@
       "author": {
         "handle": "EricNewcomer",
         "name": "Eric Newcomer",
-        "id": "36232059"
+        "id": "36232059",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1250161089196818435/PSpo78Yy_normal.jpg"
       },
       "quoted": false
     },
@@ -2270,7 +2406,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681739813190344704",
@@ -2286,7 +2423,8 @@
         "author": {
           "handle": "EricNewcomer",
           "name": "Eric Newcomer",
-          "id": "36232059"
+          "id": "36232059",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1250161089196818435/PSpo78Yy_normal.jpg"
         },
         "quoted": false
       }
@@ -2303,7 +2441,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -2319,7 +2458,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681691031928987648",
@@ -2335,7 +2475,8 @@
         "author": {
           "handle": "MannyBernabe",
           "name": "Manny Bernabe",
-          "id": "465113096"
+          "id": "465113096",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1542964904516255745/QLBzyhQW_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1681665719551901702"
@@ -2353,7 +2494,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -2369,7 +2511,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681665725885296642",
@@ -2385,7 +2528,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1681665722244648960"
@@ -2403,7 +2547,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -2419,7 +2564,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": {
         "text": "GPT-4 is getting worse over time, not better.\n\nMany people have reported noticing a significant degradation in the quality of the model responses, but so far, it was all anecdotal.\n\nBut now we know.\n\nAt least one study shows how the June version of GPT-4 is objectively worse than… https://t.co/whhELYY6M4",
@@ -2438,7 +2584,8 @@
       "author": {
         "handle": "BobbyHugh",
         "name": "Robert Chapman-Smith",
-        "id": "206512008"
+        "id": "206512008",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/950109628767010816/Ji4mPvHo_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681629916398252038",
@@ -2454,7 +2601,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": {
           "text": "GPT-4 is getting worse over time, not better.\n\nMany people have reported noticing a significant degradation in the quality of the model responses, but so far, it was all anecdotal.\n\nBut now we know.\n\nAt least one study shows how the June version of GPT-4 is objectively worse than… https://t.co/whhELYY6M4",
@@ -2474,7 +2622,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681633778391982080",
@@ -2490,7 +2639,8 @@
         "author": {
           "handle": "BobbyHugh",
           "name": "Robert Chapman-Smith",
-          "id": "206512008"
+          "id": "206512008",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/950109628767010816/Ji4mPvHo_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1681629916398252038"
@@ -2508,7 +2658,8 @@
       "author": {
         "handle": "ScottDavidKeefe",
         "name": "SDK",
-        "id": "1647361367295270913"
+        "id": "1647361367295270913",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1680955569954344962/pnggHIW1_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681629916398252038",
@@ -2524,7 +2675,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": {
           "text": "GPT-4 is getting worse over time, not better.\n\nMany people have reported noticing a significant degradation in the quality of the model responses, but so far, it was all anecdotal.\n\nBut now we know.\n\nAt least one study shows how the June version of GPT-4 is objectively worse than… https://t.co/whhELYY6M4",
@@ -2544,7 +2696,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681661332867751938",
@@ -2560,7 +2713,8 @@
         "author": {
           "handle": "ScottDavidKeefe",
           "name": "SDK",
-          "id": "1647361367295270913"
+          "id": "1647361367295270913",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1680955569954344962/pnggHIW1_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1681629916398252038"
@@ -2578,7 +2732,8 @@
       "author": {
         "handle": "EasyaiStudio",
         "name": "EasyAI Studio",
-        "id": "1616233259163348992"
+        "id": "1616233259163348992",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1616233450989850624/rluHcl35_normal.png"
       },
       "quoted": false,
       "replyToId": "1681629916398252038",
@@ -2594,7 +2749,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": {
           "text": "GPT-4 is getting worse over time, not better.\n\nMany people have reported noticing a significant degradation in the quality of the model responses, but so far, it was all anecdotal.\n\nBut now we know.\n\nAt least one study shows how the June version of GPT-4 is objectively worse than… https://t.co/whhELYY6M4",
@@ -2614,7 +2770,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681649757977190400",
@@ -2630,7 +2787,8 @@
         "author": {
           "handle": "EasyaiStudio",
           "name": "EasyAI Studio",
-          "id": "1616233259163348992"
+          "id": "1616233259163348992",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1616233450989850624/rluHcl35_normal.png"
         },
         "quoted": false,
         "replyToId": "1681629916398252038"
@@ -2648,7 +2806,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -2664,7 +2823,8 @@
       "author": {
         "handle": "NathanLands",
         "name": "Nathan Lands",
-        "id": "15509954"
+        "id": "15509954",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1617109234453467138/MzEKlUs6_normal.png"
       },
       "quoted": false
     },
@@ -2680,7 +2840,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681630474073165824",
@@ -2696,7 +2857,8 @@
         "author": {
           "handle": "NathanLands",
           "name": "Nathan Lands",
-          "id": "15509954"
+          "id": "15509954",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1617109234453467138/MzEKlUs6_normal.png"
         },
         "quoted": false
       }
@@ -2713,7 +2875,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -2729,7 +2892,8 @@
       "author": {
         "handle": "BananaDev_",
         "name": "Banana",
-        "id": "1160978899330715648"
+        "id": "1160978899330715648",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1504206328922664963/8aNDmwhJ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681497245211037697",
@@ -2745,7 +2909,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1681497241448742912"
@@ -2763,7 +2928,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681534402432761856",
@@ -2779,7 +2945,8 @@
         "author": {
           "handle": "BananaDev_",
           "name": "Banana",
-          "id": "1160978899330715648"
+          "id": "1160978899330715648",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1504206328922664963/8aNDmwhJ_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1681497245211037697"
@@ -2797,7 +2964,8 @@
       "author": {
         "handle": "ClementDelangue",
         "name": "clem 🤗",
-        "id": "186420551"
+        "id": "186420551",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png"
       },
       "quoted": false,
       "replyToId": "1681497241448742912",
@@ -2813,7 +2981,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -2830,7 +2999,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681560480899317760",
@@ -2846,7 +3016,8 @@
         "author": {
           "handle": "ClementDelangue",
           "name": "clem 🤗",
-          "id": "186420551"
+          "id": "186420551",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png"
         },
         "quoted": false,
         "replyToId": "1681497241448742912"
@@ -2864,7 +3035,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681502754899132416",
@@ -2880,7 +3052,8 @@
         "author": {
           "handle": "gorkemyurt",
           "name": "Gorkem Yurtseven",
-          "id": "102016704"
+          "id": "102016704",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1133533808114970625/EXeUdXJH_normal.png"
         },
         "quoted": {
           "text": "And of course this can run Llama 2 at scale very well. Try it live here: https://t.co/QsgBy7fN6a",
@@ -2902,7 +3075,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681497241448742912",
@@ -2918,7 +3092,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -2935,7 +3110,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": {
         "text": "13b and 7b llama v2 are on https://t.co/dbsmteAqri, 70b coming later",
@@ -2955,7 +3131,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1681497241448742912"
@@ -2973,7 +3150,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -2989,7 +3167,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -3005,7 +3184,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": {
         "text": "This is huge: Llama-v2 is open source, with a license that authorizes commercial use!\n\nThis is going to change the landscape of the LLM market.\nLlama-v2 is available on Microsoft Azure and will be available on AWS, Hugging Face and other providers\n\nPretrained and fine-tuned…",
@@ -3025,7 +3205,8 @@
       "author": {
         "handle": "srnlrsn",
         "name": "Soren Larson ⛰️",
-        "id": "975243637"
+        "id": "975243637",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1606312730935398400/m-rJ2MqI_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681339671580647424",
@@ -3041,7 +3222,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": {
           "text": "This is huge: Llama-v2 is open source, with a license that authorizes commercial use!\n\nThis is going to change the landscape of the LLM market.\nLlama-v2 is available on Microsoft Azure and will be available on AWS, Hugging Face and other providers\n\nPretrained and fine-tuned…",
@@ -3062,7 +3244,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681366458142535680",
@@ -3078,7 +3261,8 @@
         "author": {
           "handle": "srnlrsn",
           "name": "Soren Larson ⛰️",
-          "id": "975243637"
+          "id": "975243637",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1606312730935398400/m-rJ2MqI_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1681339671580647424"
@@ -3096,7 +3280,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -3112,7 +3297,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": {
         "text": "🦜🛠️ Introducing LangSmith 🦜🔗\n\nA unified platform to help developers debug, test, evaluate, and monitor their LLM applications.\n\nIntegrates seamlessly with LangChain, but doesn't require it. https://t.co/EfdgpqUapF",
@@ -3131,7 +3317,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -3147,7 +3334,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -3163,7 +3351,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -3179,7 +3368,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -3195,7 +3385,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -3211,7 +3402,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -3227,7 +3419,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": {
         "text": "Playbooks should be a content pillar for every serious niche creator. \n\n@Codie_Sanchez creates playbooks around how to buy SMBs. \n@SecretCFO creates playbooks for doing financial analysis. \n@StorageDataDev creates playbooks for building self-storage facilities. \n@DomWellsOnfolio…",
@@ -3246,7 +3439,8 @@
       "author": {
         "handle": "aapatel09",
         "name": "Ankur A. Patel",
-        "id": "210181693"
+        "id": "210181693",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1546536398089494528/7CNUKBCV_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679610760069275648",
@@ -3262,7 +3456,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": {
           "text": "Playbooks should be a content pillar for every serious niche creator. \n\n@Codie_Sanchez creates playbooks around how to buy SMBs. \n@SecretCFO creates playbooks for doing financial analysis. \n@StorageDataDev creates playbooks for building self-storage facilities. \n@DomWellsOnfolio…",
@@ -3282,7 +3477,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679675577803087872",
@@ -3298,7 +3494,8 @@
         "author": {
           "handle": "aapatel09",
           "name": "Ankur A. Patel",
-          "id": "210181693"
+          "id": "210181693",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1546536398089494528/7CNUKBCV_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1679610760069275648"
@@ -3316,7 +3513,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -3332,7 +3530,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": {
         "text": "We are so back https://t.co/bJ7QZ86wbq",
@@ -3351,7 +3550,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -3367,7 +3567,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -3383,7 +3584,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -3399,7 +3601,8 @@
       "author": {
         "handle": "ryanslater",
         "name": "Ryan Slater",
-        "id": "14663407"
+        "id": "14663407",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1676108449006985218/gUiXKoeY_normal.jpg"
       },
       "quoted": false
     },
@@ -3415,7 +3618,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679434476869283843",
@@ -3431,7 +3635,8 @@
         "author": {
           "handle": "ryanslater",
           "name": "Ryan Slater",
-          "id": "14663407"
+          "id": "14663407",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1676108449006985218/gUiXKoeY_normal.jpg"
         },
         "quoted": false
       }
@@ -3448,7 +3653,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -3464,7 +3670,8 @@
       "author": {
         "handle": "MikeK_LA",
         "name": "Mike Kim",
-        "id": "2326397576"
+        "id": "2326397576",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1657120452215738368/HcLvCF9L_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679297649290379264",
@@ -3480,7 +3687,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1679292482016919554"
@@ -3498,7 +3706,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679298451899834370",
@@ -3514,7 +3723,8 @@
         "author": {
           "handle": "MikeK_LA",
           "name": "Mike Kim",
-          "id": "2326397576"
+          "id": "2326397576",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1657120452215738368/HcLvCF9L_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1679297649290379264"
@@ -3532,7 +3742,8 @@
       "author": {
         "handle": "MikeK_LA",
         "name": "Mike Kim",
-        "id": "2326397576"
+        "id": "2326397576",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1657120452215738368/HcLvCF9L_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679264721940385792",
@@ -3548,7 +3759,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -3565,7 +3777,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679292482016919554",
@@ -3581,7 +3794,8 @@
         "author": {
           "handle": "MikeK_LA",
           "name": "Mike Kim",
-          "id": "2326397576"
+          "id": "2326397576",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1657120452215738368/HcLvCF9L_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1679264721940385792"
@@ -3599,7 +3813,8 @@
       "author": {
         "handle": "MarkShust",
         "name": "Mark_Shust::learn.phtml",
-        "id": "15058072"
+        "id": "15058072",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1319030932486168576/3FYgcNro_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679264721940385792",
@@ -3615,7 +3830,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -3632,7 +3848,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679267367690412034",
@@ -3648,7 +3865,8 @@
         "author": {
           "handle": "MarkShust",
           "name": "Mark_Shust::learn.phtml",
-          "id": "15058072"
+          "id": "15058072",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1319030932486168576/3FYgcNro_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1679264721940385792"
@@ -3666,7 +3884,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": {
         "text": "I've got something very exciting to announce: \n\nEntrepreneurs are heroes, and every hero needs a Sidekick ✨ https://t.co/6u3HAPH92b",
@@ -3686,7 +3905,8 @@
       "author": {
         "handle": "ivomartins",
         "name": "SuperFluffy",
-        "id": "14646846"
+        "id": "14646846",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1629252594970263553/qVTtk4Zw_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679200709189996545",
@@ -3702,7 +3922,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": {
           "text": "I've got something very exciting to announce: \n\nEntrepreneurs are heroes, and every hero needs a Sidekick ✨ https://t.co/6u3HAPH92b",
@@ -3723,7 +3944,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679288910495600640",
@@ -3739,7 +3961,8 @@
         "author": {
           "handle": "ivomartins",
           "name": "SuperFluffy",
-          "id": "14646846"
+          "id": "14646846",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1629252594970263553/qVTtk4Zw_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1679200709189996545"
@@ -3757,7 +3980,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679264721940385792",
@@ -3773,7 +3997,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -3790,7 +4015,8 @@
       "author": {
         "handle": "swyx",
         "name": "swyx 🛫 SFO",
-        "id": "33521530"
+        "id": "33521530",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1510319731466993664/tGoqnzGK_normal.jpg"
       },
       "quoted": false
     },
@@ -3806,7 +4032,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1679262810654785536",
@@ -3822,7 +4049,8 @@
         "author": {
           "handle": "swyx",
           "name": "swyx 🛫 SFO",
-          "id": "33521530"
+          "id": "33521530",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1510319731466993664/tGoqnzGK_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1679261924268314626"
@@ -3840,7 +4068,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -3856,7 +4085,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": {
         "text": "Today we’re incredibly excited to launch Data Agents in @llama_index: LLM-powered knowledge workers that can read and write over your data 🤖🗃️\n\n✅ Full agent + tool abstractions\n✅ LlamaHub Tools Repo - 15+ Tools AND tutorials! \n\nFull blog/thread 🧵: https://t.co/v21zwwek5p",
@@ -3875,7 +4105,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -3891,7 +4122,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -3907,7 +4139,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -3923,7 +4156,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -3939,7 +4173,8 @@
       "author": {
         "handle": "briansowards",
         "name": "Brian Sowards",
-        "id": "15054324"
+        "id": "15054324",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1491627137568174083/6h7n_ezO_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1678949424041697280",
@@ -3955,7 +4190,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -3972,7 +4208,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1678980317183610880",
@@ -3988,7 +4225,8 @@
         "author": {
           "handle": "briansowards",
           "name": "Brian Sowards",
-          "id": "15054324"
+          "id": "15054324",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1491627137568174083/6h7n_ezO_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1678949424041697280"
@@ -4006,7 +4244,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -4022,7 +4261,8 @@
       "author": {
         "handle": "JayaGup10",
         "name": "Jaya Gupta",
-        "id": "1483261620377862147"
+        "id": "1483261620377862147",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1675668510708760576/a570gc-S_normal.jpg"
       },
       "quoted": false
     },
@@ -4038,7 +4278,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1678786430083166208",
@@ -4054,7 +4295,8 @@
         "author": {
           "handle": "JayaGup10",
           "name": "Jaya Gupta",
-          "id": "1483261620377862147"
+          "id": "1483261620377862147",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1675668510708760576/a570gc-S_normal.jpg"
         },
         "quoted": false
       }
@@ -4071,7 +4313,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -4087,7 +4330,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1678828571140423680",
@@ -4103,7 +4347,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1678828567772401664"
@@ -4121,7 +4366,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -4137,7 +4383,8 @@
       "author": {
         "handle": "tim_wth",
         "name": "Tim.WTH",
-        "id": "1544491645327925248"
+        "id": "1544491645327925248",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1544496839054880768/IPRebPox_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1678768851948036096",
@@ -4153,7 +4400,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -4170,7 +4418,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1678771131971682306",
@@ -4186,7 +4435,8 @@
         "author": {
           "handle": "tim_wth",
           "name": "Tim.WTH",
-          "id": "1544491645327925248"
+          "id": "1544491645327925248",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1544496839054880768/IPRebPox_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1678768851948036096"
@@ -4204,7 +4454,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -4220,7 +4471,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": {
         "text": "that feeling when you were right but only because you made two errors in opposite directions",
@@ -4239,7 +4491,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -4255,7 +4508,8 @@
       "author": {
         "handle": "mikah_dang",
         "name": "Mikah Đặng-e/acc",
-        "id": "1523178461560418304"
+        "id": "1523178461560418304",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1680266423351001088/348982dR_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1678591641840680960",
@@ -4271,7 +4525,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -4288,7 +4543,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1678593600702271488",
@@ -4304,7 +4560,8 @@
         "author": {
           "handle": "mikah_dang",
           "name": "Mikah Đặng-e/acc",
-          "id": "1523178461560418304"
+          "id": "1523178461560418304",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1680266423351001088/348982dR_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1678591641840680960"
@@ -4322,7 +4579,8 @@
       "author": {
         "handle": "BenLHechler",
         "name": "Ben Hechler 🪿",
-        "id": "1674186904168972288"
+        "id": "1674186904168972288",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1679561111455285249/vHLfGQAG_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1678591641840680960",
@@ -4338,7 +4596,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -4355,7 +4614,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1678626098287116295",
@@ -4371,7 +4631,8 @@
         "author": {
           "handle": "BenLHechler",
           "name": "Ben Hechler 🪿",
-          "id": "1674186904168972288"
+          "id": "1674186904168972288",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1679561111455285249/vHLfGQAG_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1678591641840680960"
@@ -4389,7 +4650,8 @@
       "author": {
         "handle": "thatroblennon",
         "name": "Rob Lennon 🗯 | AI Whisperer",
-        "id": "1524901467689078789"
+        "id": "1524901467689078789",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1524905043786289152/JSpEMKHS_normal.png"
       },
       "quoted": false
     },
@@ -4405,7 +4667,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1678577189187649537",
@@ -4421,7 +4684,8 @@
         "author": {
           "handle": "thatroblennon",
           "name": "Rob Lennon 🗯 | AI Whisperer",
-          "id": "1524901467689078789"
+          "id": "1524901467689078789",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1524905043786289152/JSpEMKHS_normal.png"
         },
         "quoted": false
       }
@@ -4438,7 +4702,8 @@
       "author": {
         "handle": "AlexReibman",
         "name": "Alex Reibman",
-        "id": "999588600571400192"
+        "id": "999588600571400192",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1435753423161397248/6jG9r65f_normal.jpg"
       },
       "quoted": false
     },
@@ -4454,7 +4719,8 @@
       "author": {
         "handle": "OfficialLoganK",
         "name": "Logan.GPT",
-        "id": "284333988"
+        "id": "284333988",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1379817647139737600/YHL9uBk0_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1678533655554129920",
@@ -4470,7 +4736,8 @@
         "author": {
           "handle": "AlexReibman",
           "name": "Alex Reibman",
-          "id": "999588600571400192"
+          "id": "999588600571400192",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1435753423161397248/6jG9r65f_normal.jpg"
         },
         "quoted": false
       }
@@ -4487,7 +4754,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1678551972192894976",
@@ -4503,7 +4771,8 @@
         "author": {
           "handle": "OfficialLoganK",
           "name": "Logan.GPT",
-          "id": "284333988"
+          "id": "284333988",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1379817647139737600/YHL9uBk0_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1678533655554129920"
@@ -4521,7 +4790,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -4537,7 +4807,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -4553,7 +4824,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -4569,7 +4841,8 @@
       "author": {
         "handle": "iamrobotbear",
         "name": "robotbear.eth 👺",
-        "id": "1465481625949511680"
+        "id": "1465481625949511680",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1588217804569776128/BFh9iRzL_normal.png"
       },
       "quoted": false,
       "replyToId": "1678197076155330560",
@@ -4585,7 +4858,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -4602,7 +4876,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1678199234045116416",
@@ -4618,7 +4893,8 @@
         "author": {
           "handle": "iamrobotbear",
           "name": "robotbear.eth 👺",
-          "id": "1465481625949511680"
+          "id": "1465481625949511680",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1588217804569776128/BFh9iRzL_normal.png"
         },
         "quoted": false,
         "replyToId": "1678197076155330560"
@@ -4636,7 +4912,8 @@
       "author": {
         "handle": "MikeK_LA",
         "name": "Mike Kim",
-        "id": "2326397576"
+        "id": "2326397576",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1657120452215738368/HcLvCF9L_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1678197076155330560",
@@ -4652,7 +4929,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -4669,7 +4947,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1678199916722520065",
@@ -4685,7 +4964,8 @@
         "author": {
           "handle": "MikeK_LA",
           "name": "Mike Kim",
-          "id": "2326397576"
+          "id": "2326397576",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1657120452215738368/HcLvCF9L_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1678197076155330560"
@@ -4703,7 +4983,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -4719,7 +5000,8 @@
       "author": {
         "handle": "iamrobotbear",
         "name": "robotbear.eth 👺",
-        "id": "1465481625949511680"
+        "id": "1465481625949511680",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1588217804569776128/BFh9iRzL_normal.png"
       },
       "quoted": false,
       "replyToId": "1677867477232160768",
@@ -4735,7 +5017,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -4752,7 +5035,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1677868463950548992",
@@ -4768,7 +5052,8 @@
         "author": {
           "handle": "iamrobotbear",
           "name": "robotbear.eth 👺",
-          "id": "1465481625949511680"
+          "id": "1465481625949511680",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1588217804569776128/BFh9iRzL_normal.png"
         },
         "quoted": false,
         "replyToId": "1677867477232160768"
@@ -4786,7 +5071,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": {
         "text": "Completely spot on post.\n\nI’ve written up similar thoughts but have never been able to hit send because, like Max, I didn’t want to be “that guy.”\n\nBut it’s time to address it - too many devs are getting sent down a bad path.\n\nFull post coming.",
@@ -4805,7 +5091,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -4821,7 +5108,8 @@
       "author": {
         "handle": "rustybridges90",
         "name": "willie mays hays",
-        "id": "1454798773834682373"
+        "id": "1454798773834682373",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1498068802294198274/QF9WgGRy_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1676017895460188160",
@@ -4837,7 +5125,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1676017405418512386"
@@ -4855,7 +5144,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1677744043701272577",
@@ -4871,7 +5161,8 @@
         "author": {
           "handle": "rustybridges90",
           "name": "willie mays hays",
-          "id": "1454798773834682373"
+          "id": "1454798773834682373",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1498068802294198274/QF9WgGRy_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1676017895460188160"
@@ -4889,7 +5180,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -4905,7 +5197,8 @@
       "author": {
         "handle": "iamdulma",
         "name": "Dulma 🦋",
-        "id": "2198060862"
+        "id": "2198060862",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1455259829455392772/VAf8R26S_normal.jpg"
       },
       "quoted": false
     },
@@ -4921,7 +5214,8 @@
       "author": {
         "handle": "erica_wenger",
         "name": "erica wenger🏕️",
-        "id": "18752896"
+        "id": "18752896",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1556133092133203968/JGB2AEnj_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1677405248900698114",
@@ -4937,7 +5231,8 @@
         "author": {
           "handle": "iamdulma",
           "name": "Dulma 🦋",
-          "id": "2198060862"
+          "id": "2198060862",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1455259829455392772/VAf8R26S_normal.jpg"
         },
         "quoted": false
       }
@@ -4954,7 +5249,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1677491043464527873",
@@ -4970,7 +5266,8 @@
         "author": {
           "handle": "erica_wenger",
           "name": "erica wenger🏕️",
-          "id": "18752896"
+          "id": "18752896",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1556133092133203968/JGB2AEnj_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1677405248900698114"
@@ -4988,7 +5285,8 @@
       "author": {
         "handle": "briansowards",
         "name": "Brian Sowards",
-        "id": "15054324"
+        "id": "15054324",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1491627137568174083/6h7n_ezO_normal.jpg"
       },
       "quoted": false
     },
@@ -5004,7 +5302,8 @@
       "author": {
         "handle": "briansowards",
         "name": "Brian Sowards",
-        "id": "15054324"
+        "id": "15054324",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1491627137568174083/6h7n_ezO_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1677337168245829634",
@@ -5020,7 +5319,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1677336007463641089"
@@ -5038,7 +5338,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1677476353413660672",
@@ -5054,7 +5355,8 @@
         "author": {
           "handle": "briansowards",
           "name": "Brian Sowards",
-          "id": "15054324"
+          "id": "15054324",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1491627137568174083/6h7n_ezO_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1677337168245829634"
@@ -5072,7 +5374,8 @@
       "author": {
         "handle": "avni_barman",
         "name": "Avni",
-        "id": "787034950847508480"
+        "id": "787034950847508480",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1658904550315798528/1bAKyyBw_normal.jpg"
       },
       "quoted": {
         "text": "currently editing pics from our podcast photoshoot yesterday 😗✌️ so excited to release these soon hehe https://t.co/X80xDHN0hs",
@@ -5092,7 +5395,8 @@
       "author": {
         "handle": "avni_barman",
         "name": "Avni",
-        "id": "787034950847508480"
+        "id": "787034950847508480",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1658904550315798528/1bAKyyBw_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1677495428542238720",
@@ -5108,7 +5412,8 @@
         "author": {
           "handle": "avni_barman",
           "name": "Avni",
-          "id": "787034950847508480"
+          "id": "787034950847508480",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1658904550315798528/1bAKyyBw_normal.jpg"
         },
         "quoted": {
           "text": "currently editing pics from our podcast photoshoot yesterday 😗✌️ so excited to release these soon hehe https://t.co/X80xDHN0hs",
@@ -5129,7 +5434,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1677497677033123840",
@@ -5145,7 +5451,8 @@
         "author": {
           "handle": "avni_barman",
           "name": "Avni",
-          "id": "787034950847508480"
+          "id": "787034950847508480",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1658904550315798528/1bAKyyBw_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1677495428542238720"
@@ -5163,7 +5470,8 @@
       "author": {
         "handle": "aaditsh",
         "name": "Aadit Sheth",
-        "id": "1273505391553449985"
+        "id": "1273505391553449985",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1541538107119570945/lSSg_A9E_normal.jpg"
       },
       "quoted": false
     },
@@ -5179,7 +5487,8 @@
       "author": {
         "handle": "alex_valaitis",
         "name": "Alex Valaitis",
-        "id": "984606240876544001"
+        "id": "984606240876544001",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1619043852567953420/BvlrmmDi_normal.jpg"
       },
       "quoted": {
         "text": "The AI Operated business doesn't get built overnight.\n\nBut we are starting to see pieces of it come together:\n\n🧵 https://t.co/1Uary7fD6x",
@@ -5199,7 +5508,8 @@
         "author": {
           "handle": "aaditsh",
           "name": "Aadit Sheth",
-          "id": "1273505391553449985"
+          "id": "1273505391553449985",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1541538107119570945/lSSg_A9E_normal.jpg"
         },
         "quoted": false
       }
@@ -5216,7 +5526,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1677347948143734787",
@@ -5232,7 +5543,8 @@
         "author": {
           "handle": "alex_valaitis",
           "name": "Alex Valaitis",
-          "id": "984606240876544001"
+          "id": "984606240876544001",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1619043852567953420/BvlrmmDi_normal.jpg"
         },
         "quoted": {
           "text": "The AI Operated business doesn't get built overnight.\n\nBut we are starting to see pieces of it come together:\n\n🧵 https://t.co/1Uary7fD6x",
@@ -5254,7 +5566,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -5270,7 +5583,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1677346815325396992",
@@ -5286,7 +5600,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1677346811978342400"
@@ -5304,7 +5619,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1677346818638905344",
@@ -5320,7 +5636,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1677346815325396992"
@@ -5338,7 +5655,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1677336007463641089",
@@ -5354,7 +5672,8 @@
         "author": {
           "handle": "briansowards",
           "name": "Brian Sowards",
-          "id": "15054324"
+          "id": "15054324",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1491627137568174083/6h7n_ezO_normal.jpg"
         },
         "quoted": false
       }
@@ -5371,7 +5690,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -5387,7 +5707,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -5403,7 +5724,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -5419,7 +5741,8 @@
       "author": {
         "handle": "benparr",
         "name": "Ben Parr",
-        "id": "11009852"
+        "id": "11009852",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1588699967257911296/PW7rHoWv_normal.jpg"
       },
       "quoted": false
     },
@@ -5435,7 +5758,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1676749884618317824",
@@ -5451,7 +5775,8 @@
         "author": {
           "handle": "benparr",
           "name": "Ben Parr",
-          "id": "11009852"
+          "id": "11009852",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1588699967257911296/PW7rHoWv_normal.jpg"
         },
         "quoted": false
       }
@@ -5468,7 +5793,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -5484,7 +5810,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1676744505691897858",
@@ -5500,7 +5827,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -5517,7 +5845,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1676716845779529728",
@@ -5533,7 +5862,8 @@
         "author": {
           "handle": "themechanic0000",
           "name": "AJ",
-          "id": "1604733894380716032"
+          "id": "1604733894380716032",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1604733998055424001/SKxPP1Pz_normal.png"
         },
         "quoted": false,
         "replyToId": "1676710956209147906"
@@ -5551,7 +5881,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -5567,7 +5898,8 @@
       "author": {
         "handle": "DonnyGreenberg",
         "name": "Donny Greenberg",
-        "id": "270430333"
+        "id": "270430333",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1611051672637153280/TMXervyR_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1676710122448637952",
@@ -5583,7 +5915,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1676609652635697155"
@@ -5601,7 +5934,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1676711661883801600",
@@ -5617,7 +5951,8 @@
         "author": {
           "handle": "DonnyGreenberg",
           "name": "Donny Greenberg",
-          "id": "270430333"
+          "id": "270430333",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1611051672637153280/TMXervyR_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1676710122448637952"
@@ -5635,7 +5970,8 @@
       "author": {
         "handle": "DonnyGreenberg",
         "name": "Donny Greenberg",
-        "id": "270430333"
+        "id": "270430333",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1611051672637153280/TMXervyR_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1676385680484864000",
@@ -5651,7 +5987,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -5668,7 +6005,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1676609652635697155",
@@ -5684,7 +6022,8 @@
         "author": {
           "handle": "DonnyGreenberg",
           "name": "Donny Greenberg",
-          "id": "270430333"
+          "id": "270430333",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1611051672637153280/TMXervyR_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1676385680484864000"
@@ -5702,7 +6041,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -5718,7 +6058,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -5734,7 +6075,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -5750,7 +6092,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1676589600985235463",
@@ -5766,7 +6109,8 @@
         "author": {
           "handle": "tombielecki",
           "name": "Tom Bielecki 𐃏",
-          "id": "13650782"
+          "id": "13650782",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/753767705967079425/oZnW7oYF_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1676589472756932609"
@@ -5784,7 +6128,8 @@
       "author": {
         "handle": "simplye2e",
         "name": "simply",
-        "id": "1519679481153302529"
+        "id": "1519679481153302529",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1630416476397076480/fFykN2Cc_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1676385680484864000",
@@ -5800,7 +6145,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -5817,7 +6163,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1676386840352374785",
@@ -5833,7 +6180,8 @@
         "author": {
           "handle": "simplye2e",
           "name": "simply",
-          "id": "1519679481153302529"
+          "id": "1519679481153302529",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1630416476397076480/fFykN2Cc_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1676385680484864000"
@@ -5851,7 +6199,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -5867,7 +6216,8 @@
       "author": {
         "handle": "SeshingPM",
         "name": "SeshingPM.eth",
-        "id": "48558559"
+        "id": "48558559",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1606335170855915520/vaicpVDj_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1676385680484864000",
@@ -5883,7 +6233,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -5900,7 +6251,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1676386176264187904",
@@ -5916,7 +6268,8 @@
         "author": {
           "handle": "SeshingPM",
           "name": "SeshingPM.eth",
-          "id": "48558559"
+          "id": "48558559",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1606335170855915520/vaicpVDj_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1676385680484864000"
@@ -5934,7 +6287,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -5950,7 +6304,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": {
         "text": "We've learned that ChatGPT's \"Browse\" beta can occasionally display content in ways we don't want, e.g. if a user specifically asks for a URL's full text, it may inadvertently fulfill this request. We are disabling Browse while we fix this—want to do right by content owners.",
@@ -5969,7 +6324,8 @@
       "author": {
         "handle": "JeremyNguyenPhD",
         "name": "Jeremy Nguyen ✍🏼 🚢",
-        "id": "1446479195018711049"
+        "id": "1446479195018711049",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1446643610904973313/_B74rHQL_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1676008264100888577",
@@ -5985,7 +6341,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -6002,7 +6359,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1676024116955189249",
@@ -6018,7 +6376,8 @@
         "author": {
           "handle": "JeremyNguyenPhD",
           "name": "Jeremy Nguyen ✍🏼 🚢",
-          "id": "1446479195018711049"
+          "id": "1446479195018711049",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1446643610904973313/_B74rHQL_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1676008264100888577"
@@ -6036,7 +6395,8 @@
       "author": {
         "handle": "rustybridges90",
         "name": "willie mays hays",
-        "id": "1454798773834682373"
+        "id": "1454798773834682373",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1498068802294198274/QF9WgGRy_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1676016428921802757",
@@ -6052,7 +6412,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1676009408713588736"
@@ -6070,7 +6431,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1676017405418512386",
@@ -6086,7 +6448,8 @@
         "author": {
           "handle": "rustybridges90",
           "name": "willie mays hays",
-          "id": "1454798773834682373"
+          "id": "1454798773834682373",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1498068802294198274/QF9WgGRy_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1676016428921802757"
@@ -6104,7 +6467,8 @@
       "author": {
         "handle": "VinegarWrites",
         "name": "Vic Vinegar",
-        "id": "204219417"
+        "id": "204219417",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1598929400636256256/xu35TxQm_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1676008264100888577",
@@ -6120,7 +6484,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -6137,7 +6502,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1676009756635570177",
@@ -6153,7 +6519,8 @@
         "author": {
           "handle": "VinegarWrites",
           "name": "Vic Vinegar",
-          "id": "204219417"
+          "id": "204219417",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1598929400636256256/xu35TxQm_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1676008264100888577"
@@ -6171,7 +6538,8 @@
       "author": {
         "handle": "rustybridges90",
         "name": "willie mays hays",
-        "id": "1454798773834682373"
+        "id": "1454798773834682373",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1498068802294198274/QF9WgGRy_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1676008264100888577",
@@ -6187,7 +6555,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -6204,7 +6573,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1676009408713588736",
@@ -6220,7 +6590,8 @@
         "author": {
           "handle": "rustybridges90",
           "name": "willie mays hays",
-          "id": "1454798773834682373"
+          "id": "1454798773834682373",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1498068802294198274/QF9WgGRy_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1676008264100888577"
@@ -6238,7 +6609,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -6254,7 +6626,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -6270,7 +6643,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1675897218040213505",
@@ -6286,7 +6660,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -6303,7 +6678,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": {
         "text": "I was in Austin the entire time I worked on Copilot. The  team was fully remote. SF AI is a vibe, not a requirement.",
@@ -6323,7 +6699,8 @@
       "author": {
         "handle": "bilawalsidhu",
         "name": "Bilawal Sidhu",
-        "id": "227528138"
+        "id": "227528138",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1645680360762613760/pIb9WPQ1_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1675661909046198272",
@@ -6339,7 +6716,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": {
           "text": "I was in Austin the entire time I worked on Copilot. The  team was fully remote. SF AI is a vibe, not a requirement.",
@@ -6360,7 +6738,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1675715171573018631",
@@ -6376,7 +6755,8 @@
         "author": {
           "handle": "bilawalsidhu",
           "name": "Bilawal Sidhu",
-          "id": "227528138"
+          "id": "227528138",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1645680360762613760/pIb9WPQ1_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1675661909046198272"
@@ -6394,7 +6774,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -6410,7 +6791,8 @@
       "author": {
         "handle": "namitchadha",
         "name": "Namit",
-        "id": "19627378"
+        "id": "19627378",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1672644438655393794/McTjiIpF_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1675603798981754880",
@@ -6426,7 +6808,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -6443,7 +6826,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1675614973576245249",
@@ -6459,7 +6843,8 @@
         "author": {
           "handle": "namitchadha",
           "name": "Namit",
-          "id": "19627378"
+          "id": "19627378",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1672644438655393794/McTjiIpF_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1675603798981754880"
@@ -6477,7 +6862,8 @@
       "author": {
         "handle": "hendler",
         "name": "Jonathan Hendler 🪰",
-        "id": "14167444"
+        "id": "14167444",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1781467932/me-square-head_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1675603798981754880",
@@ -6493,7 +6879,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -6510,7 +6897,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1675622368419676160",
@@ -6526,7 +6914,8 @@
         "author": {
           "handle": "hendler",
           "name": "Jonathan Hendler 🪰",
-          "id": "14167444"
+          "id": "14167444",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1781467932/me-square-head_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1675603798981754880"
@@ -6544,7 +6933,8 @@
       "author": {
         "handle": "scottswigart",
         "name": "Scott Swigart",
-        "id": "7463062"
+        "id": "7463062",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1622767412428038144/KeZxQw6U_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1675603798981754880",
@@ -6560,7 +6950,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -6577,7 +6968,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1675695544390541312",
@@ -6593,7 +6985,8 @@
         "author": {
           "handle": "scottswigart",
           "name": "Scott Swigart",
-          "id": "7463062"
+          "id": "7463062",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1622767412428038144/KeZxQw6U_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1675603798981754880"
@@ -6604,14 +6997,15 @@
       "text": "RT @naval: AI is a tool - it replaces repetitive work, not creative work.",
       "quotes": 0,
       "replies": 0,
-      "retweets": 2665,
+      "retweets": 2664,
       "bookmarks": 0,
       "likes": 0,
       "id": "1675673006327369728",
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -6627,7 +7021,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1675663626978443265",
@@ -6643,7 +7038,8 @@
         "author": {
           "handle": "TodosInvestor",
           "name": "JusticeForJohnny",
-          "id": "1513912436952383492"
+          "id": "1513912436952383492",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1528970683409129472/X3Z381n2_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1675663325735309312"
@@ -6661,7 +7057,8 @@
       "author": {
         "handle": "brian_a_burns",
         "name": "Brian Burns",
-        "id": "1448007234458247170"
+        "id": "1448007234458247170",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1621224624787947520/wXnuwzYL_normal.jpg"
       },
       "quoted": false
     },
@@ -6677,7 +7074,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1675595361786929153",
@@ -6693,7 +7091,8 @@
         "author": {
           "handle": "brian_a_burns",
           "name": "Brian Burns",
-          "id": "1448007234458247170"
+          "id": "1448007234458247170",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1621224624787947520/wXnuwzYL_normal.jpg"
         },
         "quoted": false
       }
@@ -6710,7 +7109,8 @@
       "author": {
         "handle": "benparr",
         "name": "Ben Parr",
-        "id": "11009852"
+        "id": "11009852",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1588699967257911296/PW7rHoWv_normal.jpg"
       },
       "quoted": false
     },
@@ -6726,7 +7126,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1675659747918487552",
@@ -6742,7 +7143,8 @@
         "author": {
           "handle": "benparr",
           "name": "Ben Parr",
-          "id": "11009852"
+          "id": "11009852",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1588699967257911296/PW7rHoWv_normal.jpg"
         },
         "quoted": false
       }
@@ -6759,7 +7161,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -6768,14 +7171,15 @@
       "text": "🚨 JUST ANNOUNCED: ChatGPT Plugins 🚨\n\nYou'll now be able to:\n- Browse the internet\n- Book travel\n- Buy groceries\n- Do math\n\n+ more, as developers can now build and offer plugins for ChatGPT https://t.co/HvEh0UreS3",
       "quotes": 82,
       "replies": 56,
-      "retweets": 369,
+      "retweets": 368,
       "bookmarks": 1318,
       "likes": 3044,
       "id": "1638951217056325653",
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -6791,7 +7195,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -6807,7 +7212,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -6823,7 +7229,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1649829476509925378",
@@ -6839,7 +7246,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1649815913124773888"
@@ -6857,7 +7265,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -6873,7 +7282,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -6889,7 +7299,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -6905,7 +7316,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1649809021367451651",
@@ -6916,12 +7328,13 @@
         "replies": 10,
         "retweets": 13,
         "bookmarks": 16,
-        "likes": 698,
+        "likes": 697,
         "id": "1649809021367451651",
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1649802281099882497"
@@ -6933,13 +7346,14 @@
       "quotes": 5,
       "replies": 37,
       "retweets": 75,
-      "bookmarks": 613,
+      "bookmarks": 612,
       "likes": 815,
       "id": "1649136458882510861",
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -6955,7 +7369,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -6966,12 +7381,13 @@
       "replies": 10,
       "retweets": 13,
       "bookmarks": 16,
-      "likes": 698,
+      "likes": 697,
       "id": "1649809021367451651",
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1649802281099882497",
@@ -6982,12 +7398,13 @@
         "replies": 13,
         "retweets": 12,
         "bookmarks": 18,
-        "likes": 526,
+        "likes": 527,
         "id": "1649802281099882497",
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1649801312488267776"
@@ -7005,7 +7422,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7021,7 +7439,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7037,7 +7456,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7048,12 +7468,13 @@
       "replies": 102,
       "retweets": 27,
       "bookmarks": 58,
-      "likes": 582,
+      "likes": 581,
       "id": "1659026610224283649",
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7069,7 +7490,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1649800725981982721",
@@ -7085,7 +7507,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1649793853686259712"
@@ -7098,12 +7521,13 @@
       "replies": 13,
       "retweets": 12,
       "bookmarks": 18,
-      "likes": 526,
+      "likes": 527,
       "id": "1649802281099882497",
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1649801312488267776",
@@ -7119,7 +7543,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1649800725981982721"
@@ -7137,7 +7562,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7153,7 +7579,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1649815913124773888",
@@ -7169,7 +7596,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1649811269757673474"
@@ -7187,7 +7615,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1649790435533922307",
@@ -7203,7 +7632,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -7220,7 +7650,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7236,7 +7667,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7252,7 +7684,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7268,7 +7701,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7279,12 +7713,13 @@
       "replies": 59,
       "retweets": 45,
       "bookmarks": 39,
-      "likes": 411,
+      "likes": 410,
       "id": "1661727744466583552",
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7300,7 +7735,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7316,7 +7752,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1649793853686259712",
@@ -7332,7 +7769,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1649790435533922307"
@@ -7350,7 +7788,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7360,13 +7799,14 @@
       "quotes": 8,
       "replies": 26,
       "retweets": 58,
-      "bookmarks": 358,
+      "bookmarks": 357,
       "likes": 395,
       "id": "1654145121900982274",
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7377,12 +7817,13 @@
       "replies": 15,
       "retweets": 56,
       "bookmarks": 264,
-      "likes": 378,
+      "likes": 377,
       "id": "1639376343316963328",
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7393,12 +7834,13 @@
       "replies": 22,
       "retweets": 37,
       "bookmarks": 253,
-      "likes": 362,
+      "likes": 361,
       "id": "1644489142351560705",
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7414,7 +7856,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1649811269757673474",
@@ -7430,7 +7873,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1649809021367451651"
@@ -7448,7 +7892,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7464,7 +7909,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7480,7 +7926,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7496,7 +7943,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7512,7 +7960,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7528,7 +7977,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7544,7 +7994,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7560,7 +8011,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7570,13 +8022,14 @@
       "quotes": 6,
       "replies": 17,
       "retweets": 19,
-      "bookmarks": 129,
+      "bookmarks": 130,
       "likes": 225,
       "id": "1663902311217868800",
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7592,7 +8045,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7608,7 +8062,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7624,7 +8079,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7640,7 +8096,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7656,7 +8113,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7672,7 +8130,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7688,7 +8147,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7704,7 +8164,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1649790435533922307",
@@ -7720,7 +8181,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -7737,7 +8199,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7753,7 +8216,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7769,7 +8233,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7785,7 +8250,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7801,7 +8267,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7817,7 +8284,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7833,7 +8301,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7849,7 +8318,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7865,7 +8335,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7881,7 +8352,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7897,7 +8369,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7913,7 +8386,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": {
         "text": "Our multi-model playground is coming together. Give it a try: https://t.co/dbsmteAqri",
@@ -7932,7 +8406,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7948,7 +8423,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7964,7 +8440,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -7980,7 +8457,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": {
         "text": "AI will have a profound impact on what it means to create content. \n\nAnd of course we're pushing the envelope. AIxBot debuted in our subscriber slack today ✨\n\nTrained on our knowledge base. Your friendly bot to help you adopt AI in your business. https://t.co/Dun0ygIE69",
@@ -7999,7 +8477,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -8016,7 +8495,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8032,7 +8512,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8048,7 +8529,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8064,7 +8546,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8080,7 +8563,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8096,7 +8580,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8112,7 +8597,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8128,7 +8614,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8144,7 +8631,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8160,7 +8648,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8176,7 +8665,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8192,7 +8682,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8208,7 +8699,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8224,7 +8716,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8240,7 +8733,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8251,12 +8745,13 @@
       "replies": 10,
       "retweets": 8,
       "bookmarks": 8,
-      "likes": 112,
+      "likes": 113,
       "id": "1641932378380849152",
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": {
         "text": "We’re excited to add Claude by @AnthropicAI as the newest AI assistant tool integrated with Zapier! https://t.co/4cith5Wkof",
@@ -8275,7 +8770,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8291,7 +8787,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8307,7 +8804,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8323,7 +8821,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8339,7 +8838,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8355,7 +8855,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8371,7 +8872,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8387,7 +8889,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8403,7 +8906,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": {
         "text": "Generate videos with nothing but words. If you can say it, now you can see it.\n\nIntroducing, Text to Video. With Gen-2.\n\nLearn more at https://t.co/PsJh664G0Q https://t.co/6qEgcZ9QV4",
@@ -8422,7 +8926,8 @@
         "author": {
           "handle": "rachel_l_woods",
           "name": "Rachel Woods",
-          "id": "502400573"
+          "id": "502400573",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
         },
         "quoted": false
       }
@@ -8439,7 +8944,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8455,7 +8961,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8471,7 +8978,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8487,7 +8995,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     },
@@ -8503,7 +9012,8 @@
       "author": {
         "handle": "rachel_l_woods",
         "name": "Rachel Woods",
-        "id": "502400573"
+        "id": "502400573",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1623522272920350720/031Q5t3R_normal.jpg"
       },
       "quoted": false
     }

@@ -24,6 +24,7 @@ function convertFeed(apiFeed: ApiFeed) {
         retweets: t.retweets.length,
         comments: t.comments.length,
         timestamp: t.timestamp,
+        avatarUrl: author.avatar_url,
         quotedTweet: {
           id: t.parent_id!,
           name: quotedAuthor.name,
@@ -33,6 +34,7 @@ function convertFeed(apiFeed: ApiFeed) {
           retweets: quotedTweet.retweets.length,
           comments: quotedTweet.comments.length,
           timestamp: quotedTweet.timestamp,
+          avatarUrl: quotedAuthor.avatar_url,
         },
       });
     } else {
@@ -45,6 +47,7 @@ function convertFeed(apiFeed: ApiFeed) {
         retweets: t.retweets.length,
         comments: t.comments.length,
         timestamp: t.timestamp,
+        avatarUrl: author.avatar_url,
       });
     }
   });
@@ -89,8 +92,8 @@ export function Feed() {
     <>
       <div className="flex items-center w-full px-4 pb-4 border-b fixed bg-white">
         <div className="max-w-screen-md w-full flex py-2 mx-auto ">
-        <img src={TwitterLogo} className="w-12 rotate-180 mr-4" />
-        <h1 className="text-4xl font-semibold">Twitter</h1>
+          <img src={TwitterLogo} className="w-12 rotate-180 mr-4" />
+          <h1 className="text-4xl font-semibold">Twitter</h1>
         </div>
       </div>
       <div className="max-w-screen-md mx-auto border-l border-r">
@@ -134,7 +137,10 @@ export function Feed() {
                     }}
                   >
                     <div className="flex space-x-2 items-center">
-                      <div className="bg-slate-300 rounded-full w-5 h-5"></div>
+                      <img
+                        src={f.quotedTweet.avatarUrl}
+                        className="w-5 h-5 rounded-full"
+                      />
                       <h2 className="font-bold">{f.quotedTweet.name}</h2>
                       <h2 className="text-slate-500">
                         @{f.quotedTweet.handle}

@@ -2,20 +2,56 @@
   "handle": "hwchase17",
   "name": "Harrison Chase",
   "bio": "@LangChainAI, previously @robusthq @kensho\n\nMLOps ∪ Generative AI ∪ sports analytics",
+  "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg",
   "activity": [
+    {
+      "type": "RETWEET",
+      "text": "RT @logananks: Made some updates!\n\n1. Extension stays on the page automatically, so you don't need to open it through the extensions icon e…",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 5,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1685693695511891968",
+      "author": {
+        "handle": "hwchase17",
+        "name": "Harrison Chase",
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
+      },
+      "quoted": false
+    },
+    {
+      "type": "RETWEET",
+      "text": "RT @LangChainAI: New in 🦜🧪langchain_experimental\n\nA way to call Anthropic models with the same function calling syntax as OpenAI models",
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 5,
+      "bookmarks": 0,
+      "likes": 0,
+      "id": "1685693586975940608",
+      "author": {
+        "handle": "hwchase17",
+        "name": "Harrison Chase",
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
+      },
+      "quoted": false
+    },
     {
       "type": "TWEET",
       "text": "🔧Anthropic Functions\n\nA wrapper around @AnthropicAI models to expose support for function calling in the same way as @OpenAI\n\nUses XML encoding under the hood, as per docs thats what Claude is best at.\n\nAdded some examples for tagging and extraction\n\nhttps://t.co/hTfabV929X https://t.co/mWyKSRWX4H",
-      "quotes": 1,
-      "replies": 1,
-      "retweets": 6,
-      "bookmarks": 12,
-      "likes": 39,
+      "quotes": 2,
+      "replies": 2,
+      "retweets": 10,
+      "bookmarks": 20,
+      "likes": 63,
       "id": "1685667799174393857",
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -31,7 +67,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "@hwchase17 @AnthropicAI Great guide. Question:when the agent don't respond in the correct way can we solve this problem by catching the exception and promoting it back to reply in that specific format?",
@@ -43,14 +80,15 @@
       "text": "RT @dani_avila7: Testing Code Interpreter with any LLM in Visual Studio Code\n\n@codegptAI open a notebook, create the code, run, repeat!\n\nVe…",
       "quotes": 0,
       "replies": 0,
-      "retweets": 24,
+      "retweets": 25,
       "bookmarks": 0,
       "likes": 0,
       "id": "1685444599874211840",
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -61,12 +99,13 @@
       "replies": 5,
       "retweets": 15,
       "bookmarks": 47,
-      "likes": 110,
+      "likes": 114,
       "id": "1685409702522613760",
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -75,14 +114,15 @@
       "text": "RT @ptsi: On August 10 I land in SF to kick off the @CamcorderAI 🌸📹 seed fundraise. Camcorder will turn 8 months old 3 days before.\n\nThe $1…",
       "quotes": 0,
       "replies": 0,
-      "retweets": 6,
+      "retweets": 7,
       "bookmarks": 0,
       "likes": 0,
       "id": "1685388256626745344",
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -98,7 +138,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -114,7 +155,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -130,7 +172,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -146,7 +189,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -162,7 +206,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -178,7 +223,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "🤹 New prompt templates\n\nFew shot prompting can really boost performance, but choosing examples up front is hard.\n\nFew shot prompt templates make it easy to *dynamically* select the examples based on the user input.\n\nNow supported for chat models!\n\nDocs: https://t.co/S1t6gpQUVL https://t.co/RmgEh6BJv8",
@@ -197,7 +243,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -213,7 +260,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -229,7 +277,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -245,7 +294,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -261,7 +311,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -277,7 +328,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -293,7 +345,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -309,7 +362,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "📰LangChain Newsletter\n\nThere's a lot happening in the space and a lot to keep up with \n\nWe're launching a newsletter tmrw that will run every 2 weeks to summarize the most important things in the ecosystem\n\nWill be concise and high density \n\nSign up here: https://t.co/jqNNthOhjL",
@@ -328,7 +382,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -337,14 +392,15 @@
       "text": "Had an awesome webinar with @RLanceMartin and @jamescalam on Weds around using Llama 2\n\nLlama2 is significantly worse on coding tasks - is that why it's not nearly as good at agentic tasks as GPT models?\n\nUp on YouTube now: https://t.co/EB8IdmcK9z",
       "quotes": 0,
       "replies": 3,
-      "retweets": 9,
+      "retweets": 10,
       "bookmarks": 38,
       "likes": 77,
       "id": "1684949335124103168",
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -360,7 +416,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -376,7 +433,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -392,7 +450,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "🧬How will LLMs and GenAI will transform biotech?\n\nI don't know, but I'm excited to learn at our next, more focused meetup: AI x BIO Lightning talks with @bitsinbio on July 27th!\n\nWe're looking for more speakers at this intersection, so reach out!\n\nhttps://t.co/0ZML9du9yI",
@@ -412,7 +471,8 @@
       "author": {
         "handle": "IamMarcoCello",
         "name": "Marco",
-        "id": "1523759574"
+        "id": "1523759574",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1578807922716512256/xkSsiVwG_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684688139342995456",
@@ -428,7 +488,8 @@
         "author": {
           "handle": "hwchase17",
           "name": "Harrison Chase",
-          "id": "2728439146"
+          "id": "2728439146",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684683770966798336"
@@ -446,7 +507,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684689613590290432",
@@ -462,7 +524,8 @@
         "author": {
           "handle": "IamMarcoCello",
           "name": "Marco",
-          "id": "1523759574"
+          "id": "1523759574",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1578807922716512256/xkSsiVwG_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684688139342995456"
@@ -480,7 +543,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -496,7 +560,8 @@
       "author": {
         "handle": "irvinjoelbanta",
         "name": "Joel Banta",
-        "id": "19357711"
+        "id": "19357711",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/954133218319618048/3UfHCQyB_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684022255796514816",
@@ -512,7 +577,8 @@
         "author": {
           "handle": "hwchase17",
           "name": "Harrison Chase",
-          "id": "2728439146"
+          "id": "2728439146",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
         },
         "quoted": false
       }
@@ -529,7 +595,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684673500819124224",
@@ -545,7 +612,8 @@
         "author": {
           "handle": "irvinjoelbanta",
           "name": "Joel Banta",
-          "id": "19357711"
+          "id": "19357711",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/954133218319618048/3UfHCQyB_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684022255796514816"
@@ -563,7 +631,8 @@
       "author": {
         "handle": "IamMarcoCello",
         "name": "Marco",
-        "id": "1523759574"
+        "id": "1523759574",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1578807922716512256/xkSsiVwG_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684673254315995141",
@@ -579,7 +648,8 @@
         "author": {
           "handle": "hwchase17",
           "name": "Harrison Chase",
-          "id": "2728439146"
+          "id": "2728439146",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
         },
         "quoted": {
           "text": "🧬How will LLMs and GenAI will transform biotech?\n\nI don't know, but I'm excited to learn at our next, more focused meetup: AI x BIO Lightning talks with @bitsinbio on July 27th!\n\nWe're looking for more speakers at this intersection, so reach out!\n\nhttps://t.co/0ZML9du9yI",
@@ -600,7 +670,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684683770966798336",
@@ -616,7 +687,8 @@
         "author": {
           "handle": "IamMarcoCello",
           "name": "Marco",
-          "id": "1523759574"
+          "id": "1523759574",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1578807922716512256/xkSsiVwG_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684673254315995141"
@@ -634,7 +706,8 @@
       "author": {
         "handle": "_tony_lewis",
         "name": "Tony Lewis",
-        "id": "1561506468"
+        "id": "1561506468",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1629829327566131209/HceiWPmw_normal.jpg"
       },
       "quoted": {
         "text": "🌳Tree-of-Thought\n\nA new reasoning method, originally by @ShunyuYao12, implemented in 🦜🧪langchain_experimental by Vadim Gubergrits\n\nPaper: https://t.co/8sVhTXP5c2\n\nDocs: https://t.co/jpeJLutxrK\n\nLangSmith Trace: https://t.co/BKkpTpFPHq https://t.co/XPoevx4chE",
@@ -654,7 +727,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684662016605110272",
@@ -670,7 +744,8 @@
         "author": {
           "handle": "_tony_lewis",
           "name": "Tony Lewis",
-          "id": "1561506468"
+          "id": "1561506468",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1629829327566131209/HceiWPmw_normal.jpg"
         },
         "quoted": {
           "text": "🌳Tree-of-Thought\n\nA new reasoning method, originally by @ShunyuYao12, implemented in 🦜🧪langchain_experimental by Vadim Gubergrits\n\nPaper: https://t.co/8sVhTXP5c2\n\nDocs: https://t.co/jpeJLutxrK\n\nLangSmith Trace: https://t.co/BKkpTpFPHq https://t.co/XPoevx4chE",
@@ -686,12 +761,13 @@
       "replies": 6,
       "retweets": 63,
       "bookmarks": 219,
-      "likes": 367,
+      "likes": 368,
       "id": "1684595491890487298",
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -707,7 +783,8 @@
       "author": {
         "handle": "MishraAmogh",
         "name": "Amogh Mishra",
-        "id": "2291863126"
+        "id": "2291863126",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1630402637265883138/Ebmx507D_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684595491890487298",
@@ -718,12 +795,13 @@
         "replies": 6,
         "retweets": 63,
         "bookmarks": 219,
-        "likes": 367,
+        "likes": 368,
         "id": "1684595491890487298",
         "author": {
           "handle": "hwchase17",
           "name": "Harrison Chase",
-          "id": "2728439146"
+          "id": "2728439146",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
         },
         "quoted": false
       }
@@ -740,7 +818,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684648228963102721",
@@ -756,7 +835,8 @@
         "author": {
           "handle": "MishraAmogh",
           "name": "Amogh Mishra",
-          "id": "2291863126"
+          "id": "2291863126",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1630402637265883138/Ebmx507D_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684595491890487298"
@@ -774,7 +854,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -790,7 +871,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -806,7 +888,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -822,7 +905,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -838,7 +922,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -854,7 +939,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "Introducing  VectorAdmin an open-source, universal GUI for vector databases.\n\n✅ Atomically manage embeddings in @trychroma or @pinecone \n✅ Upload documents straight to your vector db\n✅ Update single embeddings on the fly\n✅ Clone entire namespaces at no cost\n+  dev tools!! https://t.co/HJ8jZHRHBg",
@@ -873,7 +959,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -889,7 +976,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "🔁 Agent iterators\n\nThis is a very cool one. You can now actually run your agents as iterators, meaning you can execute a single step at a time and add whatever logic you want in between.\n\nHuge props to @SlapDron3 and @lacicocodes!\n\nDocs: https://t.co/xIeecRXjmR https://t.co/fxHxCx0DiH",
@@ -908,7 +996,8 @@
       "author": {
         "handle": "Nima292",
         "name": "Nima",
-        "id": "917739497898594304"
+        "id": "917739497898594304",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/919748056224075776/zCrx84fl_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684339210998923264",
@@ -924,7 +1013,8 @@
         "author": {
           "handle": "hwchase17",
           "name": "Harrison Chase",
-          "id": "2728439146"
+          "id": "2728439146",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
         },
         "quoted": {
           "text": "🔁 Agent iterators\n\nThis is a very cool one. You can now actually run your agents as iterators, meaning you can execute a single step at a time and add whatever logic you want in between.\n\nHuge props to @SlapDron3 and @lacicocodes!\n\nDocs: https://t.co/xIeecRXjmR https://t.co/fxHxCx0DiH",
@@ -944,7 +1034,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684598406868824064",
@@ -960,7 +1051,8 @@
         "author": {
           "handle": "Nima292",
           "name": "Nima",
-          "id": "917739497898594304"
+          "id": "917739497898594304",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/919748056224075776/zCrx84fl_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684339210998923264"
@@ -978,7 +1070,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -994,7 +1087,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1010,7 +1104,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "🦾🤖 Say hi to CLAIRe, your newest AI friend!\n\nThe next step to human-AI conversation dynamics with multi-resolution memory, active messaging, and more: https://t.co/7Q4ND8bM4j\n\nOpen source, built on @trychroma + @LangChainAI, and made as part of Chroma's hacker-in-residence",
@@ -1029,7 +1124,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1045,7 +1141,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "📃 Struggling with complex #SQL queries and navigating large amounts of data?\n\n@kaarthikcodes' snowChat lets you interact with @SnowflakeDB data using natural language queries. ❄️\n\nLearn how he built it using @OpenAI, @LangChainAI, @Supabase and Streamlit: https://t.co/wTmZjxSJI1",
@@ -1064,7 +1161,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1080,7 +1178,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1096,7 +1195,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1112,7 +1212,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1128,7 +1229,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1144,7 +1246,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1160,7 +1263,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1176,7 +1280,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1192,7 +1297,8 @@
       "author": {
         "handle": "RLanceMartin",
         "name": "Lance Martin",
-        "id": "39202644"
+        "id": "39202644",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1655101667908677632/uCrwcWfO_normal.jpg"
       },
       "quoted": false
     },
@@ -1208,7 +1314,8 @@
       "author": {
         "handle": "biotechbuzznews",
         "name": "brandon",
-        "id": "1642222841482342412"
+        "id": "1642222841482342412",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1681083881221500928/RI_-t_Qe_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684229896221126656",
@@ -1224,7 +1331,8 @@
         "author": {
           "handle": "RLanceMartin",
           "name": "Lance Martin",
-          "id": "39202644"
+          "id": "39202644",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1655101667908677632/uCrwcWfO_normal.jpg"
         },
         "quoted": false
       }
@@ -1241,7 +1349,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684327082401169408",
@@ -1257,7 +1366,8 @@
         "author": {
           "handle": "biotechbuzznews",
           "name": "brandon",
-          "id": "1642222841482342412"
+          "id": "1642222841482342412",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1681083881221500928/RI_-t_Qe_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684229896221126656"
@@ -1275,7 +1385,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1291,7 +1402,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1307,7 +1419,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1323,7 +1436,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1339,7 +1453,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1355,7 +1470,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "We are excited to announce that Harrison Chase, Co-Founder and CEO of @LangChainAI will be speaking at The AI Conference 2023 in San Francisco!\n\n#aiconf2023 #ai #aicommunity https://t.co/bPa49c4cKX",
@@ -1374,7 +1490,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1390,7 +1507,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1406,7 +1524,8 @@
       "author": {
         "handle": "yoheinakajima",
         "name": "Yohei",
-        "id": "30439303"
+        "id": "30439303",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1452754543217831938/T2O-66Yy_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684241834309193730",
@@ -1422,7 +1541,8 @@
         "author": {
           "handle": "hwchase17",
           "name": "Harrison Chase",
-          "id": "2728439146"
+          "id": "2728439146",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
         },
         "quoted": false
       }
@@ -1439,7 +1559,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684248809302532097",
@@ -1455,7 +1576,8 @@
         "author": {
           "handle": "yoheinakajima",
           "name": "Yohei",
-          "id": "30439303"
+          "id": "30439303",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1452754543217831938/T2O-66Yy_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684241834309193730"
@@ -1473,7 +1595,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1489,7 +1612,8 @@
       "author": {
         "handle": "MishraAmogh",
         "name": "Amogh Mishra",
-        "id": "2291863126"
+        "id": "2291863126",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1630402637265883138/Ebmx507D_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684229896221126656",
@@ -1505,7 +1629,8 @@
         "author": {
           "handle": "RLanceMartin",
           "name": "Lance Martin",
-          "id": "39202644"
+          "id": "39202644",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1655101667908677632/uCrwcWfO_normal.jpg"
         },
         "quoted": false
       }
@@ -1522,7 +1647,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684236184266895360",
@@ -1538,7 +1664,8 @@
         "author": {
           "handle": "MishraAmogh",
           "name": "Amogh Mishra",
-          "id": "2291863126"
+          "id": "2291863126",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1630402637265883138/Ebmx507D_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684229896221126656"
@@ -1556,7 +1683,8 @@
       "author": {
         "handle": "roth_tech",
         "name": "Benedikt",
-        "id": "36188563"
+        "id": "36188563",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/731979763141738496/hfiEABFC_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684241834309193730",
@@ -1572,7 +1700,8 @@
         "author": {
           "handle": "hwchase17",
           "name": "Harrison Chase",
-          "id": "2728439146"
+          "id": "2728439146",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
         },
         "quoted": false
       }
@@ -1589,7 +1718,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684244133580353537",
@@ -1605,7 +1735,8 @@
         "author": {
           "handle": "roth_tech",
           "name": "Benedikt",
-          "id": "36188563"
+          "id": "36188563",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/731979763141738496/hfiEABFC_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684241834309193730"
@@ -1623,7 +1754,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1639,7 +1771,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1655,7 +1788,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1671,7 +1805,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1687,7 +1822,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "Web research is a great LLM use case. @hwchase17 and I are releasing a new retriever to automate web research that is simple, configurable (can run in private-mode w/ llamav2, GPT4all, etc), &amp; observable (use LangSmith to see what it's doing). Blog: \nhttps://t.co/wYPCCHSNDN https://t.co/LU0PWDmrBE",
@@ -1706,7 +1842,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684241834309193730",
@@ -1722,7 +1859,8 @@
         "author": {
           "handle": "hwchase17",
           "name": "Harrison Chase",
-          "id": "2728439146"
+          "id": "2728439146",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
         },
         "quoted": false
       }
@@ -1739,7 +1877,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1755,7 +1894,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1771,7 +1911,8 @@
       "author": {
         "handle": "jxnlco",
         "name": "jason",
-        "id": "17203692"
+        "id": "17203692",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1682267111555571714/VDORoUy__normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684022255796514816",
@@ -1787,7 +1928,8 @@
         "author": {
           "handle": "hwchase17",
           "name": "Harrison Chase",
-          "id": "2728439146"
+          "id": "2728439146",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
         },
         "quoted": false
       }
@@ -1804,7 +1946,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684028926526631938",
@@ -1820,7 +1963,8 @@
         "author": {
           "handle": "jxnlco",
           "name": "jason",
-          "id": "17203692"
+          "id": "17203692",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1682267111555571714/VDORoUy__normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684022255796514816"
@@ -1838,7 +1982,8 @@
       "author": {
         "handle": "MisbahSy",
         "name": "Misbah Syed",
-        "id": "3426023361"
+        "id": "3426023361",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1634401937801240576/D7_i-m5a_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684022255796514816",
@@ -1854,7 +1999,8 @@
         "author": {
           "handle": "hwchase17",
           "name": "Harrison Chase",
-          "id": "2728439146"
+          "id": "2728439146",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
         },
         "quoted": false
       }
@@ -1871,7 +2017,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1684023745684574208",
@@ -1887,7 +2034,8 @@
         "author": {
           "handle": "MisbahSy",
           "name": "Misbah Syed",
-          "id": "3426023361"
+          "id": "3426023361",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1634401937801240576/D7_i-m5a_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1684022255796514816"
@@ -1905,7 +2053,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1921,7 +2070,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1937,7 +2087,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1953,7 +2104,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1969,7 +2121,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -1985,7 +2138,8 @@
       "author": {
         "handle": "JorisTechTalk",
         "name": "Joris de Jong",
-        "id": "733672774531723265"
+        "id": "733672774531723265",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1658421689259024386/UTSIX9cO_normal.jpg"
       },
       "quoted": false
     },
@@ -2001,7 +2155,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1683933432169082880",
@@ -2017,7 +2172,8 @@
         "author": {
           "handle": "JorisTechTalk",
           "name": "Joris de Jong",
-          "id": "733672774531723265"
+          "id": "733672774531723265",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1658421689259024386/UTSIX9cO_normal.jpg"
         },
         "quoted": false
       }
@@ -2034,7 +2190,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2050,7 +2207,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2066,7 +2224,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2082,7 +2241,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2098,7 +2258,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2114,7 +2275,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2130,7 +2292,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2146,7 +2309,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "Congrats on the launch, @ddematheu and @pkc_xyz!\n\n@neum_ai (YC S23) helps companies have accurate and up-to-date context in their LLM prompts. Connect and sync context from data sources into vector stores.\n\nhttps://t.co/UJnxMHnHEE https://t.co/Z4fBzbj4FW",
@@ -2165,7 +2329,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2181,7 +2346,8 @@
       "author": {
         "handle": "GregKamradt",
         "name": "Greg Kamradt",
-        "id": "240008974"
+        "id": "240008974",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1467896309453570052/BGy5XYVQ_normal.jpg"
       },
       "quoted": {
         "text": "we're super excited about the future of AI characters &amp; companions &amp; @RealCharAI may be the most complete and exciting OSS AI character framework out there\n\nthey created something really sophisticated &amp; fun to use, all with open source tools!\n\nFull story:\nhttps://t.co/2265GNFbGB",
@@ -2201,7 +2367,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1683876925184389124",
@@ -2217,7 +2384,8 @@
         "author": {
           "handle": "GregKamradt",
           "name": "Greg Kamradt",
-          "id": "240008974"
+          "id": "240008974",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1467896309453570052/BGy5XYVQ_normal.jpg"
         },
         "quoted": {
           "text": "we're super excited about the future of AI characters &amp; companions &amp; @RealCharAI may be the most complete and exciting OSS AI character framework out there\n\nthey created something really sophisticated &amp; fun to use, all with open source tools!\n\nFull story:\nhttps://t.co/2265GNFbGB",
@@ -2238,7 +2406,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2254,7 +2423,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2270,7 +2440,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2286,7 +2457,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2302,7 +2474,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "New Agent Intro\n\nWe've rewritten our Agent introduction to more thoroughly explain the core pieces: Agent (plans next action), AgentExecutor (agent runtime), Tools (actions to take), Toolkits (groups of actions used together).\n\n6/6\n\nhttps://t.co/npmzdoLYDt https://t.co/r7Zx7idBjF",
@@ -2321,7 +2494,8 @@
       "author": {
         "handle": "FanLi_RnD",
         "name": "Fan Li",
-        "id": "894448068422115329"
+        "id": "894448068422115329",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1128641391838494720/wju1KNUt_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1683536270797193216",
@@ -2337,7 +2511,8 @@
         "author": {
           "handle": "hwchase17",
           "name": "Harrison Chase",
-          "id": "2728439146"
+          "id": "2728439146",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
         },
         "quoted": {
           "text": "New Agent Intro\n\nWe've rewritten our Agent introduction to more thoroughly explain the core pieces: Agent (plans next action), AgentExecutor (agent runtime), Tools (actions to take), Toolkits (groups of actions used together).\n\n6/6\n\nhttps://t.co/npmzdoLYDt https://t.co/r7Zx7idBjF",
@@ -2357,7 +2532,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1683562309153705992",
@@ -2373,7 +2549,8 @@
         "author": {
           "handle": "FanLi_RnD",
           "name": "Fan Li",
-          "id": "894448068422115329"
+          "id": "894448068422115329",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1128641391838494720/wju1KNUt_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1683536270797193216"
@@ -2391,7 +2568,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2407,7 +2585,8 @@
       "author": {
         "handle": "dong_dong_zhang",
         "name": "dongdongzhang",
-        "id": "1653679322484572160"
+        "id": "1653679322484572160",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1667521605738860550/9BZyXwD3_normal.png"
       },
       "quoted": false
     },
@@ -2423,7 +2602,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1683773133495619584",
@@ -2439,7 +2619,8 @@
         "author": {
           "handle": "dong_dong_zhang",
           "name": "dongdongzhang",
-          "id": "1653679322484572160"
+          "id": "1653679322484572160",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1667521605738860550/9BZyXwD3_normal.png"
         },
         "quoted": false
       }
@@ -2456,7 +2637,8 @@
       "author": {
         "handle": "faheem_nlp",
         "name": "Faheem",
-        "id": "1639823933619998722"
+        "id": "1639823933619998722",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1677197560459710465/DGWg74mV_normal.jpg"
       },
       "quoted": false
     },
@@ -2472,7 +2654,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1683829706209251330",
@@ -2488,7 +2671,8 @@
         "author": {
           "handle": "faheem_nlp",
           "name": "Faheem",
-          "id": "1639823933619998722"
+          "id": "1639823933619998722",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1677197560459710465/DGWg74mV_normal.jpg"
         },
         "quoted": false
       }
@@ -2505,7 +2689,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2521,7 +2706,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2537,7 +2723,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2553,7 +2740,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "🎉 Announcing the Winners of the Prem Challenge with @LangChainAI\n\n🔥 Check out our Blog Post: https://t.co/QORKEl1nIq",
@@ -2572,7 +2760,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2588,7 +2777,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2604,7 +2794,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2620,7 +2811,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2636,7 +2828,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "we're super excited about the future of AI characters &amp; companions &amp; @RealCharAI may be the most complete and exciting OSS AI character framework out there\n\nthey created something really sophisticated &amp; fun to use, all with open source tools!\n\nFull story:\nhttps://t.co/2265GNFbGB",
@@ -2655,7 +2848,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2671,7 +2865,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2687,7 +2882,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2703,7 +2899,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2719,7 +2916,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2735,7 +2933,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "Focused Quickstart\n\nWe've updated our Quickstart to really focus on the fundamental building block, the LLMChain. This should make the Quickstart easier to follow and give folks a solid foundation from which to dive into more complex components.\n\n5/n\nhttps://t.co/O4fcvtuOt1 https://t.co/MeU33IqniX",
@@ -2754,7 +2953,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2770,7 +2970,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2786,7 +2987,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2802,7 +3004,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2818,7 +3021,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2834,7 +3038,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2850,7 +3055,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2866,7 +3072,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2882,7 +3089,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2898,7 +3106,8 @@
       "author": {
         "handle": "bennetkrause",
         "name": "Bennet",
-        "id": "553710936"
+        "id": "553710936",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1267053976568188928/MvSCu7Nu_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1683153581200019456",
@@ -2914,7 +3123,8 @@
         "author": {
           "handle": "hwchase17",
           "name": "Harrison Chase",
-          "id": "2728439146"
+          "id": "2728439146",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
         },
         "quoted": false
       }
@@ -2931,7 +3141,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1683174330358718465",
@@ -2947,7 +3158,8 @@
         "author": {
           "handle": "bennetkrause",
           "name": "Bennet",
-          "id": "553710936"
+          "id": "553710936",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1267053976568188928/MvSCu7Nu_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1683153581200019456"
@@ -2965,7 +3177,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2981,7 +3194,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -2997,7 +3211,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3013,7 +3228,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3029,7 +3245,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3045,7 +3262,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3061,7 +3279,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1683153581200019456",
@@ -3077,7 +3296,8 @@
         "author": {
           "handle": "hwchase17",
           "name": "Harrison Chase",
-          "id": "2728439146"
+          "id": "2728439146",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
         },
         "quoted": false
       }
@@ -3094,7 +3314,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3110,7 +3331,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3126,7 +3348,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3142,7 +3365,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "📢 New Video : How to use  @LangChainAI's LangSmith 🦜🛠️  with LangChain powered LLM Web Apps \n\n📹 Video - https://t.co/kKsH3e7ln6 https://t.co/xF6FMXM0Ob",
@@ -3161,7 +3385,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3177,7 +3402,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "🌅 @MultiON_AI + LangChain 🌅\n\nMULTI·ON's personal agent navigates the web for you. Why click through endless pages and forms, when you can just ask your AI friend to do it for you?\n\nNow accessible via 🦜🔗!\n\nDocs: https://t.co/oyixLNA4Kl https://t.co/5ulIDhsmNN",
@@ -3196,7 +3422,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3212,7 +3439,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3228,7 +3456,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3244,7 +3473,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3260,7 +3490,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682785686729166848",
@@ -3276,7 +3507,8 @@
         "author": {
           "handle": "hwchase17",
           "name": "Harrison Chase",
-          "id": "2728439146"
+          "id": "2728439146",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
         },
         "quoted": false
       }
@@ -3293,7 +3525,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3309,7 +3542,8 @@
       "author": {
         "handle": "newplatonism",
         "name": "Fred",
-        "id": "3438654916"
+        "id": "3438654916",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1217476505581883394/dUQEib2H_normal.jpg"
       },
       "quoted": false
     },
@@ -3325,7 +3559,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682738537425420294",
@@ -3341,7 +3576,8 @@
         "author": {
           "handle": "newplatonism",
           "name": "Fred",
-          "id": "3438654916"
+          "id": "3438654916",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1217476505581883394/dUQEib2H_normal.jpg"
         },
         "quoted": false
       }
@@ -3358,7 +3594,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3374,7 +3611,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3390,7 +3628,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "Latest in 🦜🔗:\n\n⚒️ @github agent\n🏋️ @predibase LLMs\n🪐 Amazon Neptune db \n\nLet's take a look! a 🧵:",
@@ -3409,7 +3648,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3425,7 +3665,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3441,7 +3682,8 @@
       "author": {
         "handle": "BoazWasserman",
         "name": "Boaz Wasserman",
-        "id": "1064052789465280512"
+        "id": "1064052789465280512",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1675508508656033792/4NbHS30a_normal.jpg"
       },
       "quoted": false
     },
@@ -3457,7 +3699,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682381319861415936",
@@ -3473,7 +3716,8 @@
         "author": {
           "handle": "BoazWasserman",
           "name": "Boaz Wasserman",
-          "id": "1064052789465280512"
+          "id": "1064052789465280512",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1675508508656033792/4NbHS30a_normal.jpg"
         },
         "quoted": false
       }
@@ -3490,7 +3734,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3506,7 +3751,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3522,7 +3768,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3538,7 +3785,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3554,7 +3802,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3570,7 +3819,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3586,7 +3836,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3602,7 +3853,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682381319861415936",
@@ -3618,7 +3870,8 @@
         "author": {
           "handle": "BoazWasserman",
           "name": "Boaz Wasserman",
-          "id": "1064052789465280512"
+          "id": "1064052789465280512",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1675508508656033792/4NbHS30a_normal.jpg"
         },
         "quoted": false
       }
@@ -3635,7 +3888,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3651,7 +3905,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3667,7 +3922,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3683,7 +3939,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3699,7 +3956,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "AI 🤝 Music\n\nSuno can now sing! Our new model generates music with vocals, and you can try it now on Diśčòrd. See below for some early examples and an invite link to our open beta: https://t.co/CjjfYM2YRZ",
@@ -3718,7 +3976,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3734,7 +3993,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3750,7 +4010,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3766,7 +4027,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3782,7 +4044,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "IX chat UX now has links to LangSmith traces for runs that are logged. Enable LangSmith via env variables and the links appear automatically.\n\nBig thanks to @hwchase17 and team for quickly updating the LangSmith client to support this!\n\nhttps://t.co/f0UqgtuMJI https://t.co/4sxGHaYArh",
@@ -3801,7 +4064,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3817,7 +4081,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3833,7 +4098,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3849,7 +4115,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3865,7 +4132,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3881,7 +4149,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -3897,12 +4166,14 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "Recent @LangChainAI integrations to highlight across loaders, doc transformers, embeddings, retrievers (@googlecloud), and llms (llama-v2 support w/ @replicatehq and @ggerganov's llama.cpp) ... https://t.co/sLXP4c2ACT",
         "id": "1682054193430007808"
-      }
+      },
+      "quoteDeleted": false
     },
     {
       "type": "REPLY",
@@ -3916,7 +4187,8 @@
       "author": {
         "handle": "Shroominic",
         "name": "Shroominic",
-        "id": "921418831645507584"
+        "id": "921418831645507584",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1637765494294867969/UDrUDirB_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682060122112274432",
@@ -3932,12 +4204,14 @@
         "author": {
           "handle": "hwchase17",
           "name": "Harrison Chase",
-          "id": "2728439146"
+          "id": "2728439146",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
         },
         "quoted": {
           "text": "Recent @LangChainAI integrations to highlight across loaders, doc transformers, embeddings, retrievers (@googlecloud), and llms (llama-v2 support w/ @replicatehq and @ggerganov's llama.cpp) ... https://t.co/sLXP4c2ACT",
           "id": "1682054193430007808"
-        }
+        },
+        "quoteDeleted": false
       }
     },
     {
@@ -3952,7 +4226,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1682073700101767182",
@@ -3968,7 +4243,8 @@
         "author": {
           "handle": "Shroominic",
           "name": "Shroominic",
-          "id": "921418831645507584"
+          "id": "921418831645507584",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1637765494294867969/UDrUDirB_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1682060122112274432"
@@ -3986,7 +4262,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4002,7 +4279,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4018,7 +4296,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "🖇🧑‍💻 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝗶𝗻𝗴 𝗖𝗹𝗶𝗽𝗽𝘆\nThe AI programmer based on a team of autonomous agents\n\n▸ https://t.co/igmhlRPCJ3\n▸ Can plan the project, implement, run, debug, test (in the browser)\n▸ A new programming workflow: it runs by itself, you give feedback to steer it\n\n🧵👇 https://t.co/03nomLrpH8",
@@ -4037,7 +4316,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4053,7 +4333,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4069,7 +4350,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4085,7 +4367,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4101,7 +4384,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4117,7 +4401,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4133,7 +4418,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4149,7 +4435,8 @@
       "author": {
         "handle": "_ScottCondron",
         "name": "Scott Condron",
-        "id": "982132042845401088"
+        "id": "982132042845401088",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1016982898556141569/R09dBwgv_normal.jpg"
       },
       "quoted": false
     },
@@ -4165,7 +4452,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681975988027105281",
@@ -4181,7 +4469,8 @@
         "author": {
           "handle": "_ScottCondron",
           "name": "Scott Condron",
-          "id": "982132042845401088"
+          "id": "982132042845401088",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1016982898556141569/R09dBwgv_normal.jpg"
         },
         "quoted": false
       }
@@ -4198,7 +4487,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4214,7 +4504,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4230,7 +4521,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4246,7 +4538,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4262,7 +4555,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4278,7 +4572,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4294,7 +4589,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4310,7 +4606,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4326,12 +4623,14 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "Private Chat / QA over docs at ~25 tokens / s with 13b Llama-v2 (on Mac M2 max gpu). Using @trychroma vectorDB, @nomic_ai GPT4all embeddings, LLama-v2 \n\nFull recipe added to @LangChainAI docs: https://t.co/amzJ9ZcfeE https://t.co/KNgNdxRDqB",
         "id": "1681733901042196482"
-      }
+      },
+      "quoteDeleted": false
     },
     {
       "type": "REPLY",
@@ -4345,7 +4644,8 @@
       "author": {
         "handle": "TheClimatic",
         "name": "The Climatic Times",
-        "id": "1412532199409303555"
+        "id": "1412532199409303555",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1412532584551272454/JWmfmyBS_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681761547646038016",
@@ -4361,12 +4661,14 @@
         "author": {
           "handle": "hwchase17",
           "name": "Harrison Chase",
-          "id": "2728439146"
+          "id": "2728439146",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
         },
         "quoted": {
           "text": "Private Chat / QA over docs at ~25 tokens / s with 13b Llama-v2 (on Mac M2 max gpu). Using @trychroma vectorDB, @nomic_ai GPT4all embeddings, LLama-v2 \n\nFull recipe added to @LangChainAI docs: https://t.co/amzJ9ZcfeE https://t.co/KNgNdxRDqB",
           "id": "1681733901042196482"
-        }
+        },
+        "quoteDeleted": false
       }
     },
     {
@@ -4381,7 +4683,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681774215731527680",
@@ -4397,7 +4700,8 @@
         "author": {
           "handle": "TheClimatic",
           "name": "The Climatic Times",
-          "id": "1412532199409303555"
+          "id": "1412532199409303555",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1412532584551272454/JWmfmyBS_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1681761547646038016"
@@ -4415,7 +4719,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4431,7 +4736,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4447,7 +4753,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4463,7 +4770,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4479,7 +4787,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681828689057812481",
@@ -4495,7 +4804,8 @@
         "author": {
           "handle": "hwchase17",
           "name": "Harrison Chase",
-          "id": "2728439146"
+          "id": "2728439146",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
         },
         "quoted": false
       }
@@ -4512,7 +4822,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "announcing @trychroma v0.4, our first production oriented release.\n\nthis marks a huge step forward for the chroma team and the ai developer community. \n\nhttps://t.co/jp8Le7hwut",
@@ -4531,7 +4842,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4547,7 +4859,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4563,7 +4876,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4579,7 +4893,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4595,7 +4910,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4611,7 +4927,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4627,7 +4944,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4643,7 +4961,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4659,7 +4978,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4675,7 +4995,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4691,7 +5012,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "@eladgil is joining us for a short talk for our autonomous agents hackathon next Saturday 7/22 - apply to join! \n\nhttps://t.co/6xsf90ddDI",
@@ -4711,7 +5033,8 @@
       "author": {
         "handle": "skynetislov3",
         "name": "skynet luvs u",
-        "id": "965516175651225600"
+        "id": "965516175651225600",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1220547889056768001/kG0ljtRe_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681691615851606022",
@@ -4727,7 +5050,8 @@
         "author": {
           "handle": "hwchase17",
           "name": "Harrison Chase",
-          "id": "2728439146"
+          "id": "2728439146",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
         },
         "quoted": {
           "text": "@eladgil is joining us for a short talk for our autonomous agents hackathon next Saturday 7/22 - apply to join! \n\nhttps://t.co/6xsf90ddDI",
@@ -4748,7 +5072,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false,
       "replyToId": "1681707187419348992",
@@ -4764,43 +5089,12 @@
         "author": {
           "handle": "skynetislov3",
           "name": "skynet luvs u",
-          "id": "965516175651225600"
+          "id": "965516175651225600",
+          "avatarUrl": "https://pbs.twimg.com/profile_images/1220547889056768001/kG0ljtRe_normal.jpg"
         },
         "quoted": false,
         "replyToId": "1681691615851606022"
       }
-    },
-    {
-      "type": "TWEET",
-      "text": "🧬How will LLMs and GenAI will transform biotech?\n\nI don't know, but I'm excited to learn at our next, more focused meetup: AI x BIO Lightning talks with @bitsinbio on July 27th!\n\nWe're looking for more speakers at this intersection, so reach out!\n\nhttps://t.co/0ZML9du9yI",
-      "quotes": 1,
-      "replies": 3,
-      "retweets": 6,
-      "bookmarks": 10,
-      "likes": 47,
-      "id": "1681716026780655616",
-      "author": {
-        "handle": "hwchase17",
-        "name": "Harrison Chase",
-        "id": "2728439146"
-      },
-      "quoted": false
-    },
-    {
-      "type": "RETWEET",
-      "text": "RT @TradersCraft: Finished my AI Marketing app MVP (1st dr) powered by @LangChainAI &amp; #OpenAI. After quotes ranging from $25-$80K &amp; 3 mo, I…",
-      "quotes": 0,
-      "replies": 0,
-      "retweets": 2,
-      "bookmarks": 0,
-      "likes": 0,
-      "id": "1681696113978646528",
-      "author": {
-        "handle": "hwchase17",
-        "name": "Harrison Chase",
-        "id": "2728439146"
-      },
-      "quoted": false
     },
     {
       "type": "TWEET",
@@ -4814,7 +5108,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4830,7 +5125,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4846,7 +5142,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4862,7 +5159,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4878,7 +5176,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4888,13 +5187,14 @@
       "quotes": 10,
       "replies": 29,
       "retweets": 167,
-      "bookmarks": 1019,
+      "bookmarks": 1020,
       "likes": 1222,
       "id": "1639013354391113728",
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4910,7 +5210,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4926,7 +5227,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4942,7 +5244,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4958,7 +5261,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4974,7 +5278,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -4990,7 +5295,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5000,13 +5306,14 @@
       "quotes": 26,
       "replies": 19,
       "retweets": 170,
-      "bookmarks": 339,
+      "bookmarks": 341,
       "likes": 814,
       "id": "1613190606591000576",
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5022,7 +5329,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5038,7 +5346,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5054,7 +5363,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5070,7 +5380,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5086,7 +5397,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5102,7 +5414,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5118,7 +5431,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5134,7 +5448,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5144,13 +5459,14 @@
       "quotes": 5,
       "replies": 10,
       "retweets": 106,
-      "bookmarks": 659,
+      "bookmarks": 660,
       "likes": 663,
       "id": "1646255350386130945",
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5166,7 +5482,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5177,12 +5494,13 @@
       "replies": 20,
       "retweets": 94,
       "bookmarks": 664,
-      "likes": 602,
+      "likes": 601,
       "id": "1676593263472517121",
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5198,7 +5516,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5214,7 +5533,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5230,7 +5550,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5246,7 +5567,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5256,13 +5578,14 @@
       "quotes": 4,
       "replies": 15,
       "retweets": 62,
-      "bookmarks": 479,
+      "bookmarks": 481,
       "likes": 497,
       "id": "1663576081918742530",
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5278,7 +5601,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5294,7 +5618,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5310,7 +5635,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5326,7 +5652,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5342,7 +5669,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5358,7 +5686,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5374,7 +5703,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5390,7 +5720,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5406,7 +5737,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5422,7 +5754,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5438,7 +5771,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5454,7 +5788,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5470,7 +5805,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "Rather large 🦜🔗0.0.131 release!\n\n🆓GPT4all model (@nomic_ai)\n🦙Llama-cpp model\n⏹️Support for @qdrant_engine local db\n🌲Zilliz cloud (@milvusio) Vectorstore support\n📧New OutlookMessage Document Loader\n🕸️New Selenium Document Loader\n🪟 Support for SQL views in SQLChain\n\n🧵",
@@ -5489,7 +5825,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5505,7 +5842,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5515,13 +5853,14 @@
       "quotes": 10,
       "replies": 22,
       "retweets": 55,
-      "bookmarks": 225,
+      "bookmarks": 226,
       "likes": 388,
       "id": "1654196635113783296",
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5537,7 +5876,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "Tutorial: How to build an e-commerce chatbot using #OpenAI, @Redisinc, and @LangChainAI  -- useful just if you want to see how this sort of system works. https://t.co/pcqEf7cEG8",
@@ -5556,7 +5896,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5572,7 +5913,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5588,7 +5930,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5604,7 +5947,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5620,7 +5964,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5636,7 +5981,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5652,7 +5998,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5662,13 +6009,14 @@
       "quotes": 3,
       "replies": 8,
       "retweets": 58,
-      "bookmarks": 215,
+      "bookmarks": 214,
       "likes": 342,
       "id": "1666829939918745600",
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5684,7 +6032,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5700,7 +6049,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "Before you can use LangChain with your data, you first need to clean it up.\n\nThat's where an integration with @UnstructuredIO comes in\n\nBlog Post: https://t.co/saTBOCxCe1\n\nWe'll use Unstructured to power a lot of our document loaders: https://t.co/m1dyFUVLho",
@@ -5719,7 +6069,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5735,7 +6086,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5751,7 +6103,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "💬Natural Language API Toolkit💬\n\nLast week we showed how to wrap a single API endpoint in a chain\n\nThe next natural step is to use those chains as tools themselves, resulting in an agent that can communicate with many APIs... all in natural language\n\nhttps://t.co/1hoyZTGsrU https://t.co/rbLR6Q6cl1",
@@ -5770,7 +6123,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "In the midst of many big releases last week, there was also a lot of smaller improvements/bug fixes that got in\n\nAlthough not as flashy as big features, these are integral in making sure LangChain is as usable as possible\n\nHere's a list:\n\n👇",
@@ -5789,7 +6143,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5805,7 +6160,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5821,7 +6177,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "🦜🛠️ Introducing LangSmith 🦜🔗\n\nA unified platform to help developers debug, test, evaluate, and monitor their LLM applications.\n\nIntegrates seamlessly with LangChain, but doesn't require it. https://t.co/EfdgpqUapF",
@@ -5840,7 +6197,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5856,7 +6214,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5872,7 +6231,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5888,7 +6248,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5904,7 +6265,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "NeMo Guardrails, the new toolkit for easily developing trustworthy LLM-based conversational applications.\n\nIt works with all #LLMs and natively supports @LangChainAI, adding a layer of safety, security, and topical guardrails to existing applications. ➡️ https://t.co/CBHbTkcDUU https://t.co/irYFmlHKdM",
@@ -5917,13 +6279,14 @@
       "quotes": 1,
       "replies": 11,
       "retweets": 34,
-      "bookmarks": 95,
+      "bookmarks": 94,
       "likes": 283,
       "id": "1644036577436528641",
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "New version 🦜🔗 v0.0.132 with a focus on interacting with APIs (using OpenAPI specs)\n\n⚕️OpenAPIEndpointChain - a chain that wraps a specific endpoint to provide a \"Natural Language API\"\n\n📒OpenAPI Planner/Executor Agent - good for interacting with large specs\n\n🧵 https://t.co/83dWcyEaxN",
@@ -5942,7 +6305,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -5958,7 +6322,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "⭐️BabyAGI + Tools⭐️\n\nBy default, BabyAGI by @yoheinakajima just \"executes\" things with an LLM response (eg, makes things up)\n\nBy changing the execution chain to be an agent with tools, the execution step can now lookup real info, take actions, etc\n\nDocs: https://t.co/0VrnEgjpiD https://t.co/turVMNxogu",
@@ -5977,7 +6342,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "🤖 New Abstractions for Custom Agents! 🚀\n\nWe've been listening to your feedback, and we're excited to announce new functionality and documentation for creating custom agents! \n\n🔗 Python: https://t.co/FvXI7VR3pS\n\n🔗 TS: https://t.co/XmDMKA8JI4\n\n🧵",
@@ -5996,7 +6362,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6012,7 +6379,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6028,7 +6396,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6044,7 +6413,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "I'm open-sourcing a tool I use to auto-evaluate LLM Q+A chains: given inputs docs, app will use an LLM to auto-generate a Q+A eval set, run on a user-selected chain (model, retriever, etc) built w/ @LangChainAI, use an LLM to grade, and store each expt. https://t.co/tytTx5XGSx https://t.co/zg4bFYpCq7",
@@ -6063,7 +6433,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6079,7 +6450,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6095,7 +6467,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6111,7 +6484,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6127,7 +6501,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6143,7 +6518,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6159,7 +6535,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6175,7 +6552,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6191,7 +6569,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6207,7 +6586,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6223,7 +6603,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6239,7 +6620,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6255,7 +6637,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6271,7 +6654,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6287,7 +6671,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6303,7 +6688,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6319,7 +6705,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "Here's an example extracting a list of movies from an HTML with kor and langchain (https://t.co/q9ZCdDXZR3).  LLMs are fundamentally changing approaches to data extraction -- declare the schema of what you want extracted and let the LLM\ndo the hard work on your behalf.",
@@ -6338,7 +6725,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6354,7 +6742,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6370,7 +6759,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6386,7 +6776,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "ChatGPT and Whisper are now available through our API (plus developer policy updates). We ❤️ developers: https://t.co/vpoyxZ7XnD",
@@ -6405,7 +6796,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6421,7 +6813,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": false
     },
@@ -6437,7 +6830,8 @@
       "author": {
         "handle": "hwchase17",
         "name": "Harrison Chase",
-        "id": "2728439146"
+        "id": "2728439146",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg"
       },
       "quoted": {
         "text": "⭐️LangChain Integrations⭐️\n\nIn this fast moving LLM landscape, we want to give everyone the power and flexibility of as many options as possible\n\nBut we also want to make it simple and easy to navigate\n\nThat's why we're launching an integrations hub\n\nhttps://t.co/k1stYZA1KC",
