@@ -53,6 +53,7 @@ async def update():
         while not queue.empty():
             user_id, prompt = await queue.get()
             try:
+                print("GOT JOB")
                 response = await llm.agenerate([prompt])
                 result_text = response.generations[0][0].text
                 actions = parse_xml_to_actions(clean_result(result_text), user_id)
@@ -70,6 +71,7 @@ async def update():
             tasks.append(task)
 
     print("Running", len(tasks), "tasks")
+    print("Queue size:", queue.qsize())
 
     await queue.join()
     for task in tasks:
@@ -133,4 +135,4 @@ class FeedResponse(BaseModel):
 
 @app.get("/feed")
 async def feed():
-    return FeedResponse(users=users.users, tweets=tweets.tweets)
+    return FeedResponse(users=users.users, tweets=tweets.tweets.tolist())

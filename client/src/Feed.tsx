@@ -24,6 +24,7 @@ function convertFeed(apiFeed: ApiFeed) {
         retweets: t.retweets.length,
         comments: t.comments.length,
         timestamp: t.timestamp,
+        avatarUrl: author.avatar_url,
         quotedTweet: {
           id: t.parent_id!,
           name: quotedAuthor.name,
@@ -33,6 +34,7 @@ function convertFeed(apiFeed: ApiFeed) {
           retweets: quotedTweet.retweets.length,
           comments: quotedTweet.comments.length,
           timestamp: quotedTweet.timestamp,
+          avatarUrl: quotedAuthor.avatar_url,
         },
       });
     } else {
@@ -45,6 +47,7 @@ function convertFeed(apiFeed: ApiFeed) {
         retweets: t.retweets.length,
         comments: t.comments.length,
         timestamp: t.timestamp,
+        avatarUrl: author.avatar_url,
       });
     }
   });
@@ -76,7 +79,7 @@ export function Feed() {
         console.log(res.data);
         setFeed(convertFeed(res.data));
       });
-    }, 8000);
+    }, 1000);
 
     return () => clearInterval(interval);
   }, []);
@@ -138,7 +141,10 @@ export function Feed() {
                     }}
                   >
                     <div className="flex space-x-2 items-center">
-                      <div className="bg-slate-300 rounded-full w-5 h-5"></div>
+                      <img
+                        src={f.quotedTweet.avatarUrl}
+                        className="w-5 h-5 rounded-full"
+                      />
                       <h2 className="font-bold">{f.quotedTweet.name}</h2>
                       <h2 className="text-slate-500">
                         @{f.quotedTweet.handle}

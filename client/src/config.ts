@@ -13,6 +13,7 @@ export interface ApiUser {
   handle: string;
   name: string;
   bio: string;
+  avatar_url: string;
 }
 
 export interface ApiTweet {
@@ -37,6 +38,7 @@ export type Tweet = {
   id: number;
   name: string;
   handle: string;
+  avatarUrl: string;
   content: string;
   likes: number;
   retweets: number;
