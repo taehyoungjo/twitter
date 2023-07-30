@@ -144,7 +144,7 @@ class User(BaseModel):
     handle: str
     name: str
     bio: str
-    activity: list[Action] = Field(default_factory=list)
+    activity: list[Action] = Field(default_factory=list, exclude=True)
 
 
 class TweetType(str, Enum):

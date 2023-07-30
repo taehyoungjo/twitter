@@ -16,8 +16,8 @@ export function Feed() {
         return;
       }
       const author = apiFeed.users[t.user_id];
-      if ("quoted_tweet_id" in t) {
-        const quotedTweet = apiFeed.tweets[t.quoted_tweet_id];
+      if (t.type === "QUOTE") {
+        const quotedTweet = apiFeed.tweets[t.parent_id!];
         const quotedAuthor = apiFeed.users[quotedTweet.user_id];
         newFeed.push({
           id: index,
@@ -29,7 +29,7 @@ export function Feed() {
           comments: t.comments.length,
           timestamp: t.timestamp,
           quotedTweet: {
-            id: t.quoted_tweet_id,
+            id: t.parent_id!,
             name: quotedAuthor.name,
             handle: quotedAuthor.handle,
             content: quotedTweet.content,

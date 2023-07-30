@@ -9,31 +9,27 @@ export const apiClient = axios.create({
 // api models
 
 export interface ApiUser {
+  user_id: number;
   handle: string;
   name: string;
   bio: string;
 }
 
 export interface ApiTweet {
+  type: "TWEET" | "QUOTE" | "COMMENT";
   user_id: number;
   likes: Array<number>;
   retweets: Array<number>;
+  quotes: Array<number>;
   comments: Array<number>;
   timestamp: number;
   content: string;
-}
-
-export interface ApiQuote extends ApiTweet {
-  quoted_tweet_id: number;
-}
-
-export interface ApiComment extends ApiTweet {
-  parent_tweet_id: number;
+  parent_id?: number;
 }
 
 export interface ApiFeed {
   users: Array<ApiUser>;
-  tweets: Array<ApiTweet | ApiQuote | ApiComment>;
+  tweets: Array<ApiTweet>;
 }
 
 export type Tweet = {
