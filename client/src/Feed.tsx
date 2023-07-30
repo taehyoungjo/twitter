@@ -1,4 +1,5 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { apiClient, ApiFeed } from "./config";
 import { BiComment } from "react-icons/bi";
 
 type BasePost = {
@@ -80,6 +81,17 @@ const DUMMY_FEED: Post[] = [
 
 export function Feed() {
   const [feed] = useState<Post[]>(DUMMY_FEED);
+
+  // ping server for new posts every second
+  useEffect(() => {
+    const interval = setInterval(() => {
+      apiClient.get<ApiFeed>("/feed").then((res) => {
+        console.log(res.data);
+      });
+    }, 1000);
+
+    return () => clearInterval(interval);
+  }, []);
 
   return (
     <div className="border-slate-200 border-t">
