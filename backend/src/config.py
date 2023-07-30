@@ -252,6 +252,17 @@ def init_tweets():
         User(handle="satyanadella", name="Satya Nadella", bio="CEO of Microsoft"),
     )
 
+    # add judge twitter personas
+    
+    subdir = '../samples/bios'
+    json_files = [f for f in os.listdir(subdir)]
+    for filename in json_files:
+        with open(os.path.join(subdir, filename), 'r') as file:
+            data = json.load(file)
+            users.add_user(
+                User(handle=data.get('screen_name'), name=data.get('name'), bio=data.get('description')),
+            )
+
     tweets.add_tweet(
         Tweet(
             type=TweetType.TWEET,
