@@ -26,4 +26,4 @@ class FeedResponse(BaseModel):
 
 @app.get("/feed")
 def feed():
-    return FeedResponse(users=users, tweets=tweets)
+    return FeedResponse(users=users.users, tweets=tweets.tweets)

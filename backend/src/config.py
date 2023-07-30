@@ -17,8 +17,34 @@ ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 
 # %%
 # Global state
-users: list[User] = []
-tweets: list[Tweet] = []
+
+
+class UserDatabase:
+    def __init__(self):
+        self.users: list[User] = []
+
+    def add_user(self, user: User):
+        user.user_id = len(self.users)
+        self.users.append(user)
+
+    def __getitem__(self, key: int):
+        return self.users[key]
+
+
+class TweetDatabase:
+    def __init__(self):
+        self.tweets: list[Tweet] = []
+
+    def add_tweet(self, tweet: Tweet):
+        tweet.tweet_id = len(self.tweets)
+        self.tweets.append(tweet)
+
+    def __getitem__(self, key: int):
+        return self.tweets[key]
+
+
+users: UserDatabase = UserDatabase()
+tweets: TweetDatabase = TweetDatabase()
 
 
 class ActionType(str, Enum):
@@ -114,6 +140,7 @@ class Action(BaseModel):
 
 
 class User(BaseModel):
+    user_id: int = -1  # sentinel
     handle: str
     name: str
     bio: str
@@ -128,10 +155,11 @@ class TweetType(str, Enum):
 
 class Tweet(BaseModel):
     """
-    Tweets include quotes and comments.
+    Tweets include quotes and comments. Tweets only exist in timeline
     """
 
     type: TweetType
+    tweet_id: int = -1  # sentinel
     user_id: int  # person who made the tweet
     likes: list[int] = Field(default_factory=list)  # list of user_ids who liked
     retweets: list[int] = Field(default_factory=list)  # list of user_ids who retweeted
@@ -160,13 +188,13 @@ class Tweet(BaseModel):
     def __str__(self):
         if self.type == TweetType.TWEET:
             return f"""\
-<tweet>
+<tweet id={self.tweet_id}>
     {self.content}
 </tweet>\
 """
         elif self.type == TweetType.QUOTE:
             return f"""\
-<quote>
+<quote id={self.tweet_id}>
     <parent id="{self.parent_id}" author="{self.parent_tweet.author.name}">
         {self.parent_tweet.content}
     </parent>
@@ -176,7 +204,7 @@ class Tweet(BaseModel):
 
         elif self.type == TweetType.COMMENT:
             return f"""\
-<comment>
+<comment id={self.tweet_id}>
     <parent id="{self.parent_id}" author="{self.parent_tweet.author.name}">
         {self.parent_tweet.content}
     </parent>
@@ -189,14 +217,20 @@ class Tweet(BaseModel):
 
 # Initialize tweets with some dummy data
 def init_tweets():
-    users = [
+    users.add_user(
         User(handle="elonmusk", name="Elon Musk", bio="Technoking of Tesla"),
+    )
+    users.add_user(
         User(handle="jack", name="Jack Dorsey", bio="CEO of Twitter"),
+    )
+    users.add_user(
         User(handle="sundarpichai", name="Sundar Pichai", bio="CEO of Google"),
+    )
+    users.add_user(
         User(handle="satyanadella", name="Satya Nadella", bio="CEO of Microsoft"),
-    ]
+    )
 
-    tweets = [
+    tweets.add_tweet(
         Tweet(
             type=TweetType.TWEET,
             user_id=0,
@@ -205,7 +239,9 @@ def init_tweets():
             comments=[1],
             timestamp=0,
             content="I love Twitter!",
-        ),
+        )
+    )
+    tweets.add_tweet(
         Tweet(
             type=TweetType.COMMENT,
             user_id=1,
@@ -215,7 +251,9 @@ def init_tweets():
             timestamp=0,
             content="I love Tesla!",
             parent_id=0,
-        ),
+        )
+    )
+    tweets.add_tweet(
         Tweet(
             type=TweetType.QUOTE,
             user_id=2,
@@ -225,25 +263,24 @@ def init_tweets():
             timestamp=0,
             content="I love Google!",
             parent_id=0,
-        ),
-    ]
-    return users, tweets
+        )
+    )
 
 
-users, tweets = init_tweets()
+init_tweets()
 
 
 llm = Anthropic(
     anthropic_api_key=ANTHROPIC_API_KEY,
     model="claude-2",
-    temperature=0.8,
+    temperature=0.2,
 )
 
 
 sample = User.parse_file("../samples/jess.json")
 print(sample)
 
-users.append(sample)
+users.add_user(sample)
 
 
 # %%
@@ -267,7 +304,7 @@ def build_prompt(user: User, timeline: list[Tweet]) -> str:
 
     prompt += "</timeline>\n\n"
 
-    prompt += "Looking only at your current timeline, generate up to 3 new actions to the timeline that you might take during this Twitter session. Return your response as XML, matching the schema from above. Only generate tweets, comments, likes, retweets, and quotes."
+    prompt += "Looking only at your current timeline, generate up to 3 new actions to the timeline that you might take during this Twitter session. Return your response as XML, matching the schema from above. Only generate tweets, comments, retweets, and quotes."
     prompt += "\n\nAssistant:"
 
     prompt += " Here are up to 3 new actions I might take, based on Tweets on my timeline:\n<activity>\n"
@@ -357,7 +394,7 @@ def parse_xml_to_actions(xml_text: str, user_id: int):
 def update_globals(actions: list[Action]):
     for action in actions:
         if action.type == ActionType.TWEET:
-            tweets.append(
+            tweets.add_tweet(
                 Tweet(
                     type=TweetType.TWEET,
                     user_id=action.user_id,
@@ -367,33 +404,31 @@ def update_globals(actions: list[Action]):
             )
 
         elif action.type == ActionType.QUOTE:
-            tweets.append(
-                Tweet(
-                    type=TweetType.QUOTE,
-                    user_id=action.user_id,
-                    timestamp=0,
-                    content=action.content,
-                    parent_id=action.parent_id,
-                )
+            new_tweet = Tweet(
+                type=TweetType.QUOTE,
+                user_id=action.user_id,
+                timestamp=0,
+                content=action.content,
+                parent_id=action.parent_id,
             )
+            tweets.add_tweet(new_tweet)
 
-            tweets[action.parent_id].quotes.append(len(tweets) - 1)
+            tweets[action.parent_id].quotes.append(new_tweet.tweet_id)
 
         elif action.type == ActionType.COMMENT:
-            tweets.append(
-                Tweet(
-                    type=TweetType.COMMENT,
-                    user_id=action.user_id,
-                    likes=[],
-                    retweets=[],
-                    comments=[],
-                    timestamp=0,
-                    content=action.content,
-                    parent_id=action.parent_id,
-                )
+            new_tweet = Tweet(
+                type=TweetType.COMMENT,
+                user_id=action.user_id,
+                likes=[],
+                retweets=[],
+                comments=[],
+                timestamp=0,
+                content=action.content,
+                parent_id=action.parent_id,
             )
+            tweets.add_tweet(new_tweet)
 
-            tweets[action.parent_id].comments.append(len(tweets) - 1)
+            tweets[action.parent_id].comments.append(new_tweet.tweet_id)
 
         elif action.type == ActionType.LIKE:
             tweets[action.parent_id].likes.append(action.user_id)
@@ -403,18 +438,18 @@ def update_globals(actions: list[Action]):
 
 
 # %%
-# prompt = build_prompt(sample, tweets)
-# print("Prompt:\n" + prompt)
-# result = llm.generate([prompt])
-# result_text = result.generations[0][0].text
-# result_text = clean_result(result_text)
-# print("Result text:\n" + result_text)
-# actions = parse_xml_to_actions(result_text, 4)  # todo: figure out user id stuff
-# print(actions)
-# print("Updating globals...")
-# update_globals(actions)
-# print("Tweets now:")
-# print(tweets)
+prompt = build_prompt(sample, tweets.tweets)
+print("Prompt:\n" + prompt)
+result = llm.generate([prompt])
+result_text = result.generations[0][0].text
+result_text = clean_result(result_text)
+print("Result text:\n" + result_text)
+actions = parse_xml_to_actions(result_text, 4)  # todo: figure out user id stuff
+print(actions)
+print("Updating globals...")
+update_globals(actions)
+print("Tweets now:")
+print(tweets)
 
 
 # %%
