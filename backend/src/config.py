@@ -368,7 +368,14 @@ def build_prompt(user: User, timeline: list[Tweet]) -> list[BaseMessage]:
     prompt += "</timeline>\n\n"
 
     prompt += """\
-Looking only at your current timeline, generate up to 3 new actions to the timeline that you might take during this Twitter session. Only generate tweets, comments, retweets, and quotes. Include IDs for any parents.
+Looking only at your current timeline, generate up to 5 new actions to the timeline that you might take during this Twitter session. Only generate likes, tweets, comments, retweets, and quotes. Include IDs for any parents.
+
+If you want to generate a like, use the following format to indicate which tweet you liked:
+<like>
+    <parent id="parent_id" author="parent_author">
+        parent_content
+    </parent>
+</like>
 
 Before giving your response, think about what tweets, if any, you would interact with and what your tone and writing style would be. Also, think about new tweets of your own you could post. Use the following demonstration XML:
 <response>
