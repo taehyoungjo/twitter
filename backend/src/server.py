@@ -79,6 +79,6 @@ class FeedResponse(BaseModel):
 
 
 @app.get("/feed")
-async def feed():
-    # await update()
+def feed():
+    update()
     return FeedResponse(users=users.users, tweets=tweets.tweets)

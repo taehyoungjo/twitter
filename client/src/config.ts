@@ -17,6 +17,7 @@ export interface ApiUser {
 
 export interface ApiTweet {
   type: "TWEET" | "QUOTE" | "COMMENT";
+  tweet_id: number;
   user_id: number;
   likes: Array<number>;
   retweets: Array<number>;
