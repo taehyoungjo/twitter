@@ -1,10 +1,12 @@
 import { useEffect, useState } from "react";
 import { apiClient, ApiFeed } from "./config";
-import { BiComment } from "react-icons/bi";
+import { FaRegComment, FaRetweet, FaRegHeart } from "react-icons/fa";
+import { AiOutlineRetweet } from "react-icons/ai";
 
-type BasePost = {
-  id: string;
-  username: string;
+type Tweet = {
+  id: number;
+  name: string;
+  handle: string;
   content: string;
   likes: number;
   retweets: number;
@@ -12,81 +14,65 @@ type BasePost = {
   timestamp: number;
 };
 
-type QuoteTweetPost = BasePost & {
-  quoteTarget: BasePost;
+type Quote = Tweet & {
+  quotedTweet: Tweet;
 };
 
-type RetweetPost = BasePost & {
-  reTarget: BasePost;
-};
-
-type Post = BasePost | QuoteTweetPost | RetweetPost;
-
-const DUMMY_FEED: Post[] = [
-  /**
-   * Quote Tweet
-   */
-  {
-    id: "1",
-    username: "johndoe",
-    content: "Hello, world!",
-    likes: 0,
-    retweets: 0,
-    comments: 0,
-    timestamp: Date.now(),
-    quoteTarget: {
-      id: "1",
-      username: "johndoe",
-      content: "Hello, world!",
-      likes: 0,
-      retweets: 0,
-      comments: 0,
-      timestamp: Date.now(),
-    },
-  } as QuoteTweetPost,
-  /**
-   * Base Tweet
-   */
-  {
-    id: "2",
-    username: "kevinhu",
-    content: "Hello, world!",
-    likes: 0,
-    retweets: 0,
-    comments: 0,
-    timestamp: Date.now(),
-  } as BasePost,
-  /**
-   * Retweet
-   */
-  {
-    id: "3",
-    username: "kevinhu",
-    content: "Hello, world!",
-    likes: 0,
-    retweets: 0,
-    comments: 0,
-    timestamp: Date.now(),
-    reTarget: {
-      id: "1",
-      username: "johndoe",
-      content: "Hello, world!",
-      likes: 0,
-      retweets: 0,
-      comments: 0,
-      timestamp: Date.now(),
-    },
-  } as RetweetPost,
-];
+type Post = Tweet | Quote;
 
 export function Feed() {
-  const [feed] = useState<Post[]>(DUMMY_FEED);
+  const [feed, setFeed] = useState<Post[] | undefined>();
+
+  function convertFeed(apiFeed: ApiFeed) {
+    const newFeed: Post[] = [];
+
+    apiFeed.tweets.forEach((t, index) => {
+      const author = apiFeed.users[t.user_id];
+      if ("quoted_tweet_id" in t) {
+        const quotedTweet = apiFeed.tweets[t.quoted_tweet_id];
+        const quotedAuthor = apiFeed.users[quotedTweet.user_id];
+        newFeed.push({
+          id: index,
+          name: author.name,
+          handle: author.handle,
+          content: t.content,
+          likes: t.likes.length,
+          retweets: t.retweets.length,
+          comments: t.comments.length,
+          timestamp: t.timestamp,
+          quotedTweet: {
+            id: t.quoted_tweet_id,
+            name: quotedAuthor.name,
+            handle: quotedAuthor.handle,
+            content: quotedTweet.content,
+            likes: quotedTweet.likes.length,
+            retweets: quotedTweet.retweets.length,
+            comments: quotedTweet.comments.length,
+            timestamp: quotedTweet.timestamp,
+          },
+        });
+      } else {
+        newFeed.push({
+          id: index,
+          name: author.name,
+          handle: author.handle,
+          content: t.content,
+          likes: t.likes.length,
+          retweets: t.retweets.length,
+          comments: t.comments.length,
+          timestamp: t.timestamp,
+        });
+      }
+    });
+    return newFeed;
+  }
 
   // ping server for new posts every second
   useEffect(() => {
     const interval = setInterval(() => {
       apiClient.get<ApiFeed>("/feed").then((res) => {
         console.log(res.data);
+        setFeed(convertFeed(res.data));
       });
     }, 1000);
 
@@ -95,118 +81,99 @@ export function Feed() {
 
   return (
     <div className="border-slate-200 border-t">
-      {feed.map((f) => {
-        if ("quoteTarget" in f) {
+      {feed &&
+        feed.map((f) => {
+          if ("quotedTweet" in f) {
+            return (
+              <div className="flex space-x-4 border-b border-slate-200 p-4">
+                {/* Avatar */}
+                <div className="bg-slate-300 rounded-full w-8 h-8"></div>
+
+                <div key={f.id} className="flex flex-col space-y-2 grow">
+                  {/* Header */}
+                  <div className="flex space-x-2">
+                    <h2 className="font-bold">{f.name}</h2>
+                    <h2 className="text-slate-500">@{f.handle}</h2>
+                    <span className="text-slate-500">
+                      {new Date(f.timestamp).toLocaleString()}
+                    </span>
+                  </div>
+                  {/* Content */}
+                  <div>{f.content}</div>
+
+                  {/* Quoted Tweet */}
+                  <div
+                    key={f.quotedTweet.id}
+                    className="space-y-2 border border-slate-200 p-4 rounded-lg"
+                  >
+                    <div className="flex space-x-2 items-center">
+                      <div className="bg-slate-300 rounded-full w-5 h-5"></div>
+                      <h2 className="font-bold">{f.quotedTweet.name}</h2>
+                      <h2 className="text-slate-500">
+                        @{f.quotedTweet.handle}
+                      </h2>
+                      <span className="text-slate-500">
+                        {new Date(f.quotedTweet.timestamp).toLocaleString()}
+                      </span>
+                    </div>
+                    <div>{f.content}</div>
+                  </div>
+
+                  {/* Footer */}
+                  <div className="flex space-x-2">
+                    <div className="text-slate-600 flex space-x-1 items-center">
+                      <FaRegComment />
+                      <span>{f.likes}</span>
+                    </div>
+                    <div className="text-slate-600 flex space-x-2 items-center">
+                      <AiOutlineRetweet />
+                      <span>{f.retweets}</span>
+                    </div>
+                    <div className="text-slate-600 flex space-x-2 items-center">
+                      <FaRegHeart />
+                      <span>{f.comments}</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            );
+          }
+
           return (
             <div className="flex space-x-4 border-b border-slate-200 p-4">
+              {/* Avatar */}
               <div className="bg-slate-300 rounded-full w-8 h-8"></div>
 
               <div key={f.id} className="flex flex-col space-y-2 grow">
+                {/* Header */}
                 <div className="flex space-x-2">
-                  <h2 className="font-bold">@{f.username}</h2>
-                  <span className="text-slate-600">
+                  <h2 className="font-bold">{f.name}</h2>
+                  <h2 className="text-slate-500">@{f.handle}</h2>
+                  <span className="text-slate-500">
                     {new Date(f.timestamp).toLocaleString()}
                   </span>
                 </div>
                 <div>{f.content}</div>
-                <div
-                  key={f.quoteTarget.id}
-                  className="space-y-2 border border-slate-200 p-4 rounded-lg"
-                >
-                  <div className="flex space-x-2">
-                    <h2 className="font-bold">@{f.quoteTarget.username}</h2>
-                    <span className="text-slate-600">
-                      {new Date(f.quoteTarget.timestamp).toLocaleString()}
-                    </span>
-                  </div>
-                  <div>{f.quoteTarget.content}</div>
-                </div>
+
+                {/* Footer */}
                 <div className="flex space-x-2">
                   <div className="text-slate-600 flex space-x-1 items-center">
-                    <BiComment />
+                    <FaRegComment />
                     <span>{f.likes}</span>
                   </div>
                   <div className="text-slate-600 flex space-x-2 items-center">
-                    <BiComment />
+                    <AiOutlineRetweet />
                     <span>{f.retweets}</span>
                   </div>
                   <div className="text-slate-600 flex space-x-2 items-center">
-                    <BiComment />
+                    <FaRegHeart />
                     <span>{f.comments}</span>
                   </div>
                 </div>
               </div>
             </div>
           );
-        }
-
-        if ("reTarget" in f) {
-          return (
-            <div
-              key={f.id}
-              className="flex flex-col space-y-2 border-b border-slate-200 p-4"
-            >
-              <div>@{f.username} retweeted</div>
-              <div className="flex space-x-4">
-                <div className="bg-slate-300 rounded-full w-8 h-8"></div>
-                <div className="space-y-2">
-                  <div className="flex space-x-2">
-                    <h2 className="font-bold">@{f.reTarget.username}</h2>
-                    <span className="text-slate-600">
-                      {new Date(f.reTarget.timestamp).toLocaleString()}
-                    </span>
-                  </div>
-                  <div>{f.reTarget.content}</div>
-                  <div className="flex space-x-2">
-                    <div className="text-slate-600 flex space-x-1 items-center">
-                      <BiComment />
-                      <span>{f.reTarget.likes}</span>
-                    </div>
-                    <div className="text-slate-600 flex space-x-2 items-center">
-                      <BiComment />
-                      <span>{f.reTarget.retweets}</span>
-                    </div>
-                    <div className="text-slate-600 flex space-x-2 items-center">
-                      <BiComment />
-                      <span>{f.reTarget.comments}</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          );
-        }
-
-        return (
-          <div className="flex space-x-4 border-b border-slate-200 p-4">
-            <div className="bg-slate-300 rounded-full w-8 h-8"></div>
-
-            <div key={f.id} className="flex flex-col grow space-y-2">
-              <div className="flex space-x-2">
-                <h2 className="font-bold">@{f.username}</h2>
-                <span className="text-slate-600">
-                  {new Date(f.timestamp).toLocaleString()}
-                </span>
-              </div>
-              <div>{f.content}</div>
-              <div className="flex space-x-2">
-                <div className="text-slate-600 flex space-x-1 items-center">
-                  <BiComment />
-                  <span>{f.likes}</span>
-                </div>
-                <div className="text-slate-600 flex space-x-2 items-center">
-                  <BiComment />
-                  <span>{f.retweets}</span>
-                </div>
-                <div className="text-slate-600 flex space-x-2 items-center">
-                  <BiComment />
-                  <span>{f.comments}</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        );
-      })}
+        })}
     </div>
   );
 }
