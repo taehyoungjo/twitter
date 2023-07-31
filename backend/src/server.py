@@ -91,10 +91,13 @@ class Simulation:
 
     async def run(self):
         while True:
-            await update()
-            self.timestep += 1
-            tweets.update_log()
-            await asyncio.sleep(3)
+            try:
+                await update()
+                self.timestep += 1
+                tweets.update_log()
+                await asyncio.sleep(3)
+            except:
+                print("Simulation error")
 
     async def stop(self):
         if self.task:

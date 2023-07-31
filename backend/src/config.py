@@ -311,10 +311,10 @@ def init_tweets():
             type=TweetType.TWEET,
             user_id=0,
             likes=[1, 2, 3],
-            retweets=[3],
+            retweets=[],
             comments=[1],
             timestamp=0,
-            content="I love Twitter!",
+            content="I just bought Twitter!",
         )
     )
     tweets.add_tweet(
@@ -325,8 +325,19 @@ def init_tweets():
             retweets=[2],
             comments=[],
             timestamp=0,
-            content="I love Tesla!",
+            content="i trust you.",
             parent_id=0,
+        )
+    )
+    tweets.add_tweet(
+        Tweet(
+            type=TweetType.TWEET,
+            user_id=0,
+            likes=[],
+            retweets=[],
+            comments=[],
+            timestamp=0,
+            content="x.ai has the best AI researchers in the world. We will discover the nature of the universe.",
         )
     )
     tweets.add_tweet(
@@ -337,8 +348,8 @@ def init_tweets():
             retweets=[],
             comments=[],
             timestamp=0,
-            content="I love Google!",
-            parent_id=0,
+            content="Google is leading research efforts in AI. No one has better deep learning expertise than we do!",
+            parent_id=2,
         )
     )
 
@@ -349,6 +360,12 @@ def init_tweets():
         data = json.load(file)
         for i, judge in enumerate(data):
             users.add_user(User.parse_obj(judge))
+            print(
+                "id:",
+                i,
+                "name:",
+                judge["name"],
+            )
 
             # if judge["texts"]:
             #     for text in judge["texts"]:
@@ -373,7 +390,9 @@ def build_prompt(user: User, timeline: list[Tweet]) -> list[BaseMessage]:
     messages = []
     prompt = f'You are a Twitter user named {user.name}. Your bio is: "{user.bio}". Below is a collection of your past activity on Twitter, formatted as XML. These examples of how you use Twitter demonstrate your personality:\n'
     prompt += "<activity>\n"
-    for action in user.activity:
+
+    max_actions = 20
+    for action in user.activity[:max_actions]:
         prompt += str(action)
         prompt += "\n"
 
@@ -388,7 +407,7 @@ def build_prompt(user: User, timeline: list[Tweet]) -> list[BaseMessage]:
     prompt += "</timeline>\n\n"
 
     prompt += """\
-Looking only at your current timeline, generate up to 5 new actions to the timeline that you might take during this Twitter session. Only generate likes, tweets, comments, retweets, and quotes. Include IDs for any parents.
+Looking only at your current timeline, generate up to 5 new actions to the timeline that you might take during this Twitter session. Only generate likes, comments, retweets, quotes, and tweets. Try to prioritize quotes and comments. Include IDs for any parents.
 
 If you want to generate a like, use the following format to indicate which tweet you liked:
 <like>
@@ -397,10 +416,10 @@ If you want to generate a like, use the following format to indicate which tweet
     </parent>
 </like>
 
-Before giving your response, think about what tweets, if any, you would interact with and what your tone and writing style would be. Also, think about new tweets of your own you could post. Use the following demonstration XML:
+Before giving your response, think about what your opinions would be on specific topics in the timeline, and give a detailed description of your stance. Think about what tweets, if any, you would interact with or create. If you create an original tweet, write about new topics not already in the timeline. However, only one of your actions can be an original tweet. Feel free to react negatively or humorously towards content, as long as it is consistent with your perspective Also, be sure to match the writing style and tone of your previous activity. If you react to specific tweets, you must either quote or comment on it. Use the following XML structure:
 <response>
 <thoughts>
-Your thoughts here
+Detailed description of opinions of topics, personality, tone, and thoughts
 </thoughts>
 <activity>
 Your tweets, comments, retweets, and quotes here

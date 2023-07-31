@@ -31,7 +31,7 @@ import json
 import os
 
 # %%
-TWEETS_PER_USER = 20
+TWEETS_PER_USER = 40
 
 raw_dir = "raw"
 clean_dir = "clean"
