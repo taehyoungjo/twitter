@@ -1,4 +1,4 @@
-Simulating multi-agent social networks
+Simulating multi-agent social networks using a Twitter proof-of-concept.
 
 ## To run
 
