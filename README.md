@@ -1,5 +1,18 @@
 Twitter.
 
+
+## To run
+
+Include an env.py file in src called "ANTHROPIC_API_KEY = "XXXXX"
+
+In client:
+yarn install
+yarn dev
+
+In backend/src:
+poetry install
+poetry run uvicorn server:app
+
 ## Inspiration
 
 Simulate multi-agent interactions with LLMs
@@ -51,6 +64,7 @@ Increase number of agents
 Increase complexity of each agent to get closer and closer to “true” reality
 Increase closeness of simulating real-life interaction process
 Multi-modal content to move beyond text-based online content
+
 
 ## The future 
 
