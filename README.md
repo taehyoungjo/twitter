@@ -1,5 +1,4 @@
-Twitter.
-
+Simulating multi-agent social networks
 
 ## To run
 
