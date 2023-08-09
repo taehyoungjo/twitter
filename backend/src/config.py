@@ -343,13 +343,13 @@ def init_tweets():
     tweets.add_tweet(
         Tweet(
             type=TweetType.QUOTE,
-            user_id=2,
+            user_id=1,
             likes=[],
             retweets=[],
             comments=[],
             timestamp=0,
-            content="Google is leading research efforts in AI. No one has better deep learning expertise than we do!",
-            parent_id=2,
+            content="No. Payment for verification is a trap.",
+            parent_id=0,
         )
     )
 
